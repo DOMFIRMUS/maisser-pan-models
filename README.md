@@ -1,6 +1,6 @@
 # Evaporation pan with floating covers under infrared lamps (MAISSER-PE): data and code for a Bayesian heat–mass transfer model and state-space inference
 
-**DOI:** assigned by Zenodo at the first release (see CITATION.cff after the release).
+**DOI:** [10.5281/zenodo.23787708](https://doi.org/10.5281/zenodo.23787708)
 
 Data, code and model outputs of two modelling studies of an instrumented Class A evaporation pan
 (1.185 m diameter) heated by halogen infrared lamps, ventilated by a wind tunnel and partly covered by

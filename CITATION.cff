@@ -108,6 +108,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-4120-9404"
     affiliation: "Universidade Federal de Pernambuco"
 version: 1.0.0
+doi: "10.5281/zenodo.23787708"
 repository-code: "https://github.com/DOMFIRMUS/maisser-pan-models"
 license:
   - MIT
