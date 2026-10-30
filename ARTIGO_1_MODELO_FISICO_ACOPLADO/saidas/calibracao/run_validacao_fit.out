@@ -1,0 +1,22 @@
+[09:51:30] training on ['C2-S1', 'C2-S2', 'C2-S4', 'C2-S6', 'C2-S7']
+[09:51:48] DE gen    0  best logpost -4777.75  median -6028.06
+[09:52:09] DE gen    5  best logpost -4777.75  median -5191.90
+[09:52:32] DE gen   10  best logpost -4777.75  median -4930.96
+[09:52:54] DE gen   15  best logpost -4777.75  median -4836.46
+[09:53:19] DE gen   20  best logpost -4772.76  median -4796.22
+[09:53:41] DE gen   25  best logpost -4766.98  median -4776.53
+[09:54:02] DE gen   30  best logpost -4762.94  median -4769.98
+[09:54:21] DE gen   35  best logpost -4758.76  median -4764.46
+[09:54:36] DE gen   40  best logpost -4758.19  median -4760.68
+[09:54:51] DE gen   45  best logpost -4755.80  median -4758.27
+[09:55:05] DE gen   50  best logpost -4755.17  median -4756.61
+[09:55:19] DE gen   55  best logpost -4754.24  median -4755.80
+[09:55:33] DE gen   60  best logpost -4754.10  median -4755.11
+[09:55:47] DE gen   65  best logpost -4753.90  median -4754.72
+[09:56:02] DE gen   70  best logpost -4753.55  median -4754.20
+[09:56:16] DE gen   75  best logpost -4753.37  median -4753.86
+[09:56:30] DE gen   80  best logpost -4753.32  median -4753.66
+[09:56:45] DE gen   85  best logpost -4753.25  median -4753.48
+[09:56:59] DE gen   90  best logpost -4753.19  median -4753.40
+[09:57:13] DE gen   95  best logpost -4753.17  median -4753.29
+[09:57:24] DE gen   99  best logpost -4753.04  median -4753.23

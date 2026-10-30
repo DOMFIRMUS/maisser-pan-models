@@ -1,0 +1,1438 @@
+[2026-10-24 18:05:30] pedido ao Windows para não suspender enquanto o processo roda
+[2026-10-24 18:05:30] ======================================================================
+[2026-10-24 18:05:30] início: (padrão: C1, C2 e pós-processamento)
+[2026-10-24 18:05:35] c1: 2002 it, R-hat máx 1.408, τ máx 136, 7.4 τ retidos, convergiu=False
+[2026-10-24 18:05:36] c1: continuing c1 from mcmc_chain_c1_cont1.npz (2 iterations) -> cont2
+[2026-10-24 18:05:47] c1: MCMC it     0  acc 0.361  lp max -1581.6 median -1586.2  2.24 s/it
+[2026-10-24 18:10:58] c1: MCMC it   100  acc 0.307  lp max -1582.3 median -1585.6  3.10 s/it
+[2026-10-24 18:15:07] c1: MCMC it   200  acc 0.310  lp max -1581.3 median -1586.1  2.80 s/it
+[2026-10-24 18:19:31] c1: MCMC it   300  acc 0.312  lp max -1580.4 median -1585.5  2.75 s/it
+[2026-10-24 18:23:51] c1: MCMC continuation done, acceptance 0.313
+[2026-10-24 18:23:51] c1: 2402 it, R-hat máx 1.353 (a_p), τ máx 171 (h_p1), 7.0 τ retidos, 2.74 s/it, convergiu=False
+[2026-10-24 18:23:51] c1: continuing c1 from mcmc_chain_c1_cont2.npz (400 iterations) -> cont3
+[2026-10-24 18:23:56] c1: MCMC it     0  acc 0.306  lp max -1580.7 median -1585.6  2.63 s/it
+[2026-10-24 18:28:17] c1: MCMC it   100  acc 0.316  lp max -1582.8 median -1586.6  2.61 s/it
+[2026-10-24 18:32:30] c1: MCMC it   200  acc 0.316  lp max -1581.0 median -1585.9  2.57 s/it
+[2026-10-24 18:36:23] c1: MCMC it   300  acc 0.316  lp max -1581.0 median -1585.4  2.49 s/it
+[2026-10-24 18:40:31] c1: MCMC continuation done, acceptance 0.316
+[2026-10-24 18:40:31] c1: 2802 it, R-hat máx 1.301 (m_4), τ máx 174 (R_rec_V2), 8.0 τ retidos, 2.50 s/it, convergiu=False
+[2026-10-24 18:40:31] c1: continuing c1 from mcmc_chain_c1_cont3.npz (400 iterations) -> cont4
+[2026-10-24 18:40:35] c1: MCMC it     0  acc 0.444  lp max -1582.2 median -1586.4  2.44 s/it
+[2026-10-24 18:44:25] c1: MCMC it   100  acc 0.312  lp max -1583.2 median -1587.0  2.30 s/it
+[2026-10-24 18:48:14] c1: MCMC it   200  acc 0.323  lp max -1581.5 median -1586.3  2.29 s/it
+[2026-10-24 18:52:00] c1: MCMC it   300  acc 0.318  lp max -1580.7 median -1585.5  2.28 s/it
+[2026-10-24 18:55:43] c1: MCMC continuation done, acceptance 0.319
+[2026-10-24 18:55:43] c1: 3202 it, R-hat máx 1.296 (h_p2), τ máx 164 (R_rec_V2), 9.7 τ retidos, 2.28 s/it, convergiu=False
+[2026-10-24 18:55:43] c1: continuing c1 from mcmc_chain_c1_cont4.npz (400 iterations) -> cont5
+[2026-10-24 18:55:46] c1: MCMC it     0  acc 0.333  lp max -1583.0 median -1586.2  2.25 s/it
+[2026-10-24 18:59:35] c1: MCMC it   100  acc 0.311  lp max -1580.9 median -1585.9  2.29 s/it
+[2026-10-24 19:03:21] c1: MCMC it   200  acc 0.312  lp max -1581.5 median -1586.2  2.27 s/it
+[2026-10-24 19:07:07] c1: MCMC it   300  acc 0.316  lp max -1581.2 median -1586.9  2.27 s/it
+[2026-10-24 19:10:50] c1: MCMC continuation done, acceptance 0.316
+[2026-10-24 19:10:50] c1: 3602 it, R-hat máx 1.232 (C_u_V2), τ máx 177 (h_p3), 10.2 τ retidos, 2.27 s/it, convergiu=False
+[2026-10-24 19:10:50] c1: continuing c1 from mcmc_chain_c1_cont5.npz (400 iterations) -> cont6
+[2026-10-24 19:10:54] c1: MCMC it     0  acc 0.278  lp max -1581.5 median -1586.9  2.24 s/it
+[2026-10-24 19:14:40] c1: MCMC it   100  acc 0.319  lp max -1581.7 median -1586.4  2.26 s/it
+[2026-10-24 19:18:45] c1: MCMC it   200  acc 0.311  lp max -1579.6 median -1586.3  2.36 s/it
+[2026-10-24 19:22:51] c1: MCMC it   300  acc 0.308  lp max -1582.2 median -1586.4  2.39 s/it
+[2026-10-24 19:26:46] c1: MCMC continuation done, acceptance 0.311
+[2026-10-24 19:26:46] c1: 4002 it, R-hat máx 1.235 (m_4), τ máx 200 (m_4), 10.0 τ retidos, 2.39 s/it, convergiu=False
+[2026-10-24 19:26:46] c1: continuing c1 from mcmc_chain_c1_cont6.npz (400 iterations) -> cont7
+[2026-10-24 19:26:50] c1: MCMC it     0  acc 0.278  lp max -1581.9 median -1586.1  2.23 s/it
+[2026-10-24 19:30:43] c1: MCMC it   100  acc 0.300  lp max -1581.2 median -1586.0  2.33 s/it
+[2026-10-24 19:34:46] c1: MCMC it   200  acc 0.299  lp max -1582.4 median -1587.5  2.38 s/it
+[2026-10-24 19:38:43] c1: MCMC it   300  acc 0.303  lp max -1581.9 median -1585.3  2.38 s/it
+[2026-10-24 19:42:27] c1: MCMC continuation done, acceptance 0.302
+[2026-10-24 19:42:28] c1: 4402 it, R-hat máx 1.214 (r_open), τ máx 255 (C_p), 8.6 τ retidos, 2.35 s/it, convergiu=False
+[2026-10-24 19:42:28] c1: continuing c1 from mcmc_chain_c1_cont7.npz (400 iterations) -> cont8
+[2026-10-24 19:42:31] c1: MCMC it     0  acc 0.306  lp max -1579.9 median -1587.0  2.35 s/it
+[2026-10-24 19:46:39] c1: MCMC it   100  acc 0.303  lp max -1581.8 median -1586.8  2.47 s/it
+[2026-10-24 19:50:37] c1: MCMC it   200  acc 0.305  lp max -1581.7 median -1586.0  2.43 s/it
+[2026-10-24 19:54:41] c1: MCMC it   300  acc 0.307  lp max -1581.6 median -1586.3  2.43 s/it
+[2026-10-24 19:59:18] c1: MCMC continuation done, acceptance 0.307
+[2026-10-24 19:59:19] c1: 4802 it, R-hat máx 1.192 (m_4), τ máx 274 (R_rec_V1), 8.8 τ retidos, 2.53 s/it, convergiu=False
+[2026-10-24 19:59:19] c1: continuing c1 from mcmc_chain_c1_cont8.npz (400 iterations) -> cont9
+[2026-10-24 19:59:23] c1: MCMC it     0  acc 0.222  lp max -1580.8 median -1585.9  2.72 s/it
+[2026-10-24 20:04:06] c1: MCMC it   100  acc 0.297  lp max -1581.8 median -1587.1  2.83 s/it
+[2026-10-24 20:08:19] c1: MCMC it   200  acc 0.302  lp max -1581.8 median -1586.9  2.68 s/it
+[2026-10-24 20:12:47] c1: MCMC it   300  acc 0.301  lp max -1581.8 median -1586.2  2.68 s/it
+[2026-10-24 20:16:59] c1: MCMC continuation done, acceptance 0.297
+[2026-10-24 20:16:59] c1: 5202 it, R-hat máx 1.181 (C_u_V2), τ máx 231 (h_p3), 11.2 τ retidos, 2.65 s/it, convergiu=False
+[2026-10-24 20:16:59] c1: continuing c1 from mcmc_chain_c1_cont9.npz (400 iterations) -> cont10
+[2026-10-24 20:17:03] c1: MCMC it     0  acc 0.333  lp max -1582.4 median -1586.9  2.25 s/it
+[2026-10-24 20:21:11] c1: MCMC it   100  acc 0.309  lp max -1581.9 median -1586.7  2.48 s/it
+[2026-10-24 20:25:08] c1: MCMC it   200  acc 0.307  lp max -1581.6 median -1585.6  2.42 s/it
+[2026-10-24 20:29:06] c1: MCMC it   300  acc 0.310  lp max -1580.9 median -1585.5  2.41 s/it
+[2026-10-24 20:33:38] c1: MCMC continuation done, acceptance 0.311
+[2026-10-24 20:33:38] c1: 5602 it, R-hat máx 1.164 (C_u_V2), τ máx 303 (m_4), 9.2 τ retidos, 2.50 s/it, convergiu=False
+[2026-10-24 20:33:38] c1: continuing c1 from mcmc_chain_c1_cont10.npz (400 iterations) -> cont11
+[2026-10-24 20:33:43] c1: MCMC it     0  acc 0.306  lp max -1581.5 median -1586.0  2.67 s/it
+[2026-10-24 20:38:10] c1: MCMC it   100  acc 0.316  lp max -1581.9 median -1586.5  2.67 s/it
+[2026-10-24 20:42:35] c1: MCMC it   200  acc 0.317  lp max -1581.6 median -1586.4  2.66 s/it
+[2026-10-24 20:46:54] c1: MCMC it   300  acc 0.316  lp max -1582.8 median -1586.3  2.64 s/it
+[2026-10-24 20:51:09] c1: MCMC continuation done, acceptance 0.316
+[2026-10-24 20:51:09] c1: 6002 it, R-hat máx 1.151 (R_rec_V1), τ máx 335 (k_g), 9.0 τ retidos, 2.63 s/it, convergiu=False
+[2026-10-24 20:51:09] c1: continuing c1 from mcmc_chain_c1_cont11.npz (400 iterations) -> cont12
+[2026-10-24 20:51:13] c1: MCMC it     0  acc 0.306  lp max -1582.0 median -1585.8  2.70 s/it
+[2026-10-24 20:55:55] c1: MCMC it   100  acc 0.305  lp max -1581.4 median -1586.1  2.81 s/it
+[2026-10-24 21:00:16] c1: MCMC it   200  acc 0.306  lp max -1581.3 median -1585.4  2.71 s/it
+[2026-10-24 21:04:25] c1: MCMC it   300  acc 0.307  lp max -1581.7 median -1586.3  2.64 s/it
+[2026-10-24 21:08:27] c1: MCMC continuation done, acceptance 0.307
+[2026-10-24 21:08:28] c1: 6402 it, R-hat máx 1.156 (a_p), τ máx 371 (s_U), 8.6 τ retidos, 2.60 s/it, convergiu=False
+[2026-10-24 21:08:28] c1: continuing c1 from mcmc_chain_c1_cont12.npz (400 iterations) -> cont13
+[2026-10-24 21:08:31] c1: MCMC it     0  acc 0.306  lp max -1581.4 median -1585.8  2.24 s/it
+[2026-10-24 21:12:32] c1: MCMC it   100  acc 0.312  lp max -1580.2 median -1586.1  2.40 s/it
+[2026-10-24 21:16:42] c1: MCMC it   200  acc 0.316  lp max -1580.7 median -1586.4  2.45 s/it
+[2026-10-24 21:20:40] c1: MCMC it   300  acc 0.312  lp max -1580.3 median -1584.4  2.43 s/it
+[2026-10-24 21:24:33] c1: MCMC continuation done, acceptance 0.312
+[2026-10-24 21:24:33] c1: 6802 it, R-hat máx 1.154 (R_rec_V2), τ máx 417 (m_3), 8.1 τ retidos, 2.41 s/it, convergiu=False
+[2026-10-24 21:24:33] c1: continuing c1 from mcmc_chain_c1_cont13.npz (400 iterations) -> cont14
+[2026-10-24 21:24:37] c1: MCMC it     0  acc 0.417  lp max -1580.1 median -1585.8  2.41 s/it
+[2026-10-24 21:28:29] c1: MCMC it   100  acc 0.306  lp max -1581.5 median -1585.2  2.32 s/it
+[2026-10-24 21:32:18] c1: MCMC it   200  acc 0.303  lp max -1582.0 median -1586.0  2.31 s/it
+[2026-10-24 21:36:05] c1: MCMC it   300  acc 0.310  lp max -1582.6 median -1586.4  2.29 s/it
+[2026-10-24 21:39:50] c1: MCMC continuation done, acceptance 0.306
+[2026-10-24 21:39:51] c1: 7202 it, R-hat máx 1.126 (C_u_V2), τ máx 393 (h_p1), 9.2 τ retidos, 2.29 s/it, convergiu=False
+[2026-10-24 21:39:51] c1: continuing c1 from mcmc_chain_c1_cont14.npz (400 iterations) -> cont15
+[2026-10-24 21:39:54] c1: MCMC it     0  acc 0.333  lp max -1582.5 median -1586.2  2.32 s/it
+[2026-10-24 21:43:41] c1: MCMC it   100  acc 0.315  lp max -1582.0 median -1586.7  2.26 s/it
+[2026-10-24 21:47:27] c1: MCMC it   200  acc 0.310  lp max -1581.9 median -1584.8  2.26 s/it
+[2026-10-24 21:51:13] c1: MCMC it   300  acc 0.315  lp max -1581.1 median -1585.4  2.26 s/it
+[2026-10-24 21:54:58] c1: MCMC continuation done, acceptance 0.313
+[2026-10-24 21:54:58] c1: 7602 it, R-hat máx 1.115 (C_u_V2), τ máx 415 (r_open), 9.2 τ retidos, 2.27 s/it, convergiu=False
+[2026-10-24 21:54:58] c1: continuing c1 from mcmc_chain_c1_cont15.npz (400 iterations) -> cont16
+[2026-10-24 21:55:02] c1: MCMC it     0  acc 0.306  lp max -1581.4 median -1585.6  2.27 s/it
+[2026-10-24 21:58:46] c1: MCMC it   100  acc 0.295  lp max -1581.2 median -1587.1  2.24 s/it
+[2026-10-24 22:02:31] c1: MCMC it   200  acc 0.307  lp max -1581.8 median -1587.3  2.24 s/it
+[2026-10-24 22:06:18] c1: MCMC it   300  acc 0.306  lp max -1581.0 median -1585.8  2.25 s/it
+[2026-10-24 22:10:05] c1: MCMC continuation done, acceptance 0.311
+[2026-10-24 22:10:06] c1: 8002 it, R-hat máx 1.122 (a_p), τ máx 466 (r_open), 8.6 τ retidos, 2.27 s/it, convergiu=False
+[2026-10-24 22:10:06] c1: continuing c1 from mcmc_chain_c1_cont16.npz (400 iterations) -> cont17
+[2026-10-24 22:10:10] c1: MCMC it     0  acc 0.444  lp max -1581.5 median -1586.2  2.53 s/it
+[2026-10-24 22:14:36] c1: MCMC it   100  acc 0.318  lp max -1581.5 median -1586.3  2.66 s/it
+[2026-10-24 22:19:08] c1: MCMC it   200  acc 0.311  lp max -1580.8 median -1585.8  2.69 s/it
+[2026-10-24 22:23:44] c1: MCMC it   300  acc 0.308  lp max -1580.3 median -1585.5  2.71 s/it
+[2026-10-24 22:28:23] c1: MCMC continuation done, acceptance 0.307
+[2026-10-24 22:28:24] c1: 8402 it, R-hat máx 1.126 (a_p), τ máx 515 (r_open), 8.2 τ retidos, 2.75 s/it, convergiu=False
+[2026-10-24 22:28:24] c1: continuing c1 from mcmc_chain_c1_cont17.npz (400 iterations) -> cont18
+[2026-10-24 22:28:28] c1: MCMC it     0  acc 0.278  lp max -1581.5 median -1586.2  2.48 s/it
+[2026-10-24 22:32:35] c1: MCMC it   100  acc 0.313  lp max -1580.8 median -1585.7  2.47 s/it
+[2026-10-24 22:36:15] c1: MCMC it   200  acc 0.316  lp max -1580.1 median -1585.3  2.33 s/it
+[2026-10-24 22:39:55] c1: MCMC it   300  acc 0.311  lp max -1579.8 median -1585.9  2.29 s/it
+[2026-10-24 22:43:27] c1: MCMC continuation done, acceptance 0.312
+[2026-10-24 22:43:27] c1: 8802 it, R-hat máx 1.115 (G_pw), τ máx 523 (r_open), 8.4 τ retidos, 2.26 s/it, convergiu=False
+[2026-10-24 22:43:27] c1: continuing c1 from mcmc_chain_c1_cont18.npz (400 iterations) -> cont19
+[2026-10-24 22:43:31] c1: MCMC it     0  acc 0.167  lp max -1580.7 median -1587.0  1.98 s/it
+[2026-10-24 22:47:03] c1: MCMC it   100  acc 0.313  lp max -1582.6 median -1586.7  2.12 s/it
+[2026-10-24 22:50:35] c1: MCMC it   200  acc 0.317  lp max -1581.7 median -1585.7  2.12 s/it
+[2026-10-24 22:54:07] c1: MCMC it   300  acc 0.313  lp max -1580.2 median -1585.4  2.12 s/it
+[2026-10-24 22:57:39] c1: MCMC continuation done, acceptance 0.313
+[2026-10-24 22:57:40] c1: 9202 it, R-hat máx 1.099 (k_g), τ máx 422 (r_open), 10.9 τ retidos, 2.13 s/it, convergiu=False
+[2026-10-24 22:57:40] c1: continuing c1 from mcmc_chain_c1_cont19.npz (400 iterations) -> cont20
+[2026-10-24 22:57:43] c1: MCMC it     0  acc 0.417  lp max -1580.4 median -1585.9  2.10 s/it
+[2026-10-24 23:01:14] c1: MCMC it   100  acc 0.309  lp max -1581.6 median -1586.3  2.11 s/it
+[2026-10-24 23:04:44] c1: MCMC it   200  acc 0.311  lp max -1581.0 median -1586.5  2.10 s/it
+[2026-10-24 23:08:19] c1: MCMC it   300  acc 0.306  lp max -1581.2 median -1585.7  2.12 s/it
+[2026-10-24 23:11:46] c1: MCMC continuation done, acceptance 0.311
+[2026-10-24 23:11:47] c1: 9602 it, R-hat máx 1.099 (R_rec_V2), τ máx 409 (s_U), 11.7 τ retidos, 2.12 s/it, convergiu=False
+[2026-10-24 23:11:47] c1: continuing c1 from mcmc_chain_c1_cont20.npz (400 iterations) -> cont21
+[2026-10-24 23:11:50] c1: MCMC it     0  acc 0.250  lp max -1581.7 median -1586.3  2.08 s/it
+[2026-10-24 23:15:21] c1: MCMC it   100  acc 0.310  lp max -1582.6 median -1587.6  2.11 s/it
+[2026-10-24 23:18:53] c1: MCMC it   200  acc 0.315  lp max -1582.4 median -1587.3  2.12 s/it
+[2026-10-24 23:22:26] c1: MCMC it   300  acc 0.312  lp max -1581.8 median -1585.7  2.12 s/it
+[2026-10-24 23:25:56] c1: MCMC continuation done, acceptance 0.310
+[2026-10-24 23:25:57] c1: 10002 it, R-hat máx 1.098 (C_u_V1), τ máx 485 (s_U), 10.3 τ retidos, 2.12 s/it, convergiu=False
+[2026-10-24 23:25:57] c1: continuing c1 from mcmc_chain_c1_cont21.npz (400 iterations) -> cont22
+[2026-10-24 23:26:00] c1: MCMC it     0  acc 0.278  lp max -1581.8 median -1587.0  2.21 s/it
+[2026-10-24 23:30:42] c1: MCMC it   100  acc 0.300  lp max -1583.0 median -1587.0  2.81 s/it
+[2026-10-24 23:34:07] c1: MCMC it   200  acc 0.306  lp max -1581.9 median -1585.6  2.43 s/it
+[2026-10-24 23:37:34] c1: MCMC it   300  acc 0.303  lp max -1581.1 median -1585.9  2.31 s/it
+[2026-10-24 23:41:02] c1: MCMC continuation done, acceptance 0.301
+[2026-10-24 23:41:03] c1: 10402 it, R-hat máx 1.103 (C_u_V1), τ máx 596 (s_U), 8.7 τ retidos, 2.26 s/it, convergiu=False
+[2026-10-24 23:41:03] c1: continuing c1 from mcmc_chain_c1_cont22.npz (400 iterations) -> cont23
+[2026-10-24 23:41:06] c1: MCMC it     0  acc 0.278  lp max -1580.9 median -1585.6  2.15 s/it
+[2026-10-24 23:44:34] c1: MCMC it   100  acc 0.307  lp max -1580.2 median -1586.4  2.08 s/it
+[2026-10-24 23:48:05] c1: MCMC it   200  acc 0.315  lp max -1579.6 median -1586.1  2.10 s/it
+[2026-10-24 23:51:36] c1: MCMC it   300  acc 0.313  lp max -1581.5 median -1585.9  2.10 s/it
+[2026-10-24 23:55:02] c1: MCMC continuation done, acceptance 0.313
+[2026-10-24 23:55:03] c1: 10802 it, R-hat máx 1.094 (a_p), τ máx 651 (s_U), 8.3 τ retidos, 2.10 s/it, convergiu=False
+[2026-10-24 23:55:03] c1: continuing c1 from mcmc_chain_c1_cont23.npz (400 iterations) -> cont24
+[2026-10-24 23:55:06] c1: MCMC it     0  acc 0.167  lp max -1583.2 median -1585.9  2.01 s/it
+[2026-10-24 23:58:35] c1: MCMC it   100  acc 0.313  lp max -1583.1 median -1586.2  2.09 s/it
+[2026-10-25 00:02:03] c1: MCMC it   200  acc 0.308  lp max -1580.5 median -1586.4  2.08 s/it
+[2026-10-25 00:05:35] c1: MCMC it   300  acc 0.311  lp max -1581.7 median -1586.6  2.09 s/it
+[2026-10-25 00:09:03] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 00:09:04] c1: 11202 it, R-hat máx 1.082 (a_p), τ máx 646 (s_U), 8.7 τ retidos, 2.10 s/it, convergiu=False
+[2026-10-25 00:09:04] c1: continuing c1 from mcmc_chain_c1_cont24.npz (400 iterations) -> cont25
+[2026-10-25 00:09:07] c1: MCMC it     0  acc 0.250  lp max -1582.3 median -1585.4  2.13 s/it
+[2026-10-25 00:12:38] c1: MCMC it   100  acc 0.313  lp max -1580.6 median -1585.5  2.11 s/it
+[2026-10-25 00:16:09] c1: MCMC it   200  acc 0.309  lp max -1580.3 median -1586.5  2.11 s/it
+[2026-10-25 00:19:40] c1: MCMC it   300  acc 0.307  lp max -1581.8 median -1587.5  2.11 s/it
+[2026-10-25 00:23:05] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 00:23:06] c1: 11602 it, R-hat máx 1.075 (a_p), τ máx 612 (s_U), 9.5 τ retidos, 2.10 s/it, convergiu=False
+[2026-10-25 00:23:06] c1: continuing c1 from mcmc_chain_c1_cont25.npz (400 iterations) -> cont26
+[2026-10-25 00:23:09] c1: MCMC it     0  acc 0.167  lp max -1581.4 median -1587.2  2.19 s/it
+[2026-10-25 00:26:37] c1: MCMC it   100  acc 0.308  lp max -1579.9 median -1587.0  2.08 s/it
+[2026-10-25 00:30:11] c1: MCMC it   200  acc 0.310  lp max -1581.6 median -1586.9  2.11 s/it
+[2026-10-25 00:33:41] c1: MCMC it   300  acc 0.311  lp max -1580.7 median -1586.1  2.11 s/it
+[2026-10-25 00:37:10] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 00:37:11] c1: 12002 it, R-hat máx 1.069 (a_p), τ máx 539 (s_U), 11.1 τ retidos, 2.11 s/it, convergiu=False
+[2026-10-25 00:37:11] c1: continuing c1 from mcmc_chain_c1_cont26.npz (400 iterations) -> cont27
+[2026-10-25 00:37:14] c1: MCMC it     0  acc 0.472  lp max -1581.5 median -1586.2  2.09 s/it
+[2026-10-25 00:40:42] c1: MCMC it   100  acc 0.311  lp max -1579.9 median -1585.6  2.08 s/it
+[2026-10-25 00:44:10] c1: MCMC it   200  acc 0.306  lp max -1581.2 median -1585.7  2.08 s/it
+[2026-10-25 00:47:37] c1: MCMC it   300  acc 0.306  lp max -1581.5 median -1585.3  2.08 s/it
+[2026-10-25 00:51:02] c1: MCMC continuation done, acceptance 0.307
+[2026-10-25 00:51:03] c1: 12402 it, R-hat máx 1.069 (C_u_V2), τ máx 632 (C_u_V2), 9.8 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 00:51:03] c1: continuing c1 from mcmc_chain_c1_cont27.npz (400 iterations) -> cont28
+[2026-10-25 00:51:06] c1: MCMC it     0  acc 0.250  lp max -1580.3 median -1585.9  2.05 s/it
+[2026-10-25 00:54:33] c1: MCMC it   100  acc 0.306  lp max -1582.3 median -1585.6  2.07 s/it
+[2026-10-25 00:58:01] c1: MCMC it   200  acc 0.316  lp max -1580.1 median -1585.8  2.08 s/it
+[2026-10-25 01:01:28] c1: MCMC it   300  acc 0.316  lp max -1581.2 median -1586.8  2.07 s/it
+[2026-10-25 01:04:54] c1: MCMC continuation done, acceptance 0.315
+[2026-10-25 01:04:55] c1: 12802 it, R-hat máx 1.068 (C_u_V2), τ máx 538 (r_open), 11.9 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 01:04:55] c1: continuing c1 from mcmc_chain_c1_cont28.npz (400 iterations) -> cont29
+[2026-10-25 01:04:58] c1: MCMC it     0  acc 0.222  lp max -1582.4 median -1586.1  2.07 s/it
+[2026-10-25 01:08:26] c1: MCMC it   100  acc 0.309  lp max -1581.1 median -1585.6  2.08 s/it
+[2026-10-25 01:11:58] c1: MCMC it   200  acc 0.304  lp max -1580.6 median -1587.0  2.10 s/it
+[2026-10-25 01:15:30] c1: MCMC it   300  acc 0.311  lp max -1580.2 median -1585.2  2.11 s/it
+[2026-10-25 01:18:55] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 01:18:56] c1: 13202 it, R-hat máx 1.071 (C_u_V2), τ máx 473 (C_u_V2), 14.0 τ retidos, 2.10 s/it, convergiu=False
+[2026-10-25 01:18:56] c1: continuing c1 from mcmc_chain_c1_cont29.npz (400 iterations) -> cont30
+[2026-10-25 01:18:59] c1: MCMC it     0  acc 0.361  lp max -1581.4 median -1586.2  2.05 s/it
+[2026-10-25 01:22:25] c1: MCMC it   100  acc 0.323  lp max -1582.3 median -1586.8  2.06 s/it
+[2026-10-25 01:25:51] c1: MCMC it   200  acc 0.316  lp max -1579.3 median -1585.5  2.06 s/it
+[2026-10-25 01:29:19] c1: MCMC it   300  acc 0.317  lp max -1581.2 median -1585.8  2.07 s/it
+[2026-10-25 01:32:45] c1: MCMC continuation done, acceptance 0.312
+[2026-10-25 01:32:46] c1: 13602 it, R-hat máx 1.078 (C_u_V2), τ máx 445 (C_u_V2), 15.3 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 01:32:46] c1: continuing c1 from mcmc_chain_c1_cont30.npz (400 iterations) -> cont31
+[2026-10-25 01:32:49] c1: MCMC it     0  acc 0.278  lp max -1582.7 median -1586.9  1.90 s/it
+[2026-10-25 01:36:17] c1: MCMC it   100  acc 0.314  lp max -1580.6 median -1586.4  2.08 s/it
+[2026-10-25 01:39:46] c1: MCMC it   200  acc 0.318  lp max -1581.9 median -1586.1  2.08 s/it
+[2026-10-25 01:43:13] c1: MCMC it   300  acc 0.319  lp max -1580.3 median -1585.2  2.08 s/it
+[2026-10-25 01:46:39] c1: MCMC continuation done, acceptance 0.319
+[2026-10-25 01:46:40] c1: 14002 it, R-hat máx 1.070 (m_5), τ máx 420 (C_u_V2), 16.7 τ retidos, 2.09 s/it, convergiu=False
+[2026-10-25 01:46:40] c1: continuing c1 from mcmc_chain_c1_cont31.npz (400 iterations) -> cont32
+[2026-10-25 01:46:43] c1: MCMC it     0  acc 0.167  lp max -1581.7 median -1585.9  2.05 s/it
+[2026-10-25 01:50:10] c1: MCMC it   100  acc 0.298  lp max -1582.0 median -1586.3  2.06 s/it
+[2026-10-25 01:53:35] c1: MCMC it   200  acc 0.309  lp max -1582.0 median -1585.5  2.06 s/it
+[2026-10-25 01:57:03] c1: MCMC it   300  acc 0.310  lp max -1579.8 median -1586.3  2.06 s/it
+[2026-10-25 02:00:28] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 02:00:29] c1: 14402 it, R-hat máx 1.066 (R_rec_V2), τ máx 411 (C_u_V2), 17.5 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 02:00:29] c1: continuing c1 from mcmc_chain_c1_cont32.npz (400 iterations) -> cont33
+[2026-10-25 02:00:32] c1: MCMC it     0  acc 0.306  lp max -1580.7 median -1585.1  2.03 s/it
+[2026-10-25 02:03:58] c1: MCMC it   100  acc 0.302  lp max -1580.9 median -1586.1  2.06 s/it
+[2026-10-25 02:07:29] c1: MCMC it   200  acc 0.306  lp max -1581.5 median -1585.0  2.08 s/it
+[2026-10-25 02:10:58] c1: MCMC it   300  acc 0.306  lp max -1582.3 median -1586.4  2.08 s/it
+[2026-10-25 02:14:23] c1: MCMC continuation done, acceptance 0.305
+[2026-10-25 02:14:25] c1: 14802 it, R-hat máx 1.062 (C_u_V1), τ máx 563 (G_pw), 13.1 τ retidos, 2.09 s/it, convergiu=False
+[2026-10-25 02:14:25] c1: continuing c1 from mcmc_chain_c1_cont33.npz (400 iterations) -> cont34
+[2026-10-25 02:14:28] c1: MCMC it     0  acc 0.222  lp max -1580.5 median -1586.7  2.14 s/it
+[2026-10-25 02:17:56] c1: MCMC it   100  acc 0.297  lp max -1581.4 median -1585.9  2.08 s/it
+[2026-10-25 02:21:24] c1: MCMC it   200  acc 0.303  lp max -1582.0 median -1585.1  2.08 s/it
+[2026-10-25 02:24:51] c1: MCMC it   300  acc 0.311  lp max -1581.6 median -1586.2  2.08 s/it
+[2026-10-25 02:28:16] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 02:28:17] c1: 15202 it, R-hat máx 1.065 (C_u_V1), τ máx 615 (G_pw), 12.4 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 02:28:17] c1: continuing c1 from mcmc_chain_c1_cont34.npz (400 iterations) -> cont35
+[2026-10-25 02:28:20] c1: MCMC it     0  acc 0.250  lp max -1582.5 median -1586.3  2.06 s/it
+[2026-10-25 02:31:47] c1: MCMC it   100  acc 0.311  lp max -1579.4 median -1586.5  2.06 s/it
+[2026-10-25 02:35:14] c1: MCMC it   200  acc 0.313  lp max -1580.4 median -1586.8  2.07 s/it
+[2026-10-25 02:38:40] c1: MCMC it   300  acc 0.315  lp max -1581.8 median -1585.6  2.07 s/it
+[2026-10-25 02:42:05] c1: MCMC continuation done, acceptance 0.315
+[2026-10-25 02:42:06] c1: 15602 it, R-hat máx 1.062 (C_u_V1), τ máx 564 (G_pw), 13.8 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 02:42:06] c1: continuing c1 from mcmc_chain_c1_cont35.npz (400 iterations) -> cont36
+[2026-10-25 02:42:10] c1: MCMC it     0  acc 0.194  lp max -1581.7 median -1586.2  2.01 s/it
+[2026-10-25 02:45:36] c1: MCMC it   100  acc 0.314  lp max -1582.0 median -1586.6  2.07 s/it
+[2026-10-25 02:49:03] c1: MCMC it   200  acc 0.321  lp max -1581.3 median -1585.9  2.07 s/it
+[2026-10-25 02:52:29] c1: MCMC it   300  acc 0.321  lp max -1582.7 median -1586.0  2.07 s/it
+[2026-10-25 02:55:54] c1: MCMC continuation done, acceptance 0.317
+[2026-10-25 02:55:55] c1: 16002 it, R-hat máx 1.060 (G_pw), τ máx 561 (G_pw), 14.3 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 02:55:55] c1: continuing c1 from mcmc_chain_c1_cont36.npz (400 iterations) -> cont37
+[2026-10-25 02:55:58] c1: MCMC it     0  acc 0.333  lp max -1580.4 median -1587.6  2.01 s/it
+[2026-10-25 02:59:25] c1: MCMC it   100  acc 0.314  lp max -1581.2 median -1586.3  2.07 s/it
+[2026-10-25 03:02:51] c1: MCMC it   200  acc 0.318  lp max -1582.5 median -1586.3  2.07 s/it
+[2026-10-25 03:06:17] c1: MCMC it   300  acc 0.310  lp max -1582.2 median -1585.7  2.06 s/it
+[2026-10-25 03:09:41] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 03:09:42] c1: 16402 it, R-hat máx 1.056 (G_pw), τ máx 569 (G_pw), 14.4 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 03:09:42] c1: continuing c1 from mcmc_chain_c1_cont37.npz (400 iterations) -> cont38
+[2026-10-25 03:09:46] c1: MCMC it     0  acc 0.333  lp max -1581.1 median -1586.1  2.08 s/it
+[2026-10-25 03:13:12] c1: MCMC it   100  acc 0.325  lp max -1582.2 median -1585.8  2.07 s/it
+[2026-10-25 03:16:50] c1: MCMC it   200  acc 0.320  lp max -1581.6 median -1586.9  2.12 s/it
+[2026-10-25 03:20:51] c1: MCMC it   300  acc 0.317  lp max -1580.5 median -1585.5  2.22 s/it
+[2026-10-25 03:24:35] c1: MCMC continuation done, acceptance 0.317
+[2026-10-25 03:24:36] c1: 16802 it, R-hat máx 1.057 (G_pw), τ máx 609 (G_pw), 13.8 τ retidos, 2.23 s/it, convergiu=False
+[2026-10-25 03:24:36] c1: continuing c1 from mcmc_chain_c1_cont38.npz (400 iterations) -> cont39
+[2026-10-25 03:24:40] c1: MCMC it     0  acc 0.222  lp max -1581.0 median -1585.3  2.20 s/it
+[2026-10-25 03:28:19] c1: MCMC it   100  acc 0.323  lp max -1580.2 median -1585.9  2.19 s/it
+[2026-10-25 03:32:00] c1: MCMC it   200  acc 0.320  lp max -1581.6 median -1585.8  2.20 s/it
+[2026-10-25 03:35:30] c1: MCMC it   300  acc 0.317  lp max -1580.0 median -1585.9  2.17 s/it
+[2026-10-25 03:38:55] c1: MCMC continuation done, acceptance 0.317
+[2026-10-25 03:38:56] c1: 17202 it, R-hat máx 1.056 (G_pw), τ máx 645 (G_pw), 13.3 τ retidos, 2.15 s/it, convergiu=False
+[2026-10-25 03:38:56] c1: continuing c1 from mcmc_chain_c1_cont39.npz (400 iterations) -> cont40
+[2026-10-25 03:38:59] c1: MCMC it     0  acc 0.167  lp max -1580.6 median -1586.9  2.08 s/it
+[2026-10-25 03:42:28] c1: MCMC it   100  acc 0.321  lp max -1581.9 median -1586.8  2.08 s/it
+[2026-10-25 03:45:55] c1: MCMC it   200  acc 0.315  lp max -1581.0 median -1585.7  2.08 s/it
+[2026-10-25 03:49:20] c1: MCMC it   300  acc 0.315  lp max -1581.6 median -1585.9  2.07 s/it
+[2026-10-25 03:52:46] c1: MCMC continuation done, acceptance 0.315
+[2026-10-25 03:52:47] c1: 17602 it, R-hat máx 1.051 (C_u_V2), τ máx 762 (G_pw), 11.5 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 03:52:47] c1: continuing c1 from mcmc_chain_c1_cont40.npz (400 iterations) -> cont41
+[2026-10-25 03:52:50] c1: MCMC it     0  acc 0.306  lp max -1581.9 median -1586.4  2.00 s/it
+[2026-10-25 03:56:17] c1: MCMC it   100  acc 0.313  lp max -1581.2 median -1586.8  2.07 s/it
+[2026-10-25 03:59:45] c1: MCMC it   200  acc 0.308  lp max -1581.0 median -1586.4  2.07 s/it
+[2026-10-25 04:03:11] c1: MCMC it   300  acc 0.309  lp max -1581.6 median -1586.3  2.07 s/it
+[2026-10-25 04:06:36] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 04:06:37] c1: 18002 it, R-hat máx 1.054 (C_u_V2), τ máx 652 (G_pw), 13.8 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 04:06:37] c1: continuing c1 from mcmc_chain_c1_cont41.npz (400 iterations) -> cont42
+[2026-10-25 04:06:40] c1: MCMC it     0  acc 0.250  lp max -1581.4 median -1586.8  2.10 s/it
+[2026-10-25 04:10:07] c1: MCMC it   100  acc 0.302  lp max -1579.8 median -1586.5  2.07 s/it
+[2026-10-25 04:13:33] c1: MCMC it   200  acc 0.302  lp max -1581.9 median -1586.6  2.06 s/it
+[2026-10-25 04:16:59] c1: MCMC it   300  acc 0.298  lp max -1580.3 median -1586.2  2.06 s/it
+[2026-10-25 04:20:23] c1: MCMC continuation done, acceptance 0.304
+[2026-10-25 04:20:25] c1: 18402 it, R-hat máx 1.050 (C_u_V1), τ máx 636 (G_pw), 14.5 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 04:20:25] c1: continuing c1 from mcmc_chain_c1_cont42.npz (400 iterations) -> cont43
+[2026-10-25 04:20:28] c1: MCMC it     0  acc 0.278  lp max -1579.4 median -1586.5  2.03 s/it
+[2026-10-25 04:23:53] c1: MCMC it   100  acc 0.323  lp max -1582.1 median -1586.3  2.05 s/it
+[2026-10-25 04:27:17] c1: MCMC it   200  acc 0.313  lp max -1582.5 median -1587.5  2.05 s/it
+[2026-10-25 04:30:43] c1: MCMC it   300  acc 0.312  lp max -1581.3 median -1586.6  2.05 s/it
+[2026-10-25 04:34:06] c1: MCMC continuation done, acceptance 0.313
+[2026-10-25 04:34:08] c1: 18802 it, R-hat máx 1.050 (R_rec_V2), τ máx 593 (G_pw), 15.9 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 04:34:08] c1: continuing c1 from mcmc_chain_c1_cont43.npz (400 iterations) -> cont44
+[2026-10-25 04:34:11] c1: MCMC it     0  acc 0.417  lp max -1579.7 median -1587.0  2.05 s/it
+[2026-10-25 04:37:36] c1: MCMC it   100  acc 0.312  lp max -1581.7 median -1585.8  2.05 s/it
+[2026-10-25 04:41:02] c1: MCMC it   200  acc 0.311  lp max -1581.3 median -1586.3  2.05 s/it
+[2026-10-25 04:44:27] c1: MCMC it   300  acc 0.309  lp max -1581.4 median -1587.2  2.05 s/it
+[2026-10-25 04:47:51] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 04:47:52] c1: 19202 it, R-hat máx 1.051 (C_u_V2), τ máx 570 (G_pw), 16.8 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 04:47:52] c1: continuing c1 from mcmc_chain_c1_cont44.npz (400 iterations) -> cont45
+[2026-10-25 04:47:55] c1: MCMC it     0  acc 0.278  lp max -1581.3 median -1586.5  2.04 s/it
+[2026-10-25 04:51:21] c1: MCMC it   100  acc 0.308  lp max -1580.1 median -1586.5  2.06 s/it
+[2026-10-25 04:54:47] c1: MCMC it   200  acc 0.308  lp max -1582.7 median -1586.1  2.06 s/it
+[2026-10-25 04:58:13] c1: MCMC it   300  acc 0.308  lp max -1581.5 median -1586.1  2.06 s/it
+[2026-10-25 05:01:37] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 05:01:39] c1: 19602 it, R-hat máx 1.051 (C_u_V2), τ máx 508 (m_6), 19.3 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 05:01:39] c1: continuing c1 from mcmc_chain_c1_cont45.npz (400 iterations) -> cont46
+[2026-10-25 05:01:42] c1: MCMC it     0  acc 0.333  lp max -1579.5 median -1585.6  2.14 s/it
+[2026-10-25 05:05:09] c1: MCMC it   100  acc 0.319  lp max -1581.4 median -1587.6  2.07 s/it
+[2026-10-25 05:08:36] c1: MCMC it   200  acc 0.308  lp max -1580.8 median -1586.8  2.07 s/it
+[2026-10-25 05:12:02] c1: MCMC it   300  acc 0.311  lp max -1581.3 median -1586.3  2.07 s/it
+[2026-10-25 05:15:26] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 05:15:27] c1: 20002 it, R-hat máx 1.046 (C_u_V2), τ máx 482 (m_6), 20.7 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 05:15:27] c1: continuing c1 from mcmc_chain_c1_cont46.npz (400 iterations) -> cont47
+[2026-10-25 05:15:31] c1: MCMC it     0  acc 0.306  lp max -1582.0 median -1586.2  2.24 s/it
+[2026-10-25 05:18:56] c1: MCMC it   100  acc 0.305  lp max -1582.4 median -1586.5  2.06 s/it
+[2026-10-25 05:22:23] c1: MCMC it   200  acc 0.307  lp max -1580.0 median -1585.6  2.06 s/it
+[2026-10-25 05:25:49] c1: MCMC it   300  acc 0.307  lp max -1580.9 median -1585.9  2.06 s/it
+[2026-10-25 05:29:11] c1: MCMC continuation done, acceptance 0.312
+[2026-10-25 05:29:13] c1: 20402 it, R-hat máx 1.045 (C_u_V1), τ máx 706 (C_p), 14.4 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 05:29:13] c1: continuing c1 from mcmc_chain_c1_cont47.npz (400 iterations) -> cont48
+[2026-10-25 05:29:16] c1: MCMC it     0  acc 0.333  lp max -1581.9 median -1586.4  1.97 s/it
+[2026-10-25 05:32:41] c1: MCMC it   100  acc 0.314  lp max -1581.2 median -1586.5  2.05 s/it
+[2026-10-25 05:36:07] c1: MCMC it   200  acc 0.311  lp max -1580.5 median -1585.6  2.06 s/it
+[2026-10-25 05:39:33] c1: MCMC it   300  acc 0.316  lp max -1580.8 median -1585.1  2.06 s/it
+[2026-10-25 05:42:57] c1: MCMC continuation done, acceptance 0.321
+[2026-10-25 05:42:59] c1: 20802 it, R-hat máx 1.046 (C_u_V1), τ máx 792 (C_p), 13.1 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 05:42:59] c1: continuing c1 from mcmc_chain_c1_cont48.npz (400 iterations) -> cont49
+[2026-10-25 05:43:02] c1: MCMC it     0  acc 0.250  lp max -1582.0 median -1586.7  2.14 s/it
+[2026-10-25 05:46:31] c1: MCMC it   100  acc 0.314  lp max -1581.4 median -1586.5  2.09 s/it
+[2026-10-25 05:49:57] c1: MCMC it   200  acc 0.311  lp max -1580.6 median -1585.9  2.08 s/it
+[2026-10-25 05:53:24] c1: MCMC it   300  acc 0.316  lp max -1581.0 median -1584.5  2.07 s/it
+[2026-10-25 05:56:46] c1: MCMC continuation done, acceptance 0.316
+[2026-10-25 05:56:48] c1: 21202 it, R-hat máx 1.045 (C_u_V1), τ máx 992 (C_p), 10.7 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 05:56:48] c1: continuing c1 from mcmc_chain_c1_cont49.npz (400 iterations) -> cont50
+[2026-10-25 05:56:51] c1: MCMC it     0  acc 0.250  lp max -1581.6 median -1586.2  1.99 s/it
+[2026-10-25 06:00:16] c1: MCMC it   100  acc 0.311  lp max -1580.5 median -1585.0  2.05 s/it
+[2026-10-25 06:03:41] c1: MCMC it   200  acc 0.306  lp max -1581.1 median -1586.4  2.05 s/it
+[2026-10-25 06:07:07] c1: MCMC it   300  acc 0.305  lp max -1582.5 median -1586.6  2.05 s/it
+[2026-10-25 06:10:31] c1: MCMC continuation done, acceptance 0.307
+[2026-10-25 06:10:33] c1: 21602 it, R-hat máx 1.042 (R_rec_V2), τ máx 1051 (C_p), 10.3 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 06:10:33] c1: continuing c1 from mcmc_chain_c1_cont50.npz (400 iterations) -> cont51
+[2026-10-25 06:10:36] c1: MCMC it     0  acc 0.361  lp max -1581.9 median -1586.4  1.92 s/it
+[2026-10-25 06:14:01] c1: MCMC it   100  acc 0.304  lp max -1581.7 median -1586.3  2.05 s/it
+[2026-10-25 06:17:27] c1: MCMC it   200  acc 0.313  lp max -1581.0 median -1586.3  2.05 s/it
+[2026-10-25 06:20:51] c1: MCMC it   300  acc 0.308  lp max -1581.7 median -1585.8  2.05 s/it
+[2026-10-25 06:24:13] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 06:24:15] c1: 22002 it, R-hat máx 1.042 (R_rec_V2), τ máx 1147 (C_p), 9.6 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 06:24:15] c1: continuing c1 from mcmc_chain_c1_cont51.npz (400 iterations) -> cont52
+[2026-10-25 06:24:18] c1: MCMC it     0  acc 0.250  lp max -1581.1 median -1586.2  1.99 s/it
+[2026-10-25 06:27:42] c1: MCMC it   100  acc 0.307  lp max -1581.6 median -1586.6  2.04 s/it
+[2026-10-25 06:31:09] c1: MCMC it   200  acc 0.307  lp max -1581.6 median -1585.8  2.05 s/it
+[2026-10-25 06:34:37] c1: MCMC it   300  acc 0.309  lp max -1580.1 median -1587.3  2.06 s/it
+[2026-10-25 06:37:59] c1: MCMC continuation done, acceptance 0.310
+[2026-10-25 06:38:01] c1: 22402 it, R-hat máx 1.040 (R_rec_V2), τ máx 971 (C_p), 11.5 τ retidos, 2.06 s/it, convergiu=False
+[2026-10-25 06:38:01] c1: continuing c1 from mcmc_chain_c1_cont52.npz (400 iterations) -> cont53
+[2026-10-25 06:38:04] c1: MCMC it     0  acc 0.361  lp max -1581.4 median -1586.9  1.95 s/it
+[2026-10-25 06:41:30] c1: MCMC it   100  acc 0.309  lp max -1582.1 median -1586.4  2.06 s/it
+[2026-10-25 06:44:57] c1: MCMC it   200  acc 0.303  lp max -1581.9 median -1587.0  2.06 s/it
+[2026-10-25 06:48:22] c1: MCMC it   300  acc 0.309  lp max -1580.5 median -1585.7  2.06 s/it
+[2026-10-25 06:51:46] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 06:51:48] c1: 22802 it, R-hat máx 1.040 (a_p), τ máx 714 (C_p), 16.0 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 06:51:48] c1: continuing c1 from mcmc_chain_c1_cont53.npz (400 iterations) -> cont54
+[2026-10-25 06:51:52] c1: MCMC it     0  acc 0.250  lp max -1581.5 median -1585.3  2.12 s/it
+[2026-10-25 06:55:21] c1: MCMC it   100  acc 0.318  lp max -1580.8 median -1587.2  2.09 s/it
+[2026-10-25 06:58:48] c1: MCMC it   200  acc 0.312  lp max -1580.7 median -1585.6  2.08 s/it
+[2026-10-25 07:02:15] c1: MCMC it   300  acc 0.311  lp max -1580.4 median -1586.1  2.08 s/it
+[2026-10-25 07:05:39] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 07:05:41] c1: 23202 it, R-hat máx 1.039 (C_u_V2), τ máx 668 (C_p), 17.4 τ retidos, 2.08 s/it, convergiu=False
+[2026-10-25 07:05:41] c1: continuing c1 from mcmc_chain_c1_cont54.npz (400 iterations) -> cont55
+[2026-10-25 07:05:44] c1: MCMC it     0  acc 0.389  lp max -1581.1 median -1585.9  2.08 s/it
+[2026-10-25 07:09:09] c1: MCMC it   100  acc 0.299  lp max -1582.0 median -1586.4  2.05 s/it
+[2026-10-25 07:12:34] c1: MCMC it   200  acc 0.305  lp max -1581.4 median -1585.8  2.05 s/it
+[2026-10-25 07:16:04] c1: MCMC it   300  acc 0.301  lp max -1581.7 median -1585.9  2.07 s/it
+[2026-10-25 07:19:29] c1: MCMC continuation done, acceptance 0.303
+[2026-10-25 07:19:31] c1: 23602 it, R-hat máx 1.042 (C_u_V2), τ máx 625 (h_p2), 18.9 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 07:19:31] c1: continuing c1 from mcmc_chain_c1_cont55.npz (400 iterations) -> cont56
+[2026-10-25 07:19:34] c1: MCMC it     0  acc 0.333  lp max -1580.9 median -1585.7  2.05 s/it
+[2026-10-25 07:22:59] c1: MCMC it   100  acc 0.310  lp max -1582.7 median -1586.0  2.05 s/it
+[2026-10-25 07:26:25] c1: MCMC it   200  acc 0.313  lp max -1582.0 median -1585.7  2.06 s/it
+[2026-10-25 07:29:54] c1: MCMC it   300  acc 0.318  lp max -1580.6 median -1585.8  2.07 s/it
+[2026-10-25 07:33:16] c1: MCMC continuation done, acceptance 0.316
+[2026-10-25 07:33:17] c1: 24002 it, R-hat máx 1.040 (C_u_V2), τ máx 695 (h_p2), 17.3 τ retidos, 2.07 s/it, convergiu=False
+[2026-10-25 07:33:17] c1: continuing c1 from mcmc_chain_c1_cont56.npz (400 iterations) -> cont57
+[2026-10-25 07:33:21] c1: MCMC it     0  acc 0.222  lp max -1580.7 median -1587.2  2.05 s/it
+[2026-10-25 07:36:46] c1: MCMC it   100  acc 0.299  lp max -1582.2 median -1586.3  2.06 s/it
+[2026-10-25 07:40:15] c1: MCMC it   200  acc 0.307  lp max -1581.0 median -1586.5  2.07 s/it
+[2026-10-25 07:43:48] c1: MCMC it   300  acc 0.305  lp max -1581.7 median -1585.9  2.09 s/it
+[2026-10-25 07:47:11] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 07:47:13] c1: 24402 it, R-hat máx 1.038 (k_g), τ máx 919 (h_p2), 13.3 τ retidos, 2.09 s/it, convergiu=False
+[2026-10-25 07:47:13] c1: continuing c1 from mcmc_chain_c1_cont57.npz (400 iterations) -> cont58
+[2026-10-25 07:47:16] c1: MCMC it     0  acc 0.278  lp max -1581.5 median -1586.1  2.00 s/it
+[2026-10-25 07:50:49] c1: MCMC it   100  acc 0.315  lp max -1581.5 median -1585.6  2.13 s/it
+[2026-10-25 07:54:19] c1: MCMC it   200  acc 0.309  lp max -1583.0 median -1586.6  2.11 s/it
+[2026-10-25 07:57:44] c1: MCMC it   300  acc 0.311  lp max -1582.5 median -1586.2  2.09 s/it
+[2026-10-25 08:01:09] c1: MCMC continuation done, acceptance 0.313
+[2026-10-25 08:01:11] c1: 24802 it, R-hat máx 1.037 (C_u_V1), τ máx 1046 (h_p2), 11.9 τ retidos, 2.10 s/it, convergiu=False
+[2026-10-25 08:01:11] c1: continuing c1 from mcmc_chain_c1_cont58.npz (400 iterations) -> cont59
+[2026-10-25 08:01:14] c1: MCMC it     0  acc 0.333  lp max -1581.4 median -1586.1  1.98 s/it
+[2026-10-25 08:04:39] c1: MCMC it   100  acc 0.311  lp max -1580.4 median -1585.9  2.05 s/it
+[2026-10-25 08:08:05] c1: MCMC it   200  acc 0.309  lp max -1581.6 median -1585.5  2.05 s/it
+[2026-10-25 08:11:34] c1: MCMC it   300  acc 0.308  lp max -1582.0 median -1585.2  2.07 s/it
+[2026-10-25 08:15:23] c1: MCMC continuation done, acceptance 0.306
+[2026-10-25 08:15:25] c1: 25202 it, R-hat máx 1.037 (k_g), τ máx 993 (h_p2), 12.7 τ retidos, 2.14 s/it, convergiu=False
+[2026-10-25 08:15:25] c1: continuing c1 from mcmc_chain_c1_cont59.npz (400 iterations) -> cont60
+[2026-10-25 08:15:29] c1: MCMC it     0  acc 0.361  lp max -1582.0 median -1585.7  2.27 s/it
+[2026-10-25 08:19:18] c1: MCMC it   100  acc 0.306  lp max -1580.7 median -1586.0  2.29 s/it
+[2026-10-25 08:23:01] c1: MCMC it   200  acc 0.310  lp max -1580.8 median -1586.2  2.26 s/it
+[2026-10-25 08:26:51] c1: MCMC it   300  acc 0.313  lp max -1581.4 median -1585.9  2.27 s/it
+[2026-10-25 08:30:39] c1: MCMC continuation done, acceptance 0.311
+[2026-10-25 08:30:42] c1: 25602 it, R-hat máx 1.036 (C_u_V2), τ máx 1022 (h_p2), 12.5 τ retidos, 2.29 s/it, convergiu=False
+[2026-10-25 08:30:42] c1: continuing c1 from mcmc_chain_c1_cont60.npz (400 iterations) -> cont61
+[2026-10-25 08:30:45] c1: MCMC it     0  acc 0.333  lp max -1581.3 median -1585.8  2.26 s/it
+[2026-10-25 08:34:42] c1: MCMC it   100  acc 0.308  lp max -1580.8 median -1585.0  2.36 s/it
+[2026-10-25 08:38:38] c1: MCMC it   200  acc 0.310  lp max -1581.8 median -1586.4  2.36 s/it
+[2026-10-25 08:42:40] c1: MCMC it   300  acc 0.312  lp max -1581.7 median -1586.8  2.38 s/it
+[2026-10-25 08:46:16] c1: MCMC continuation done, acceptance 0.307
+[2026-10-25 08:46:18] c1: 26002 it, R-hat máx 1.036 (C_u_V2), τ máx 1094 (h_p2), 11.9 τ retidos, 2.34 s/it, convergiu=False
+[2026-10-25 08:46:18] c1: continuing c1 from mcmc_chain_c1_cont61.npz (400 iterations) -> cont62
+[2026-10-25 08:46:21] c1: MCMC it     0  acc 0.306  lp max -1581.2 median -1585.1  2.22 s/it
+[2026-10-25 08:50:00] c1: MCMC it   100  acc 0.312  lp max -1581.5 median -1585.8  2.19 s/it
+[2026-10-25 08:54:55] c1: MCMC it   200  acc 0.314  lp max -1582.2 median -1586.9  2.57 s/it
+[2026-10-25 09:02:42] c1: MCMC it   300  acc 0.308  lp max -1581.2 median -1586.9  3.27 s/it
+[2026-10-25 09:10:30] c1: MCMC continuation done, acceptance 0.307
+[2026-10-25 09:10:33] c1: 26402 it, R-hat máx 1.035 (C_u_V2), τ máx 1135 (h_p2), 11.6 τ retidos, 3.64 s/it, convergiu=False
+[2026-10-25 09:10:33] c1: continuing c1 from mcmc_chain_c1_cont62.npz (400 iterations) -> cont63
+[2026-10-25 09:10:41] c1: MCMC it     0  acc 0.361  lp max -1582.6 median -1586.1  4.83 s/it
+[2026-10-25 09:24:15] c1: MCMC it   100  acc 0.306  lp max -1581.6 median -1585.5  8.11 s/it
+[2026-10-25 09:35:04] c1: MCMC it   200  acc 0.311  lp max -1580.0 median -1585.8  7.31 s/it
+[2026-10-25 09:40:54] c1: MCMC it   300  acc 0.311  lp max -1582.5 median -1586.4  6.04 s/it
+[2026-10-25 09:44:33] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 09:44:36] c1: 26802 it, R-hat máx 1.033 (C_u_V2), τ máx 1121 (h_p2), 12.0 τ retidos, 5.11 s/it, convergiu=False
+[2026-10-25 09:44:36] c1: continuing c1 from mcmc_chain_c1_cont63.npz (400 iterations) -> cont64
+[2026-10-25 09:44:39] c1: MCMC it     0  acc 0.306  lp max -1581.1 median -1586.0  2.03 s/it
+[2026-10-25 09:48:06] c1: MCMC it   100  acc 0.311  lp max -1581.6 median -1585.8  2.07 s/it
+[2026-10-25 09:51:32] c1: MCMC it   200  acc 0.315  lp max -1580.4 median -1586.1  2.06 s/it
+[2026-10-25 09:54:59] c1: MCMC it   300  acc 0.316  lp max -1582.5 median -1586.6  2.07 s/it
+[2026-10-25 09:58:47] c1: MCMC continuation done, acceptance 0.315
+[2026-10-25 09:58:49] c1: 27202 it, R-hat máx 1.034 (C_u_V2), τ máx 945 (h_p2), 14.4 τ retidos, 2.13 s/it, convergiu=False
+[2026-10-25 09:58:49] c1: continuing c1 from mcmc_chain_c1_cont64.npz (400 iterations) -> cont65
+[2026-10-25 09:58:53] c1: MCMC it     0  acc 0.306  lp max -1580.6 median -1586.2  2.37 s/it
+[2026-10-25 10:03:01] c1: MCMC it   100  acc 0.317  lp max -1582.1 median -1586.7  2.48 s/it
+[2026-10-25 10:07:03] c1: MCMC it   200  acc 0.310  lp max -1581.1 median -1587.0  2.45 s/it
+[2026-10-25 10:10:58] c1: MCMC it   300  acc 0.310  lp max -1580.8 median -1586.2  2.42 s/it
+[2026-10-25 10:14:52] c1: MCMC continuation done, acceptance 0.309
+[2026-10-25 10:14:54] c1: 27602 it, R-hat máx 1.034 (a_p), τ máx 903 (h_p2), 15.3 τ retidos, 2.41 s/it, convergiu=False
+[2026-10-25 10:14:54] c1: tempo máximo de 16 h atingido sem convergir
+[2026-10-25 10:14:55] c2: 3000 it, R-hat máx 2.072, τ máx 205, 7.3 τ retidos, convergiu=False
+[2026-10-25 10:14:57] c2: continuing c2 from mcmc_chain_c2_cont1.npz (1500 iterations) -> cont2
+[2026-10-25 10:15:19] c2: MCMC it     0  acc 0.225  lp max -10684.8 median -10689.5  5.65 s/it
+[2026-10-25 10:24:36] c2: MCMC it   100  acc 0.208  lp max -10683.7 median -10688.8  5.58 s/it
+[2026-10-25 10:33:58] c2: MCMC it   200  acc 0.215  lp max -10685.5 median -10690.4  5.60 s/it
+[2026-10-25 10:43:10] c2: MCMC continuation done, acceptance 0.220
+[2026-10-25 10:43:10] c2: 3300 it, R-hat máx 1.988 (A_m), τ máx 213 (A_m), 7.8 τ retidos, 5.65 s/it, convergiu=False
+[2026-10-25 10:43:10] c2: continuing c2 from mcmc_chain_c2_cont2.npz (300 iterations) -> cont3
+[2026-10-25 10:43:19] c2: MCMC it     0  acc 0.125  lp max -10686.1 median -10690.1  5.49 s/it
+[2026-10-25 10:52:39] c2: MCMC it   100  acc 0.216  lp max -10683.7 median -10691.0  5.59 s/it
+[2026-10-25 11:01:57] c2: MCMC it   200  acc 0.208  lp max -10683.9 median -10688.6  5.59 s/it
+[2026-10-25 11:11:22] c2: MCMC continuation done, acceptance 0.213
+[2026-10-25 11:11:22] c2: 3600 it, R-hat máx 1.872 (A_m), τ máx 254 (A_m), 7.1 τ retidos, 5.64 s/it, convergiu=False
+[2026-10-25 11:11:22] c2: continuing c2 from mcmc_chain_c2_cont3.npz (300 iterations) -> cont4
+[2026-10-25 11:11:31] c2: MCMC it     0  acc 0.200  lp max -10684.0 median -10689.7  5.53 s/it
+[2026-10-25 11:20:51] c2: MCMC it   100  acc 0.215  lp max -10684.2 median -10689.9  5.60 s/it
+[2026-10-25 11:30:11] c2: MCMC it   200  acc 0.211  lp max -10687.0 median -10689.9  5.60 s/it
+[2026-10-25 11:40:04] c2: MCMC continuation done, acceptance 0.210
+[2026-10-25 11:40:04] c2: 3900 it, R-hat máx 1.811 (A_m), τ máx 271 (A_m), 7.2 τ retidos, 5.74 s/it, convergiu=False
+[2026-10-25 11:40:04] c2: continuing c2 from mcmc_chain_c2_cont4.npz (300 iterations) -> cont5
+[2026-10-25 11:40:12] c2: MCMC it     0  acc 0.200  lp max -10685.9 median -10689.8  4.99 s/it
+[2026-10-25 11:50:07] c2: MCMC it   100  acc 0.209  lp max -10684.3 median -10690.9  5.94 s/it
+[2026-10-25 12:00:29] c2: MCMC it   200  acc 0.207  lp max -10684.6 median -10690.1  6.08 s/it
+[2026-10-25 12:09:44] c2: MCMC continuation done, acceptance 0.204
+[2026-10-25 12:09:45] c2: 4200 it, R-hat máx 1.894 (A_m), τ máx 256 (C_0), 8.2 τ retidos, 5.94 s/it, convergiu=False
+[2026-10-25 12:09:45] c2: continuing c2 from mcmc_chain_c2_cont5.npz (300 iterations) -> cont6
+[2026-10-25 12:09:53] c2: MCMC it     0  acc 0.175  lp max -10684.1 median -10689.4  5.16 s/it
+[2026-10-25 12:18:42] c2: MCMC it   100  acc 0.212  lp max -10685.0 median -10689.9  5.29 s/it
+[2026-10-25 12:27:27] c2: MCMC it   200  acc 0.214  lp max -10684.3 median -10691.1  5.27 s/it
+[2026-10-25 12:36:32] c2: MCMC continuation done, acceptance 0.213
+[2026-10-25 12:36:33] c2: 4500 it, R-hat máx 1.845 (A_m), τ máx 278 (c_f), 8.1 τ retidos, 5.36 s/it, convergiu=False
+[2026-10-25 12:36:33] c2: continuing c2 from mcmc_chain_c2_cont6.npz (300 iterations) -> cont7
+[2026-10-25 12:36:42] c2: MCMC it     0  acc 0.125  lp max -10684.2 median -10690.1  5.53 s/it
+[2026-10-25 12:46:24] c2: MCMC it   100  acc 0.197  lp max -10683.7 median -10689.5  5.82 s/it
+[2026-10-25 12:55:08] c2: MCMC it   200  acc 0.198  lp max -10684.2 median -10688.7  5.53 s/it
+[2026-10-25 13:03:48] c2: MCMC continuation done, acceptance 0.200
+[2026-10-25 13:03:48] c2: 4800 it, R-hat máx 1.823 (A_m), τ máx 294 (c_f), 8.2 τ retidos, 5.45 s/it, convergiu=False
+[2026-10-25 13:03:48] c2: continuing c2 from mcmc_chain_c2_cont7.npz (300 iterations) -> cont8
+[2026-10-25 13:03:56] c2: MCMC it     0  acc 0.275  lp max -10684.5 median -10689.2  5.02 s/it
+[2026-10-25 13:12:55] c2: MCMC it   100  acc 0.208  lp max -10684.9 median -10689.8  5.39 s/it
+[2026-10-25 13:22:34] c2: MCMC it   200  acc 0.206  lp max -10685.0 median -10690.0  5.59 s/it
+[2026-10-25 13:32:39] c2: MCMC continuation done, acceptance 0.208
+[2026-10-25 13:32:39] c2: 5100 it, R-hat máx 1.746 (A_m), τ máx 323 (d_w), 7.9 τ retidos, 5.77 s/it, convergiu=False
+[2026-10-25 13:32:39] c2: continuing c2 from mcmc_chain_c2_cont8.npz (300 iterations) -> cont9
+[2026-10-25 13:32:52] c2: MCMC it     0  acc 0.050  lp max -10684.8 median -10690.0  8.54 s/it
+[2026-10-25 13:42:56] c2: MCMC it   100  acc 0.218  lp max -10683.3 median -10689.4  6.06 s/it
+[2026-10-25 13:52:02] c2: MCMC it   200  acc 0.213  lp max -10682.7 median -10689.7  5.77 s/it
+[2026-10-25 14:00:58] c2: MCMC continuation done, acceptance 0.208
+[2026-10-25 14:00:59] c2: 5400 it, R-hat máx 1.697 (A_m), τ máx 356 (A_d), 7.6 τ retidos, 5.67 s/it, convergiu=False
+[2026-10-25 14:00:59] c2: continuing c2 from mcmc_chain_c2_cont9.npz (300 iterations) -> cont10
+[2026-10-25 14:01:07] c2: MCMC it     0  acc 0.175  lp max -10683.5 median -10690.0  5.40 s/it
+[2026-10-25 14:10:27] c2: MCMC it   100  acc 0.189  lp max -10684.7 median -10690.7  5.60 s/it
+[2026-10-25 14:20:15] c2: MCMC it   200  acc 0.188  lp max -10683.9 median -10689.7  5.74 s/it
+[2026-10-25 14:30:56] c2: MCMC continuation done, acceptance 0.187
+[2026-10-25 14:30:57] c2: 5700 it, R-hat máx 1.685 (A_m), τ máx 393 (G_w), 7.3 τ retidos, 5.99 s/it, convergiu=False
+[2026-10-25 14:30:57] c2: continuing c2 from mcmc_chain_c2_cont10.npz (300 iterations) -> cont11
+[2026-10-25 14:31:07] c2: MCMC it     0  acc 0.225  lp max -10685.5 median -10689.1  7.00 s/it
+[2026-10-25 14:43:02] c2: MCMC it   100  acc 0.186  lp max -10684.7 median -10690.1  7.15 s/it
+[2026-10-25 14:56:33] c2: MCMC it   200  acc 0.179  lp max -10684.3 median -10689.5  7.62 s/it
+[2026-10-25 15:06:22] c2: MCMC continuation done, acceptance 0.184
+[2026-10-25 15:06:22] c2: 6000 it, R-hat máx 1.699 (A_m), τ máx 396 (G_w), 7.6 τ retidos, 7.09 s/it, convergiu=False
+[2026-10-25 15:06:22] c2: continuing c2 from mcmc_chain_c2_cont11.npz (300 iterations) -> cont12
+[2026-10-25 15:06:32] c2: MCMC it     0  acc 0.150  lp max -10684.3 median -10689.3  5.82 s/it
+[2026-10-25 15:16:34] c2: MCMC it   100  acc 0.203  lp max -10683.4 median -10689.6  6.02 s/it
+[2026-10-25 15:27:13] c2: MCMC it   200  acc 0.197  lp max -10683.4 median -10691.5  6.21 s/it
+[2026-10-25 15:37:56] c2: MCMC continuation done, acceptance 0.193
+[2026-10-25 15:37:57] c2: 6300 it, R-hat máx 1.731 (A_m), τ máx 418 (m_1), 7.5 τ retidos, 6.32 s/it, convergiu=False
+[2026-10-25 15:37:57] c2: continuing c2 from mcmc_chain_c2_cont12.npz (300 iterations) -> cont13
+[2026-10-25 15:38:06] c2: MCMC it     0  acc 0.275  lp max -10684.9 median -10690.2  6.10 s/it
+[2026-10-25 15:49:58] c2: MCMC it   100  acc 0.193  lp max -10685.2 median -10691.1  7.10 s/it
+[2026-10-25 16:04:33] c2: MCMC it   200  acc 0.194  lp max -10685.3 median -10689.5  7.93 s/it
+[2026-10-25 16:15:09] c2: MCMC continuation done, acceptance 0.195
+[2026-10-25 16:15:10] c2: 6600 it, R-hat máx 1.705 (A_m), τ máx 372 (l_d), 8.9 τ retidos, 7.45 s/it, convergiu=False
+[2026-10-25 16:15:10] c2: continuing c2 from mcmc_chain_c2_cont13.npz (300 iterations) -> cont14
+[2026-10-25 16:15:21] c2: MCMC it     0  acc 0.225  lp max -10684.6 median -10690.4  6.79 s/it
+[2026-10-25 16:34:30] c2: MCMC it   100  acc 0.184  lp max -10684.1 median -10690.3  11.45 s/it
+[2026-10-25 16:50:15] c2: MCMC it   200  acc 0.183  lp max -10683.5 median -10688.6  10.45 s/it
+[2026-10-25 17:07:03] c2: MCMC continuation done, acceptance 0.185
+[2026-10-25 17:07:04] c2: 6900 it, R-hat máx 1.709 (A_m), τ máx 413 (n_f), 8.4 τ retidos, 10.38 s/it, convergiu=False
+[2026-10-25 17:07:04] c2: continuing c2 from mcmc_chain_c2_cont14.npz (300 iterations) -> cont15
+[2026-10-25 17:07:14] c2: MCMC it     0  acc 0.200  lp max -10686.2 median -10689.4  6.12 s/it
+[2026-10-25 17:19:10] c2: MCMC it   100  acc 0.191  lp max -10684.1 median -10689.7  7.15 s/it
+[2026-10-25 17:32:22] c2: MCMC it   200  acc 0.192  lp max -10683.8 median -10690.0  7.53 s/it
+[2026-10-25 17:42:56] c2: MCMC continuation done, acceptance 0.193
+[2026-10-25 17:42:57] c2: 7200 it, R-hat máx 1.723 (A_m), τ máx 440 (a_b), 8.2 τ retidos, 7.18 s/it, convergiu=False
+[2026-10-25 17:42:57] c2: continuing c2 from mcmc_chain_c2_cont15.npz (300 iterations) -> cont16
+[2026-10-25 17:43:05] c2: MCMC it     0  acc 0.100  lp max -10685.2 median -10689.6  5.39 s/it
+[2026-10-25 17:56:24] c2: MCMC it   100  acc 0.202  lp max -10683.9 median -10689.0  7.96 s/it
+[2026-10-25 18:09:38] c2: MCMC it   200  acc 0.189  lp max -10686.0 median -10689.5  7.95 s/it
+[2026-10-25 18:21:47] c2: MCMC continuation done, acceptance 0.191
+[2026-10-25 18:21:48] c2: 7500 it, R-hat máx 1.707 (A_m), τ máx 473 (a_b), 7.9 τ retidos, 7.77 s/it, convergiu=False
+[2026-10-25 18:21:48] c2: continuing c2 from mcmc_chain_c2_cont16.npz (300 iterations) -> cont17
+[2026-10-25 18:21:59] c2: MCMC it     0  acc 0.175  lp max -10684.3 median -10688.8  7.41 s/it
+[2026-10-25 18:32:55] c2: MCMC it   100  acc 0.204  lp max -10686.2 median -10689.2  6.57 s/it
+[2026-10-25 18:46:33] c2: MCMC it   200  acc 0.201  lp max -10685.6 median -10689.9  7.37 s/it
+[2026-10-26 04:24:32] pedido ao Windows para não suspender enquanto o processo roda
+[2026-10-26 04:24:32] ======================================================================
+[2026-10-26 04:24:32] início: (padrão: C1, C2 e pós-processamento)
+[2026-10-26 04:24:43] c1: 27602 it, R-hat máx 1.034, τ máx 903, 15.3 τ retidos, convergiu=False
+[2026-10-26 04:24:45] c1: continuing c1 from mcmc_chain_c1_cont65.npz (400 iterations) -> cont66
+[2026-10-26 04:24:55] c1: MCMC it     0  acc 0.333  lp max -1580.0 median -1585.8  2.50 s/it
+[2026-10-26 04:29:45] c1: MCMC it   100  acc 0.309  lp max -1582.2 median -1586.7  2.90 s/it
+[2026-10-26 04:34:40] c1: MCMC it   200  acc 0.307  lp max -1582.9 median -1587.4  2.93 s/it
+[2026-10-26 04:39:58] c1: MCMC it   300  acc 0.305  lp max -1582.1 median -1585.9  3.01 s/it
+[2026-10-26 04:45:14] c1: MCMC continuation done, acceptance 0.302
+[2026-10-26 04:45:18] c1: 28002 it, R-hat máx 1.031 (a_p), τ máx 867 (h_p2), 16.2 τ retidos, 3.08 s/it, convergiu=False
+[2026-10-26 04:45:18] c1: continuing c1 from mcmc_chain_c1_cont66.npz (400 iterations) -> cont67
+[2026-10-26 04:45:23] c1: MCMC it     0  acc 0.278  lp max -1582.0 median -1587.1  3.08 s/it
+[2026-10-26 04:50:39] c1: MCMC it   100  acc 0.313  lp max -1581.5 median -1586.8  3.15 s/it
+[2026-10-26 04:55:55] c1: MCMC it   200  acc 0.304  lp max -1581.1 median -1585.4  3.16 s/it
+[2026-10-26 05:01:18] c1: MCMC it   300  acc 0.310  lp max -1580.2 median -1586.2  3.18 s/it
+[2026-10-26 05:06:27] c1: MCMC continuation done, acceptance 0.307
+[2026-10-26 05:06:31] c1: 28402 it, R-hat máx 1.031 (a_p), τ máx 832 (h_p2), 17.1 τ retidos, 3.18 s/it, convergiu=False
+[2026-10-26 05:06:31] c1: continuing c1 from mcmc_chain_c1_cont67.npz (400 iterations) -> cont68
+[2026-10-26 05:06:36] c1: MCMC it     0  acc 0.306  lp max -1581.3 median -1585.5  3.12 s/it
+[2026-10-26 05:11:47] c1: MCMC it   100  acc 0.315  lp max -1581.5 median -1585.2  3.11 s/it
+[2026-10-26 05:16:57] c1: MCMC it   200  acc 0.310  lp max -1580.9 median -1586.6  3.11 s/it
+[2026-10-26 05:22:06] c1: MCMC it   300  acc 0.314  lp max -1582.2 median -1586.2  3.10 s/it
+[2026-10-26 05:27:13] c1: MCMC continuation done, acceptance 0.312
+[2026-10-26 05:27:16] c1: 28802 it, R-hat máx 1.033 (a_p), τ máx 799 (h_p2), 18.0 τ retidos, 3.11 s/it, convergiu=False
+[2026-10-26 05:27:16] c1: continuing c1 from mcmc_chain_c1_cont68.npz (400 iterations) -> cont69
+[2026-10-26 05:27:21] c1: MCMC it     0  acc 0.361  lp max -1579.6 median -1585.9  3.01 s/it
+[2026-10-26 05:32:32] c1: MCMC it   100  acc 0.318  lp max -1581.1 median -1585.9  3.11 s/it
+[2026-10-26 05:37:43] c1: MCMC it   200  acc 0.311  lp max -1581.9 median -1585.5  3.11 s/it
+[2026-10-26 05:42:51] c1: MCMC it   300  acc 0.309  lp max -1581.1 median -1585.6  3.10 s/it
+[2026-10-26 05:47:41] c1: MCMC continuation done, acceptance 0.310
+[2026-10-26 05:47:44] c1: 29202 it, R-hat máx 1.033 (a_p), τ máx 785 (h_p2), 18.6 τ retidos, 3.07 s/it, convergiu=False
+[2026-10-26 05:47:44] c1: continuing c1 from mcmc_chain_c1_cont69.npz (400 iterations) -> cont70
+[2026-10-26 05:47:49] c1: MCMC it     0  acc 0.194  lp max -1581.6 median -1586.5  2.91 s/it
+[2026-10-26 05:52:38] c1: MCMC it   100  acc 0.310  lp max -1582.7 median -1586.1  2.89 s/it
+[2026-10-26 05:57:28] c1: MCMC it   200  acc 0.309  lp max -1581.9 median -1586.2  2.90 s/it
+[2026-10-26 06:02:20] c1: MCMC it   300  acc 0.315  lp max -1582.1 median -1586.0  2.90 s/it
+[2026-10-26 06:07:06] c1: MCMC continuation done, acceptance 0.315
+[2026-10-26 06:07:09] c1: 29602 it, R-hat máx 1.032 (a_p), τ máx 705 (h_p2), 21.0 τ retidos, 2.91 s/it, convergiu=False
+[2026-10-26 06:07:09] c1: continuing c1 from mcmc_chain_c1_cont70.npz (400 iterations) -> cont71
+[2026-10-26 06:07:14] c1: MCMC it     0  acc 0.361  lp max -1582.6 median -1586.1  2.80 s/it
+[2026-10-26 06:12:04] c1: MCMC it   100  acc 0.313  lp max -1581.6 median -1586.6  2.89 s/it
+[2026-10-26 06:16:54] c1: MCMC it   200  acc 0.318  lp max -1581.1 median -1586.2  2.90 s/it
+[2026-10-26 06:21:44] c1: MCMC it   300  acc 0.316  lp max -1581.2 median -1586.5  2.90 s/it
+[2026-10-26 06:26:31] c1: MCMC continuation done, acceptance 0.316
+[2026-10-26 06:26:34] c1: 30002 it, R-hat máx 1.031 (a_p), τ máx 601 (R_rec_V2), 25.0 τ retidos, 2.91 s/it, convergiu=False
+[2026-10-26 06:26:34] c1: continuing c1 from mcmc_chain_c1_cont71.npz (400 iterations) -> cont72
+[2026-10-26 06:26:39] c1: MCMC it     0  acc 0.278  lp max -1581.5 median -1585.7  2.93 s/it
+[2026-10-26 06:31:29] c1: MCMC it   100  acc 0.296  lp max -1582.5 median -1586.3  2.90 s/it
+[2026-10-26 06:36:18] c1: MCMC it   200  acc 0.302  lp max -1582.4 median -1586.2  2.90 s/it
+[2026-10-26 06:41:07] c1: MCMC it   300  acc 0.298  lp max -1581.8 median -1586.2  2.90 s/it
+[2026-10-26 06:45:54] c1: MCMC continuation done, acceptance 0.302
+[2026-10-26 06:45:57] c1: 30402 it, R-hat máx 1.031 (C_u_V2), τ máx 700 (R_rec_V2), 21.7 τ retidos, 2.91 s/it, convergiu=False
+[2026-10-26 06:45:57] c1: continuing c1 from mcmc_chain_c1_cont72.npz (400 iterations) -> cont73
+[2026-10-26 06:46:02] c1: MCMC it     0  acc 0.222  lp max -1581.2 median -1586.1  2.83 s/it
+[2026-10-26 06:50:51] c1: MCMC it   100  acc 0.308  lp max -1581.5 median -1586.1  2.89 s/it
+[2026-10-26 06:55:40] c1: MCMC it   200  acc 0.314  lp max -1580.8 median -1585.4  2.89 s/it
+[2026-10-26 07:00:29] c1: MCMC it   300  acc 0.312  lp max -1580.5 median -1585.6  2.89 s/it
+[2026-10-26 07:05:17] c1: MCMC continuation done, acceptance 0.314
+[2026-10-26 07:05:20] c1: 30802 it, R-hat máx 1.030 (C_u_V1), τ máx 751 (R_rec_V2), 20.5 τ retidos, 2.91 s/it, convergiu=False
+[2026-10-26 07:05:20] c1: continuing c1 from mcmc_chain_c1_cont73.npz (400 iterations) -> cont74
+[2026-10-26 07:05:24] c1: MCMC it     0  acc 0.278  lp max -1580.9 median -1585.9  2.93 s/it
+[2026-10-26 07:10:14] c1: MCMC it   100  acc 0.297  lp max -1582.8 median -1586.3  2.89 s/it
+[2026-10-26 07:15:03] c1: MCMC it   200  acc 0.308  lp max -1579.9 median -1585.7  2.89 s/it
+[2026-10-26 07:19:52] c1: MCMC it   300  acc 0.312  lp max -1580.1 median -1585.9  2.89 s/it
+[2026-10-26 07:24:40] c1: MCMC continuation done, acceptance 0.313
+[2026-10-26 07:24:43] c1: 31202 it, R-hat máx 1.029 (C_u_V1), τ máx 741 (r_open), 21.1 τ retidos, 2.91 s/it, convergiu=False
+[2026-10-26 07:24:43] c1: continuing c1 from mcmc_chain_c1_cont74.npz (400 iterations) -> cont75
+[2026-10-26 07:24:48] c1: MCMC it     0  acc 0.361  lp max -1581.1 median -1586.3  3.06 s/it
+[2026-10-26 07:29:40] c1: MCMC it   100  acc 0.305  lp max -1582.1 median -1585.9  2.92 s/it
+[2026-10-26 07:34:35] c1: MCMC it   200  acc 0.307  lp max -1581.5 median -1586.6  2.93 s/it
+[2026-10-26 07:38:49] c1: MCMC it   300  acc 0.308  lp max -1582.1 median -1586.2  2.80 s/it
+[2026-10-26 07:42:58] c1: MCMC continuation done, acceptance 0.310
+[2026-10-26 07:43:01] c1: 31602 it, R-hat máx 1.029 (C_u_V1), τ máx 759 (r_open), 20.8 τ retidos, 2.74 s/it, convergiu=False
+[2026-10-26 07:43:01] c1: continuing c1 from mcmc_chain_c1_cont75.npz (400 iterations) -> cont76
+[2026-10-26 07:43:04] c1: MCMC it     0  acc 0.333  lp max -1581.0 median -1586.5  2.36 s/it
+[2026-10-26 07:47:51] c1: MCMC it   100  acc 0.316  lp max -1581.8 median -1586.1  2.86 s/it
+[2026-10-26 07:52:51] c1: MCMC it   200  acc 0.316  lp max -1581.1 median -1587.4  2.93 s/it
+[2026-10-26 07:57:48] c1: MCMC it   300  acc 0.314  lp max -1581.6 median -1584.9  2.94 s/it
+[2026-10-26 08:02:31] c1: MCMC continuation done, acceptance 0.310
+[2026-10-26 08:02:35] c1: 32002 it, R-hat máx 1.029 (C_u_V1), τ máx 713 (r_open), 22.4 τ retidos, 2.94 s/it, convergiu=False
+[2026-10-26 08:02:35] c1: continuing c1 from mcmc_chain_c1_cont76.npz (400 iterations) -> cont77
+[2026-10-26 08:02:41] c1: MCMC it     0  acc 0.222  lp max -1582.3 median -1586.8  3.45 s/it
+[2026-10-26 08:09:05] c1: MCMC it   100  acc 0.304  lp max -1582.2 median -1586.0  3.84 s/it
+[2026-10-26 08:14:35] c1: MCMC it   200  acc 0.306  lp max -1582.9 median -1586.3  3.57 s/it
+[2026-10-26 08:18:58] c1: MCMC it   300  acc 0.308  lp max -1580.2 median -1586.7  3.26 s/it
+[2026-10-26 08:23:14] c1: MCMC continuation done, acceptance 0.308
+[2026-10-26 08:23:17] c1: 32402 it, R-hat máx 1.029 (C_u_V1), τ máx 687 (r_open), 23.6 τ retidos, 3.10 s/it, convergiu=False
+[2026-10-26 08:23:17] c1: continuing c1 from mcmc_chain_c1_cont77.npz (400 iterations) -> cont78
+[2026-10-26 08:23:20] c1: MCMC it     0  acc 0.389  lp max -1582.6 median -1586.1  2.35 s/it
+[2026-10-26 08:27:10] c1: MCMC it   100  acc 0.315  lp max -1581.5 median -1586.6  2.30 s/it
+[2026-10-26 08:31:14] c1: MCMC it   200  acc 0.309  lp max -1582.2 median -1586.7  2.37 s/it
+[2026-10-26 08:35:21] c1: MCMC it   300  acc 0.303  lp max -1582.6 median -1585.8  2.40 s/it
+[2026-10-26 08:39:03] c1: MCMC continuation done, acceptance 0.304
+[2026-10-26 08:39:06] c1: 32802 it, R-hat máx 1.029 (C_u_V1), τ máx 868 (R_rec_V2), 18.9 τ retidos, 2.37 s/it, convergiu=False
+[2026-10-26 08:39:06] c1: continuing c1 from mcmc_chain_c1_cont78.npz (400 iterations) -> cont79
+[2026-10-26 08:39:09] c1: MCMC it     0  acc 0.333  lp max -1581.8 median -1586.4  2.13 s/it
+[2026-10-26 08:42:53] c1: MCMC it   100  acc 0.312  lp max -1581.6 median -1586.5  2.24 s/it
+[2026-10-26 08:46:36] c1: MCMC it   200  acc 0.310  lp max -1581.7 median -1585.8  2.23 s/it
+[2026-10-26 08:50:18] c1: MCMC it   300  acc 0.307  lp max -1580.5 median -1586.2  2.23 s/it
+[2026-10-26 08:53:58] c1: MCMC continuation done, acceptance 0.306
+[2026-10-26 08:54:01] c1: 33202 it, R-hat máx 1.028 (C_u_V1), τ máx 863 (R_rec_V2), 19.2 τ retidos, 2.24 s/it, convergiu=False
+[2026-10-26 08:54:01] c1: continuing c1 from mcmc_chain_c1_cont79.npz (400 iterations) -> cont80
+[2026-10-26 08:54:04] c1: MCMC it     0  acc 0.361  lp max -1581.8 median -1586.4  2.18 s/it
+[2026-10-26 08:57:46] c1: MCMC it   100  acc 0.311  lp max -1582.9 median -1586.8  2.21 s/it
+[2026-10-26 09:01:30] c1: MCMC it   200  acc 0.306  lp max -1580.2 median -1586.0  2.23 s/it
+[2026-10-26 10:27:39] c1: MCMC it   300  acc 0.310  lp max -1581.5 median -1586.9  18.66 s/it
+[2026-10-26 10:31:01] c1: MCMC continuation done, acceptance 0.311
+[2026-10-26 10:31:06] c1: 33602 it, R-hat máx 1.026 (C_u_V1), τ máx 826 (R_rec_V2), 20.3 τ retidos, 14.56 s/it, convergiu=False
+[2026-10-26 10:31:06] c1: continuing c1 from mcmc_chain_c1_cont80.npz (400 iterations) -> cont81
+[2026-10-26 10:31:11] c1: MCMC it     0  acc 0.306  lp max -1581.6 median -1587.1  3.30 s/it
+[2026-10-26 10:35:53] c1: MCMC it   100  acc 0.301  lp max -1580.4 median -1585.9  2.82 s/it
+[2026-10-26 10:39:29] c1: MCMC it   200  acc 0.309  lp max -1580.4 median -1586.6  2.49 s/it
+[2026-10-26 10:44:46] c1: MCMC it   300  acc 0.310  lp max -1582.4 median -1586.0  2.72 s/it
+[2026-10-26 10:50:01] c1: MCMC continuation done, acceptance 0.315
+[2026-10-26 10:50:06] c1: 34002 it, R-hat máx 1.025 (C_u_V1), τ máx 785 (R_rec_V2), 21.6 τ retidos, 2.85 s/it, convergiu=False
+[2026-10-26 10:50:06] c1: continuing c1 from mcmc_chain_c1_cont81.npz (400 iterations) -> cont82
+[2026-10-26 10:50:11] c1: MCMC it     0  acc 0.333  lp max -1581.7 median -1585.6  3.26 s/it
+[2026-10-26 10:55:25] c1: MCMC it   100  acc 0.315  lp max -1579.8 median -1585.4  3.14 s/it
+[2026-10-26 11:00:38] c1: MCMC it   200  acc 0.308  lp max -1583.6 median -1587.0  3.13 s/it
+[2026-10-26 11:05:50] c1: MCMC it   300  acc 0.310  lp max -1580.6 median -1587.0  3.13 s/it
+[2026-10-26 11:10:52] c1: MCMC continuation done, acceptance 0.313
+[2026-10-26 11:10:57] c1: 34402 it, R-hat máx 1.026 (C_p), τ máx 746 (R_rec_V2), 23.0 τ retidos, 3.13 s/it, convergiu=False
+[2026-10-26 11:10:57] c1: continuing c1 from mcmc_chain_c1_cont82.npz (400 iterations) -> cont83
+[2026-10-26 11:11:01] c1: MCMC it     0  acc 0.222  lp max -1580.5 median -1586.3  2.94 s/it
+[2026-10-26 11:16:02] c1: MCMC it   100  acc 0.315  lp max -1581.9 median -1587.0  3.01 s/it
+[2026-10-26 11:21:08] c1: MCMC it   200  acc 0.317  lp max -1580.5 median -1586.1  3.03 s/it
+[2026-10-26 11:26:14] c1: MCMC it   300  acc 0.313  lp max -1582.2 median -1585.6  3.04 s/it
+[2026-10-26 11:32:15] c1: MCMC continuation done, acceptance 0.315
+[2026-10-26 11:32:20] c1: 34802 it, R-hat máx 1.027 (C_p), τ máx 737 (R_rec_V2), 23.6 τ retidos, 3.21 s/it, convergiu=False
+[2026-10-26 11:32:20] c1: continuing c1 from mcmc_chain_c1_cont83.npz (400 iterations) -> cont84
+[2026-10-26 11:32:27] c1: MCMC it     0  acc 0.222  lp max -1581.4 median -1586.7  4.27 s/it
+[2026-10-26 11:39:33] c1: MCMC it   100  acc 0.317  lp max -1581.3 median -1586.0  4.27 s/it
+[2026-10-26 11:46:38] c1: MCMC it   200  acc 0.314  lp max -1581.7 median -1587.0  4.25 s/it
+[2026-10-26 11:53:40] c1: MCMC it   300  acc 0.311  lp max -1582.3 median -1585.7  4.25 s/it
+[2026-10-26 12:01:42] c1: MCMC continuation done, acceptance 0.311
+[2026-10-26 12:01:51] c1: 35202 it, R-hat máx 1.030 (C_p), τ máx 736 (R_rec_V2), 23.9 τ retidos, 4.43 s/it, convergiu=False
+[2026-10-26 12:01:51] c1: continuing c1 from mcmc_chain_c1_cont84.npz (400 iterations) -> cont85
+[2026-10-26 12:02:01] c1: MCMC it     0  acc 0.333  lp max -1580.7 median -1585.7  6.02 s/it
+[2026-10-26 12:11:32] c1: MCMC it   100  acc 0.329  lp max -1583.0 median -1586.3  5.71 s/it
+[2026-10-26 12:18:43] c1: MCMC it   200  acc 0.315  lp max -1581.4 median -1585.8  5.01 s/it
+[2026-10-26 12:23:47] c1: MCMC it   300  acc 0.312  lp max -1582.3 median -1587.4  4.36 s/it
+[2026-10-26 12:29:04] c1: MCMC continuation done, acceptance 0.311
+[2026-10-26 12:29:09] c1: 35602 it, R-hat máx 1.030 (C_p), τ máx 734 (R_rec_V2), 24.2 τ retidos, 4.10 s/it, convergiu=False
+[2026-10-26 12:29:09] c1: continuing c1 from mcmc_chain_c1_cont85.npz (400 iterations) -> cont86
+[2026-10-26 12:29:15] c1: MCMC it     0  acc 0.250  lp max -1581.6 median -1585.5  3.46 s/it
+[2026-10-26 12:34:41] c1: MCMC it   100  acc 0.322  lp max -1580.7 median -1586.5  3.27 s/it
+[2026-10-26 12:40:48] c1: MCMC it   200  acc 0.312  lp max -1580.9 median -1586.3  3.46 s/it
+[2026-10-26 12:48:12] c1: MCMC it   300  acc 0.313  lp max -1580.4 median -1587.4  3.79 s/it
+[2026-10-26 12:54:17] c1: MCMC continuation done, acceptance 0.313
+[2026-10-26 12:54:23] c1: 36002 it, R-hat máx 1.031 (C_p), τ máx 701 (R_rec_V2), 25.7 τ retidos, 3.78 s/it, convergiu=False
+[2026-10-26 12:54:23] c1: continuing c1 from mcmc_chain_c1_cont86.npz (400 iterations) -> cont87
+[2026-10-26 12:54:29] c1: MCMC it     0  acc 0.306  lp max -1581.8 median -1585.5  3.64 s/it
+[2026-10-26 13:02:52] c1: MCMC it   100  acc 0.312  lp max -1580.8 median -1585.5  5.02 s/it
+[2026-10-26 13:12:00] c1: MCMC it   200  acc 0.308  lp max -1581.0 median -1585.5  5.25 s/it
+[2026-10-26 13:21:11] c1: MCMC it   300  acc 0.309  lp max -1582.4 median -1585.6  5.33 s/it
+[2026-10-26 13:31:51] c1: MCMC continuation done, acceptance 0.311
+[2026-10-26 13:32:00] c1: 36402 it, R-hat máx 1.031 (C_p), τ máx 714 (R_rec_V2), 25.5 τ retidos, 5.64 s/it, convergiu=False
+[2026-10-26 13:32:00] c1: continuing c1 from mcmc_chain_c1_cont87.npz (400 iterations) -> cont88
+[2026-10-26 13:32:10] c1: MCMC it     0  acc 0.389  lp max -1581.4 median -1586.3  5.99 s/it
+[2026-10-26 13:38:02] c1: MCMC it   100  acc 0.302  lp max -1581.0 median -1585.3  3.55 s/it
+[2026-10-26 13:44:32] c1: MCMC it   200  acc 0.306  lp max -1580.7 median -1586.3  3.72 s/it
+[2026-10-26 13:49:59] c1: MCMC it   300  acc 0.308  lp max -1580.9 median -1586.0  3.57 s/it
+[2026-10-26 13:58:30] c1: MCMC continuation done, acceptance 0.308
+[2026-10-26 13:58:41] c1: 36802 it, R-hat máx 1.031 (C_p), τ máx 724 (R_rec_V2), 25.4 τ retidos, 4.00 s/it, convergiu=False
+[2026-10-26 13:58:41] c1: continuing c1 from mcmc_chain_c1_cont88.npz (400 iterations) -> cont89
+[2026-10-26 13:58:52] c1: MCMC it     0  acc 0.306  lp max -1581.1 median -1585.2  6.63 s/it
+[2026-10-26 14:12:01] c1: MCMC it   100  acc 0.312  lp max -1580.9 median -1585.3  7.88 s/it
+[2026-10-26 14:23:47] c1: MCMC it   200  acc 0.310  lp max -1581.6 median -1586.2  7.47 s/it
+[2026-10-26 14:32:25] c1: MCMC it   300  acc 0.310  lp max -1580.6 median -1585.9  6.71 s/it
+[2026-10-26 14:41:12] c1: MCMC continuation done, acceptance 0.313
+[2026-10-26 14:41:20] c1: 37202 it, R-hat máx 1.031 (C_p), τ máx 696 (R_rec_V2), 26.7 τ retidos, 6.40 s/it, convergiu=False
+[2026-10-26 14:41:20] c1: continuing c1 from mcmc_chain_c1_cont89.npz (400 iterations) -> cont90
+[2026-10-26 14:41:30] c1: MCMC it     0  acc 0.194  lp max -1582.3 median -1586.3  6.80 s/it
+[2026-10-26 14:51:41] c1: MCMC it   100  acc 0.304  lp max -1582.4 median -1586.4  6.12 s/it
+[2026-10-26 15:00:24] c1: MCMC it   200  acc 0.310  lp max -1581.8 median -1585.8  5.67 s/it
+[2026-10-26 15:09:38] c1: MCMC it   300  acc 0.312  lp max -1581.5 median -1585.8  5.63 s/it
+[2026-10-26 15:17:28] c1: MCMC continuation done, acceptance 0.311
+[2026-10-26 15:17:34] c1: 37602 it, R-hat máx 1.031 (C_p), τ máx 714 (a_p), 26.3 τ retidos, 5.44 s/it, convergiu=False
+[2026-10-26 15:17:34] c1: continuing c1 from mcmc_chain_c1_cont90.npz (400 iterations) -> cont91
+[2026-10-26 15:17:40] c1: MCMC it     0  acc 0.333  lp max -1581.2 median -1586.6  3.58 s/it
+[2026-10-26 15:23:49] c1: MCMC it   100  acc 0.323  lp max -1580.5 median -1586.8  3.69 s/it
+[2026-10-26 23:23:30] pedido ao Windows para não suspender enquanto o processo roda
+[2026-10-26 23:23:30] ======================================================================
+[2026-10-26 23:23:30] início: (padrão: C1, C2 e pós-processamento)
+[2026-10-26 23:23:38] c1: 37753 it, R-hat máx 1.031, τ máx 717, 26.3 τ retidos, convergiu=False, 26.9 h usadas de 16 h
+[2026-10-26 23:23:38] c1: tempo máximo de 16 h (somado entre reinícios) já usado; segue para a próxima etapa
+[2026-10-26 23:23:39] c2: 7751 it, R-hat máx 1.681, τ máx 510, 7.6 τ retidos, convergiu=False, 8.5 h usadas de 60 h
+[2026-10-26 23:23:40] c2: continuing c2 from mcmc_chain_c2_cont17.npz (251 iterations) -> cont18
+[2026-10-26 23:23:49] c2: MCMC it     0  acc 0.175  lp max -10686.4 median -10690.8  3.71 s/it
+[2026-10-26 23:31:10] c2: MCMC it   100  acc 0.188  lp max -10686.4 median -10691.4  4.40 s/it
+[2026-10-26 23:38:53] c2: MCMC it   200  acc 0.193  lp max -10685.6 median -10690.6  4.52 s/it
+[2026-10-26 23:46:34] c2: MCMC continuation done, acceptance 0.194
+[2026-10-26 23:46:34] c2: 8051 it, R-hat máx 1.646 (a_b), τ máx 536 (c_f), 7.5 τ retidos, 4.58 s/it, convergiu=False
+[2026-10-26 23:46:34] c2: continuing c2 from mcmc_chain_c2_cont18.npz (300 iterations) -> cont19
+[2026-10-26 23:46:42] c2: MCMC it     0  acc 0.225  lp max -10685.5 median -10690.8  4.63 s/it
+[2026-10-26 23:54:25] c2: MCMC it   100  acc 0.194  lp max -10685.4 median -10689.8  4.64 s/it
+[2026-10-27 00:02:11] c2: MCMC it   200  acc 0.199  lp max -10684.8 median -10689.7  4.65 s/it
+[2026-10-27 00:09:52] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 00:09:52] c2: 8351 it, R-hat máx 1.633 (a_b), τ máx 556 (c_f), 7.5 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 00:09:52] c2: continuing c2 from mcmc_chain_c2_cont19.npz (300 iterations) -> cont20
+[2026-10-27 00:10:00] c2: MCMC it     0  acc 0.225  lp max -10684.5 median -10690.4  4.64 s/it
+[2026-10-27 00:17:44] c2: MCMC it   100  acc 0.196  lp max -10685.1 median -10690.1  4.64 s/it
+[2026-10-27 00:25:29] c2: MCMC it   200  acc 0.201  lp max -10686.1 median -10690.5  4.65 s/it
+[2026-10-27 00:33:09] c2: MCMC continuation done, acceptance 0.201
+[2026-10-27 00:33:10] c2: 8651 it, R-hat máx 1.609 (a_b), τ máx 573 (c_f), 7.5 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 00:33:10] c2: continuing c2 from mcmc_chain_c2_cont20.npz (300 iterations) -> cont21
+[2026-10-27 00:33:17] c2: MCMC it     0  acc 0.275  lp max -10686.2 median -10689.9  4.66 s/it
+[2026-10-27 00:41:03] c2: MCMC it   100  acc 0.198  lp max -10686.4 median -10689.9  4.66 s/it
+[2026-10-27 00:48:52] c2: MCMC it   200  acc 0.198  lp max -10685.1 median -10690.8  4.67 s/it
+[2026-10-27 00:56:34] c2: MCMC continuation done, acceptance 0.202
+[2026-10-27 00:56:35] c2: 8951 it, R-hat máx 1.592 (a_b), τ máx 616 (A_s), 7.3 τ retidos, 4.68 s/it, convergiu=False
+[2026-10-27 00:56:35] c2: continuing c2 from mcmc_chain_c2_cont21.npz (300 iterations) -> cont22
+[2026-10-27 00:56:42] c2: MCMC it     0  acc 0.200  lp max -10686.9 median -10691.1  4.65 s/it
+[2026-10-27 01:04:28] c2: MCMC it   100  acc 0.200  lp max -10684.1 median -10689.3  4.66 s/it
+[2026-10-27 01:12:15] c2: MCMC it   200  acc 0.202  lp max -10684.2 median -10689.5  4.66 s/it
+[2026-10-27 01:19:56] c2: MCMC continuation done, acceptance 0.199
+[2026-10-27 01:19:57] c2: 9251 it, R-hat máx 1.583 (a_b), τ máx 650 (A_m), 7.1 τ retidos, 4.67 s/it, convergiu=False
+[2026-10-27 01:19:57] c2: continuing c2 from mcmc_chain_c2_cont22.npz (300 iterations) -> cont23
+[2026-10-27 01:20:04] c2: MCMC it     0  acc 0.200  lp max -10683.9 median -10689.8  4.64 s/it
+[2026-10-27 01:27:50] c2: MCMC it   100  acc 0.206  lp max -10685.2 median -10689.6  4.65 s/it
+[2026-10-27 01:35:34] c2: MCMC it   200  acc 0.204  lp max -10685.7 median -10691.1  4.65 s/it
+[2026-10-27 01:43:14] c2: MCMC continuation done, acceptance 0.199
+[2026-10-27 01:43:14] c2: 9551 it, R-hat máx 1.570 (a_b), τ máx 680 (A_m), 7.0 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 01:43:14] c2: continuing c2 from mcmc_chain_c2_cont23.npz (300 iterations) -> cont24
+[2026-10-27 01:43:22] c2: MCMC it     0  acc 0.075  lp max -10685.0 median -10690.1  4.61 s/it
+[2026-10-27 01:51:06] c2: MCMC it   100  acc 0.189  lp max -10685.4 median -10689.7  4.64 s/it
+[2026-10-27 01:58:51] c2: MCMC it   200  acc 0.199  lp max -10684.5 median -10690.9  4.65 s/it
+[2026-10-27 02:06:32] c2: MCMC continuation done, acceptance 0.197
+[2026-10-27 02:06:33] c2: 9851 it, R-hat máx 1.574 (a_b), τ máx 702 (A_m), 7.0 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 02:06:33] c2: continuing c2 from mcmc_chain_c2_cont24.npz (300 iterations) -> cont25
+[2026-10-27 02:06:40] c2: MCMC it     0  acc 0.100  lp max -10683.9 median -10690.1  4.65 s/it
+[2026-10-27 02:14:25] c2: MCMC it   100  acc 0.200  lp max -10685.8 median -10690.3  4.65 s/it
+[2026-10-27 02:22:09] c2: MCMC it   200  acc 0.195  lp max -10685.2 median -10689.8  4.65 s/it
+[2026-10-27 02:29:50] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 02:29:50] c2: 10151 it, R-hat máx 1.557 (A_m), τ máx 697 (A_m), 7.3 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 02:29:50] c2: continuing c2 from mcmc_chain_c2_cont25.npz (300 iterations) -> cont26
+[2026-10-27 02:29:58] c2: MCMC it     0  acc 0.175  lp max -10684.2 median -10690.3  4.64 s/it
+[2026-10-27 02:37:42] c2: MCMC it   100  acc 0.197  lp max -10684.7 median -10690.6  4.65 s/it
+[2026-10-27 02:45:27] c2: MCMC it   200  acc 0.197  lp max -10685.0 median -10689.7  4.64 s/it
+[2026-10-27 02:53:08] c2: MCMC continuation done, acceptance 0.193
+[2026-10-27 02:53:09] c2: 10451 it, R-hat máx 1.545 (A_m), τ máx 670 (A_m), 7.8 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 02:53:09] c2: continuing c2 from mcmc_chain_c2_cont26.npz (300 iterations) -> cont27
+[2026-10-27 02:53:16] c2: MCMC it     0  acc 0.150  lp max -10685.3 median -10689.2  4.60 s/it
+[2026-10-27 03:01:01] c2: MCMC it   100  acc 0.191  lp max -10683.2 median -10689.6  4.65 s/it
+[2026-10-27 03:08:47] c2: MCMC it   200  acc 0.193  lp max -10683.8 median -10690.4  4.66 s/it
+[2026-10-27 03:16:30] c2: MCMC continuation done, acceptance 0.189
+[2026-10-27 03:16:31] c2: 10751 it, R-hat máx 1.516 (A_m), τ máx 597 (A_m), 9.0 τ retidos, 4.67 s/it, convergiu=False
+[2026-10-27 03:16:31] c2: continuing c2 from mcmc_chain_c2_cont27.npz (300 iterations) -> cont28
+[2026-10-27 03:16:38] c2: MCMC it     0  acc 0.175  lp max -10683.1 median -10690.9  4.58 s/it
+[2026-10-27 03:24:24] c2: MCMC it   100  acc 0.189  lp max -10684.4 median -10690.0  4.66 s/it
+[2026-10-27 03:32:10] c2: MCMC it   200  acc 0.191  lp max -10685.2 median -10689.8  4.66 s/it
+[2026-10-27 03:40:27] c2: MCMC continuation done, acceptance 0.191
+[2026-10-27 03:40:28] c2: 11051 it, R-hat máx 1.482 (A_m), τ máx 590 (N2_0), 9.4 τ retidos, 4.79 s/it, convergiu=False
+[2026-10-27 03:40:28] c2: continuing c2 from mcmc_chain_c2_cont28.npz (300 iterations) -> cont29
+[2026-10-27 03:40:35] c2: MCMC it     0  acc 0.225  lp max -10685.7 median -10689.3  4.64 s/it
+[2026-10-27 03:48:37] c2: MCMC it   100  acc 0.178  lp max -10683.1 median -10691.1  4.81 s/it
+[2026-10-27 03:56:36] c2: MCMC it   200  acc 0.192  lp max -10683.8 median -10689.2  4.80 s/it
+[2026-10-27 04:04:40] c2: MCMC continuation done, acceptance 0.197
+[2026-10-27 04:04:41] c2: 11351 it, R-hat máx 1.468 (A_m), τ máx 585 (N2_0), 9.7 τ retidos, 4.84 s/it, convergiu=False
+[2026-10-27 04:04:41] c2: continuing c2 from mcmc_chain_c2_cont29.npz (300 iterations) -> cont30
+[2026-10-27 04:04:49] c2: MCMC it     0  acc 0.375  lp max -10685.3 median -10690.2  5.04 s/it
+[2026-10-27 04:13:08] c2: MCMC it   100  acc 0.202  lp max -10684.9 median -10689.5  4.99 s/it
+[2026-10-27 04:20:53] c2: MCMC it   200  acc 0.205  lp max -10683.7 median -10689.9  4.82 s/it
+[2026-10-27 04:28:34] c2: MCMC continuation done, acceptance 0.209
+[2026-10-27 04:28:35] c2: 11651 it, R-hat máx 1.450 (A_m), τ máx 597 (c_n), 9.8 τ retidos, 4.78 s/it, convergiu=False
+[2026-10-27 04:28:35] c2: continuing c2 from mcmc_chain_c2_cont30.npz (300 iterations) -> cont31
+[2026-10-27 04:28:42] c2: MCMC it     0  acc 0.300  lp max -10685.6 median -10690.3  4.67 s/it
+[2026-10-27 04:36:28] c2: MCMC it   100  acc 0.205  lp max -10684.3 median -10690.8  4.66 s/it
+[2026-10-27 04:44:13] c2: MCMC it   200  acc 0.203  lp max -10684.8 median -10689.7  4.65 s/it
+[2026-10-27 04:51:59] c2: MCMC continuation done, acceptance 0.206
+[2026-10-27 04:52:00] c2: 11951 it, R-hat máx 1.434 (a_b), τ máx 589 (c_n), 10.2 τ retidos, 4.68 s/it, convergiu=False
+[2026-10-27 04:52:00] c2: continuing c2 from mcmc_chain_c2_cont31.npz (300 iterations) -> cont32
+[2026-10-27 04:52:08] c2: MCMC it     0  acc 0.125  lp max -10685.5 median -10689.2  4.70 s/it
+[2026-10-27 04:59:52] c2: MCMC it   100  acc 0.204  lp max -10684.3 median -10689.3  4.64 s/it
+[2026-10-27 05:07:36] c2: MCMC it   200  acc 0.197  lp max -10685.4 median -10691.3  4.64 s/it
+[2026-10-27 05:15:16] c2: MCMC continuation done, acceptance 0.196
+[2026-10-27 05:15:17] c2: 12251 it, R-hat máx 1.426 (a_b), τ máx 589 (A_d), 10.4 τ retidos, 4.65 s/it, convergiu=False
+[2026-10-27 05:15:17] c2: continuing c2 from mcmc_chain_c2_cont32.npz (300 iterations) -> cont33
+[2026-10-27 05:15:24] c2: MCMC it     0  acc 0.100  lp max -10684.5 median -10689.9  4.59 s/it
+[2026-10-27 05:23:07] c2: MCMC it   100  acc 0.198  lp max -10686.9 median -10690.3  4.64 s/it
+[2026-10-27 05:30:50] c2: MCMC it   200  acc 0.200  lp max -10685.2 median -10690.1  4.63 s/it
+[2026-10-27 05:38:29] c2: MCMC continuation done, acceptance 0.202
+[2026-10-27 05:38:30] c2: 12551 it, R-hat máx 1.408 (a_b), τ máx 676 (a_b), 9.3 τ retidos, 4.64 s/it, convergiu=False
+[2026-10-27 05:38:30] c2: continuing c2 from mcmc_chain_c2_cont33.npz (300 iterations) -> cont34
+[2026-10-27 05:38:37] c2: MCMC it     0  acc 0.200  lp max -10683.7 median -10689.7  4.56 s/it
+[2026-10-27 05:46:22] c2: MCMC it   100  acc 0.202  lp max -10685.4 median -10689.7  4.65 s/it
+[2026-10-27 05:54:14] c2: MCMC it   200  acc 0.197  lp max -10683.9 median -10690.2  4.68 s/it
+[2026-10-27 06:01:53] c2: MCMC continuation done, acceptance 0.194
+[2026-10-27 06:01:54] c2: 12851 it, R-hat máx 1.393 (a_b), τ máx 660 (a_b), 9.7 τ retidos, 4.68 s/it, convergiu=False
+[2026-10-27 06:01:54] c2: continuing c2 from mcmc_chain_c2_cont34.npz (300 iterations) -> cont35
+[2026-10-27 06:02:01] c2: MCMC it     0  acc 0.050  lp max -10685.5 median -10689.1  4.63 s/it
+[2026-10-27 06:09:51] c2: MCMC it   100  acc 0.199  lp max -10685.2 median -10690.4  4.70 s/it
+[2026-10-27 06:17:40] c2: MCMC it   200  acc 0.199  lp max -10684.3 median -10690.5  4.70 s/it
+[2026-10-27 06:25:20] c2: MCMC continuation done, acceptance 0.198
+[2026-10-27 06:25:22] c2: 13151 it, R-hat máx 1.394 (A_m), τ máx 676 (a_b), 9.7 τ retidos, 4.69 s/it, convergiu=False
+[2026-10-27 06:25:22] c2: continuing c2 from mcmc_chain_c2_cont35.npz (300 iterations) -> cont36
+[2026-10-27 06:25:29] c2: MCMC it     0  acc 0.100  lp max -10685.3 median -10690.0  4.62 s/it
+[2026-10-27 06:33:12] c2: MCMC it   100  acc 0.197  lp max -10685.1 median -10689.5  4.63 s/it
+[2026-10-27 06:40:56] c2: MCMC it   200  acc 0.196  lp max -10684.7 median -10691.1  4.63 s/it
+[2026-10-27 06:48:34] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 06:48:35] c2: 13451 it, R-hat máx 1.409 (A_m), τ máx 605 (c_f), 11.1 τ retidos, 4.64 s/it, convergiu=False
+[2026-10-27 06:48:35] c2: continuing c2 from mcmc_chain_c2_cont36.npz (300 iterations) -> cont37
+[2026-10-27 06:48:42] c2: MCMC it     0  acc 0.225  lp max -10684.0 median -10691.5  4.53 s/it
+[2026-10-27 06:56:30] c2: MCMC it   100  acc 0.198  lp max -10685.0 median -10690.0  4.68 s/it
+[2026-10-27 07:04:17] c2: MCMC it   200  acc 0.196  lp max -10684.5 median -10689.4  4.67 s/it
+[2026-10-27 07:11:58] c2: MCMC continuation done, acceptance 0.198
+[2026-10-27 07:11:59] c2: 13751 it, R-hat máx 1.430 (A_m), τ máx 734 (A_s), 9.4 τ retidos, 4.68 s/it, convergiu=False
+[2026-10-27 07:11:59] c2: continuing c2 from mcmc_chain_c2_cont37.npz (300 iterations) -> cont38
+[2026-10-27 07:12:07] c2: MCMC it     0  acc 0.150  lp max -10683.8 median -10689.9  4.69 s/it
+[2026-10-27 07:19:55] c2: MCMC it   100  acc 0.210  lp max -10684.7 median -10689.5  4.68 s/it
+[2026-10-27 07:27:41] c2: MCMC it   200  acc 0.202  lp max -10685.5 median -10689.6  4.67 s/it
+[2026-10-27 07:35:23] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 07:35:24] c2: 14051 it, R-hat máx 1.440 (A_m), τ máx 811 (A_s), 8.7 τ retidos, 4.68 s/it, convergiu=False
+[2026-10-27 07:35:24] c2: continuing c2 from mcmc_chain_c2_cont38.npz (300 iterations) -> cont39
+[2026-10-27 07:35:31] c2: MCMC it     0  acc 0.175  lp max -10684.4 median -10689.9  4.65 s/it
+[2026-10-27 07:43:17] c2: MCMC it   100  acc 0.183  lp max -10684.7 median -10689.8  4.66 s/it
+[2026-10-27 07:51:02] c2: MCMC it   200  acc 0.184  lp max -10683.8 median -10690.1  4.65 s/it
+[2026-10-27 07:58:42] c2: MCMC continuation done, acceptance 0.184
+[2026-10-27 07:58:43] c2: 14351 it, R-hat máx 1.452 (A_m), τ máx 872 (A_s), 8.2 τ retidos, 4.66 s/it, convergiu=False
+[2026-10-27 07:58:43] c2: continuing c2 from mcmc_chain_c2_cont39.npz (300 iterations) -> cont40
+[2026-10-27 07:58:50] c2: MCMC it     0  acc 0.100  lp max -10685.5 median -10690.6  4.68 s/it
+[2026-10-27 08:06:40] c2: MCMC it   100  acc 0.178  lp max -10684.3 median -10690.2  4.70 s/it
+[2026-10-27 08:14:27] c2: MCMC it   200  acc 0.181  lp max -10686.4 median -10690.3  4.68 s/it
+[2026-10-27 08:22:11] c2: MCMC continuation done, acceptance 0.182
+[2026-10-27 08:22:12] c2: 14651 it, R-hat máx 1.448 (A_m), τ máx 918 (A_s), 8.0 τ retidos, 4.70 s/it, convergiu=False
+[2026-10-27 08:22:12] c2: continuing c2 from mcmc_chain_c2_cont40.npz (300 iterations) -> cont41
+[2026-10-27 08:22:19] c2: MCMC it     0  acc 0.150  lp max -10684.6 median -10689.6  4.66 s/it
+[2026-10-27 08:30:07] c2: MCMC it   100  acc 0.202  lp max -10685.6 median -10690.9  4.68 s/it
+[2026-10-27 08:38:41] c2: MCMC it   200  acc 0.196  lp max -10685.1 median -10689.8  4.91 s/it
+[2026-10-27 08:46:45] c2: MCMC continuation done, acceptance 0.198
+[2026-10-27 08:46:46] c2: 14951 it, R-hat máx 1.446 (A_m), τ máx 963 (A_s), 7.8 τ retidos, 4.91 s/it, convergiu=False
+[2026-10-27 08:46:46] c2: continuing c2 from mcmc_chain_c2_cont41.npz (300 iterations) -> cont42
+[2026-10-27 08:46:54] c2: MCMC it     0  acc 0.075  lp max -10685.4 median -10689.8  5.25 s/it
+[2026-10-27 08:56:51] c2: MCMC it   100  acc 0.172  lp max -10684.1 median -10689.4  5.96 s/it
+[2026-10-27 09:07:09] c2: MCMC it   200  acc 0.176  lp max -10684.8 median -10689.8  6.07 s/it
+[2026-10-27 09:18:13] c2: MCMC continuation done, acceptance 0.176
+[2026-10-27 09:18:16] c2: 15251 it, R-hat máx 1.438 (A_m), τ máx 995 (A_s), 7.7 τ retidos, 6.30 s/it, convergiu=False
+[2026-10-27 09:18:16] c2: continuing c2 from mcmc_chain_c2_cont42.npz (300 iterations) -> cont43
+[2026-10-27 09:18:30] c2: MCMC it     0  acc 0.275  lp max -10683.3 median -10689.2  10.00 s/it
+[2026-10-27 09:32:46] c2: MCMC it   100  acc 0.173  lp max -10685.2 median -10689.1  8.58 s/it
+[2026-10-27 09:44:42] c2: MCMC it   200  acc 0.177  lp max -10684.3 median -10689.4  7.87 s/it
+[2026-10-27 10:02:05] c2: MCMC continuation done, acceptance 0.182
+[2026-10-27 10:02:07] c2: 15551 it, R-hat máx 1.427 (A_m), τ máx 1034 (A_s), 7.5 τ retidos, 8.77 s/it, convergiu=False
+[2026-10-27 10:02:07] c2: continuing c2 from mcmc_chain_c2_cont43.npz (300 iterations) -> cont44
+[2026-10-27 10:02:24] c2: MCMC it     0  acc 0.200  lp max -10683.3 median -10689.7  10.74 s/it
+[2026-10-27 10:19:24] c2: MCMC it   100  acc 0.196  lp max -10684.8 median -10690.0  10.20 s/it
+[2026-10-27 10:38:24] c2: MCMC it   200  acc 0.196  lp max -10684.7 median -10690.1  10.80 s/it
+[2026-10-27 10:58:06] c2: MCMC continuation done, acceptance 0.191
+[2026-10-27 10:58:09] c2: 15851 it, R-hat máx 1.422 (A_m), τ máx 1051 (A_s), 7.5 τ retidos, 11.20 s/it, convergiu=False
+[2026-10-27 10:58:09] c2: continuing c2 from mcmc_chain_c2_cont44.npz (300 iterations) -> cont45
+[2026-10-27 10:58:26] c2: MCMC it     0  acc 0.150  lp max -10685.0 median -10689.3  11.67 s/it
+[2026-10-27 11:16:45] c2: MCMC it   100  acc 0.207  lp max -10685.4 median -10690.4  11.00 s/it
+[2026-10-27 11:26:32] c2: MCMC it   200  acc 0.209  lp max -10685.9 median -10689.6  8.44 s/it
+[2026-10-27 11:35:01] c2: MCMC continuation done, acceptance 0.208
+[2026-10-27 11:35:03] c2: 16151 it, R-hat máx 1.416 (A_m), τ máx 1071 (A_s), 7.5 τ retidos, 7.38 s/it, convergiu=False
+[2026-10-27 11:35:03] c2: continuing c2 from mcmc_chain_c2_cont45.npz (300 iterations) -> cont46
+[2026-10-27 11:35:11] c2: MCMC it     0  acc 0.200  lp max -10682.5 median -10690.0  5.02 s/it
+[2026-10-27 11:43:44] c2: MCMC it   100  acc 0.204  lp max -10683.5 median -10689.6  5.13 s/it
+[2026-10-27 11:52:19] c2: MCMC it   200  acc 0.204  lp max -10684.4 median -10690.1  5.14 s/it
+[2026-10-27 12:00:47] c2: MCMC continuation done, acceptance 0.205
+[2026-10-27 12:00:48] c2: 16451 it, R-hat máx 1.405 (A_m), τ máx 1073 (A_s), 7.7 τ retidos, 5.15 s/it, convergiu=False
+[2026-10-27 12:00:48] c2: continuing c2 from mcmc_chain_c2_cont46.npz (300 iterations) -> cont47
+[2026-10-27 12:00:56] c2: MCMC it     0  acc 0.150  lp max -10684.0 median -10689.4  5.07 s/it
+[2026-10-27 12:09:29] c2: MCMC it   100  acc 0.192  lp max -10684.1 median -10689.4  5.12 s/it
+[2026-10-27 12:17:58] c2: MCMC it   200  acc 0.201  lp max -10684.9 median -10689.1  5.11 s/it
+[2026-10-27 12:26:25] c2: MCMC continuation done, acceptance 0.202
+[2026-10-27 12:26:26] c2: 16751 it, R-hat máx 1.395 (A_m), τ máx 1055 (A_m), 7.9 τ retidos, 5.13 s/it, convergiu=False
+[2026-10-27 12:26:26] c2: continuing c2 from mcmc_chain_c2_cont47.npz (300 iterations) -> cont48
+[2026-10-27 12:26:35] c2: MCMC it     0  acc 0.175  lp max -10685.5 median -10689.4  5.21 s/it
+[2026-10-27 12:35:06] c2: MCMC it   100  acc 0.201  lp max -10683.8 median -10690.8  5.12 s/it
+[2026-10-27 12:43:41] c2: MCMC it   200  acc 0.201  lp max -10685.0 median -10690.2  5.13 s/it
+[2026-10-27 12:52:28] c2: MCMC continuation done, acceptance 0.206
+[2026-10-27 12:52:30] c2: 17051 it, R-hat máx 1.370 (A_m), τ máx 1048 (A_m), 8.1 τ retidos, 5.21 s/it, convergiu=False
+[2026-10-27 12:52:30] c2: continuing c2 from mcmc_chain_c2_cont48.npz (300 iterations) -> cont49
+[2026-10-27 12:52:37] c2: MCMC it     0  acc 0.100  lp max -10685.6 median -10690.0  4.89 s/it
+[2026-10-27 13:01:13] c2: MCMC it   100  acc 0.200  lp max -10685.3 median -10690.0  5.15 s/it
+[2026-10-27 13:11:01] c2: MCMC it   200  acc 0.193  lp max -10683.9 median -10690.1  5.52 s/it
+[2026-10-27 13:20:54] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 13:20:55] c2: 17351 it, R-hat máx 1.344 (A_m), τ máx 1008 (A_m), 8.6 τ retidos, 5.69 s/it, convergiu=False
+[2026-10-27 13:20:55] c2: continuing c2 from mcmc_chain_c2_cont49.npz (300 iterations) -> cont50
+[2026-10-27 13:21:04] c2: MCMC it     0  acc 0.350  lp max -10684.5 median -10690.3  5.39 s/it
+[2026-10-27 13:30:06] c2: MCMC it   100  acc 0.187  lp max -10685.3 median -10689.7  5.42 s/it
+[2026-10-27 13:41:01] c2: MCMC it   200  acc 0.185  lp max -10682.6 median -10690.1  5.98 s/it
+[2026-10-27 13:51:09] c2: MCMC continuation done, acceptance 0.181
+[2026-10-27 13:51:10] c2: 17651 it, R-hat máx 1.330 (a_b), τ máx 955 (a_b), 9.2 τ retidos, 6.05 s/it, convergiu=False
+[2026-10-27 13:51:10] c2: continuing c2 from mcmc_chain_c2_cont50.npz (300 iterations) -> cont51
+[2026-10-27 13:51:19] c2: MCMC it     0  acc 0.225  lp max -10684.6 median -10690.8  5.77 s/it
+[2026-10-27 14:01:20] c2: MCMC it   100  acc 0.181  lp max -10685.2 median -10690.0  6.01 s/it
+[2026-10-27 14:20:50] c2: MCMC it   200  acc 0.187  lp max -10685.4 median -10690.7  8.84 s/it
+[2026-10-27 14:41:29] c2: MCMC continuation done, acceptance 0.182
+[2026-10-27 14:41:34] c2: 17951 it, R-hat máx 1.327 (a_b), τ máx 905 (a_b), 9.9 τ retidos, 10.08 s/it, convergiu=False
+[2026-10-27 14:41:34] c2: continuing c2 from mcmc_chain_c2_cont51.npz (300 iterations) -> cont52
+[2026-10-27 14:41:56] c2: MCMC it     0  acc 0.200  lp max -10684.0 median -10688.9  13.87 s/it
+[2026-10-27 15:02:14] c2: MCMC it   100  acc 0.177  lp max -10683.8 median -10689.8  12.20 s/it
+[2026-10-27 15:22:09] c2: MCMC it   200  acc 0.178  lp max -10685.9 median -10690.4  12.08 s/it
+[2026-10-27 15:41:46] c2: MCMC continuation done, acceptance 0.184
+[2026-10-27 15:41:49] c2: 18251 it, R-hat máx 1.319 (a_b), τ máx 897 (d_w), 10.2 τ retidos, 12.05 s/it, convergiu=False
+[2026-10-27 15:41:49] c2: continuing c2 from mcmc_chain_c2_cont52.npz (300 iterations) -> cont53
+[2026-10-27 15:42:08] c2: MCMC it     0  acc 0.225  lp max -10685.0 median -10689.5  12.46 s/it
+[2026-10-27 16:02:00] c2: MCMC it   100  acc 0.189  lp max -10684.4 median -10689.7  11.92 s/it
+[2026-10-27 16:21:57] c2: MCMC it   200  acc 0.182  lp max -10685.9 median -10689.7  11.95 s/it
+[2026-10-27 16:45:22] c2: MCMC continuation done, acceptance 0.184
+[2026-10-27 16:45:27] c2: 18551 it, R-hat máx 1.311 (A_m), τ máx 968 (d_w), 9.6 τ retidos, 12.73 s/it, convergiu=False
+[2026-10-27 16:45:27] c2: continuing c2 from mcmc_chain_c2_cont53.npz (300 iterations) -> cont54
+[2026-10-27 16:46:00] c2: MCMC it     0  acc 0.175  lp max -10686.0 median -10689.2  20.87 s/it
+[2026-10-27 17:07:26] c2: MCMC it   100  acc 0.174  lp max -10684.3 median -10690.5  12.94 s/it
+[2026-10-27 17:25:42] c2: MCMC it   200  acc 0.178  lp max -10685.2 median -10690.1  11.96 s/it
+[2026-10-27 17:44:26] c2: MCMC continuation done, acceptance 0.182
+[2026-10-27 17:44:31] c2: 18851 it, R-hat máx 1.315 (A_m), τ máx 936 (d_w), 10.1 τ retidos, 11.81 s/it, convergiu=False
+[2026-10-27 17:44:31] c2: continuing c2 from mcmc_chain_c2_cont54.npz (300 iterations) -> cont55
+[2026-10-27 17:44:49] c2: MCMC it     0  acc 0.200  lp max -10684.1 median -10689.3  11.81 s/it
+[2026-10-27 18:03:55] c2: MCMC it   100  acc 0.199  lp max -10685.6 median -10689.4  11.47 s/it
+[2026-10-27 18:22:59] c2: MCMC it   200  acc 0.193  lp max -10683.8 median -10690.2  11.45 s/it
+[2026-10-27 18:40:30] c2: MCMC continuation done, acceptance 0.192
+[2026-10-27 18:40:34] c2: 19151 it, R-hat máx 1.323 (A_m), τ máx 893 (d_w), 10.7 τ retidos, 11.21 s/it, convergiu=False
+[2026-10-27 18:40:34] c2: continuing c2 from mcmc_chain_c2_cont55.npz (300 iterations) -> cont56
+[2026-10-27 18:40:47] c2: MCMC it     0  acc 0.075  lp max -10685.6 median -10689.6  7.87 s/it
+[2026-10-27 18:54:05] c2: MCMC it   100  acc 0.184  lp max -10683.4 median -10689.9  7.99 s/it
+[2026-10-27 19:07:33] c2: MCMC it   200  acc 0.189  lp max -10685.4 median -10689.6  8.03 s/it
+[2026-10-27 19:20:43] c2: MCMC continuation done, acceptance 0.195
+[2026-10-27 19:20:45] c2: 19451 it, R-hat máx 1.325 (A_m), τ máx 944 (d_w), 10.3 τ retidos, 8.04 s/it, convergiu=False
+[2026-10-27 19:20:45] c2: continuing c2 from mcmc_chain_c2_cont56.npz (300 iterations) -> cont57
+[2026-10-27 19:20:58] c2: MCMC it     0  acc 0.025  lp max -10685.1 median -10689.0  8.13 s/it
+[2026-10-27 19:34:22] c2: MCMC it   100  acc 0.201  lp max -10684.8 median -10690.4  8.04 s/it
+[2026-10-27 19:47:42] c2: MCMC it   200  acc 0.198  lp max -10685.6 median -10690.4  8.02 s/it
+[2026-10-27 20:00:58] c2: MCMC continuation done, acceptance 0.193
+[2026-10-27 20:01:00] c2: 19751 it, R-hat máx 1.327 (A_m), τ máx 937 (d_w), 10.5 τ retidos, 8.05 s/it, convergiu=False
+[2026-10-27 20:01:00] c2: continuing c2 from mcmc_chain_c2_cont57.npz (300 iterations) -> cont58
+[2026-10-27 20:01:13] c2: MCMC it     0  acc 0.225  lp max -10686.5 median -10690.7  8.30 s/it
+[2026-10-27 20:14:36] c2: MCMC it   100  acc 0.201  lp max -10685.8 median -10690.4  8.03 s/it
+[2026-10-27 20:24:56] c2: MCMC it   200  acc 0.193  lp max -10685.1 median -10690.6  7.12 s/it
+[2026-10-27 20:34:42] c2: MCMC continuation done, acceptance 0.193
+[2026-10-27 20:34:44] c2: 20051 it, R-hat máx 1.330 (A_m), τ máx 880 (d_w), 11.4 τ retidos, 6.75 s/it, convergiu=False
+[2026-10-27 20:34:44] c2: continuing c2 from mcmc_chain_c2_cont58.npz (300 iterations) -> cont59
+[2026-10-27 20:34:53] c2: MCMC it     0  acc 0.225  lp max -10685.5 median -10689.4  5.93 s/it
+[2026-10-27 20:44:32] c2: MCMC it   100  acc 0.181  lp max -10685.7 median -10689.6  5.79 s/it
+[2026-10-27 20:54:06] c2: MCMC it   200  acc 0.181  lp max -10685.7 median -10690.7  5.77 s/it
+[2026-10-27 21:03:39] c2: MCMC continuation done, acceptance 0.187
+[2026-10-27 21:03:40] c2: 20351 it, R-hat máx 1.327 (A_m), τ máx 834 (d_w), 12.2 τ retidos, 5.79 s/it, convergiu=False
+[2026-10-27 21:03:40] c2: continuing c2 from mcmc_chain_c2_cont59.npz (300 iterations) -> cont60
+[2026-10-27 21:03:49] c2: MCMC it     0  acc 0.350  lp max -10683.4 median -10690.2  5.61 s/it
+[2026-10-27 21:13:04] c2: MCMC it   100  acc 0.191  lp max -10685.1 median -10689.9  5.55 s/it
+[2026-10-27 21:22:05] c2: MCMC it   200  acc 0.202  lp max -10683.5 median -10689.0  5.48 s/it
+[2026-10-27 21:30:59] c2: MCMC continuation done, acceptance 0.200
+[2026-10-27 21:31:01] c2: 20651 it, R-hat máx 1.327 (A_m), τ máx 836 (l_m), 12.3 τ retidos, 5.47 s/it, convergiu=False
+[2026-10-27 21:31:01] c2: continuing c2 from mcmc_chain_c2_cont60.npz (300 iterations) -> cont61
+[2026-10-27 21:31:09] c2: MCMC it     0  acc 0.100  lp max -10684.2 median -10689.7  5.29 s/it
+[2026-10-27 21:40:04] c2: MCMC it   100  acc 0.200  lp max -10685.5 median -10689.2  5.35 s/it
+[2026-10-27 21:48:48] c2: MCMC it   200  acc 0.205  lp max -10684.5 median -10689.7  5.30 s/it
+[2026-10-27 21:57:38] c2: MCMC continuation done, acceptance 0.205
+[2026-10-27 21:57:40] c2: 20951 it, R-hat máx 1.325 (A_m), τ máx 922 (l_m), 11.4 τ retidos, 5.33 s/it, convergiu=False
+[2026-10-27 21:57:40] c2: continuing c2 from mcmc_chain_c2_cont61.npz (300 iterations) -> cont62
+[2026-10-27 21:57:48] c2: MCMC it     0  acc 0.250  lp max -10685.5 median -10689.1  5.60 s/it
+[2026-10-27 22:06:58] c2: MCMC it   100  acc 0.206  lp max -10684.5 median -10690.3  5.50 s/it
+[2026-10-27 22:15:51] c2: MCMC it   200  acc 0.207  lp max -10684.7 median -10690.3  5.41 s/it
+[2026-10-27 22:24:16] c2: MCMC continuation done, acceptance 0.208
+[2026-10-27 22:24:18] c2: 21251 it, R-hat máx 1.321 (A_m), τ máx 980 (l_m), 10.8 τ retidos, 5.33 s/it, convergiu=False
+[2026-10-27 22:24:18] c2: continuing c2 from mcmc_chain_c2_cont62.npz (300 iterations) -> cont63
+[2026-10-27 22:24:26] c2: MCMC it     0  acc 0.200  lp max -10682.6 median -10690.0  5.08 s/it
+[2026-10-27 22:32:40] c2: MCMC it   100  acc 0.204  lp max -10682.8 median -10688.8  4.95 s/it
+[2026-10-27 22:40:47] c2: MCMC it   200  acc 0.205  lp max -10685.3 median -10690.7  4.91 s/it
+[2026-10-27 22:48:45] c2: MCMC continuation done, acceptance 0.210
+[2026-10-27 22:48:47] c2: 21551 it, R-hat máx 1.322 (A_m), τ máx 1023 (l_m), 10.5 τ retidos, 4.90 s/it, convergiu=False
+[2026-10-27 22:48:47] c2: continuing c2 from mcmc_chain_c2_cont63.npz (300 iterations) -> cont64
+[2026-10-27 22:48:54] c2: MCMC it     0  acc 0.150  lp max -10685.2 median -10689.4  4.75 s/it
+[2026-10-27 22:56:59] c2: MCMC it   100  acc 0.216  lp max -10686.1 median -10689.9  4.85 s/it
+[2026-10-27 23:05:03] c2: MCMC it   200  acc 0.209  lp max -10684.2 median -10689.7  4.84 s/it
+[2026-10-27 23:13:05] c2: MCMC continuation done, acceptance 0.206
+[2026-10-27 23:13:07] c2: 21851 it, R-hat máx 1.326 (A_m), τ máx 1088 (l_m), 10.0 τ retidos, 4.87 s/it, convergiu=False
+[2026-10-27 23:13:07] c2: continuing c2 from mcmc_chain_c2_cont64.npz (300 iterations) -> cont65
+[2026-10-27 23:13:14] c2: MCMC it     0  acc 0.150  lp max -10684.0 median -10689.7  4.85 s/it
+[2026-10-27 23:21:20] c2: MCMC it   100  acc 0.210  lp max -10684.0 median -10689.1  4.86 s/it
+[2026-10-27 23:29:25] c2: MCMC it   200  acc 0.214  lp max -10684.8 median -10689.6  4.85 s/it
+[2026-10-27 23:37:27] c2: MCMC continuation done, acceptance 0.211
+[2026-10-27 23:37:28] c2: 22151 it, R-hat máx 1.327 (A_m), τ máx 1127 (c_f), 9.8 τ retidos, 4.87 s/it, convergiu=False
+[2026-10-27 23:37:28] c2: continuing c2 from mcmc_chain_c2_cont65.npz (300 iterations) -> cont66
+[2026-10-27 23:37:36] c2: MCMC it     0  acc 0.150  lp max -10684.0 median -10689.5  4.70 s/it
+[2026-10-27 23:45:44] c2: MCMC it   100  acc 0.191  lp max -10685.7 median -10689.0  4.88 s/it
+[2026-10-27 23:53:48] c2: MCMC it   200  acc 0.189  lp max -10684.3 median -10691.5  4.86 s/it
+[2026-10-28 00:01:48] c2: MCMC continuation done, acceptance 0.193
+[2026-10-28 00:01:50] c2: 22451 it, R-hat máx 1.319 (A_m), τ máx 1164 (c_f), 9.6 τ retidos, 4.87 s/it, convergiu=False
+[2026-10-28 00:01:50] c2: continuing c2 from mcmc_chain_c2_cont66.npz (300 iterations) -> cont67
+[2026-10-28 00:01:58] c2: MCMC it     0  acc 0.300  lp max -10684.8 median -10689.7  4.90 s/it
+[2026-10-28 00:10:04] c2: MCMC it   100  acc 0.210  lp max -10685.8 median -10689.3  4.86 s/it
+[2026-10-28 00:18:09] c2: MCMC it   200  acc 0.200  lp max -10685.1 median -10690.8  4.86 s/it
+[2026-10-28 00:26:09] c2: MCMC continuation done, acceptance 0.202
+[2026-10-28 00:26:11] c2: 22751 it, R-hat máx 1.304 (A_m), τ máx 1153 (c_f), 9.9 τ retidos, 4.87 s/it, convergiu=False
+[2026-10-28 00:26:11] c2: continuing c2 from mcmc_chain_c2_cont67.npz (300 iterations) -> cont68
+[2026-10-28 00:26:19] c2: MCMC it     0  acc 0.150  lp max -10683.6 median -10688.8  4.90 s/it
+[2026-10-28 00:34:23] c2: MCMC it   100  acc 0.205  lp max -10686.1 median -10689.1  4.85 s/it
+[2026-10-28 00:42:27] c2: MCMC it   200  acc 0.205  lp max -10685.9 median -10690.2  4.84 s/it
+[2026-10-28 00:50:25] c2: MCMC continuation done, acceptance 0.204
+[2026-10-28 00:50:27] c2: 23051 it, R-hat máx 1.286 (A_m), τ máx 1121 (c_f), 10.3 τ retidos, 4.85 s/it, convergiu=False
+[2026-10-28 00:50:27] c2: continuing c2 from mcmc_chain_c2_cont68.npz (300 iterations) -> cont69
+[2026-10-28 00:50:34] c2: MCMC it     0  acc 0.125  lp max -10686.3 median -10690.3  4.69 s/it
+[2026-10-28 00:58:36] c2: MCMC it   100  acc 0.208  lp max -10684.2 median -10689.4  4.82 s/it
+[2026-10-28 01:06:38] c2: MCMC it   200  acc 0.213  lp max -10685.2 median -10689.7  4.82 s/it
+[2026-10-28 01:14:34] c2: MCMC continuation done, acceptance 0.208
+[2026-10-28 01:14:36] c2: 23351 it, R-hat máx 1.272 (A_m), τ máx 1131 (c_f), 10.3 τ retidos, 4.83 s/it, convergiu=False
+[2026-10-28 01:14:36] c2: continuing c2 from mcmc_chain_c2_cont69.npz (300 iterations) -> cont70
+[2026-10-28 01:14:43] c2: MCMC it     0  acc 0.225  lp max -10684.7 median -10689.5  4.89 s/it
+[2026-10-28 01:22:44] c2: MCMC it   100  acc 0.197  lp max -10683.7 median -10689.5  4.80 s/it
+[2026-10-28 01:30:44] c2: MCMC it   200  acc 0.209  lp max -10683.2 median -10689.7  4.80 s/it
+[2026-10-28 01:38:39] c2: MCMC continuation done, acceptance 0.211
+[2026-10-28 01:38:41] c2: 23651 it, R-hat máx 1.263 (A_m), τ máx 1133 (A_s), 10.4 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 01:38:41] c2: continuing c2 from mcmc_chain_c2_cont70.npz (300 iterations) -> cont71
+[2026-10-28 01:38:48] c2: MCMC it     0  acc 0.225  lp max -10684.0 median -10689.6  4.80 s/it
+[2026-10-28 01:46:49] c2: MCMC it   100  acc 0.207  lp max -10685.0 median -10690.5  4.81 s/it
+[2026-10-28 01:54:49] c2: MCMC it   200  acc 0.209  lp max -10685.9 median -10690.4  4.80 s/it
+[2026-10-28 02:02:45] c2: MCMC continuation done, acceptance 0.209
+[2026-10-28 02:02:47] c2: 23951 it, R-hat máx 1.254 (A_m), τ máx 1160 (A_s), 10.3 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 02:02:47] c2: continuing c2 from mcmc_chain_c2_cont71.npz (300 iterations) -> cont72
+[2026-10-28 02:02:54] c2: MCMC it     0  acc 0.325  lp max -10683.7 median -10689.8  4.76 s/it
+[2026-10-28 02:10:55] c2: MCMC it   100  acc 0.201  lp max -10684.2 median -10689.3  4.81 s/it
+[2026-10-28 02:18:55] c2: MCMC it   200  acc 0.202  lp max -10683.9 median -10689.4  4.80 s/it
+[2026-10-28 02:26:50] c2: MCMC continuation done, acceptance 0.201
+[2026-10-28 02:26:52] c2: 24251 it, R-hat máx 1.250 (a_b), τ máx 1205 (A_s), 10.1 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 02:26:52] c2: continuing c2 from mcmc_chain_c2_cont72.npz (300 iterations) -> cont73
+[2026-10-28 02:26:59] c2: MCMC it     0  acc 0.200  lp max -10684.0 median -10689.1  4.89 s/it
+[2026-10-28 02:34:58] c2: MCMC it   100  acc 0.202  lp max -10684.4 median -10689.0  4.78 s/it
+[2026-10-28 02:42:56] c2: MCMC it   200  acc 0.210  lp max -10685.0 median -10689.5  4.79 s/it
+[2026-10-28 02:50:50] c2: MCMC continuation done, acceptance 0.209
+[2026-10-28 02:50:52] c2: 24551 it, R-hat máx 1.255 (a_b), τ máx 1242 (A_s), 9.9 τ retidos, 4.80 s/it, convergiu=False
+[2026-10-28 02:50:52] c2: continuing c2 from mcmc_chain_c2_cont73.npz (300 iterations) -> cont74
+[2026-10-28 02:51:00] c2: MCMC it     0  acc 0.150  lp max -10683.1 median -10689.0  4.87 s/it
+[2026-10-28 02:59:00] c2: MCMC it   100  acc 0.196  lp max -10684.2 median -10689.9  4.80 s/it
+[2026-10-28 03:07:00] c2: MCMC it   200  acc 0.200  lp max -10684.5 median -10689.1  4.80 s/it
+[2026-10-28 03:14:57] c2: MCMC continuation done, acceptance 0.206
+[2026-10-28 03:14:58] c2: 24851 it, R-hat máx 1.261 (a_b), τ máx 1279 (A_s), 9.7 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 03:14:58] c2: continuing c2 from mcmc_chain_c2_cont74.npz (300 iterations) -> cont75
+[2026-10-28 03:15:06] c2: MCMC it     0  acc 0.275  lp max -10684.2 median -10689.5  4.85 s/it
+[2026-10-28 03:23:06] c2: MCMC it   100  acc 0.196  lp max -10684.7 median -10690.0  4.80 s/it
+[2026-10-28 03:31:05] c2: MCMC it   200  acc 0.207  lp max -10683.9 median -10689.8  4.80 s/it
+[2026-10-28 03:39:01] c2: MCMC continuation done, acceptance 0.208
+[2026-10-28 03:39:03] c2: 25151 it, R-hat máx 1.265 (a_b), τ máx 1312 (A_s), 9.6 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 03:39:03] c2: continuing c2 from mcmc_chain_c2_cont75.npz (300 iterations) -> cont76
+[2026-10-28 03:39:11] c2: MCMC it     0  acc 0.050  lp max -10683.9 median -10690.3  4.80 s/it
+[2026-10-28 03:47:11] c2: MCMC it   100  acc 0.195  lp max -10684.4 median -10689.8  4.80 s/it
+[2026-10-28 03:55:12] c2: MCMC it   200  acc 0.197  lp max -10685.6 median -10690.0  4.80 s/it
+[2026-10-28 04:03:09] c2: MCMC continuation done, acceptance 0.194
+[2026-10-28 04:03:11] c2: 25451 it, R-hat máx 1.267 (a_b), τ máx 1335 (A_s), 9.5 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 04:03:11] c2: continuing c2 from mcmc_chain_c2_cont76.npz (300 iterations) -> cont77
+[2026-10-28 04:03:18] c2: MCMC it     0  acc 0.100  lp max -10684.5 median -10689.3  4.61 s/it
+[2026-10-28 04:11:18] c2: MCMC it   100  acc 0.190  lp max -10684.8 median -10689.6  4.80 s/it
+[2026-10-28 04:19:20] c2: MCMC it   200  acc 0.188  lp max -10685.0 median -10690.8  4.81 s/it
+[2026-10-28 04:27:18] c2: MCMC continuation done, acceptance 0.195
+[2026-10-28 04:27:20] c2: 25751 it, R-hat máx 1.262 (a_b), τ máx 1355 (A_s), 9.5 τ retidos, 4.83 s/it, convergiu=False
+[2026-10-28 04:27:20] c2: continuing c2 from mcmc_chain_c2_cont77.npz (300 iterations) -> cont78
+[2026-10-28 04:27:27] c2: MCMC it     0  acc 0.225  lp max -10684.5 median -10689.7  4.79 s/it
+[2026-10-28 04:35:28] c2: MCMC it   100  acc 0.203  lp max -10684.2 median -10689.2  4.81 s/it
+[2026-10-28 04:43:29] c2: MCMC it   200  acc 0.199  lp max -10684.2 median -10689.8  4.81 s/it
+[2026-10-28 04:51:23] c2: MCMC continuation done, acceptance 0.200
+[2026-10-28 04:51:25] c2: 26051 it, R-hat máx 1.257 (a_b), τ máx 1357 (A_s), 9.6 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 04:51:25] c2: continuing c2 from mcmc_chain_c2_cont78.npz (300 iterations) -> cont79
+[2026-10-28 04:51:32] c2: MCMC it     0  acc 0.175  lp max -10686.0 median -10689.2  4.57 s/it
+[2026-10-28 04:59:34] c2: MCMC it   100  acc 0.197  lp max -10684.2 median -10689.2  4.82 s/it
+[2026-10-28 05:07:36] c2: MCMC it   200  acc 0.201  lp max -10684.2 median -10689.5  4.82 s/it
+[2026-10-28 05:15:34] c2: MCMC continuation done, acceptance 0.202
+[2026-10-28 05:15:36] c2: 26351 it, R-hat máx 1.253 (a_b), τ máx 1377 (A_s), 9.6 τ retidos, 4.84 s/it, convergiu=False
+[2026-10-28 05:15:36] c2: continuing c2 from mcmc_chain_c2_cont79.npz (300 iterations) -> cont80
+[2026-10-28 05:15:43] c2: MCMC it     0  acc 0.175  lp max -10684.2 median -10689.6  4.82 s/it
+[2026-10-28 05:23:42] c2: MCMC it   100  acc 0.189  lp max -10683.9 median -10690.1  4.79 s/it
+[2026-10-28 05:31:42] c2: MCMC it   200  acc 0.195  lp max -10684.3 median -10689.3  4.80 s/it
+[2026-10-28 05:39:37] c2: MCMC continuation done, acceptance 0.196
+[2026-10-28 05:39:39] c2: 26651 it, R-hat máx 1.246 (a_b), τ máx 1385 (A_s), 9.6 τ retidos, 4.81 s/it, convergiu=False
+[2026-10-28 05:39:39] c2: continuing c2 from mcmc_chain_c2_cont80.npz (300 iterations) -> cont81
+[2026-10-28 05:39:46] c2: MCMC it     0  acc 0.225  lp max -10684.0 median -10689.9  4.86 s/it
+[2026-10-28 05:47:46] c2: MCMC it   100  acc 0.189  lp max -10683.0 median -10689.7  4.80 s/it
+[2026-10-28 05:55:48] c2: MCMC it   200  acc 0.192  lp max -10685.6 median -10689.0  4.81 s/it
+[2026-10-28 06:03:57] c2: MCMC continuation done, acceptance 0.195
+[2026-10-28 06:04:01] c2: 26951 it, R-hat máx 1.243 (a_b), τ máx 1386 (A_s), 9.7 τ retidos, 4.87 s/it, convergiu=False
+[2026-10-28 06:04:01] c2: continuing c2 from mcmc_chain_c2_cont81.npz (300 iterations) -> cont82
+[2026-10-28 06:04:08] c2: MCMC it     0  acc 0.175  lp max -10684.0 median -10690.2  4.91 s/it
+[2026-10-28 06:12:09] c2: MCMC it   100  acc 0.205  lp max -10685.0 median -10688.7  4.81 s/it
+[2026-10-28 06:20:10] c2: MCMC it   200  acc 0.211  lp max -10685.4 median -10690.8  4.81 s/it
+[2026-10-28 06:28:07] c2: MCMC continuation done, acceptance 0.208
+[2026-10-28 06:28:10] c2: 27251 it, R-hat máx 1.242 (a_b), τ máx 1370 (A_s), 9.9 τ retidos, 4.83 s/it, convergiu=False
+[2026-10-28 06:28:10] c2: continuing c2 from mcmc_chain_c2_cont82.npz (300 iterations) -> cont83
+[2026-10-28 06:28:17] c2: MCMC it     0  acc 0.175  lp max -10683.8 median -10689.8  4.90 s/it
+[2026-10-28 06:36:17] c2: MCMC it   100  acc 0.209  lp max -10685.4 median -10690.6  4.80 s/it
+[2026-10-28 06:44:17] c2: MCMC it   200  acc 0.216  lp max -10685.0 median -10690.2  4.80 s/it
+[2026-10-28 06:52:14] c2: MCMC continuation done, acceptance 0.213
+[2026-10-28 06:52:17] c2: 27551 it, R-hat máx 1.239 (a_b), τ máx 1350 (A_s), 10.2 τ retidos, 4.82 s/it, convergiu=False
+[2026-10-28 06:52:17] c2: continuing c2 from mcmc_chain_c2_cont83.npz (300 iterations) -> cont84
+[2026-10-28 06:52:24] c2: MCMC it     0  acc 0.175  lp max -10683.4 median -10690.2  4.96 s/it
+[2026-10-28 07:00:26] c2: MCMC it   100  acc 0.194  lp max -10685.4 median -10689.6  4.82 s/it
+[2026-10-28 07:08:30] c2: MCMC it   200  acc 0.196  lp max -10684.7 median -10690.4  4.83 s/it
+[2026-10-28 07:16:38] c2: MCMC continuation done, acceptance 0.198
+[2026-10-28 07:16:41] c2: 27851 it, R-hat máx 1.231 (a_b), τ máx 1292 (A_s), 10.8 τ retidos, 4.88 s/it, convergiu=False
+[2026-10-28 07:16:41] c2: continuing c2 from mcmc_chain_c2_cont84.npz (300 iterations) -> cont85
+[2026-10-28 07:16:48] c2: MCMC it     0  acc 0.200  lp max -10684.5 median -10690.1  4.87 s/it
+[2026-10-28 07:24:48] c2: MCMC it   100  acc 0.198  lp max -10684.2 median -10689.1  4.80 s/it
+[2026-10-28 07:32:51] c2: MCMC it   200  acc 0.198  lp max -10684.5 median -10689.8  4.81 s/it
+[2026-10-28 07:40:50] c2: MCMC continuation done, acceptance 0.200
+[2026-10-28 07:40:52] c2: 28151 it, R-hat máx 1.222 (a_b), τ máx 1222 (A_s), 11.5 τ retidos, 4.84 s/it, convergiu=False
+[2026-10-28 07:40:52] c2: continuing c2 from mcmc_chain_c2_cont85.npz (300 iterations) -> cont86
+[2026-10-28 07:40:59] c2: MCMC it     0  acc 0.250  lp max -10683.5 median -10690.5  4.80 s/it
+[2026-10-28 07:49:02] c2: MCMC it   100  acc 0.226  lp max -10684.3 median -10689.8  4.83 s/it
+[2026-10-28 07:57:08] c2: MCMC it   200  acc 0.213  lp max -10686.3 median -10690.5  4.84 s/it
+[2026-10-28 08:05:08] c2: MCMC continuation done, acceptance 0.207
+[2026-10-28 08:05:11] c2: 28451 it, R-hat máx 1.222 (A_m), τ máx 1159 (A_s), 12.3 τ retidos, 4.86 s/it, convergiu=False
+[2026-10-28 08:05:11] c2: continuing c2 from mcmc_chain_c2_cont86.npz (300 iterations) -> cont87
+[2026-10-28 08:05:18] c2: MCMC it     0  acc 0.150  lp max -10685.0 median -10690.3  4.88 s/it
+[2026-10-28 08:13:25] c2: MCMC it   100  acc 0.208  lp max -10684.8 median -10691.3  4.87 s/it
+[2026-10-28 08:21:30] c2: MCMC it   200  acc 0.204  lp max -10682.6 median -10688.9  4.86 s/it
+[2026-10-28 08:29:32] c2: MCMC continuation done, acceptance 0.207
+[2026-10-28 08:29:35] c2: 28751 it, R-hat máx 1.223 (A_m), τ máx 1311 (U_w), 11.0 τ retidos, 4.88 s/it, convergiu=False
+[2026-10-28 08:29:35] c2: continuing c2 from mcmc_chain_c2_cont87.npz (300 iterations) -> cont88
+[2026-10-28 08:29:42] c2: MCMC it     0  acc 0.375  lp max -10684.9 median -10690.1  4.78 s/it
+[2026-10-28 08:37:42] c2: MCMC it   100  acc 0.202  lp max -10683.3 median -10689.4  4.80 s/it
+[2026-10-28 08:45:44] c2: MCMC it   200  acc 0.199  lp max -10684.4 median -10690.2  4.81 s/it
+[2026-10-28 08:54:54] c2: MCMC continuation done, acceptance 0.200
+[2026-10-28 08:54:57] c2: 29051 it, R-hat máx 1.225 (A_m), τ máx 1361 (U_w), 10.7 τ retidos, 5.07 s/it, convergiu=False
+[2026-10-28 08:54:57] c2: continuing c2 from mcmc_chain_c2_cont88.npz (300 iterations) -> cont89
+[2026-10-28 08:55:06] c2: MCMC it     0  acc 0.125  lp max -10684.5 median -10690.1  5.81 s/it
+[2026-10-28 09:04:16] c2: MCMC it   100  acc 0.214  lp max -10685.0 median -10689.0  5.50 s/it
+[2026-10-28 09:13:08] c2: MCMC it   200  acc 0.204  lp max -10685.0 median -10689.3  5.41 s/it
+[2026-10-28 09:22:02] c2: MCMC continuation done, acceptance 0.208
+[2026-10-28 09:22:06] c2: 29351 it, R-hat máx 1.227 (A_m), τ máx 1335 (U_w), 11.0 τ retidos, 5.43 s/it, convergiu=False
+[2026-10-28 09:22:06] c2: continuing c2 from mcmc_chain_c2_cont89.npz (300 iterations) -> cont90
+[2026-10-28 09:22:15] c2: MCMC it     0  acc 0.150  lp max -10685.4 median -10690.0  5.59 s/it
+[2026-10-28 09:31:13] c2: MCMC it   100  acc 0.197  lp max -10685.2 median -10689.9  5.38 s/it
+[2026-10-28 09:39:45] c2: MCMC it   200  acc 0.209  lp max -10684.3 median -10689.8  5.25 s/it
+[2026-10-28 09:48:13] c2: MCMC continuation done, acceptance 0.212
+[2026-10-28 09:48:16] c2: 29651 it, R-hat máx 1.229 (A_m), τ máx 1213 (U_w), 12.2 τ retidos, 5.24 s/it, convergiu=False
+[2026-10-28 09:48:16] c2: continuing c2 from mcmc_chain_c2_cont90.npz (300 iterations) -> cont91
+[2026-10-28 09:48:24] c2: MCMC it     0  acc 0.225  lp max -10685.2 median -10690.2  5.30 s/it
+[2026-10-28 09:56:59] c2: MCMC it   100  acc 0.223  lp max -10685.5 median -10689.5  5.15 s/it
+[2026-10-28 10:05:32] c2: MCMC it   200  acc 0.224  lp max -10684.1 median -10689.9  5.14 s/it
+[2026-10-28 10:14:03] c2: MCMC continuation done, acceptance 0.218
+[2026-10-28 10:14:06] c2: 29951 it, R-hat máx 1.228 (A_m), τ máx 1227 (K_bg), 12.2 τ retidos, 5.17 s/it, convergiu=False
+[2026-10-28 10:14:06] c2: continuing c2 from mcmc_chain_c2_cont91.npz (300 iterations) -> cont92
+[2026-10-28 10:14:15] c2: MCMC it     0  acc 0.275  lp max -10684.6 median -10689.3  5.74 s/it
+[2026-10-28 10:22:56] c2: MCMC it   100  acc 0.217  lp max -10685.7 median -10689.8  5.22 s/it
+[2026-10-28 10:31:34] c2: MCMC it   200  acc 0.221  lp max -10684.8 median -10689.8  5.20 s/it
+[2026-10-28 10:40:03] c2: MCMC continuation done, acceptance 0.218
+[2026-10-28 10:40:06] c2: 30251 it, R-hat máx 1.226 (A_m), τ máx 1304 (K_bg), 11.6 τ retidos, 5.20 s/it, convergiu=False
+[2026-10-28 10:40:06] c2: continuing c2 from mcmc_chain_c2_cont92.npz (300 iterations) -> cont93
+[2026-10-28 10:40:14] c2: MCMC it     0  acc 0.225  lp max -10684.1 median -10690.2  5.20 s/it
+[2026-10-28 10:48:46] c2: MCMC it   100  acc 0.224  lp max -10684.0 median -10689.7  5.13 s/it
+[2026-10-28 10:57:21] c2: MCMC it   200  acc 0.219  lp max -10684.8 median -10689.4  5.14 s/it
+[2026-10-28 11:05:49] c2: MCMC continuation done, acceptance 0.219
+[2026-10-28 11:05:52] c2: 30551 it, R-hat máx 1.224 (A_m), τ máx 1405 (K_bg), 10.9 τ retidos, 5.15 s/it, convergiu=False
+[2026-10-28 11:05:52] c2: continuing c2 from mcmc_chain_c2_cont93.npz (300 iterations) -> cont94
+[2026-10-28 11:06:00] c2: MCMC it     0  acc 0.325  lp max -10685.5 median -10689.8  4.96 s/it
+[2026-10-28 11:14:32] c2: MCMC it   100  acc 0.216  lp max -10685.3 median -10689.4  5.12 s/it
+[2026-10-28 11:23:07] c2: MCMC it   200  acc 0.220  lp max -10686.6 median -10690.6  5.14 s/it
+[2026-10-28 11:31:57] c2: MCMC continuation done, acceptance 0.223
+[2026-10-28 11:32:01] c2: 30851 it, R-hat máx 1.220 (A_m), τ máx 1512 (a_b), 10.2 τ retidos, 5.23 s/it, convergiu=False
+[2026-10-28 11:32:01] c2: continuing c2 from mcmc_chain_c2_cont94.npz (300 iterations) -> cont95
+[2026-10-28 11:32:10] c2: MCMC it     0  acc 0.100  lp max -10685.3 median -10690.8  6.13 s/it
+[2026-10-28 11:41:41] c2: MCMC it   100  acc 0.219  lp max -10683.6 median -10689.7  5.71 s/it
+[2026-10-28 11:51:12] c2: MCMC it   200  acc 0.225  lp max -10683.1 median -10689.3  5.71 s/it
+[2026-10-28 11:59:40] c2: MCMC continuation done, acceptance 0.227
+[2026-10-28 11:59:43] c2: 31151 it, R-hat máx 1.216 (A_m), τ máx 1545 (a_b), 10.1 τ retidos, 5.54 s/it, convergiu=False
+[2026-10-28 11:59:43] c2: continuing c2 from mcmc_chain_c2_cont95.npz (300 iterations) -> cont96
+[2026-10-28 11:59:50] c2: MCMC it     0  acc 0.225  lp max -10686.2 median -10691.0  4.84 s/it
+[2026-10-28 12:08:21] c2: MCMC it   100  acc 0.222  lp max -10685.3 median -10690.3  5.10 s/it
+[2026-10-28 12:17:32] c2: MCMC it   200  acc 0.223  lp max -10685.2 median -10689.8  5.30 s/it
+[2026-10-28 12:26:29] c2: MCMC continuation done, acceptance 0.226
+[2026-10-28 12:26:32] c2: 31451 it, R-hat máx 1.212 (A_m), τ máx 1604 (K_bg), 9.8 τ retidos, 5.37 s/it, convergiu=False
+[2026-10-28 12:26:32] c2: continuing c2 from mcmc_chain_c2_cont96.npz (300 iterations) -> cont97
+[2026-10-28 12:26:41] c2: MCMC it     0  acc 0.175  lp max -10684.6 median -10689.7  5.59 s/it
+[2026-10-28 12:35:30] c2: MCMC it   100  acc 0.235  lp max -10685.3 median -10688.6  5.30 s/it
+[2026-10-28 12:44:27] c2: MCMC it   200  acc 0.238  lp max -10683.5 median -10690.3  5.33 s/it
+[2026-10-28 12:53:02] c2: MCMC continuation done, acceptance 0.237
+[2026-10-28 12:53:05] c2: 31751 it, R-hat máx 1.206 (A_m), τ máx 1709 (K_bg), 9.3 τ retidos, 5.31 s/it, convergiu=False
+[2026-10-28 12:53:05] c2: continuing c2 from mcmc_chain_c2_cont97.npz (300 iterations) -> cont98
+[2026-10-28 12:53:13] c2: MCMC it     0  acc 0.200  lp max -10684.7 median -10689.2  5.38 s/it
+[2026-10-28 13:01:59] c2: MCMC it   100  acc 0.243  lp max -10685.0 median -10689.8  5.26 s/it
+[2026-10-28 13:10:28] c2: MCMC it   200  acc 0.239  lp max -10684.9 median -10690.6  5.17 s/it
+[2026-10-28 13:18:56] c2: MCMC continuation done, acceptance 0.236
+[2026-10-28 13:18:59] c2: 32051 it, R-hat máx 1.201 (A_m), τ máx 1726 (K_bg), 9.3 τ retidos, 5.18 s/it, convergiu=False
+[2026-10-28 13:18:59] c2: continuing c2 from mcmc_chain_c2_cont98.npz (300 iterations) -> cont99
+[2026-10-28 13:19:07] c2: MCMC it     0  acc 0.225  lp max -10685.2 median -10689.8  5.16 s/it
+[2026-10-28 13:27:49] c2: MCMC it   100  acc 0.239  lp max -10686.3 median -10690.5  5.22 s/it
+[2026-10-28 13:37:12] c2: MCMC it   200  acc 0.232  lp max -10682.5 median -10690.8  5.42 s/it
+[2026-10-28 13:46:07] c2: MCMC continuation done, acceptance 0.231
+[2026-10-28 13:46:11] c2: 32351 it, R-hat máx 1.196 (A_m), τ máx 1766 (A_d), 9.2 τ retidos, 5.44 s/it, convergiu=False
+[2026-10-28 13:46:11] c2: continuing c2 from mcmc_chain_c2_cont99.npz (300 iterations) -> cont100
+[2026-10-28 13:46:19] c2: MCMC it     0  acc 0.200  lp max -10684.5 median -10690.2  5.26 s/it
+[2026-10-28 13:54:59] c2: MCMC it   100  acc 0.229  lp max -10685.2 median -10689.8  5.21 s/it
+[2026-10-28 14:03:47] c2: MCMC it   200  acc 0.220  lp max -10684.9 median -10691.1  5.24 s/it
+[2026-10-28 14:12:15] c2: MCMC continuation done, acceptance 0.221
+[2026-10-28 14:12:18] c2: 32651 it, R-hat máx 1.191 (A_m), τ máx 1831 (A_d), 8.9 τ retidos, 5.23 s/it, convergiu=False
+[2026-10-28 14:12:18] c2: continuing c2 from mcmc_chain_c2_cont100.npz (300 iterations) -> cont101
+[2026-10-28 14:12:26] c2: MCMC it     0  acc 0.300  lp max -10684.6 median -10689.7  4.90 s/it
+[2026-10-28 14:21:00] c2: MCMC it   100  acc 0.225  lp max -10686.3 median -10689.4  5.14 s/it
+[2026-10-28 14:29:58] c2: MCMC it   200  acc 0.223  lp max -10684.9 median -10690.1  5.26 s/it
+[2026-10-28 14:38:45] c2: MCMC continuation done, acceptance 0.221
+[2026-10-28 14:38:48] c2: 32951 it, R-hat máx 1.186 (A_m), τ máx 1898 (A_d), 8.7 τ retidos, 5.30 s/it, convergiu=False
+[2026-10-28 14:38:48] c2: continuing c2 from mcmc_chain_c2_cont101.npz (300 iterations) -> cont102
+[2026-10-28 14:38:56] c2: MCMC it     0  acc 0.400  lp max -10685.1 median -10689.5  5.16 s/it
+[2026-10-28 14:47:35] c2: MCMC it   100  acc 0.239  lp max -10684.7 median -10689.6  5.19 s/it
+[2026-10-28 14:56:44] c2: MCMC it   200  acc 0.229  lp max -10684.7 median -10689.2  5.34 s/it
+[2026-10-28 15:05:43] c2: MCMC continuation done, acceptance 0.224
+[2026-10-28 15:05:46] c2: 33251 it, R-hat máx 1.181 (A_m), τ máx 1968 (A_d), 8.4 τ retidos, 5.39 s/it, convergiu=False
+[2026-10-28 15:05:46] c2: continuing c2 from mcmc_chain_c2_cont102.npz (300 iterations) -> cont103
+[2026-10-28 15:05:54] c2: MCMC it     0  acc 0.175  lp max -10684.7 median -10689.2  4.98 s/it
+[2026-10-28 15:15:02] c2: MCMC it   100  acc 0.222  lp max -10683.9 median -10691.0  5.47 s/it
+[2026-10-28 15:23:35] c2: MCMC it   200  acc 0.223  lp max -10684.0 median -10689.7  5.30 s/it
+[2026-10-28 15:32:15] c2: MCMC continuation done, acceptance 0.218
+[2026-10-28 15:32:19] c2: 33551 it, R-hat máx 1.173 (A_m), τ máx 1983 (A_d), 8.5 τ retidos, 5.31 s/it, convergiu=False
+[2026-10-28 15:32:19] c2: continuing c2 from mcmc_chain_c2_cont103.npz (300 iterations) -> cont104
+[2026-10-28 15:32:27] c2: MCMC it     0  acc 0.100  lp max -10685.3 median -10690.6  5.06 s/it
+[2026-10-28 15:41:12] c2: MCMC it   100  acc 0.227  lp max -10684.7 median -10689.9  5.25 s/it
+[2026-10-28 15:49:58] c2: MCMC it   200  acc 0.225  lp max -10684.1 median -10689.5  5.25 s/it
+[2026-10-28 15:58:27] c2: MCMC continuation done, acceptance 0.223
+[2026-10-28 15:58:31] c2: 33851 it, R-hat máx 1.163 (A_m), τ máx 1983 (A_d), 8.5 τ retidos, 5.24 s/it, convergiu=False
+[2026-10-28 15:58:31] c2: continuing c2 from mcmc_chain_c2_cont104.npz (300 iterations) -> cont105
+[2026-10-28 15:58:39] c2: MCMC it     0  acc 0.250  lp max -10684.4 median -10690.0  5.27 s/it
+[2026-10-28 16:07:15] c2: MCMC it   100  acc 0.214  lp max -10683.9 median -10689.4  5.16 s/it
+[2026-10-28 16:15:48] c2: MCMC it   200  acc 0.219  lp max -10683.8 median -10690.4  5.15 s/it
+[2026-10-28 16:24:35] c2: MCMC continuation done, acceptance 0.222
+[2026-10-28 16:24:38] c2: 34151 it, R-hat máx 1.157 (A_m), τ máx 1994 (A_d), 8.6 τ retidos, 5.22 s/it, convergiu=False
+[2026-10-28 16:24:38] c2: continuing c2 from mcmc_chain_c2_cont105.npz (300 iterations) -> cont106
+[2026-10-28 16:24:47] c2: MCMC it     0  acc 0.225  lp max -10685.5 median -10689.2  5.24 s/it
+[2026-10-28 16:33:28] c2: MCMC it   100  acc 0.231  lp max -10685.7 median -10690.0  5.21 s/it
+[2026-10-28 16:42:34] c2: MCMC it   200  acc 0.219  lp max -10682.9 median -10689.2  5.34 s/it
+[2026-10-28 16:50:37] c2: MCMC continuation done, acceptance 0.221
+[2026-10-28 16:50:40] c2: 34451 it, R-hat máx 1.151 (A_m), τ máx 1993 (A_d), 8.6 τ retidos, 5.21 s/it, convergiu=False
+[2026-10-28 16:50:40] c2: continuing c2 from mcmc_chain_c2_cont106.npz (300 iterations) -> cont107
+[2026-10-28 16:50:48] c2: MCMC it     0  acc 0.200  lp max -10684.4 median -10689.5  5.34 s/it
+[2026-10-28 16:58:58] c2: MCMC it   100  acc 0.217  lp max -10685.7 median -10689.5  4.90 s/it
+[2026-10-28 17:07:05] c2: MCMC it   200  acc 0.221  lp max -10685.5 median -10690.3  4.89 s/it
+[2026-10-28 17:15:01] c2: MCMC continuation done, acceptance 0.221
+[2026-10-28 17:15:04] c2: 34751 it, R-hat máx 1.147 (A_m), τ máx 2009 (K_bg), 8.7 τ retidos, 4.88 s/it, convergiu=False
+[2026-10-28 17:15:04] c2: continuing c2 from mcmc_chain_c2_cont107.npz (300 iterations) -> cont108
+[2026-10-28 17:15:11] c2: MCMC it     0  acc 0.075  lp max -10686.2 median -10689.4  4.81 s/it
+[2026-10-28 17:23:14] c2: MCMC it   100  acc 0.213  lp max -10683.3 median -10690.1  4.83 s/it
+[2026-10-28 17:31:16] c2: MCMC it   200  acc 0.223  lp max -10685.7 median -10689.7  4.83 s/it
+[2026-10-28 17:39:10] c2: MCMC continuation done, acceptance 0.217
+[2026-10-28 17:39:13] c2: 35051 it, R-hat máx 1.142 (A_m), τ máx 1982 (A_d), 8.8 τ retidos, 4.83 s/it, convergiu=False
+[2026-10-28 17:39:13] c2: continuing c2 from mcmc_chain_c2_cont108.npz (300 iterations) -> cont109
+[2026-10-28 17:39:20] c2: MCMC it     0  acc 0.200  lp max -10686.0 median -10689.7  4.72 s/it
+[2026-10-28 17:47:24] c2: MCMC it   100  acc 0.205  lp max -10683.7 median -10690.0  4.84 s/it
+[2026-10-28 17:55:26] c2: MCMC it   200  acc 0.201  lp max -10684.5 median -10689.6  4.83 s/it
+[2026-10-28 18:03:24] c2: MCMC continuation done, acceptance 0.197
+[2026-10-28 18:03:27] c2: 35351 it, R-hat máx 1.140 (a_b), τ máx 1932 (A_d), 9.1 τ retidos, 4.85 s/it, convergiu=False
+[2026-10-28 18:03:27] c2: continuing c2 from mcmc_chain_c2_cont109.npz (300 iterations) -> cont110
+[2026-10-28 18:03:34] c2: MCMC it     0  acc 0.225  lp max -10686.2 median -10689.7  4.80 s/it
+[2026-10-28 18:12:09] c2: MCMC it   100  acc 0.196  lp max -10684.3 median -10689.1  5.14 s/it
+[2026-10-28 18:20:37] c2: MCMC it   200  acc 0.198  lp max -10684.0 median -10690.4  5.11 s/it
+[2026-10-28 18:28:31] c2: MCMC continuation done, acceptance 0.198
+[2026-10-28 18:28:35] c2: 35651 it, R-hat máx 1.139 (a_b), τ máx 1860 (A_d), 9.6 τ retidos, 5.03 s/it, convergiu=False
+[2026-10-28 18:28:35] c2: continuing c2 from mcmc_chain_c2_cont110.npz (300 iterations) -> cont111
+[2026-10-28 18:28:42] c2: MCMC it     0  acc 0.250  lp max -10686.5 median -10690.3  4.88 s/it
+[2026-10-28 18:37:06] c2: MCMC it   100  acc 0.192  lp max -10686.2 median -10690.1  5.03 s/it
+[2026-10-28 18:46:31] c2: MCMC it   200  acc 0.191  lp max -10686.1 median -10690.1  5.34 s/it
+[2026-10-28 18:56:34] c2: MCMC continuation done, acceptance 0.194
+[2026-10-28 18:56:37] c2: 35951 it, R-hat máx 1.141 (a_b), τ máx 1874 (A_d), 9.6 τ retidos, 5.61 s/it, convergiu=False
+[2026-10-28 18:56:37] c2: continuing c2 from mcmc_chain_c2_cont111.npz (300 iterations) -> cont112
+[2026-10-28 18:56:46] c2: MCMC it     0  acc 0.200  lp max -10685.8 median -10690.6  5.37 s/it
+[2026-10-28 19:05:59] c2: MCMC it   100  acc 0.201  lp max -10683.5 median -10689.5  5.53 s/it
+[2026-10-28 19:14:42] c2: MCMC it   200  acc 0.202  lp max -10684.1 median -10688.1  5.38 s/it
+[2026-10-28 19:23:26] c2: MCMC continuation done, acceptance 0.202
+[2026-10-28 19:23:29] c2: 36251 it, R-hat máx 1.142 (a_b), τ máx 1901 (A_d), 9.5 τ retidos, 5.37 s/it, convergiu=False
+[2026-10-28 19:23:29] c2: continuing c2 from mcmc_chain_c2_cont112.npz (300 iterations) -> cont113
+[2026-10-28 19:23:37] c2: MCMC it     0  acc 0.225  lp max -10683.7 median -10689.7  4.88 s/it
+[2026-10-28 19:36:29] c2: MCMC it   100  acc 0.207  lp max -10683.2 median -10690.0  7.69 s/it
+[2026-10-28 19:45:17] c2: MCMC it   200  acc 0.202  lp max -10684.2 median -10690.2  6.49 s/it
+[2026-10-28 19:53:45] c2: MCMC continuation done, acceptance 0.208
+[2026-10-28 19:53:48] c2: 36551 it, R-hat máx 1.141 (a_b), τ máx 1938 (A_d), 9.4 τ retidos, 6.06 s/it, convergiu=False
+[2026-10-28 19:53:48] c2: continuing c2 from mcmc_chain_c2_cont113.npz (300 iterations) -> cont114
+[2026-10-28 19:53:56] c2: MCMC it     0  acc 0.225  lp max -10685.3 median -10690.2  4.91 s/it
+[2026-10-28 20:02:21] c2: MCMC it   100  acc 0.221  lp max -10683.8 median -10689.4  5.05 s/it
+[2026-10-28 20:10:40] c2: MCMC it   200  acc 0.217  lp max -10683.5 median -10689.2  5.02 s/it
+[2026-10-28 20:19:11] c2: MCMC continuation done, acceptance 0.217
+[2026-10-28 20:19:15] c2: 36851 it, R-hat máx 1.138 (a_b), τ máx 1947 (A_d), 9.5 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-28 20:19:15] c2: continuing c2 from mcmc_chain_c2_cont114.npz (300 iterations) -> cont115
+[2026-10-28 20:19:26] c2: MCMC it     0  acc 0.225  lp max -10685.3 median -10690.1  6.85 s/it
+[2026-10-28 20:27:56] c2: MCMC it   100  acc 0.225  lp max -10682.9 median -10690.6  5.11 s/it
+[2026-10-28 20:36:08] c2: MCMC it   200  acc 0.224  lp max -10683.6 median -10690.3  5.02 s/it
+[2026-10-28 20:44:41] c2: MCMC continuation done, acceptance 0.221
+[2026-10-28 20:44:45] c2: 37151 it, R-hat máx 1.136 (a_b), τ máx 1897 (A_d), 9.8 τ retidos, 5.10 s/it, convergiu=False
+[2026-10-28 20:44:45] c2: continuing c2 from mcmc_chain_c2_cont115.npz (300 iterations) -> cont116
+[2026-10-28 20:44:54] c2: MCMC it     0  acc 0.250  lp max -10683.8 median -10689.1  5.67 s/it
+[2026-10-28 20:53:57] c2: MCMC it   100  acc 0.223  lp max -10682.7 median -10688.3  5.43 s/it
+[2026-10-28 21:02:44] c2: MCMC it   200  acc 0.224  lp max -10685.3 median -10689.9  5.35 s/it
+[2026-10-28 21:11:25] c2: MCMC continuation done, acceptance 0.226
+[2026-10-28 21:11:31] c2: 37451 it, R-hat máx 1.135 (a_b), τ máx 1845 (A_d), 10.2 τ retidos, 5.35 s/it, convergiu=False
+[2026-10-28 21:11:31] c2: continuing c2 from mcmc_chain_c2_cont116.npz (300 iterations) -> cont117
+[2026-10-28 21:11:38] c2: MCMC it     0  acc 0.200  lp max -10682.5 median -10688.7  4.94 s/it
+[2026-10-28 21:20:25] c2: MCMC it   100  acc 0.234  lp max -10683.3 median -10689.8  5.26 s/it
+[2026-10-28 21:29:37] c2: MCMC it   200  acc 0.233  lp max -10686.4 median -10690.4  5.39 s/it
+[2026-10-28 21:38:06] c2: MCMC continuation done, acceptance 0.235
+[2026-10-28 21:38:10] c2: 37751 it, R-hat máx 1.135 (A_m), τ máx 1742 (A_d), 10.8 τ retidos, 5.33 s/it, convergiu=False
+[2026-10-28 21:38:10] c2: continuing c2 from mcmc_chain_c2_cont117.npz (300 iterations) -> cont118
+[2026-10-28 21:38:18] c2: MCMC it     0  acc 0.200  lp max -10684.5 median -10689.1  4.88 s/it
+[2026-10-28 21:46:46] c2: MCMC it   100  acc 0.250  lp max -10683.8 median -10690.4  5.08 s/it
+[2026-10-28 21:55:24] c2: MCMC it   200  acc 0.241  lp max -10683.6 median -10689.5  5.13 s/it
+[2026-10-28 22:04:17] c2: MCMC continuation done, acceptance 0.236
+[2026-10-28 22:04:20] c2: 38051 it, R-hat máx 1.137 (A_m), τ máx 1635 (A_d), 11.6 τ retidos, 5.23 s/it, convergiu=False
+[2026-10-28 22:04:20] c2: continuing c2 from mcmc_chain_c2_cont118.npz (300 iterations) -> cont119
+[2026-10-28 22:04:29] c2: MCMC it     0  acc 0.175  lp max -10683.3 median -10689.2  5.15 s/it
+[2026-10-28 22:13:00] c2: MCMC it   100  acc 0.210  lp max -10683.8 median -10690.2  5.11 s/it
+[2026-10-28 22:22:21] c2: MCMC it   200  acc 0.214  lp max -10684.9 median -10689.6  5.36 s/it
+[2026-10-28 22:30:49] c2: MCMC continuation done, acceptance 0.209
+[2026-10-28 22:30:53] c2: 38351 it, R-hat máx 1.138 (A_m), τ máx 1592 (m_1), 12.0 τ retidos, 5.31 s/it, convergiu=False
+[2026-10-28 22:30:53] c2: continuing c2 from mcmc_chain_c2_cont119.npz (300 iterations) -> cont120
+[2026-10-28 22:31:00] c2: MCMC it     0  acc 0.275  lp max -10684.4 median -10690.1  4.93 s/it
+[2026-10-28 22:39:27] c2: MCMC it   100  acc 0.213  lp max -10683.7 median -10689.9  5.06 s/it
+[2026-10-28 22:47:55] c2: MCMC it   200  acc 0.215  lp max -10686.1 median -10690.9  5.07 s/it
+[2026-10-28 22:56:18] c2: MCMC continuation done, acceptance 0.211
+[2026-10-28 22:56:22] c2: 38651 it, R-hat máx 1.138 (A_m), τ máx 1645 (m_1), 11.7 τ retidos, 5.10 s/it, convergiu=False
+[2026-10-28 22:56:22] c2: continuing c2 from mcmc_chain_c2_cont120.npz (300 iterations) -> cont121
+[2026-10-28 22:56:30] c2: MCMC it     0  acc 0.250  lp max -10686.4 median -10691.0  4.79 s/it
+[2026-10-28 23:05:01] c2: MCMC it   100  acc 0.199  lp max -10684.7 median -10690.6  5.11 s/it
+[2026-10-28 23:13:43] c2: MCMC it   200  acc 0.203  lp max -10684.6 median -10689.6  5.16 s/it
+[2026-10-28 23:22:09] c2: MCMC continuation done, acceptance 0.210
+[2026-10-28 23:22:13] c2: 38951 it, R-hat máx 1.137 (A_m), τ máx 1664 (m_1), 11.7 τ retidos, 5.17 s/it, convergiu=False
+[2026-10-28 23:22:13] c2: continuing c2 from mcmc_chain_c2_cont121.npz (300 iterations) -> cont122
+[2026-10-28 23:22:21] c2: MCMC it     0  acc 0.200  lp max -10684.9 median -10691.7  4.99 s/it
+[2026-10-28 23:30:52] c2: MCMC it   100  acc 0.216  lp max -10684.6 median -10689.0  5.10 s/it
+[2026-10-28 23:39:20] c2: MCMC it   200  acc 0.211  lp max -10686.4 median -10689.1  5.10 s/it
+[2026-10-28 23:47:53] c2: MCMC continuation done, acceptance 0.210
+[2026-10-28 23:47:57] c2: 39251 it, R-hat máx 1.136 (A_m), τ máx 1693 (m_1), 11.6 τ retidos, 5.15 s/it, convergiu=False
+[2026-10-28 23:47:57] c2: continuing c2 from mcmc_chain_c2_cont122.npz (300 iterations) -> cont123
+[2026-10-28 23:48:05] c2: MCMC it     0  acc 0.100  lp max -10684.2 median -10689.4  5.26 s/it
+[2026-10-28 23:56:46] c2: MCMC it   100  acc 0.212  lp max -10685.6 median -10690.9  5.21 s/it
+[2026-10-29 00:05:21] c2: MCMC it   200  acc 0.209  lp max -10683.9 median -10690.3  5.18 s/it
+[2026-10-29 00:13:46] c2: MCMC continuation done, acceptance 0.205
+[2026-10-29 00:13:50] c2: 39551 it, R-hat máx 1.135 (A_m), τ máx 1745 (m_1), 11.3 τ retidos, 5.18 s/it, convergiu=False
+[2026-10-29 00:13:50] c2: continuing c2 from mcmc_chain_c2_cont123.npz (300 iterations) -> cont124
+[2026-10-29 00:13:58] c2: MCMC it     0  acc 0.150  lp max -10684.8 median -10691.4  5.25 s/it
+[2026-10-29 00:22:24] c2: MCMC it   100  acc 0.187  lp max -10684.6 median -10689.5  5.07 s/it
+[2026-10-29 00:30:51] c2: MCMC it   200  acc 0.200  lp max -10685.4 median -10689.6  5.07 s/it
+[2026-10-29 00:39:13] c2: MCMC continuation done, acceptance 0.203
+[2026-10-29 00:39:17] c2: 39851 it, R-hat máx 1.135 (A_m), τ máx 1823 (m_1), 10.9 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-29 00:39:17] c2: continuing c2 from mcmc_chain_c2_cont124.npz (300 iterations) -> cont125
+[2026-10-29 00:39:25] c2: MCMC it     0  acc 0.175  lp max -10684.0 median -10690.2  4.81 s/it
+[2026-10-29 00:47:50] c2: MCMC it   100  acc 0.203  lp max -10686.1 median -10689.9  5.05 s/it
+[2026-10-29 00:56:14] c2: MCMC it   200  acc 0.203  lp max -10684.7 median -10689.8  5.05 s/it
+[2026-10-29 01:04:37] c2: MCMC continuation done, acceptance 0.205
+[2026-10-29 01:04:41] c2: 40151 it, R-hat máx 1.136 (A_s), τ máx 1906 (m_1), 10.5 τ retidos, 5.08 s/it, convergiu=False
+[2026-10-29 01:04:41] c2: continuing c2 from mcmc_chain_c2_cont125.npz (300 iterations) -> cont126
+[2026-10-29 01:04:49] c2: MCMC it     0  acc 0.125  lp max -10684.5 median -10689.7  5.13 s/it
+[2026-10-29 01:13:17] c2: MCMC it   100  acc 0.204  lp max -10685.1 median -10690.1  5.08 s/it
+[2026-10-29 01:21:43] c2: MCMC it   200  acc 0.207  lp max -10683.9 median -10688.9  5.07 s/it
+[2026-10-29 01:30:05] c2: MCMC continuation done, acceptance 0.208
+[2026-10-29 01:30:10] c2: 40451 it, R-hat máx 1.137 (A_s), τ máx 1922 (m_1), 10.5 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-29 01:30:10] c2: continuing c2 from mcmc_chain_c2_cont126.npz (300 iterations) -> cont127
+[2026-10-29 01:30:17] c2: MCMC it     0  acc 0.325  lp max -10685.1 median -10689.8  4.80 s/it
+[2026-10-29 01:38:41] c2: MCMC it   100  acc 0.214  lp max -10683.0 median -10689.0  5.04 s/it
+[2026-10-29 01:47:09] c2: MCMC it   200  acc 0.210  lp max -10685.7 median -10690.3  5.06 s/it
+[2026-10-29 01:55:30] c2: MCMC continuation done, acceptance 0.196
+[2026-10-29 01:55:35] c2: 40751 it, R-hat máx 1.138 (A_s), τ máx 1890 (m_1), 10.8 τ retidos, 5.08 s/it, convergiu=False
+[2026-10-29 01:55:35] c2: continuing c2 from mcmc_chain_c2_cont127.npz (300 iterations) -> cont128
+[2026-10-29 01:55:42] c2: MCMC it     0  acc 0.225  lp max -10684.3 median -10690.9  5.05 s/it
+[2026-10-29 02:04:11] c2: MCMC it   100  acc 0.199  lp max -10683.8 median -10689.8  5.09 s/it
+[2026-10-29 02:12:37] c2: MCMC it   200  acc 0.198  lp max -10685.6 median -10689.3  5.07 s/it
+[2026-10-29 02:20:58] c2: MCMC continuation done, acceptance 0.196
+[2026-10-29 02:21:03] c2: 41051 it, R-hat máx 1.138 (A_s), τ máx 1823 (m_1), 11.3 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-29 02:21:03] c2: continuing c2 from mcmc_chain_c2_cont128.npz (300 iterations) -> cont129
+[2026-10-29 02:21:10] c2: MCMC it     0  acc 0.250  lp max -10685.6 median -10689.5  5.06 s/it
+[2026-10-29 02:29:34] c2: MCMC it   100  acc 0.200  lp max -10685.7 median -10689.1  5.04 s/it
+[2026-10-29 02:38:00] c2: MCMC it   200  acc 0.195  lp max -10684.7 median -10690.8  5.05 s/it
+[2026-10-29 02:46:25] c2: MCMC continuation done, acceptance 0.199
+[2026-10-29 02:46:29] c2: 41351 it, R-hat máx 1.139 (A_s), τ máx 1740 (m_1), 11.9 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-29 02:46:29] c2: continuing c2 from mcmc_chain_c2_cont129.npz (300 iterations) -> cont130
+[2026-10-29 02:46:37] c2: MCMC it     0  acc 0.225  lp max -10686.2 median -10689.9  4.88 s/it
+[2026-10-29 02:55:04] c2: MCMC it   100  acc 0.199  lp max -10683.0 median -10691.3  5.07 s/it
+[2026-10-29 03:03:33] c2: MCMC it   200  acc 0.200  lp max -10686.2 median -10690.2  5.08 s/it
+[2026-10-29 03:11:53] c2: MCMC continuation done, acceptance 0.202
+[2026-10-29 03:11:58] c2: 41651 it, R-hat máx 1.141 (A_s), τ máx 1671 (m_1), 12.5 τ retidos, 5.09 s/it, convergiu=False
+[2026-10-29 03:11:58] c2: tempo máximo de 60 h (somado entre reinícios) atingido sem convergir
+[2026-10-29 03:12:07] pós-processamento 1/11: resumos do posterior (C2 e C1)
+[2026-10-29 03:12:17]    resumos do posterior (C2 e C1): ok em 0 min
+[2026-10-29 03:12:17] pós-processamento 2/11: propagação do posterior (cenários)
+[2026-10-29 03:15:36]    propagação do posterior (cenários): ok em 3 min
+[2026-10-29 03:15:36] pós-processamento 3/11: figuras do Artigo 1
+[2026-10-29 03:16:28]    figuras do Artigo 1: ok em 1 min
+[2026-10-29 03:16:28] pós-processamento 4/11: figuras do material suplementar
+[2026-10-29 03:16:41]    figuras do material suplementar: ok em 0 min
+[2026-10-29 03:16:41] pós-processamento 5/11: coletor de resultados do Artigo 1
+[2026-10-29 03:17:09]    coletor de resultados do Artigo 1: ok em 0 min
+[2026-10-29 03:17:09] pós-processamento 6/11: manuscrito do Artigo 1
+[2026-10-29 03:17:14]    manuscrito do Artigo 1: ok em 0 min
+[2026-10-29 03:17:14] pós-processamento 7/11: coletor de resultados do Artigo 2
+[2026-10-29 03:17:15]    coletor de resultados do Artigo 2: ok em 0 min
+[2026-10-29 03:17:15] pós-processamento 8/11: manuscrito do Artigo 2
+[2026-10-29 03:17:17]    manuscrito do Artigo 2: ok em 0 min
+[2026-10-29 03:17:17] pós-processamento 9/11: PDFs (Word)
+[2026-10-29 03:17:34]    PDFs (Word): ok em 0 min
+[2026-10-29 03:17:34] pós-processamento 10/11: pacotes de submissão
+[2026-10-29 03:17:56]    pacotes de submissão: ok em 0 min
+[2026-10-29 03:17:56] pós-processamento 11/11: pasta do depósito GitHub/Zenodo
+[2026-10-29 03:17:58]    pasta do depósito GitHub/Zenodo: ok em 0 min
+[2026-10-29 03:17:58] TUDO PRONTO. ATENÇÃO: nem todas as cadeias convergiram; o texto do manuscrito descreve isso. Pós-processamento sem falhas.

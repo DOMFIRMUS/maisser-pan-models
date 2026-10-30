@@ -1,0 +1,34 @@
+{
+ "c1": {
+  "n_iter": 37753,
+  "walkers": 36,
+  "max_rhat": 1.0310871185649753,
+  "max_iat": 716.918224303368,
+  "n_iat": 26.330757623497224,
+  "worst_rhat": "C_p",
+  "worst_iat": "a_p",
+  "lp_best": -1578.2982848870263,
+  "converged": false,
+  "n_needed": 71692,
+  "sec_per_it": 5.435127589702606,
+  "hours_used": 26.9,
+  "budget_left_h": 0.0,
+  "stopped": "tempo máximo de 16 h (somado entre reinícios) já usado"
+ },
+ "c2": {
+  "n_iter": 41651,
+  "walkers": 40,
+  "max_rhat": 1.1407870939744116,
+  "max_iat": 1671.356080635582,
+  "n_iat": 12.460540420614802,
+  "worst_rhat": "A_s",
+  "worst_iat": "m_1",
+  "lp_best": -10681.368059149192,
+  "converged": false,
+  "n_needed": 167136,
+  "sec_per_it": 5.094146659374237,
+  "hours_used": 60.3051851328214,
+  "budget_left_h": 0,
+  "stopped": "tempo máximo de 60 h (somado entre reinícios) atingido sem convergir"
+ }
+}

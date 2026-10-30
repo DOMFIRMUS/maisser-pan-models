@@ -1,0 +1,40 @@
+[08:28:55] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3266; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'N2_0', 'k_w', 'd_w', 'm_1', 'm_2']
+[08:28:55] valid rows: Tw_cs 3011, Tw_04 3011, Tw_12 3011, Tw_20 2484, level_a_qc 3011, level_b_qc 3011
+[08:29:06] DE gen    0  best logpost -24900.97  median -29836.09
+[08:29:19] DE gen    5  best logpost -21802.51  median -23895.51
+[08:29:34] DE gen   10  best logpost -20582.58  median -21872.99
+[08:29:48] DE gen   15  best logpost -19950.20  median -20996.51
+[08:30:03] DE gen   20  best logpost -19328.91  median -20263.79
+[08:30:18] DE gen   25  best logpost -18781.29  median -19361.57
+[08:30:34] DE gen   30  best logpost -18360.18  median -18676.45
+[08:30:48] DE gen   35  best logpost -18093.70  median -18223.77
+[08:31:03] DE gen   40  best logpost -17948.51  median -18030.38
+[08:31:24] DE gen   45  best logpost -17815.36  median -17883.31
+[08:31:50] DE gen   50  best logpost -17743.83  median -17805.40
+[08:32:14] DE gen   55  best logpost -17687.08  median -17751.74
+[08:32:41] DE gen   60  best logpost -17639.67  median -17673.09
+[08:33:11] DE gen   65  best logpost -17602.04  median -17618.01
+[08:33:41] DE gen   70  best logpost -17596.90  median -17602.27
+[08:34:06] DE gen   75  best logpost -17580.85  median -17589.40
+[08:34:39] DE gen   80  best logpost -17574.24  median -17577.87
+[08:35:02] DE gen   85  best logpost -17570.39  median -17573.37
+[08:35:28] DE gen   90  best logpost -17567.86  median -17570.00
+[08:35:52] DE gen   95  best logpost -17564.35  median -17566.63
+[08:36:11] DE gen   99  best logpost -17560.24  median -17563.33
+[08:36:14] round 0: rho {'Tw_cs': 0.982670926578619, 'Tw_04': 0.9797061246760566, 'Tw_12': 0.9754458668142026, 'Tw_20': 0.9838544790353276, 'level_a_qc': 0.988803314279622, 'level_b_qc': 0.9846785628437399}
+[08:36:14] round 0: tau {'Tw_cs': 3.5714823483460707, 'Tw_04': 6.391986419584553, 'Tw_12': 2.5836084542587066, 'Tw_20': 2.9018428141836967, 'level_a_qc': 6.311058532669817, 'level_b_qc': 1.9316324995968503}  n_eff_T 2.35
+[08:36:14] round 0: weights {'Tw_cs': 0.16453118344012205, 'Tw_04': 0.09193076750107952, 'Tw_12': 0.2274416684309412, 'Tw_20': 0.20249898255574048, 'level_a_qc': 0.15845202430359367, 'level_b_qc': 0.5176968187316735}
+[08:36:22] DE gen    0  best logpost -4978.59  median -4980.93
+[08:36:46] DE gen    5  best logpost -4974.38  median -4976.16
+[08:37:09] DE gen   10  best logpost -4970.64  median -4972.04
+[08:37:33] DE gen   15  best logpost -4967.84  median -4968.96
+[08:38:02] DE gen   20  best logpost -4966.13  median -4966.73
+[08:38:28] DE gen   25  best logpost -4964.12  median -4964.81
+[08:38:54] DE gen   30  best logpost -4962.21  median -4963.00
+[08:39:22] DE gen   35  best logpost -4960.83  median -4961.47
+[08:39:51] DE gen   40  best logpost -4959.81  median -4960.34
+[08:40:17] DE gen   45  best logpost -4958.82  median -4959.25
+[08:40:36] DE gen   49  best logpost -4958.28  median -4958.58
+[08:40:38] round 1: rho {'Tw_cs': 0.9847674064814227, 'Tw_04': 0.9802454738336572, 'Tw_12': 0.9759287069536654, 'Tw_20': 0.9834012018258244, 'level_a_qc': 0.9933125231915052, 'level_b_qc': 0.9853244207409961}
+[08:40:38] round 1: tau {'Tw_cs': 2.1465142710548517, 'Tw_04': 5.218426273533925, 'Tw_12': 1.3954045558619546, 'Tw_20': 1.94323804793071, 'level_a_qc': 1.0, 'level_b_qc': 1.0}  n_eff_T 2.26
+[08:40:38] round 1: weights {'Tw_cs': 0.26330938464670517, 'Tw_04': 0.10830800747599172, 'Tw_12': 0.4050419281436961, 'Tw_20': 0.2908533786937138, 'level_a_qc': 1.0, 'level_b_qc': 1.0}

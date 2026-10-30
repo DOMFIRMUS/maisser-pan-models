@@ -1,0 +1,15 @@
+[09:00:00] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[09:00:11] DE gen    0  best logpost -1562.37  median -1565.81
+[09:00:19] DE gen    5  best logpost -1561.94  median -1564.06
+[09:00:26] DE gen   10  best logpost -1560.04  median -1561.23
+[09:00:33] DE gen   15  best logpost -1559.51  median -1560.29
+[09:00:40] DE gen   20  best logpost -1559.23  median -1559.65
+[09:00:47] DE gen   25  best logpost -1559.05  median -1559.40
+[09:00:54] DE gen   30  best logpost -1558.98  median -1559.10
+[09:01:01] DE gen   35  best logpost -1558.83  median -1558.92
+[09:01:08] DE gen   40  best logpost -1558.76  median -1558.83
+[09:01:15] DE gen   45  best logpost -1558.74  median -1558.77
+[09:01:22] DE gen   50  best logpost -1558.72  median -1558.74
+[09:01:28] DE gen   55  best logpost -1558.71  median -1558.72
+[09:01:34] DE gen   59  best logpost -1558.71  median -1558.71
+[09:01:35] round 0: rho {'Tw_p1': 0.9965510524685829, 'Tw_p2': 0.9975886347530593, 'Tw_p3': 0.9987154270493334, 'level_a_qc': 0.990874088709426, 'micrometer': 0.0}  weights {'Tw_p1': 0.06727861591982548, 'Tw_p2': 0.2466763465601704, 'Tw_p3': 0.07724223895439865, 'level_a_qc': 0.9259409046086895, 'micrometer': 1.0}

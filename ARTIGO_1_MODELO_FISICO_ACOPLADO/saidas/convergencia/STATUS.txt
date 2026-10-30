@@ -1,0 +1,23 @@
+CONVERGÊNCIA DAS CADEIAS MCMC — Artigo 1 (MAISSER-PE)
+Atualizado em 29/10/2026 03:17
+Fase atual: concluído
+
+Critério: R-hat máximo < 1.1 e metade retida da cadeia >= 50 tempos de autocorrelação (τ).
+
+C1 (campanha com placas): 37753 iterações x 36 walkers; R-hat máx 1.031 (C_p); τ máx 717 it (a_p); retido = 26.3 τ
+    faltam ~33939 iterações para 50 τ (~51.2 h, previsão 31/10 06:32; τ ainda pode crescer)
+    tempo máximo restante para esta cadeia: 0 min
+    PARADA: tempo máximo de 16 h (somado entre reinícios) já usado
+C2 (campanha descoberta): 41651 iterações x 40 walkers; R-hat máx 1.141 (A_s); τ máx 1671 it (m_1); retido = 12.5 τ
+    faltam ~125485 iterações para 50 τ (~177.6 h, previsão 05/11 12:51; τ ainda pode crescer)
+    tempo máximo restante para esta cadeia: 0 min
+    PARADA: tempo máximo de 60 h (somado entre reinícios) atingido sem convergir
+
+Ao final das cadeias o pós-processamento roda sozinho: resumos do posterior, propagação
+do posterior, figuras, coletor de resultados, manuscritos dos dois artigos, PDFs, pacotes de
+submissão e pasta do depósito GitHub/Zenodo.
+
+Para interromper: feche a janela preta (o progresso salvo é mantido). Para retomar, rode
+RODAR_CONVERGENCIA.bat de novo. Para finalizar com as cadeias como estão: FINALIZAR_AGORA.bat.
+
+TUDO PRONTO. ATENÇÃO: nem todas as cadeias convergiram; o texto do manuscrito descreve isso. Pós-processamento sem falhas.

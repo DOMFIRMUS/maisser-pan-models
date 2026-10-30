@@ -1,0 +1,258 @@
+[20:59:42] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[20:59:57] MCMC it     0  acc 0.618  lp max -1436.4 median -1436.7  4.89 s/it
+[21:01:11] MCMC it    25  acc 0.436  lp max -1439.4 median -1443.0  3.06 s/it
+[21:02:21] MCMC it    50  acc 0.403  lp max -1440.1 median -1443.3  2.93 s/it
+[21:03:39] MCMC it    75  acc 0.380  lp max -1438.3 median -1443.4  2.98 s/it
+[21:04:55] MCMC it   100  acc 0.374  lp max -1439.4 median -1443.6  3.00 s/it
+[21:06:07] MCMC it   125  acc 0.368  lp max -1438.8 median -1443.2  2.98 s/it
+[21:07:17] MCMC it   150  acc 0.361  lp max -1439.0 median -1443.7  2.95 s/it
+[21:08:30] MCMC it   175  acc 0.356  lp max -1439.9 median -1443.0  2.95 s/it
+[21:09:42] MCMC it   200  acc 0.353  lp max -1438.4 median -1443.0  2.94 s/it
+[21:10:48] MCMC it   225  acc 0.351  lp max -1438.2 median -1444.4  2.90 s/it
+[21:11:50] MCMC it   250  acc 0.347  lp max -1439.4 median -1443.8  2.86 s/it
+[21:12:56] MCMC it   275  acc 0.345  lp max -1439.2 median -1443.7  2.84 s/it
+[21:14:01] MCMC it   300  acc 0.343  lp max -1439.4 median -1442.8  2.82 s/it
+[21:15:03] MCMC it   325  acc 0.342  lp max -1440.2 median -1444.5  2.80 s/it
+[21:16:05] MCMC it   350  acc 0.342  lp max -1439.3 median -1444.1  2.77 s/it
+[21:17:06] MCMC it   375  acc 0.341  lp max -1439.0 median -1443.4  2.75 s/it
+[21:18:07] MCMC it   400  acc 0.339  lp max -1438.7 median -1444.6  2.73 s/it
+[21:19:18] MCMC it   425  acc 0.337  lp max -1440.4 median -1443.6  2.74 s/it
+[21:20:24] MCMC it   450  acc 0.336  lp max -1439.2 median -1443.1  2.73 s/it
+[21:21:28] MCMC it   475  acc 0.336  lp max -1439.0 median -1443.9  2.72 s/it
+[21:22:25] MCMC it   500  acc 0.335  lp max -1440.2 median -1443.5  2.70 s/it
+[21:23:18] MCMC it   525  acc 0.335  lp max -1438.8 median -1443.0  2.67 s/it
+[21:24:11] MCMC it   550  acc 0.335  lp max -1439.9 median -1444.5  2.65 s/it
+[21:25:02] MCMC it   575  acc 0.334  lp max -1439.0 median -1443.9  2.62 s/it
+[21:25:51] MCMC it   600  acc 0.334  lp max -1439.8 median -1444.1  2.59 s/it
+[21:26:39] MCMC it   625  acc 0.335  lp max -1439.1 median -1442.8  2.57 s/it
+[21:27:33] MCMC it   650  acc 0.334  lp max -1438.3 median -1444.3  2.55 s/it
+[21:28:26] MCMC it   675  acc 0.333  lp max -1439.8 median -1443.6  2.54 s/it
+[21:29:31] MCMC it   700  acc 0.333  lp max -1439.2 median -1444.1  2.54 s/it
+[21:31:06] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ..\saidas\calibracao\map_c2.json
+[21:31:06] continuing c1 from mcmc_chain_c1.npz (701 iterations) -> cont1
+[21:31:19] MCMC it     0  acc 0.265  lp max -1439.2 median -1444.4  2.56 s/it
+[21:32:20] MCMC it    25  acc 0.340  lp max -1440.2 median -1444.6  2.46 s/it
+^CTraceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=824)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 113, in spawn_main
+    new_handle = reduction.duplicate(pipe_handle,
+                                     source_process=source_process)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 79, in duplicate
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        source_process, handle, target_process,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        0, inheritable, _winapi.DUPLICATE_SAME_ACCESS)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=936)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 113, in spawn_main
+    new_handle = reduction.duplicate(pipe_handle,
+                                     source_process=source_process)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 79, in duplicate
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        source_process, handle, target_process,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        0, inheritable, _winapi.DUPLICATE_SAME_ACCESS)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=884)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 113, in spawn_main
+    new_handle = reduction.duplicate(pipe_handle,
+                                     source_process=source_process)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 79, in duplicate
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        source_process, handle, target_process,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        0, inheritable, _winapi.DUPLICATE_SAME_ACCESS)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=1000)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 113, in spawn_main
+    new_handle = reduction.duplicate(pipe_handle,
+                                     source_process=source_process)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 79, in duplicate
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        source_process, handle, target_process,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        0, inheritable, _winapi.DUPLICATE_SAME_ACCESS)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=988)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=984)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=932)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=972)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+PermissionError: [WinError 5] Access is denied
+PermissionError: [WinError 5] Access is denied
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=800)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from multiprocessing.spawn import spawn_main; spawn_main(parent_pid=15492, pipe_handle=840)
+                                                  ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\spawn.py", line 132, in _main
+    self = reduction.pickle.load(from_parent)
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\connection.py", line 1221, in rebuild_pipe_connection
+    handle = dh.detach()
+  File "C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\Lib\multiprocessing\reduction.py", line 131, in detach
+    return _winapi.DuplicateHandle(
+           ~~~~~~~~~~~~~~~~~~~~~~~^
+        proc, self._handle, _winapi.GetCurrentProcess(),
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self._access, False, _winapi.DUPLICATE_CLOSE_SOURCE)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+[21:34:44] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[21:34:44] continuing c1 from mcmc_chain_c1.npz (701 iterations) -> cont1
+[21:34:53] MCMC it     0  acc 0.265  lp max -1439.2 median -1444.4  2.09 s/it
+[21:35:49] MCMC it    25  acc 0.340  lp max -1440.2 median -1444.6  2.24 s/it
+[21:36:50] MCMC it    50  acc 0.321  lp max -1439.5 median -1444.5  2.33 s/it
+[21:37:52] MCMC it    75  acc 0.318  lp max -1439.8 median -1443.3  2.38 s/it
+[21:38:45] MCMC it   100  acc 0.313  lp max -1439.4 median -1443.8  2.32 s/it
+[21:39:43] MCMC it   125  acc 0.318  lp max -1439.3 median -1443.9  2.32 s/it
+[21:40:43] MCMC it   150  acc 0.321  lp max -1439.6 median -1443.8  2.33 s/it
+[21:41:40] MCMC it   175  acc 0.324  lp max -1438.7 median -1443.5  2.32 s/it
+[21:42:38] MCMC it   200  acc 0.327  lp max -1439.7 median -1443.7  2.32 s/it
+[21:43:37] MCMC it   225  acc 0.326  lp max -1439.9 median -1445.0  2.33 s/it
+[21:44:39] MCMC it   250  acc 0.322  lp max -1438.8 median -1446.0  2.34 s/it
+[21:45:38] MCMC it   275  acc 0.321  lp max -1438.9 median -1444.4  2.34 s/it
+[21:47:38] MCMC it   300  acc 0.319  lp max -1438.9 median -1444.8  2.55 s/it
+[21:48:42] MCMC it   325  acc 0.321  lp max -1440.4 median -1443.9  2.55 s/it
+[21:49:33] MCMC it   350  acc 0.323  lp max -1440.2 median -1444.3  2.51 s/it
+[21:50:25] MCMC it   375  acc 0.321  lp max -1440.2 median -1445.6  2.48 s/it
+[21:51:23] MCMC it   400  acc 0.319  lp max -1439.5 median -1443.7  2.47 s/it
+[21:52:25] MCMC it   425  acc 0.318  lp max -1439.3 median -1444.5  2.47 s/it
+[21:53:33] MCMC it   450  acc 0.318  lp max -1438.2 median -1443.2  2.49 s/it
+[21:54:54] MCMC it   475  acc 0.318  lp max -1439.9 median -1443.7  2.53 s/it
+[21:56:00] MCMC it   500  acc 0.318  lp max -1439.8 median -1444.6  2.53 s/it
+[21:57:05] MCMC it   525  acc 0.318  lp max -1441.7 median -1444.4  2.54 s/it
+[21:58:17] MCMC it   550  acc 0.317  lp max -1438.3 median -1444.1  2.55 s/it
+[21:59:32] MCMC it   575  acc 0.318  lp max -1440.0 median -1444.1  2.57 s/it
+[22:00:39] MCMC it   600  acc 0.317  lp max -1439.2 median -1444.4  2.58 s/it
+[22:01:46] MCMC it   625  acc 0.316  lp max -1440.3 median -1444.2  2.58 s/it
+[22:02:48] MCMC it   650  acc 0.316  lp max -1440.1 median -1444.5  2.58 s/it
+[22:03:50] MCMC it   675  acc 0.316  lp max -1439.3 median -1444.3  2.57 s/it
+[22:04:50] MCMC it   700  acc 0.317  lp max -1438.7 median -1445.2  2.57 s/it
+[22:05:53] MCMC it   725  acc 0.319  lp max -1440.5 median -1445.1  2.56 s/it
+[22:06:58] MCMC it   750  acc 0.318  lp max -1439.2 median -1445.1  2.57 s/it
+[22:07:59] MCMC it   775  acc 0.318  lp max -1438.2 median -1444.1  2.56 s/it
+[22:09:01] MCMC it   800  acc 0.318  lp max -1440.1 median -1444.5  2.56 s/it
+[22:10:03] MCMC it   825  acc 0.318  lp max -1440.5 median -1443.9  2.56 s/it
+[22:11:08] MCMC it   850  acc 0.317  lp max -1440.6 median -1445.0  2.56 s/it
+[22:12:17] MCMC it   875  acc 0.318  lp max -1439.5 median -1444.7  2.56 s/it
+[22:13:33] MCMC it   900  acc 0.318  lp max -1439.4 median -1444.7  2.58 s/it
+[22:14:36] MCMC it   925  acc 0.318  lp max -1440.2 median -1443.5  2.58 s/it
+[22:15:38] MCMC it   950  acc 0.318  lp max -1439.3 median -1444.9  2.57 s/it
+[22:16:38] MCMC it   975  acc 0.318  lp max -1439.1 median -1444.0  2.57 s/it
+[22:17:36] MCMC it  1000  acc 0.318  lp max -1440.1 median -1444.5  2.56 s/it
+[22:18:36] MCMC it  1025  acc 0.318  lp max -1438.6 median -1444.2  2.56 s/it
+[22:19:38] MCMC it  1050  acc 0.318  lp max -1440.3 median -1444.8  2.56 s/it
+[22:20:41] MCMC it  1075  acc 0.318  lp max -1439.7 median -1444.2  2.56 s/it
+[22:21:39] MCMC it  1100  acc 0.318  lp max -1440.3 median -1443.8  2.55 s/it
+[22:22:36] MCMC it  1125  acc 0.317  lp max -1438.8 median -1444.3  2.54 s/it
+[22:23:37] MCMC it  1150  acc 0.318  lp max -1440.1 median -1443.7  2.54 s/it
+[22:24:37] MCMC it  1175  acc 0.317  lp max -1440.1 median -1443.8  2.54 s/it
+[22:25:43] MCMC it  1200  acc 0.317  lp max -1439.0 median -1444.6  2.54 s/it
+[22:26:48] MCMC it  1225  acc 0.316  lp max -1440.2 median -1443.8  2.54 s/it
+[22:28:00] MCMC it  1250  acc 0.316  lp max -1439.1 median -1444.1  2.55 s/it
+[22:29:18] MCMC it  1275  acc 0.315  lp max -1440.3 median -1443.8  2.56 s/it
+[22:30:39] MCMC it  1299  acc 0.316  lp max -1440.0 median -1444.7  2.58 s/it
+[22:30:40] MCMC continuation done, acceptance 0.316

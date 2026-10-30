@@ -1,0 +1,162 @@
+{
+  "title": "Evaporation pan with floating covers under infrared lamps (MAISSER-PE): data and code for a Bayesian heat–mass transfer model and state-space inference",
+  "upload_type": "dataset",
+  "description": "<p>Data, code and model outputs of two modelling studies of an instrumented Class A evaporation pan heated by halogen infrared lamps, ventilated by a wind tunnel and partly covered by 3-D-printed hexagonal floating plates (project MAISSER-PE, Departamento de Energia Nuclear, Universidade Federal de Pernambuco, Recife, Brazil; campaigns C1, August–September 2026, and C2, September–October 2026).</p><p>(1) A one-dimensional heat and mass transfer model calibrated in a Bayesian framework (tempered AR(1) likelihood, differential evolution and an affine-invariant ensemble sampler), with Shapley and Sobol analyses of evaporation suppression. (2) A state-space analysis (augmented Kalman filter with diffuse likelihood) of the level records, a hierarchical model of suppression and a Bayesian experimental design.</p><p>Contents: raw one-minute CR1000 records of campaign C2 (the C1 records are copied from doi:10.5281/zenodo.22844940), Python code of both studies, MCMC chains, posterior modes and summaries, scenario results, tables and figures. Code under MIT; data and outputs under CC BY 4.0. Funded by FACEPE (APQ-1428-3.01/25).</p>",
+  "version": "1.0.0",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Cardoso, Jean Firmino",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0001-6092-713X"
+    },
+    {
+      "name": "Bezerra de Lima, Hugo Emanoel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0006-4025-1770"
+    },
+    {
+      "name": "de Carvalho, Bruno Felipe",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-2951-9362"
+    },
+    {
+      "name": "da Silva Bulhões, Vitória Regina",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0003-1475-4815"
+    },
+    {
+      "name": "de Albuquerque Oliveira Lancha, Rebeca Carolina",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0001-5265-7181"
+    },
+    {
+      "name": "Barcelar de Araújo Filho, Hugo",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0002-6244-6166"
+    },
+    {
+      "name": "da Silva, José Roberto",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0005-7142-5422"
+    },
+    {
+      "name": "García-Fornaris, Ivan",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0003-3172-1057"
+    },
+    {
+      "name": "Araújo de Santana, Alexandre Carlos",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-6717-5396"
+    },
+    {
+      "name": "Ge Proenza, Yaicel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0003-3894-8326"
+    },
+    {
+      "name": "Gámez Rodríguez, Abel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-1584-6768"
+    },
+    {
+      "name": "Milani, Raquel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0001-8076-6118"
+    },
+    {
+      "name": "do Nascimento Silva, Daiane Francisca",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-1057-7335"
+    },
+    {
+      "name": "González Pérez, Yelina",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0009-0009-1431-5314"
+    },
+    {
+      "name": "Martins dos Santos Neto, Severino",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0003-2940-2129"
+    },
+    {
+      "name": "Almeida Albuquerque, Allan",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-1305-3182"
+    },
+    {
+      "name": "Moura Vieira Júnior, Clériston",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-5424-6378"
+    },
+    {
+      "name": "Damilano Dutra, Emmanuel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-3245-2795"
+    },
+    {
+      "name": "Paiva Coutinho, Artur",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-0644-0037"
+    },
+    {
+      "name": "Metri Corrêa, Marcelo",
+      "affiliation": "Universidade Federal do Agreste de Pernambuco",
+      "orcid": "0000-0003-0929-4634"
+    },
+    {
+      "name": "Metri Corrêa, Marcus",
+      "affiliation": "Universidade Federal Rural de Pernambuco",
+      "orcid": "0000-0002-9506-8969"
+    },
+    {
+      "name": "de Sá Campos Filho, Manoel Henriques",
+      "affiliation": "Universidade de Pernambuco",
+      "orcid": "0000-0001-9394-7540"
+    },
+    {
+      "name": "Cerquinho Cajueiro, João Paulo",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0001-9571-1531"
+    },
+    {
+      "name": "Reichert, José Miguel",
+      "affiliation": "Universidade Federal de Pernambuco; Universidade Federal de Pelotas",
+      "orcid": "0000-0001-9943-2898"
+    },
+    {
+      "name": "Milian Pérez, Daniel",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-3172-0508"
+    },
+    {
+      "name": "Dantas Antonino, Antonio Celso",
+      "affiliation": "Universidade Federal de Pernambuco",
+      "orcid": "0000-0002-4120-9404"
+    }
+  ],
+  "keywords": [
+    "evaporation",
+    "evaporation suppression",
+    "floating covers",
+    "Class A pan",
+    "heat and mass transfer",
+    "Bayesian calibration",
+    "state-space model",
+    "Kalman filter",
+    "infrared lamps",
+    "MAISSER-PE"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22844940",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Funding: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco (FACEPE), grant APQ-1428-3.01/25."
+}

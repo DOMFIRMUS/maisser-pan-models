@@ -1,0 +1,122 @@
+[08:57:56] promote C1 posterior mode
+--- c1: 2000 iterations x 36 walkers, kept 36000 draws; lp best -1579.2 (iter 1522), median kept -1586.3; max R-hat 1.408, min ESS 265, max IAT 136
+   parameter  prior_median  prior_lo  prior_hi  post_median   post_lo   post_hi  post_mean  rhat   ess   iat  contraction  z_shift
+0        m_3             1    0.3753     2.664       0.7783     0.706    0.8591     0.7799 1.328 768.3 46.86       0.9898  -0.4997
+1        m_4             1    0.3753     2.664       0.7283    0.6918    0.7676     0.7288 1.334 794.1 45.34       0.9971  -0.6334
+2        m_5             1    0.3753     2.664       0.8834    0.8431    0.9178     0.8827 1.365 716.7 50.23       0.9981  -0.2501
+3        m_6             1    0.3753     2.664        1.898     1.741     2.066      1.898 1.323 441.8 81.48       0.9918    1.279
+4        s_U             1    0.5554       1.8       0.7292    0.6158    0.8725      0.734 1.311 314.9 114.3       0.9106   -1.044
+5       h_p1           0.1   -0.0176    0.2176      0.06726   0.05292   0.07632     0.0668 1.324 470.6  76.5       0.9913  -0.5533
+6       h_p2          0.19    0.1312    0.2488       0.1961    0.1952    0.1971     0.1961  1.34 531.1 67.78       0.9997   0.2038
+7       h_p3           0.1   -0.0176    0.2176       0.1343    0.1308    0.1375     0.1343 1.408 264.6   136       0.9992   0.5714
+8        a_p          0.45    0.1457    0.7969       0.8083    0.6352    0.9237     0.8014 1.392 289.2 124.5       0.6216    2.083
+9     C_u_V1        0.0005 7.043e-05   0.00355    0.0008721 0.0002978   0.00174  0.0009159  1.33 761.4 47.28       0.7811   0.5089
+10    C_u_V2        0.0005 7.043e-05   0.00355    0.0002694  0.000121 0.0004112   0.000269 1.319 834.6 43.13       0.9035  -0.6635
+11       k_g           1.5    0.4628     4.862        1.669     1.512     1.851       1.67 1.325 540.1 66.65       0.9927   0.1772
+12      G_pw             4    0.8338     19.19        3.035     2.505     3.878      3.076  1.39 479.4 75.09       0.9808  -0.3363
+13       C_p          6000      2252 1.599e+04         4050      2377      6906       4212 1.388   285 126.3       0.7053  -0.7807
+14    r_open          0.01  0.001409   0.07099      0.08307   0.05591    0.2775     0.1044 1.291 840.3 42.84       0.8221    2.238
+15  R_rec_V1         0.004 0.0006854   0.02334    0.0002239 8.188e-05 0.0005548  0.0002487 1.334 559.4 64.35       0.7106   -3.213
+16  R_rec_V2         0.004 0.0006854   0.02334    0.0002427 9.295e-05 0.0004823  0.0002538 1.361 738.6 48.74       0.7798   -3.157
+c1: map_c1.json <- posterior mode (logpost -1579.16; chain -1579.16)
+[08:58:12] variant with QDY30A gain 0.884 (c1_g0884)
+[08:58:15] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[08:58:26] DE gen    0  best logpost -1602.83  median -1607.69
+[08:58:34] DE gen    5  best logpost -1601.68  median -1603.48
+[08:58:41] DE gen   10  best logpost -1600.09  median -1601.47
+[08:58:49] DE gen   15  best logpost -1599.53  median -1600.51
+[08:58:56] DE gen   20  best logpost -1599.40  median -1599.83
+[08:59:04] DE gen   25  best logpost -1599.27  median -1599.44
+[08:59:12] DE gen   30  best logpost -1599.10  median -1599.23
+[08:59:20] DE gen   35  best logpost -1599.02  median -1599.12
+[08:59:27] DE gen   40  best logpost -1598.98  median -1599.02
+[08:59:34] DE gen   45  best logpost -1598.94  median -1598.98
+[08:59:41] DE gen   50  best logpost -1598.94  median -1598.95
+[08:59:48] DE gen   55  best logpost -1598.92  median -1598.93
+[08:59:54] DE gen   59  best logpost -1598.92  median -1598.93
+[08:59:55] round 0: rho {'Tw_p1': 0.996399568098057, 'Tw_p2': 0.9975502850370047, 'Tw_p3': 0.9988336236101297, 'level_a_qc': 0.9928257818222006, 'micrometer': 0.0}  weights {'Tw_p1': 0.0687838883695187, 'Tw_p2': 0.2557642956246143, 'Tw_p3': 0.07899277289120807, 'level_a_qc': 0.8549341093165986, 'micrometer': 1.0}
+[08:59:58] variant with QDY30A gain 1.004 (c1_g1004)
+[09:00:00] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[09:00:11] DE gen    0  best logpost -1562.37  median -1565.81
+[09:00:19] DE gen    5  best logpost -1561.94  median -1564.06
+[09:00:26] DE gen   10  best logpost -1560.04  median -1561.23
+[09:00:33] DE gen   15  best logpost -1559.51  median -1560.29
+[09:00:40] DE gen   20  best logpost -1559.23  median -1559.65
+[09:00:47] DE gen   25  best logpost -1559.05  median -1559.40
+[09:00:54] DE gen   30  best logpost -1558.98  median -1559.10
+[09:01:01] DE gen   35  best logpost -1558.83  median -1558.92
+[09:01:08] DE gen   40  best logpost -1558.76  median -1558.83
+[09:01:15] DE gen   45  best logpost -1558.74  median -1558.77
+[09:01:22] DE gen   50  best logpost -1558.72  median -1558.74
+[09:01:28] DE gen   55  best logpost -1558.71  median -1558.72
+[09:01:34] DE gen   59  best logpost -1558.71  median -1558.71
+[09:01:35] round 0: rho {'Tw_p1': 0.9965510524685829, 'Tw_p2': 0.9975886347530593, 'Tw_p3': 0.9987154270493334, 'level_a_qc': 0.990874088709426, 'micrometer': 0.0}  weights {'Tw_p1': 0.06727861591982548, 'Tw_p2': 0.2466763465601704, 'Tw_p3': 0.07724223895439865, 'level_a_qc': 0.9259409046086895, 'micrometer': 1.0}
+[09:01:38] variants table
+A {'qdy_gain': 1.371, 'qdy_thermal': -0.147, 'mic_rmse': 0.436, 'fall_obs': 6.42, 'fall_model': 4.785, 'rmse_Tw_p1': 0.372, 'rmse_Tw_p2': 0.92, 'rmse_Tw_p3': 0.488, 'S_min': 0.727, 'S_max': 0.785, 'S_mean': 0.762}
+B {'qdy_gain': 1.322, 'qdy_thermal': -0.134, 'mic_rmse': 0.369, 'fall_obs': 6.42, 'fall_model': 5.241, 'rmse_Tw_p1': 0.421, 'rmse_Tw_p2': 1.018, 'rmse_Tw_p3': 0.567, 'S_min': 0.674, 'S_max': 0.761, 'S_mean': 0.724}
+C {'qdy_gain': 1.326, 'qdy_thermal': -0.126, 'mic_rmse': 0.352, 'fall_obs': 6.42, 'fall_model': 5.43, 'rmse_Tw_p1': 0.396, 'rmse_Tw_p2': 0.967, 'rmse_Tw_p3': 0.529, 'S_min': 0.661, 'S_max': 0.737, 'S_mean': 0.703}
+D {'qdy_gain': 0.944, 'qdy_thermal': -0.172, 'mic_rmse': 0.33, 'fall_obs': 6.42, 'fall_model': 6.251, 'rmse_Tw_p1': 0.419, 'rmse_Tw_p2': 0.973, 'rmse_Tw_p3': 0.548, 'S_min': 0.659, 'S_max': 0.742, 'S_mean': 0.705}
+E {'qdy_gain': 0.944, 'qdy_thermal': -0.171, 'mic_rmse': 0.324, 'fall_obs': 6.42, 'fall_model': 6.403, 'rmse_Tw_p1': 0.384, 'rmse_Tw_p2': 0.842, 'rmse_Tw_p3': 0.496, 'S_min': 0.625, 'S_max': 0.714, 'S_mean': 0.679}
+F {'qdy_gain': 0.944, 'qdy_thermal': -0.187, 'mic_rmse': 0.338, 'fall_obs': 6.42, 'fall_model': 6.331, 'rmse_Tw_p1': 0.343, 'rmse_Tw_p2': 0.647, 'rmse_Tw_p3': 0.428, 'S_min': 0.626, 'S_max': 0.725, 'S_mean': 0.677}
+G {'qdy_gain': 0.884, 'qdy_thermal': -0.199, 'mic_rmse': 0.337, 'fall_obs': 6.42, 'fall_model': 6.399, 'rmse_Tw_p1': 0.343, 'rmse_Tw_p2': 0.651, 'rmse_Tw_p3': 0.428, 'S_min': 0.641, 'S_max': 0.729, 'S_mean': 0.685}
+H {'qdy_gain': 1.004, 'qdy_thermal': -0.173, 'mic_rmse': 0.342, 'fall_obs': 6.42, 'fall_model': 6.202, 'rmse_Tw_p1': 0.341, 'rmse_Tw_p2': 0.647, 'rmse_Tw_p3': 0.422, 'S_min': 0.641, 'S_max': 0.734, 'S_mean': 0.687}
+[09:04:05] scenarios
+[09:20:27] numerical verification
+{
+ "segment": "C2-S5",
+ "days": 4.965277777777778,
+ "closure_uncovered_W_m2": 1.7639013094594702e-07,
+ "Rabs_max_W_m2": 1257.8426382955115,
+ "dt300_vs_dt20": {
+  "Tw_04": 0.03008663849687226,
+  "Tw_12": 0.027842451048578076,
+  "Tw_20": 0.03740530696747106,
+  "E_rel_pct": -0.11747159290453713,
+  "Ts_rms": 0.15732292115021526
+ },
+ "dt60_vs_dt20": {
+  "Tw_04": 0.0031483653742761567,
+  "Tw_12": 0.0029487855938399345,
+  "Tw_20": 0.0055642452476040525,
+  "E_rel_pct": -0.01214412138294045,
+  "Ts_rms": 0.0135572655557791
+ },
+ "N24_vs_N48": {
+  "Tw_04": 0.001807884816516656,
+  "Tw_12": 0.009962092206291713,
+  "Tw_20": 0.0038652979107343262,
+  "E_rel_pct": 0.002819961550323661,
+  "Ts_rms": 0.0013038771505419192
+ },
+ "covered_segment": "C1-S11",
+ "closure_covered_W_m2": 1.3281533739473161e-07
+}
+[09:20:54] figures
+fig02_c2_ajuste
+fig03_perfis
+fig04_posteriores
+fig05_energia
+fig06_c1_janelas
+fig07_shapley
+fig08_mapas
+fig09_sobol
+fig10_projeto
+figS1_espectro
+figS2_c1_ajuste
+figS3_correlacao
+figS4_recesso
+[09:21:56] collector
+numerics: ok
+fit_c2: ok
+profiles: ok
+posterior_c2: ok
+posterior_c1: ok
+energy: ok
+fit_c1: ok
+scenarios: ok
+validation: ok
+726 values -> resultados_artigo1.json
+[09:22:25] build
+equations 12, figures 9, tables 2, references 66, ~11183 words
+SI: figures 5, tables 8, references 6
+[09:22:31] done

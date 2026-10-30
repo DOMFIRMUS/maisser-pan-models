@@ -1,0 +1,21 @@
+constante                  LOSO log score    7152.14  (n=6530)
+dalton_ar                  LOSO log score    7315.71  (n=6530)
+dalton_superficie          LOSO log score    7477.25  (n=6530)
+penman_indice              LOSO log score    7433.43  (n=6530)
+ryan_harleman              LOSO log score    7634.37  (n=6530)
+livre_forcada_potencia     LOSO log score    7643.19  (n=6530)
+churchill_usagi            LOSO log score    7639.19  (n=6530)
+churchill_usagi_fundo      LOSO log score    7628.38  (n=6530)
+penman1948_fixo            LOSO log score    7527.14  (n=6530)
+carrier_fixo               LOSO log score    7538.61  (n=6530)
+                   driver  loso_score  diff_to_best  diff_se       aic       bic       ll
+0  livre_forcada_potencia     7643.19          0.00     0.00 -15368.95 -15185.77  7711.47
+1         churchill_usagi     7639.19         -4.00    41.56 -15342.15 -15165.76  7697.07
+2           ryan_harleman     7634.37         -8.82     4.83 -15351.12 -15181.52  7700.56
+3   churchill_usagi_fundo     7628.38        -14.81    25.77 -15342.63 -15159.46  7698.32
+4            carrier_fixo     7538.61       -104.59    58.64 -15189.74 -15026.92  7618.87
+5         penman1948_fixo     7527.14       -116.06    73.74 -15180.45 -15017.63  7614.22
+6       dalton_superficie     7477.25       -165.94    92.41 -15179.92 -15010.32  7614.96
+7           penman_indice     7433.43       -209.77    85.93 -14987.58 -14811.19  7519.79
+8               dalton_ar     7315.71       -327.48   155.41 -14852.91 -14683.31  7451.46
+9               constante     7152.14       -491.06   227.34 -14546.50 -14383.68  7297.25

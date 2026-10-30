@@ -1,0 +1,41 @@
+[16:29:31] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:29:51] DE gen    0  best logpost -1462.01  median -1908.95
+[16:30:00] DE gen    5  best logpost -1462.01  median -1600.61
+[16:30:09] DE gen   10  best logpost -1462.01  median -1505.82
+[16:30:19] DE gen   15  best logpost -1462.01  median -1471.52
+[16:30:29] DE gen   20  best logpost -1451.21  median -1460.83
+[16:30:40] DE gen   25  best logpost -1444.23  median -1448.27
+[16:30:50] DE gen   30  best logpost -1440.56  median -1441.87
+[16:31:00] DE gen   35  best logpost -1438.19  median -1439.31
+[16:31:09] DE gen   40  best logpost -1437.49  median -1437.93
+[16:31:19] DE gen   45  best logpost -1437.05  median -1437.25
+[16:31:28] DE gen   50  best logpost -1436.88  median -1436.98
+[16:31:38] DE gen   55  best logpost -1436.75  median -1436.82
+[16:31:47] DE gen   60  best logpost -1436.70  median -1436.72
+[16:31:56] DE gen   65  best logpost -1436.64  median -1436.67
+[16:32:05] DE gen   70  best logpost -1436.59  median -1436.62
+[16:32:14] DE gen   75  best logpost -1436.56  median -1436.58
+[16:32:24] DE gen   80  best logpost -1436.52  median -1436.54
+[16:32:33] DE gen   85  best logpost -1436.49  median -1436.51
+[16:32:42] DE gen   90  best logpost -1436.46  median -1436.48
+[16:32:52] DE gen   95  best logpost -1436.44  median -1436.45
+[16:33:00] DE gen  100  best logpost -1436.43  median -1436.44
+[16:33:09] DE gen  105  best logpost -1436.42  median -1436.43
+[16:33:19] DE gen  110  best logpost -1436.41  median -1436.42
+[16:33:29] DE gen  115  best logpost -1436.40  median -1436.41
+[16:33:36] DE gen  119  best logpost -1436.40  median -1436.41
+[16:33:38] round 0: rho {'Tw_p1': 0.9981490772197686, 'Tw_p2': 0.9987124332788601, 'Tw_p3': 0.999, 'level_a_qc': 0.9885276703225417, 'micrometer': 0.0}  weights {'Tw_p1': 0.05366360955895841, 'Tw_p2': 0.10112399879296723, 'Tw_p3': 0.048027402321343865, 'level_a_qc': 0.9200975713411766, 'micrometer': 1.0}
+[16:33:42] DE gen    0  best logpost -1457.70  median -1457.71
+[16:33:51] DE gen    5  best logpost -1457.69  median -1457.70
+[16:34:01] DE gen   10  best logpost -1457.68  median -1457.69
+[16:34:11] DE gen   15  best logpost -1457.68  median -1457.68
+[16:34:20] DE gen   20  best logpost -1457.67  median -1457.68
+[16:34:30] DE gen   25  best logpost -1457.67  median -1457.67
+[16:34:39] DE gen   30  best logpost -1457.67  median -1457.67
+[16:34:48] DE gen   35  best logpost -1457.67  median -1457.67
+[16:34:58] DE gen   40  best logpost -1457.67  median -1457.67
+[16:35:08] DE gen   45  best logpost -1457.66  median -1457.67
+[16:35:18] DE gen   50  best logpost -1457.66  median -1457.66
+[16:35:29] DE gen   55  best logpost -1457.66  median -1457.66
+[16:35:37] DE gen   59  best logpost -1457.66  median -1457.66
+[16:35:39] round 1: rho {'Tw_p1': 0.9981591426493847, 'Tw_p2': 0.998710788245253, 'Tw_p3': 0.999, 'level_a_qc': 0.988568128050142, 'micrometer': 0.0}  weights {'Tw_p1': 0.054906662035339095, 'Tw_p2': 0.10124897980157672, 'Tw_p3': 0.048189269990778855, 'level_a_qc': 0.9265258860648432, 'micrometer': 1.0}

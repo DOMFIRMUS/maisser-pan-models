@@ -1,0 +1,79 @@
+C2: 3295 10-min steps, 7 segments, ODY obs 3265, CS456 obs 3265
+   constante None: ll=7297.25  g_a=1.303 phi=0.976 s_eta=0.0598 s_d=0.0822
+constante: ll=7297.25 AIC=-14546.5 BIC=-14383.7 beta=[0.2223] delta=-0.1280 mm/h c_a=-0.359 c_b=-0.051 g_a=1.303  (295 s)
+   dalton_ar None: ll=7451.46  g_a=1.303 phi=0.968 s_eta=0.0462 s_d=0.0822
+dalton_ar: ll=7451.46 AIC=-14852.9 BIC=-14683.3 beta=[0.0761 0.0779] delta=-0.1279 mm/h c_a=-0.213 c_b=0.061 g_a=1.303  (450 s)
+   dalton_superficie None: ll=7614.83  g_a=1.300 phi=0.929 s_eta=0.0372 s_d=0.0822
+dalton_superficie: ll=7614.83 AIC=-15179.7 BIC=-15010.1 beta=[0.0799 0.0581] delta=-0.1275 mm/h c_a=-0.214 c_b=0.061 g_a=1.300  (608 s)
+   penman_indice None: ll=7519.79  g_a=1.306 phi=0.939 s_eta=0.0421 s_d=0.0821
+penman_indice: ll=7519.79 AIC=-14987.6 BIC=-14811.2 beta=[0.6978 0.057  0.0351] delta=-0.1284 mm/h c_a=-0.116 c_b=0.134 g_a=1.306  (740 s)
+   ryan_harleman None: ll=7700.34  g_a=1.301 phi=0.761 s_eta=0.0475 s_d=0.0822
+ryan_harleman: ll=7700.34 AIC=-15350.7 BIC=-15181.1 beta=[0.0058 0.0076] delta=-0.1278 mm/h c_a=-0.252 c_b=0.032 g_a=1.301  (944 s)
+   livre_forcada_potencia {'n': np.float64(0.5)}: ll=7690.39  g_a=1.301 phi=0.790 s_eta=0.0451 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(0.65)}: ll=7709.63  g_a=1.301 phi=0.757 s_eta=0.0469 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(0.8)}: ll=7711.71  g_a=1.300 phi=0.745 s_eta=0.0478 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(1.0)}: ll=7697.25  g_a=1.300 phi=0.762 s_eta=0.0473 s_d=0.0822
+livre_forcada_potencia: ll=7711.71 AIC=-15369.4 BIC=-15186.2 beta=[ 0.0062  0.0096 -0.0015] delta=-0.1276 mm/h c_a=-0.247 c_b=0.035 g_a=1.300  (1707 s)
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(1.0)}: ll=7428.35  g_a=1.302 phi=0.926 s_eta=0.0533 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(1.0)}: ll=7474.86  g_a=1.302 phi=0.916 s_eta=0.0505 s_d=0.0822
+   churchill_usagi {'n': np.float64(1.0), 'k': np.float64(1.0)}: ll=7519.13  g_a=1.301 phi=0.902 s_eta=0.0483 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(2.0)}: ll=7568.98  g_a=1.302 phi=0.877 s_eta=0.0469 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(2.0)}: ll=7631.52  g_a=1.302 phi=0.829 s_eta=0.0467 s_d=0.0822
+   churchill_usagi {'n': np.float64(1.0), 'k': np.float64(2.0)}: ll=7617.09  g_a=1.303 phi=0.881 s_eta=0.0422 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(4.0)}: ll=7695.11  g_a=1.304 phi=0.819 s_eta=0.0425 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(4.0)}: ll=7599.98  g_a=1.305 phi=0.930 s_eta=0.0378 s_d=0.0822
+   churchill_usagi {'n': np.float64(1.0), 'k': np.float64(4.0)}: ll=7552.34  g_a=1.305 phi=0.958 s_eta=0.0386 s_d=0.0822
+churchill_usagi: ll=7695.11 AIC=-15338.2 BIC=-15161.8 beta=[0.0052] delta=-0.1282 mm/h c_a=-0.221 c_b=0.054 g_a=1.304  (3652 s)
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(1.0)}: ll=7428.04  g_a=1.301 phi=0.931 s_eta=0.0525 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(1.0)}: ll=7491.48  g_a=1.300 phi=0.928 s_eta=0.0475 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(1.0), 'k': np.float64(1.0)}: ll=7542.71  g_a=1.300 phi=0.910 s_eta=0.0452 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(2.0)}: ll=7612.96  g_a=1.301 phi=0.876 s_eta=0.0430 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(2.0)}: ll=7636.24  g_a=1.301 phi=0.834 s_eta=0.0452 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(1.0), 'k': np.float64(2.0)}: ll=7610.45  g_a=1.301 phi=0.877 s_eta=0.0427 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(4.0)}: ll=7688.30  g_a=1.302 phi=0.813 s_eta=0.0432 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(4.0)}: ll=7622.57  g_a=1.301 phi=0.896 s_eta=0.0395 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(1.0), 'k': np.float64(4.0)}: ll=7594.81  g_a=1.301 phi=0.919 s_eta=0.0392 s_d=0.0822
+churchill_usagi_fundo: ll=7688.30 AIC=-15322.6 BIC=-15139.4 beta=[0.005  0.0006] delta=-0.1278 mm/h c_a=-0.228 c_b=0.050 g_a=1.302  (5194 s)
+   penman1948_fixo None: ll=7614.08  g_a=1.301 phi=0.941 s_eta=0.0364 s_d=0.0822
+penman1948_fixo: ll=7614.08 AIC=-15180.2 BIC=-15017.3 beta=[0.8777] delta=-0.1276 mm/h c_a=-0.224 c_b=0.053 g_a=1.301  (5295 s)
+   carrier_fixo None: ll=7618.71  g_a=1.303 phi=0.928 s_eta=0.0375 s_d=0.0822
+carrier_fixo: ll=7618.71 AIC=-15189.4 BIC=-15026.6 beta=[0.5374] delta=-0.1280 mm/h c_a=-0.205 c_b=0.067 g_a=1.303  (5407 s)
+constante                  LOSO log score    7152.14  (n=6530)
+dalton_ar                  LOSO log score    7315.71  (n=6530)
+dalton_superficie          LOSO log score    7475.99  (n=6530)
+penman_indice              LOSO log score    7433.43  (n=6530)
+ryan_harleman              LOSO log score    7635.80  (n=6530)
+livre_forcada_potencia     LOSO log score    7644.33  (n=6530)
+churchill_usagi            LOSO log score    7639.01  (n=6530)
+churchill_usagi_fundo      LOSO log score    7597.92  (n=6530)
+penman1948_fixo            LOSO log score    7526.44  (n=6530)
+carrier_fixo               LOSO log score    7537.92  (n=6530)
+                   driver  loso_score  diff_to_best  diff_se       aic       bic       ll
+0  livre_forcada_potencia     7644.33          0.00     0.00 -15369.41 -15186.24  7711.71
+1         churchill_usagi     7639.01         -5.31    16.44 -15338.23 -15161.84  7695.11
+2           ryan_harleman     7635.80         -8.53     4.52 -15350.67 -15181.07  7700.34
+3   churchill_usagi_fundo     7597.92        -46.41    31.04 -15322.61 -15139.43  7688.30
+4            carrier_fixo     7537.92       -106.41    59.69 -15189.41 -15026.59  7618.71
+5         penman1948_fixo     7526.44       -117.89    74.20 -15180.16 -15017.34  7614.08
+6       dalton_superficie     7475.99       -168.33    93.81 -15179.66 -15010.05  7614.83
+7           penman_indice     7433.43       -210.90    86.01 -14987.58 -14811.19  7519.79
+8               dalton_ar     7315.71       -328.61   155.29 -14852.91 -14683.31  7451.46
+9               constante     7152.14       -492.19   225.81 -14546.50 -14383.68  7297.25
+C1: 2437 steps, 14 segments, QDY obs 2403, micrometer obs 46; driver livre_forcada_potencia
+  s_U=0.5: ll=4220.12 g_a=0.952 phi=-0.040 s_eta=0.2513 s_a=0.003 s_mic=0.416
+  s_U=0.75: ll=4228.70 g_a=0.963 phi=0.220 s_eta=0.1915 s_a=0.017 s_mic=0.387
+  s_U=1.0: ll=4231.01 g_a=0.972 phi=0.202 s_eta=0.1924 s_a=0.017 s_mic=0.374
+kappa_C1 = 1.249 +- 0.035; QDY gain 0.972; c_a -0.123 mm/K
+        grupo  kappa  kappa_se  S_direct  S_mean   S_sd   S_lo   S_hi
+0         W02  0.514     0.259     0.588   0.587  0.208  0.173  0.993
+1         W05  0.648     0.072     0.482   0.482  0.059  0.367  0.597
+2         W07  0.522     0.041     0.582   0.582  0.035  0.513  0.648
+3         W08  0.330     0.040     0.736   0.736  0.031  0.674  0.796
+4         W09  0.479     0.055     0.616   0.616  0.044  0.530  0.703
+5         W10  0.426     0.068     0.658   0.658  0.055  0.550  0.766
+6         W11  0.452     0.047     0.639   0.638  0.038  0.562  0.711
+7         W12  0.522     0.059     0.583   0.582  0.047  0.490  0.674
+8         W13  0.535     0.100     0.572   0.571  0.080  0.413  0.727
+9         W14  0.410     0.072     0.672   0.672  0.057  0.559  0.783
+10        W15  0.387     0.140     0.690   0.690  0.112  0.471  0.913
+11  cov_other  0.369     0.042     0.704   0.704  0.035  0.634  0.773

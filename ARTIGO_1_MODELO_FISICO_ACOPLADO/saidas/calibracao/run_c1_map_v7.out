@@ -1,0 +1,47 @@
+[20:53:21] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[20:53:30] DE gen    0  best logpost -1450.24  median -2092.65
+[20:53:36] DE gen    5  best logpost -1450.24  median -1620.77
+[20:53:42] DE gen   10  best logpost -1450.24  median -1497.84
+[20:53:49] DE gen   15  best logpost -1447.18  median -1454.25
+[20:53:56] DE gen   20  best logpost -1438.86  median -1445.79
+[20:54:03] DE gen   25  best logpost -1434.83  median -1436.83
+[20:54:09] DE gen   30  best logpost -1431.70  median -1432.95
+[20:54:16] DE gen   35  best logpost -1429.99  median -1430.96
+[20:54:24] DE gen   40  best logpost -1428.68  median -1429.52
+[20:54:32] DE gen   45  best logpost -1428.06  median -1428.35
+[20:54:39] DE gen   50  best logpost -1427.36  median -1427.68
+[20:54:47] DE gen   55  best logpost -1427.16  median -1427.29
+[20:54:54] DE gen   60  best logpost -1426.89  median -1427.01
+[20:55:02] DE gen   65  best logpost -1426.79  median -1426.86
+[20:55:10] DE gen   70  best logpost -1426.69  median -1426.74
+[20:55:17] DE gen   75  best logpost -1426.63  median -1426.66
+[20:55:25] DE gen   80  best logpost -1426.59  median -1426.61
+[20:55:33] DE gen   85  best logpost -1426.57  median -1426.58
+[20:55:41] DE gen   90  best logpost -1426.55  median -1426.56
+[20:55:49] DE gen   95  best logpost -1426.52  median -1426.53
+[20:55:57] DE gen  100  best logpost -1426.52  median -1426.52
+[20:56:05] DE gen  105  best logpost -1426.51  median -1426.51
+[20:56:12] DE gen  110  best logpost -1426.50  median -1426.51
+[20:56:20] DE gen  115  best logpost -1426.49  median -1426.50
+[20:56:28] DE gen  120  best logpost -1426.49  median -1426.49
+[20:56:35] DE gen  125  best logpost -1426.48  median -1426.48
+[20:56:42] DE gen  130  best logpost -1426.47  median -1426.48
+[20:56:50] DE gen  135  best logpost -1426.47  median -1426.47
+[20:56:55] DE gen  139  best logpost -1426.46  median -1426.47
+[20:56:56] round 0: rho {'Tw_p1': 0.9968288252173746, 'Tw_p2': 0.9983230893643718, 'Tw_p3': 0.999, 'level_a_qc': 0.9914333283172303, 'micrometer': 0.0}  weights {'Tw_p1': 0.05437628409252847, 'Tw_p2': 0.11101646768389482, 'Tw_p3': 0.0466692659664914, 'level_a_qc': 0.8824277972587476, 'micrometer': 1.0}
+[20:56:59] DE gen    0  best logpost -1431.81  median -1431.82
+[20:57:07] DE gen    5  best logpost -1431.80  median -1431.81
+[20:57:16] DE gen   10  best logpost -1431.80  median -1431.80
+[20:57:25] DE gen   15  best logpost -1431.79  median -1431.79
+[20:57:33] DE gen   20  best logpost -1431.79  median -1431.79
+[20:57:41] DE gen   25  best logpost -1431.78  median -1431.78
+[20:57:48] DE gen   30  best logpost -1431.77  median -1431.78
+[20:57:56] DE gen   35  best logpost -1431.77  median -1431.77
+[20:58:03] DE gen   40  best logpost -1431.77  median -1431.77
+[20:58:11] DE gen   45  best logpost -1431.77  median -1431.77
+[20:58:19] DE gen   50  best logpost -1431.76  median -1431.76
+[20:58:27] DE gen   55  best logpost -1431.76  median -1431.76
+[20:58:35] DE gen   60  best logpost -1431.76  median -1431.76
+[20:58:42] DE gen   65  best logpost -1431.75  median -1431.75
+[20:58:48] DE gen   69  best logpost -1431.75  median -1431.75
+[20:58:49] round 1: rho {'Tw_p1': 0.9968775634322389, 'Tw_p2': 0.998327272730702, 'Tw_p3': 0.999, 'level_a_qc': 0.9914204131786496, 'micrometer': 0.0}  weights {'Tw_p1': 0.05469118455351447, 'Tw_p2': 0.10978106994595227, 'Tw_p3': 0.046759675009732285, 'level_a_qc': 0.8873949687743645, 'micrometer': 1.0}

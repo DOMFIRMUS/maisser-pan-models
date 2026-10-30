@@ -1,0 +1,2163 @@
+[08:41:36] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[08:41:54] DE gen    0  best logpost -8446.55  median -11187.69
+[08:42:01] DE gen    5  best logpost -7624.52  median -8442.76
+[08:42:09] DE gen   10  best logpost -7008.00  median -7391.01
+[08:42:17] DE gen   15  best logpost -6795.47  median -6956.15
+[08:42:25] DE gen   20  best logpost -6652.80  median -6765.14
+[08:42:33] DE gen   25  best logpost -6591.67  median -6643.74
+[08:42:41] DE gen   30  best logpost -6493.27  median -6531.42
+[08:42:50] DE gen   35  best logpost -6456.46  median -6479.47
+[08:42:58] DE gen   40  best logpost -6433.93  median -6444.38
+[08:43:07] DE gen   45  best logpost -6415.26  median -6426.99
+[08:43:15] DE gen   50  best logpost -6399.96  median -6405.81
+[08:43:24] DE gen   55  best logpost -6389.90  median -6394.20
+[08:43:33] DE gen   60  best logpost -6382.22  median -6385.31
+[08:43:41] DE gen   65  best logpost -6376.79  median -6378.85
+[08:43:50] DE gen   70  best logpost -6371.58  median -6373.15
+[08:43:59] DE gen   75  best logpost -6365.64  median -6368.45
+[08:44:06] DE gen   79  best logpost -6363.67  median -6365.19
+[08:44:07] round 0: rho {'Tw_p1': 0.998734382515553, 'Tw_p2': 0.9976660082263221, 'Tw_p3': 0.999, 'level_a_qc': 0.987970744049106, 'micrometer': 0.0}  weights {'Tw_p1': 0.011221454078039697, 'Tw_p2': 0.01644032411044791, 'Tw_p3': 0.00912435627469586, 'level_a_qc': 0.1948630881577114, 'micrometer': 1.0}
+[08:44:10] DE gen    0  best logpost -339.13  median -339.30
+[08:44:19] DE gen    5  best logpost -338.70  median -338.87
+[08:44:28] DE gen   10  best logpost -338.33  median -338.47
+[08:44:40] DE gen   15  best logpost -337.91  median -338.09
+[08:44:51] DE gen   20  best logpost -337.63  median -337.74
+[08:45:02] DE gen   25  best logpost -337.39  median -337.49
+[08:45:12] DE gen   30  best logpost -337.25  median -337.31
+[08:45:26] DE gen   35  best logpost -337.13  median -337.15
+[08:45:37] DE gen   39  best logpost -337.02  median -337.05
+[08:45:39] round 1: rho {'Tw_p1': 0.9987137848894342, 'Tw_p2': 0.9981522348261157, 'Tw_p3': 0.999, 'level_a_qc': 0.9875112037678978, 'micrometer': 0.0}  weights {'Tw_p1': 0.05401183195875431, 'Tw_p2': 0.10520790793988265, 'Tw_p3': 0.05099063292401905, 'level_a_qc': 0.8781813164118707, 'micrometer': 1.0}
+[08:48:14] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[08:48:24] MCMC it     0  acc 0.625  lp max -1394.6 median -1395.7  3.70 s/it
+[08:49:58] MCMC it    25  acc 0.453  lp max -1394.6 median -1398.0  3.78 s/it
+[08:51:39] MCMC it    50  acc 0.422  lp max -1392.0 median -1398.2  3.89 s/it
+[08:53:18] MCMC it    75  acc 0.392  lp max -1388.4 median -1396.5  3.93 s/it
+[08:54:58] MCMC it   100  acc 0.390  lp max -1388.0 median -1393.5  3.94 s/it
+[08:56:44] MCMC it   125  acc 0.384  lp max -1385.0 median -1391.8  4.00 s/it
+[08:58:34] MCMC it   150  acc 0.383  lp max -1387.6 median -1391.9  4.07 s/it
+[09:00:20] MCMC it   175  acc 0.381  lp max -1386.4 median -1391.3  4.09 s/it
+[09:02:08] MCMC it   200  acc 0.379  lp max -1384.0 median -1389.8  4.12 s/it
+[09:03:57] MCMC it   225  acc 0.378  lp max -1384.1 median -1390.2  4.15 s/it
+[09:05:53] MCMC it   250  acc 0.374  lp max -1384.6 median -1388.3  4.19 s/it
+[09:07:41] MCMC it   275  acc 0.371  lp max -1382.8 median -1387.9  4.21 s/it
+[09:09:25] MCMC it   300  acc 0.371  lp max -1383.1 median -1387.1  4.20 s/it
+[09:11:07] MCMC it   325  acc 0.371  lp max -1382.2 median -1387.1  4.19 s/it
+[09:12:50] MCMC it   350  acc 0.371  lp max -1381.9 median -1386.0  4.19 s/it
+[09:14:35] MCMC it   375  acc 0.372  lp max -1382.2 median -1387.6  4.19 s/it
+[09:16:21] MCMC it   400  acc 0.372  lp max -1380.9 median -1386.7  4.19 s/it
+[09:17:55] MCMC it   425  acc 0.372  lp max -1381.4 median -1385.7  4.17 s/it
+[09:19:27] MCMC it   450  acc 0.370  lp max -1381.0 median -1384.9  4.14 s/it
+[09:21:02] MCMC it   475  acc 0.369  lp max -1380.3 median -1385.6  4.12 s/it
+[09:22:34] MCMC it   500  acc 0.370  lp max -1381.3 median -1384.8  4.10 s/it
+[09:24:07] MCMC it   525  acc 0.368  lp max -1381.5 median -1384.3  4.08 s/it
+[09:25:39] MCMC it   550  acc 0.367  lp max -1380.7 median -1385.3  4.06 s/it
+[09:27:15] MCMC it   575  acc 0.367  lp max -1381.2 median -1384.4  4.05 s/it
+[09:28:51] MCMC it   600  acc 0.366  lp max -1381.4 median -1385.0  4.04 s/it
+[09:30:30] MCMC it   625  acc 0.365  lp max -1381.7 median -1383.4  4.04 s/it
+[09:32:05] MCMC it   650  acc 0.365  lp max -1382.3 median -1385.2  4.03 s/it
+[09:33:38] MCMC it   675  acc 0.367  lp max -1381.3 median -1385.5  4.02 s/it
+[09:35:15] MCMC it   700  acc 0.367  lp max -1381.9 median -1384.8  4.02 s/it
+[09:36:50] MCMC it   725  acc 0.366  lp max -1381.6 median -1385.1  4.01 s/it
+[09:38:23] MCMC it   750  acc 0.366  lp max -1381.2 median -1384.6  4.00 s/it
+[09:39:57] MCMC it   775  acc 0.366  lp max -1380.4 median -1384.7  3.99 s/it
+[09:41:39] MCMC it   800  acc 0.366  lp max -1381.0 median -1384.3  3.99 s/it
+[09:43:20] MCMC it   825  acc 0.366  lp max -1380.5 median -1385.7  4.00 s/it
+[09:44:58] MCMC it   850  acc 0.366  lp max -1381.5 median -1384.2  3.99 s/it
+[09:46:29] MCMC it   875  acc 0.365  lp max -1381.9 median -1385.0  3.98 s/it
+[09:47:54] MCMC it   900  acc 0.365  lp max -1381.9 median -1385.7  3.97 s/it
+[09:49:21] MCMC it   925  acc 0.364  lp max -1381.9 median -1384.3  3.95 s/it
+[09:50:47] MCMC it   950  acc 0.364  lp max -1380.8 median -1384.1  3.94 s/it
+[09:52:32] MCMC it   975  acc 0.363  lp max -1380.2 median -1385.0  3.95 s/it
+[09:54:22] MCMC it   999  acc 0.363  lp max -1381.0 median -1385.4  3.96 s/it
+[09:54:22] MCMC c1 done, acceptance 0.363
+[16:16:07] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:16:39] DE gen    0  best logpost -1443.89  median -1465.33
+[16:16:55] DE gen    5  best logpost -1440.55  median -1444.40
+[16:17:10] DE gen   10  best logpost -1437.02  median -1439.52
+[16:17:25] DE gen   15  best logpost -1432.40  median -1436.01
+[16:17:40] DE gen   20  best logpost -1432.09  median -1432.98
+[16:17:56] DE gen   25  best logpost -1431.59  median -1432.02
+[16:18:11] DE gen   30  best logpost -1431.28  median -1431.54
+[16:18:29] DE gen   35  best logpost -1431.19  median -1431.27
+[16:18:44] DE gen   40  best logpost -1431.15  median -1431.18
+[16:18:59] DE gen   45  best logpost -1431.10  median -1431.12
+[16:19:14] DE gen   50  best logpost -1431.08  median -1431.09
+[16:19:29] DE gen   55  best logpost -1431.07  median -1431.08
+[16:19:45] DE gen   60  best logpost -1431.06  median -1431.07
+[16:19:59] DE gen   65  best logpost -1431.06  median -1431.06
+[16:20:15] DE gen   70  best logpost -1431.06  median -1431.06
+[16:20:29] DE gen   75  best logpost -1431.06  median -1431.06
+[16:20:42] DE gen   79  best logpost -1431.06  median -1431.06
+[16:20:45] round 0: rho {'Tw_p1': 0.9983676796096964, 'Tw_p2': 0.99875708503896, 'Tw_p3': 0.999, 'level_a_qc': 0.9880032956527156, 'micrometer': 0.0}  weights {'Tw_p1': 0.05648569126567958, 'Tw_p2': 0.10033951289849888, 'Tw_p3': 0.050461639888926144, 'level_a_qc': 0.902023718246674, 'micrometer': 1.0}
+[16:20:54] DE gen    0  best logpost -1452.12  median -1452.12
+[16:21:11] DE gen    5  best logpost -1452.11  median -1452.12
+[16:21:30] DE gen   10  best logpost -1452.11  median -1452.11
+[16:21:46] DE gen   15  best logpost -1452.11  median -1452.11
+[16:22:01] DE gen   20  best logpost -1452.11  median -1452.11
+[16:22:17] DE gen   25  best logpost -1452.11  median -1452.11
+[16:22:32] DE gen   30  best logpost -1452.11  median -1452.11
+[16:22:47] DE gen   35  best logpost -1452.10  median -1452.11
+[16:23:00] DE gen   39  best logpost -1452.10  median -1452.10
+[16:23:02] round 1: rho {'Tw_p1': 0.9983741533882896, 'Tw_p2': 0.9987599192809361, 'Tw_p3': 0.999, 'level_a_qc': 0.9880021708698222, 'micrometer': 0.0}  weights {'Tw_p1': 0.05736204703225796, 'Tw_p2': 0.10144760537302785, 'Tw_p3': 0.05052447323185843, 'level_a_qc': 0.9078874872079821, 'micrometer': 1.0}
+[16:27:18] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:27:40] DE gen    0  best logpost -1461.89  median -1463.38
+[16:27:55] DE gen    5  best logpost -1461.87  median -1461.96
+[16:28:10] DE gen   10  best logpost -1461.87  median -1461.88
+[16:28:31] DE gen   15  best logpost -1461.86  median -1461.86
+[16:28:40] DE gen   20  best logpost -1461.84  median -1461.85
+[16:28:49] DE gen   25  best logpost -1461.83  median -1461.83
+[16:28:59] DE gen   30  best logpost -1461.82  median -1461.82
+[16:29:08] DE gen   35  best logpost -1461.80  median -1461.80
+[16:29:31] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:29:51] DE gen    0  best logpost -1462.01  median -1908.95
+[16:30:00] DE gen    5  best logpost -1462.01  median -1600.61
+[16:30:09] DE gen   10  best logpost -1462.01  median -1505.82
+[16:30:19] DE gen   15  best logpost -1462.01  median -1471.52
+[16:30:29] DE gen   20  best logpost -1451.21  median -1460.83
+[16:30:40] DE gen   25  best logpost -1444.23  median -1448.27
+[16:30:50] DE gen   30  best logpost -1440.56  median -1441.87
+[16:31:00] DE gen   35  best logpost -1438.19  median -1439.31
+[16:31:09] DE gen   40  best logpost -1437.49  median -1437.93
+[16:31:19] DE gen   45  best logpost -1437.05  median -1437.25
+[16:31:28] DE gen   50  best logpost -1436.88  median -1436.98
+[16:31:38] DE gen   55  best logpost -1436.75  median -1436.82
+[16:31:47] DE gen   60  best logpost -1436.70  median -1436.72
+[16:31:56] DE gen   65  best logpost -1436.64  median -1436.67
+[16:32:05] DE gen   70  best logpost -1436.59  median -1436.62
+[16:32:14] DE gen   75  best logpost -1436.56  median -1436.58
+[16:32:24] DE gen   80  best logpost -1436.52  median -1436.54
+[16:32:33] DE gen   85  best logpost -1436.49  median -1436.51
+[16:32:42] DE gen   90  best logpost -1436.46  median -1436.48
+[16:32:52] DE gen   95  best logpost -1436.44  median -1436.45
+[16:33:00] DE gen  100  best logpost -1436.43  median -1436.44
+[16:33:09] DE gen  105  best logpost -1436.42  median -1436.43
+[16:33:19] DE gen  110  best logpost -1436.41  median -1436.42
+[16:33:29] DE gen  115  best logpost -1436.40  median -1436.41
+[16:33:36] DE gen  119  best logpost -1436.40  median -1436.41
+[16:33:38] round 0: rho {'Tw_p1': 0.9981490772197686, 'Tw_p2': 0.9987124332788601, 'Tw_p3': 0.999, 'level_a_qc': 0.9885276703225417, 'micrometer': 0.0}  weights {'Tw_p1': 0.05366360955895841, 'Tw_p2': 0.10112399879296723, 'Tw_p3': 0.048027402321343865, 'level_a_qc': 0.9200975713411766, 'micrometer': 1.0}
+[16:33:42] DE gen    0  best logpost -1457.70  median -1457.71
+[16:33:51] DE gen    5  best logpost -1457.69  median -1457.70
+[16:34:01] DE gen   10  best logpost -1457.68  median -1457.69
+[16:34:11] DE gen   15  best logpost -1457.68  median -1457.68
+[16:34:20] DE gen   20  best logpost -1457.67  median -1457.68
+[16:34:30] DE gen   25  best logpost -1457.67  median -1457.67
+[16:34:39] DE gen   30  best logpost -1457.67  median -1457.67
+[16:34:48] DE gen   35  best logpost -1457.67  median -1457.67
+[16:34:58] DE gen   40  best logpost -1457.67  median -1457.67
+[16:35:08] DE gen   45  best logpost -1457.66  median -1457.67
+[16:35:18] DE gen   50  best logpost -1457.66  median -1457.66
+[16:35:29] DE gen   55  best logpost -1457.66  median -1457.66
+[16:35:37] DE gen   59  best logpost -1457.66  median -1457.66
+[16:35:39] round 1: rho {'Tw_p1': 0.9981591426493847, 'Tw_p2': 0.998710788245253, 'Tw_p3': 0.999, 'level_a_qc': 0.988568128050142, 'micrometer': 0.0}  weights {'Tw_p1': 0.054906662035339095, 'Tw_p2': 0.10124897980157672, 'Tw_p3': 0.048189269990778855, 'level_a_qc': 0.9265258860648432, 'micrometer': 1.0}
+[16:41:03] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:41:18] DE gen    0  best logpost -1549.19  median -1949.26
+[16:41:28] DE gen    5  best logpost -1549.19  median -1683.91
+[16:41:38] DE gen   10  best logpost -1549.19  median -1593.34
+[16:41:47] DE gen   15  best logpost -1540.90  median -1556.66
+[16:41:56] DE gen   20  best logpost -1532.11  median -1537.00
+[16:42:06] DE gen   25  best logpost -1527.62  median -1530.40
+[16:42:17] DE gen   30  best logpost -1525.27  median -1527.33
+[16:42:28] DE gen   35  best logpost -1524.68  median -1525.28
+[16:42:39] DE gen   40  best logpost -1524.31  median -1524.63
+[16:42:48] DE gen   45  best logpost -1523.98  median -1524.22
+[16:42:58] DE gen   50  best logpost -1523.93  median -1524.00
+[16:43:08] DE gen   55  best logpost -1523.89  median -1523.92
+[16:43:18] DE gen   60  best logpost -1523.86  median -1523.88
+[16:43:28] DE gen   65  best logpost -1523.84  median -1523.85
+[16:43:38] DE gen   70  best logpost -1523.84  median -1523.84
+[16:43:49] DE gen   75  best logpost -1523.84  median -1523.84
+[16:44:00] DE gen   80  best logpost -1523.83  median -1523.84
+[16:44:10] DE gen   85  best logpost -1523.83  median -1523.83
+[16:44:21] DE gen   90  best logpost -1523.83  median -1523.83
+[16:44:32] DE gen   95  best logpost -1523.83  median -1523.83
+[16:44:42] DE gen  100  best logpost -1523.83  median -1523.83
+[16:44:53] DE gen  105  best logpost -1523.83  median -1523.83
+[16:45:03] DE gen  110  best logpost -1523.83  median -1523.83
+[16:45:14] DE gen  115  best logpost -1523.83  median -1523.83
+[16:45:22] DE gen  119  best logpost -1523.83  median -1523.83
+[16:45:23] round 0: rho {'Tw_p1': 0.996846467851275, 'Tw_p2': 0.9986185161194409, 'Tw_p3': 0.999, 'level_a_qc': 0.9908246671575218, 'micrometer': 0.0}  weights {'Tw_p1': 0.06062311849819192, 'Tw_p2': 0.11218280979038169, 'Tw_p3': 0.0513028485148036, 'level_a_qc': 0.8630264782756013, 'micrometer': 1.0}
+[16:45:28] DE gen    0  best logpost -1440.41  median -1440.41
+[16:45:38] DE gen    5  best logpost -1440.40  median -1440.40
+[16:45:48] DE gen   10  best logpost -1440.39  median -1440.39
+[16:45:58] DE gen   15  best logpost -1440.38  median -1440.39
+[16:46:08] DE gen   20  best logpost -1440.37  median -1440.37
+[16:46:21] DE gen   25  best logpost -1440.36  median -1440.37
+[16:46:33] DE gen   30  best logpost -1440.36  median -1440.36
+[16:46:44] DE gen   35  best logpost -1440.35  median -1440.35
+[16:46:56] DE gen   40  best logpost -1440.35  median -1440.35
+[16:47:06] DE gen   45  best logpost -1440.34  median -1440.34
+[16:47:16] DE gen   50  best logpost -1440.33  median -1440.34
+[16:47:26] DE gen   55  best logpost -1440.33  median -1440.33
+[16:47:34] DE gen   59  best logpost -1440.33  median -1440.33
+[16:47:35] round 1: rho {'Tw_p1': 0.9968834039518037, 'Tw_p2': 0.9985906315806165, 'Tw_p3': 0.999, 'level_a_qc': 0.9908239830514899, 'micrometer': 0.0}  weights {'Tw_p1': 0.06086781603132604, 'Tw_p2': 0.11254686256177134, 'Tw_p3': 0.05137701614774343, 'level_a_qc': 0.882704851160826, 'micrometer': 1.0}
+[16:50:29] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 41; base from ../saidas/calibracao/map_c2.json
+[16:50:44] DE gen    0  best logpost -1469.12  median -2009.06
+[16:50:54] DE gen    5  best logpost -1469.12  median -1648.09
+[16:51:04] DE gen   10  best logpost -1469.12  median -1518.65
+[16:51:14] DE gen   15  best logpost -1469.12  median -1479.76
+[16:51:25] DE gen   20  best logpost -1463.28  median -1467.11
+[16:51:35] DE gen   25  best logpost -1461.84  median -1463.22
+[20:53:21] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[20:53:30] DE gen    0  best logpost -1450.24  median -2092.65
+[20:53:36] DE gen    5  best logpost -1450.24  median -1620.77
+[20:53:42] DE gen   10  best logpost -1450.24  median -1497.84
+[20:53:49] DE gen   15  best logpost -1447.18  median -1454.25
+[20:53:56] DE gen   20  best logpost -1438.86  median -1445.79
+[20:54:03] DE gen   25  best logpost -1434.83  median -1436.83
+[20:54:09] DE gen   30  best logpost -1431.70  median -1432.95
+[20:54:16] DE gen   35  best logpost -1429.99  median -1430.96
+[20:54:24] DE gen   40  best logpost -1428.68  median -1429.52
+[20:54:32] DE gen   45  best logpost -1428.06  median -1428.35
+[20:54:39] DE gen   50  best logpost -1427.36  median -1427.68
+[20:54:47] DE gen   55  best logpost -1427.16  median -1427.29
+[20:54:54] DE gen   60  best logpost -1426.89  median -1427.01
+[20:55:02] DE gen   65  best logpost -1426.79  median -1426.86
+[20:55:10] DE gen   70  best logpost -1426.69  median -1426.74
+[20:55:17] DE gen   75  best logpost -1426.63  median -1426.66
+[20:55:25] DE gen   80  best logpost -1426.59  median -1426.61
+[20:55:33] DE gen   85  best logpost -1426.57  median -1426.58
+[20:55:41] DE gen   90  best logpost -1426.55  median -1426.56
+[20:55:49] DE gen   95  best logpost -1426.52  median -1426.53
+[20:55:57] DE gen  100  best logpost -1426.52  median -1426.52
+[20:56:05] DE gen  105  best logpost -1426.51  median -1426.51
+[20:56:12] DE gen  110  best logpost -1426.50  median -1426.51
+[20:56:20] DE gen  115  best logpost -1426.49  median -1426.50
+[20:56:28] DE gen  120  best logpost -1426.49  median -1426.49
+[20:56:35] DE gen  125  best logpost -1426.48  median -1426.48
+[20:56:42] DE gen  130  best logpost -1426.47  median -1426.48
+[20:56:50] DE gen  135  best logpost -1426.47  median -1426.47
+[20:56:55] DE gen  139  best logpost -1426.46  median -1426.47
+[20:56:56] round 0: rho {'Tw_p1': 0.9968288252173746, 'Tw_p2': 0.9983230893643718, 'Tw_p3': 0.999, 'level_a_qc': 0.9914333283172303, 'micrometer': 0.0}  weights {'Tw_p1': 0.05437628409252847, 'Tw_p2': 0.11101646768389482, 'Tw_p3': 0.0466692659664914, 'level_a_qc': 0.8824277972587476, 'micrometer': 1.0}
+[20:56:59] DE gen    0  best logpost -1431.81  median -1431.82
+[20:57:07] DE gen    5  best logpost -1431.80  median -1431.81
+[20:57:16] DE gen   10  best logpost -1431.80  median -1431.80
+[20:57:25] DE gen   15  best logpost -1431.79  median -1431.79
+[20:57:33] DE gen   20  best logpost -1431.79  median -1431.79
+[20:57:41] DE gen   25  best logpost -1431.78  median -1431.78
+[20:57:48] DE gen   30  best logpost -1431.77  median -1431.78
+[20:57:56] DE gen   35  best logpost -1431.77  median -1431.77
+[20:58:03] DE gen   40  best logpost -1431.77  median -1431.77
+[20:58:11] DE gen   45  best logpost -1431.77  median -1431.77
+[20:58:19] DE gen   50  best logpost -1431.76  median -1431.76
+[20:58:27] DE gen   55  best logpost -1431.76  median -1431.76
+[20:58:35] DE gen   60  best logpost -1431.76  median -1431.76
+[20:58:42] DE gen   65  best logpost -1431.75  median -1431.75
+[20:58:48] DE gen   69  best logpost -1431.75  median -1431.75
+[20:58:49] round 1: rho {'Tw_p1': 0.9968775634322389, 'Tw_p2': 0.998327272730702, 'Tw_p3': 0.999, 'level_a_qc': 0.9914204131786496, 'micrometer': 0.0}  weights {'Tw_p1': 0.05469118455351447, 'Tw_p2': 0.10978106994595227, 'Tw_p3': 0.046759675009732285, 'level_a_qc': 0.8873949687743645, 'micrometer': 1.0}
+[20:59:42] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[20:59:57] MCMC it     0  acc 0.618  lp max -1436.4 median -1436.7  4.89 s/it
+[21:01:11] MCMC it    25  acc 0.436  lp max -1439.4 median -1443.0  3.06 s/it
+[21:02:21] MCMC it    50  acc 0.403  lp max -1440.1 median -1443.3  2.93 s/it
+[21:03:39] MCMC it    75  acc 0.380  lp max -1438.3 median -1443.4  2.98 s/it
+[21:04:55] MCMC it   100  acc 0.374  lp max -1439.4 median -1443.6  3.00 s/it
+[21:06:07] MCMC it   125  acc 0.368  lp max -1438.8 median -1443.2  2.98 s/it
+[21:07:17] MCMC it   150  acc 0.361  lp max -1439.0 median -1443.7  2.95 s/it
+[21:08:30] MCMC it   175  acc 0.356  lp max -1439.9 median -1443.0  2.95 s/it
+[21:09:42] MCMC it   200  acc 0.353  lp max -1438.4 median -1443.0  2.94 s/it
+[21:10:48] MCMC it   225  acc 0.351  lp max -1438.2 median -1444.4  2.90 s/it
+[21:11:50] MCMC it   250  acc 0.347  lp max -1439.4 median -1443.8  2.86 s/it
+[21:12:56] MCMC it   275  acc 0.345  lp max -1439.2 median -1443.7  2.84 s/it
+[21:14:01] MCMC it   300  acc 0.343  lp max -1439.4 median -1442.8  2.82 s/it
+[21:15:03] MCMC it   325  acc 0.342  lp max -1440.2 median -1444.5  2.80 s/it
+[21:16:05] MCMC it   350  acc 0.342  lp max -1439.3 median -1444.1  2.77 s/it
+[21:17:06] MCMC it   375  acc 0.341  lp max -1439.0 median -1443.4  2.75 s/it
+[21:18:07] MCMC it   400  acc 0.339  lp max -1438.7 median -1444.6  2.73 s/it
+[21:19:18] MCMC it   425  acc 0.337  lp max -1440.4 median -1443.6  2.74 s/it
+[21:20:24] MCMC it   450  acc 0.336  lp max -1439.2 median -1443.1  2.73 s/it
+[21:21:28] MCMC it   475  acc 0.336  lp max -1439.0 median -1443.9  2.72 s/it
+[21:22:25] MCMC it   500  acc 0.335  lp max -1440.2 median -1443.5  2.70 s/it
+[21:23:18] MCMC it   525  acc 0.335  lp max -1438.8 median -1443.0  2.67 s/it
+[21:24:11] MCMC it   550  acc 0.335  lp max -1439.9 median -1444.5  2.65 s/it
+[21:25:02] MCMC it   575  acc 0.334  lp max -1439.0 median -1443.9  2.62 s/it
+[21:25:51] MCMC it   600  acc 0.334  lp max -1439.8 median -1444.1  2.59 s/it
+[21:26:39] MCMC it   625  acc 0.335  lp max -1439.1 median -1442.8  2.57 s/it
+[21:27:33] MCMC it   650  acc 0.334  lp max -1438.3 median -1444.3  2.55 s/it
+[21:28:26] MCMC it   675  acc 0.333  lp max -1439.8 median -1443.6  2.54 s/it
+[21:29:31] MCMC it   700  acc 0.333  lp max -1439.2 median -1444.1  2.54 s/it
+[21:31:06] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ..\saidas\calibracao\map_c2.json
+[21:31:06] continuing c1 from mcmc_chain_c1.npz (701 iterations) -> cont1
+[21:31:19] MCMC it     0  acc 0.265  lp max -1439.2 median -1444.4  2.56 s/it
+[21:32:20] MCMC it    25  acc 0.340  lp max -1440.2 median -1444.6  2.46 s/it
+[21:34:44] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[21:34:44] continuing c1 from mcmc_chain_c1.npz (701 iterations) -> cont1
+[21:34:53] MCMC it     0  acc 0.265  lp max -1439.2 median -1444.4  2.09 s/it
+[21:35:49] MCMC it    25  acc 0.340  lp max -1440.2 median -1444.6  2.24 s/it
+[21:36:50] MCMC it    50  acc 0.321  lp max -1439.5 median -1444.5  2.33 s/it
+[21:37:52] MCMC it    75  acc 0.318  lp max -1439.8 median -1443.3  2.38 s/it
+[21:38:45] MCMC it   100  acc 0.313  lp max -1439.4 median -1443.8  2.32 s/it
+[21:39:43] MCMC it   125  acc 0.318  lp max -1439.3 median -1443.9  2.32 s/it
+[21:40:43] MCMC it   150  acc 0.321  lp max -1439.6 median -1443.8  2.33 s/it
+[21:41:40] MCMC it   175  acc 0.324  lp max -1438.7 median -1443.5  2.32 s/it
+[21:42:38] MCMC it   200  acc 0.327  lp max -1439.7 median -1443.7  2.32 s/it
+[21:43:37] MCMC it   225  acc 0.326  lp max -1439.9 median -1445.0  2.33 s/it
+[21:44:39] MCMC it   250  acc 0.322  lp max -1438.8 median -1446.0  2.34 s/it
+[21:45:38] MCMC it   275  acc 0.321  lp max -1438.9 median -1444.4  2.34 s/it
+[21:47:38] MCMC it   300  acc 0.319  lp max -1438.9 median -1444.8  2.55 s/it
+[21:48:42] MCMC it   325  acc 0.321  lp max -1440.4 median -1443.9  2.55 s/it
+[21:49:33] MCMC it   350  acc 0.323  lp max -1440.2 median -1444.3  2.51 s/it
+[21:50:25] MCMC it   375  acc 0.321  lp max -1440.2 median -1445.6  2.48 s/it
+[21:51:23] MCMC it   400  acc 0.319  lp max -1439.5 median -1443.7  2.47 s/it
+[21:52:25] MCMC it   425  acc 0.318  lp max -1439.3 median -1444.5  2.47 s/it
+[21:53:33] MCMC it   450  acc 0.318  lp max -1438.2 median -1443.2  2.49 s/it
+[21:54:54] MCMC it   475  acc 0.318  lp max -1439.9 median -1443.7  2.53 s/it
+[21:56:00] MCMC it   500  acc 0.318  lp max -1439.8 median -1444.6  2.53 s/it
+[21:57:05] MCMC it   525  acc 0.318  lp max -1441.7 median -1444.4  2.54 s/it
+[21:58:17] MCMC it   550  acc 0.317  lp max -1438.3 median -1444.1  2.55 s/it
+[21:59:32] MCMC it   575  acc 0.318  lp max -1440.0 median -1444.1  2.57 s/it
+[22:00:39] MCMC it   600  acc 0.317  lp max -1439.2 median -1444.4  2.58 s/it
+[22:01:46] MCMC it   625  acc 0.316  lp max -1440.3 median -1444.2  2.58 s/it
+[22:02:48] MCMC it   650  acc 0.316  lp max -1440.1 median -1444.5  2.58 s/it
+[22:03:50] MCMC it   675  acc 0.316  lp max -1439.3 median -1444.3  2.57 s/it
+[22:04:50] MCMC it   700  acc 0.317  lp max -1438.7 median -1445.2  2.57 s/it
+[22:05:53] MCMC it   725  acc 0.319  lp max -1440.5 median -1445.1  2.56 s/it
+[22:06:58] MCMC it   750  acc 0.318  lp max -1439.2 median -1445.1  2.57 s/it
+[22:07:59] MCMC it   775  acc 0.318  lp max -1438.2 median -1444.1  2.56 s/it
+[22:09:01] MCMC it   800  acc 0.318  lp max -1440.1 median -1444.5  2.56 s/it
+[22:10:03] MCMC it   825  acc 0.318  lp max -1440.5 median -1443.9  2.56 s/it
+[22:11:08] MCMC it   850  acc 0.317  lp max -1440.6 median -1445.0  2.56 s/it
+[22:12:17] MCMC it   875  acc 0.318  lp max -1439.5 median -1444.7  2.56 s/it
+[22:13:33] MCMC it   900  acc 0.318  lp max -1439.4 median -1444.7  2.58 s/it
+[22:14:36] MCMC it   925  acc 0.318  lp max -1440.2 median -1443.5  2.58 s/it
+[22:15:38] MCMC it   950  acc 0.318  lp max -1439.3 median -1444.9  2.57 s/it
+[22:16:38] MCMC it   975  acc 0.318  lp max -1439.1 median -1444.0  2.57 s/it
+[22:17:36] MCMC it  1000  acc 0.318  lp max -1440.1 median -1444.5  2.56 s/it
+[22:18:36] MCMC it  1025  acc 0.318  lp max -1438.6 median -1444.2  2.56 s/it
+[22:19:38] MCMC it  1050  acc 0.318  lp max -1440.3 median -1444.8  2.56 s/it
+[22:20:41] MCMC it  1075  acc 0.318  lp max -1439.7 median -1444.2  2.56 s/it
+[22:21:39] MCMC it  1100  acc 0.318  lp max -1440.3 median -1443.8  2.55 s/it
+[22:22:36] MCMC it  1125  acc 0.317  lp max -1438.8 median -1444.3  2.54 s/it
+[22:23:37] MCMC it  1150  acc 0.318  lp max -1440.1 median -1443.7  2.54 s/it
+[22:24:37] MCMC it  1175  acc 0.317  lp max -1440.1 median -1443.8  2.54 s/it
+[22:25:43] MCMC it  1200  acc 0.317  lp max -1439.0 median -1444.6  2.54 s/it
+[22:26:48] MCMC it  1225  acc 0.316  lp max -1440.2 median -1443.8  2.54 s/it
+[22:28:00] MCMC it  1250  acc 0.316  lp max -1439.1 median -1444.1  2.55 s/it
+[22:29:18] MCMC it  1275  acc 0.315  lp max -1440.3 median -1443.8  2.56 s/it
+[22:30:39] MCMC it  1299  acc 0.316  lp max -1440.0 median -1444.7  2.58 s/it
+[22:30:40] MCMC continuation done, acceptance 0.316
+[07:23:32] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[07:23:39] DE gen    0  best logpost -1416.22  median -1419.69
+[07:23:44] DE gen    5  best logpost -1411.45  median -1416.67
+[07:23:49] DE gen   10  best logpost -1407.27  median -1409.72
+[07:23:54] DE gen   15  best logpost -1401.23  median -1404.48
+[07:23:58] DE gen   20  best logpost -1396.31  median -1398.93
+[07:24:03] DE gen   25  best logpost -1393.85  median -1395.46
+[07:24:08] DE gen   30  best logpost -1390.80  median -1392.06
+[07:24:14] DE gen   35  best logpost -1387.14  median -1388.94
+[07:24:19] DE gen   40  best logpost -1382.72  median -1384.48
+[07:24:24] DE gen   45  best logpost -1377.49  median -1378.71
+[07:24:29] DE gen   50  best logpost -1373.94  median -1375.03
+[07:24:34] DE gen   55  best logpost -1370.71  median -1371.84
+[07:24:39] DE gen   60  best logpost -1369.54  median -1369.98
+[07:24:45] DE gen   65  best logpost -1369.00  median -1369.21
+[07:24:50] DE gen   70  best logpost -1368.35  median -1368.65
+[07:24:55] DE gen   75  best logpost -1368.07  median -1368.19
+[07:24:59] DE gen   79  best logpost -1367.80  median -1367.93
+[07:25:00] round 0: rho {'Tw_p1': 0.9967724235482895, 'Tw_p2': 0.9970819114487413, 'Tw_p3': 0.999, 'level_a_qc': 0.9911242819440202, 'micrometer': 0.0}  weights {'Tw_p1': 0.07305255108689213, 'Tw_p2': 0.27015682246025036, 'Tw_p3': 0.08050143982180609, 'level_a_qc': 0.9279188058793535, 'micrometer': 1.0}
+[07:25:02] DE gen    0  best logpost -1608.76  median -1609.32
+[07:25:08] DE gen    5  best logpost -1608.12  median -1608.45
+[07:25:13] DE gen   10  best logpost -1607.59  median -1607.79
+[07:25:18] DE gen   15  best logpost -1607.19  median -1607.32
+[07:25:24] DE gen   20  best logpost -1606.76  median -1606.88
+[07:25:29] DE gen   25  best logpost -1606.53  median -1606.66
+[07:25:35] DE gen   30  best logpost -1606.22  median -1606.31
+[07:25:40] DE gen   35  best logpost -1605.81  median -1606.02
+[07:25:44] DE gen   39  best logpost -1605.54  median -1605.68
+[07:25:45] round 1: rho {'Tw_p1': 0.9967850292084497, 'Tw_p2': 0.9972426822463094, 'Tw_p3': 0.999, 'level_a_qc': 0.9912330691234064, 'micrometer': 0.0}  weights {'Tw_p1': 0.0729146148174444, 'Tw_p2': 0.2677677146320069, 'Tw_p3': 0.08105068292520677, 'level_a_qc': 0.919063143085238, 'micrometer': 1.0}
+[07:25:47] walkers initialised from the last state of ../saidas/calibracao/v4_c1_E_micfixo/mcmc_chain_c1_cont1.npz
+[07:26:52] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[07:26:52] walkers initialised from the last state of ../saidas/calibracao/v4_c1_E_micfixo/mcmc_chain_c1_cont1.npz
+[07:27:01] MCMC it     0  acc 0.389  lp max -1689.1 median -1696.8  1.77 s/it
+[07:27:48] MCMC it    25  acc 0.317  lp max -1683.7 median -1693.4  1.87 s/it
+[07:28:36] MCMC it    50  acc 0.310  lp max -1686.9 median -1691.3  1.90 s/it
+[07:29:25] MCMC it    75  acc 0.302  lp max -1685.5 median -1690.9  1.92 s/it
+[07:30:16] MCMC it   100  acc 0.307  lp max -1684.4 median -1690.0  1.94 s/it
+[07:31:05] MCMC it   125  acc 0.304  lp max -1684.3 median -1689.8  1.95 s/it
+[07:31:57] MCMC it   150  acc 0.306  lp max -1685.2 median -1689.8  1.97 s/it
+[07:32:50] MCMC it   175  acc 0.299  lp max -1685.8 median -1689.1  1.99 s/it
+[07:33:25] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2400; micrometer readings 39; base from ../saidas/calibracao/map_c2.json
+[07:33:25] walkers initialised from the spread of the last state of ../saidas/calibracao/v4_c1_E_micfixo/mcmc_chain_c1_cont1.npz, re-centred on the mode in map_c1.json
+[07:33:36] MCMC it     0  acc 0.444  lp max -1591.8 median -1603.1  2.17 s/it
+[07:34:29] MCMC it    25  acc 0.355  lp max -1589.7 median -1595.2  2.13 s/it
+[07:35:29] MCMC it    50  acc 0.336  lp max -1585.8 median -1593.3  2.27 s/it
+[07:36:28] MCMC it    75  acc 0.332  lp max -1585.1 median -1590.9  2.29 s/it
+[07:37:24] MCMC it   100  acc 0.328  lp max -1581.6 median -1590.3  2.28 s/it
+[07:38:21] MCMC it   125  acc 0.323  lp max -1582.2 median -1588.3  2.28 s/it
+[07:39:18] MCMC it   150  acc 0.321  lp max -1581.9 median -1587.6  2.28 s/it
+[07:40:14] MCMC it   175  acc 0.317  lp max -1581.5 median -1586.9  2.28 s/it
+[07:41:10] MCMC it   200  acc 0.318  lp max -1581.8 median -1587.2  2.27 s/it
+[07:42:06] MCMC it   225  acc 0.319  lp max -1580.8 median -1587.6  2.27 s/it
+[07:43:04] MCMC it   250  acc 0.315  lp max -1583.2 median -1587.4  2.27 s/it
+[07:44:06] MCMC it   275  acc 0.313  lp max -1582.0 median -1586.2  2.29 s/it
+[07:45:04] MCMC it   300  acc 0.315  lp max -1582.1 median -1586.2  2.30 s/it
+[07:46:03] MCMC it   325  acc 0.313  lp max -1582.2 median -1585.9  2.30 s/it
+[07:47:01] MCMC it   350  acc 0.315  lp max -1582.1 median -1586.9  2.30 s/it
+[07:47:59] MCMC it   375  acc 0.315  lp max -1582.6 median -1587.2  2.30 s/it
+[07:48:57] MCMC it   400  acc 0.314  lp max -1582.1 median -1586.7  2.30 s/it
+[07:49:54] MCMC it   425  acc 0.312  lp max -1582.8 median -1586.0  2.30 s/it
+[07:50:51] MCMC it   450  acc 0.313  lp max -1581.9 median -1586.7  2.30 s/it
+[07:51:49] MCMC it   475  acc 0.312  lp max -1582.9 median -1587.4  2.30 s/it
+[07:52:45] MCMC it   500  acc 0.313  lp max -1582.1 median -1587.5  2.30 s/it
+[07:53:41] MCMC it   525  acc 0.313  lp max -1582.0 median -1587.4  2.30 s/it
+[07:54:38] MCMC it   550  acc 0.312  lp max -1581.5 median -1586.8  2.29 s/it
+[07:55:34] MCMC it   575  acc 0.312  lp max -1580.8 median -1587.9  2.29 s/it
+[07:56:31] MCMC it   600  acc 0.311  lp max -1580.6 median -1586.9  2.29 s/it
+[07:57:27] MCMC it   625  acc 0.311  lp max -1582.6 median -1586.5  2.29 s/it
+[07:58:24] MCMC it   650  acc 0.311  lp max -1581.3 median -1586.6  2.29 s/it
+[07:59:20] MCMC it   675  acc 0.312  lp max -1580.4 median -1586.2  2.29 s/it
+[08:00:16] MCMC it   700  acc 0.312  lp max -1582.1 median -1586.8  2.29 s/it
+[08:01:27] MCMC it   725  acc 0.312  lp max -1581.6 median -1586.2  2.30 s/it
+[08:02:45] MCMC it   750  acc 0.312  lp max -1580.4 median -1586.2  2.33 s/it
+[08:04:04] MCMC it   775  acc 0.312  lp max -1581.9 median -1587.1  2.36 s/it
+[08:05:23] MCMC it   800  acc 0.312  lp max -1582.6 median -1586.9  2.38 s/it
+[08:06:38] MCMC it   825  acc 0.312  lp max -1582.0 median -1587.5  2.40 s/it
+[08:07:53] MCMC it   850  acc 0.312  lp max -1580.7 median -1586.0  2.42 s/it
+[08:09:08] MCMC it   875  acc 0.312  lp max -1581.8 median -1586.1  2.44 s/it
+[08:10:24] MCMC it   900  acc 0.311  lp max -1580.5 median -1586.4  2.45 s/it
+[08:11:40] MCMC it   925  acc 0.311  lp max -1582.2 median -1586.7  2.47 s/it
+[08:12:57] MCMC it   950  acc 0.311  lp max -1581.5 median -1584.9  2.49 s/it
+[08:14:06] MCMC it   975  acc 0.312  lp max -1580.6 median -1586.1  2.49 s/it
+[08:15:15] MCMC it  1000  acc 0.311  lp max -1581.2 median -1586.8  2.50 s/it
+[08:16:23] MCMC it  1025  acc 0.311  lp max -1581.8 median -1586.7  2.50 s/it
+[08:17:32] MCMC it  1050  acc 0.311  lp max -1581.6 median -1586.1  2.51 s/it
+[08:18:40] MCMC it  1075  acc 0.311  lp max -1581.1 median -1586.3  2.52 s/it
+[08:19:50] MCMC it  1100  acc 0.311  lp max -1581.5 median -1587.2  2.52 s/it
+[08:20:55] MCMC it  1125  acc 0.311  lp max -1582.2 median -1587.3  2.52 s/it
+[08:21:58] MCMC it  1150  acc 0.311  lp max -1581.3 median -1586.1  2.52 s/it
+[08:23:03] MCMC it  1175  acc 0.312  lp max -1582.9 median -1586.4  2.53 s/it
+[08:24:07] MCMC it  1200  acc 0.312  lp max -1581.3 median -1586.6  2.53 s/it
+[08:25:11] MCMC it  1225  acc 0.312  lp max -1582.0 median -1586.4  2.53 s/it
+[08:26:14] MCMC it  1250  acc 0.312  lp max -1580.2 median -1586.5  2.53 s/it
+[08:27:18] MCMC it  1275  acc 0.312  lp max -1580.3 median -1586.4  2.53 s/it
+[08:28:22] MCMC it  1300  acc 0.312  lp max -1581.0 median -1586.4  2.53 s/it
+[08:29:25] MCMC it  1325  acc 0.311  lp max -1581.3 median -1586.0  2.53 s/it
+[08:30:28] MCMC it  1350  acc 0.311  lp max -1581.2 median -1586.1  2.53 s/it
+[08:31:32] MCMC it  1375  acc 0.311  lp max -1581.1 median -1586.2  2.53 s/it
+[08:32:36] MCMC it  1400  acc 0.310  lp max -1581.4 median -1585.9  2.53 s/it
+[08:33:39] MCMC it  1425  acc 0.310  lp max -1581.4 median -1586.0  2.53 s/it
+[08:34:42] MCMC it  1450  acc 0.311  lp max -1582.7 median -1586.4  2.53 s/it
+[08:35:41] MCMC it  1475  acc 0.310  lp max -1581.0 median -1586.0  2.53 s/it
+[08:36:39] MCMC it  1500  acc 0.310  lp max -1582.4 median -1586.2  2.52 s/it
+[08:37:40] MCMC it  1525  acc 0.310  lp max -1580.9 median -1586.5  2.52 s/it
+[08:38:45] MCMC it  1550  acc 0.310  lp max -1580.3 median -1586.5  2.52 s/it
+[08:39:50] MCMC it  1575  acc 0.310  lp max -1583.1 median -1587.1  2.52 s/it
+[08:40:53] MCMC it  1600  acc 0.310  lp max -1580.7 median -1586.6  2.52 s/it
+[08:41:57] MCMC it  1625  acc 0.311  lp max -1581.6 median -1586.1  2.52 s/it
+[08:43:01] MCMC it  1650  acc 0.311  lp max -1581.9 median -1587.1  2.52 s/it
+[08:44:05] MCMC it  1675  acc 0.311  lp max -1582.3 median -1587.1  2.52 s/it
+[08:45:12] MCMC it  1700  acc 0.310  lp max -1581.1 median -1587.0  2.53 s/it
+[08:46:14] MCMC it  1725  acc 0.311  lp max -1582.2 median -1586.6  2.53 s/it
+[08:47:13] MCMC it  1750  acc 0.310  lp max -1580.4 median -1586.3  2.52 s/it
+[08:48:12] MCMC it  1775  acc 0.310  lp max -1582.2 median -1586.4  2.52 s/it
+[08:49:12] MCMC it  1800  acc 0.310  lp max -1581.2 median -1588.0  2.52 s/it
+[08:50:11] MCMC it  1825  acc 0.311  lp max -1582.2 median -1586.4  2.52 s/it
+[08:51:10] MCMC it  1850  acc 0.310  lp max -1581.4 median -1586.7  2.52 s/it
+[08:52:09] MCMC it  1875  acc 0.310  lp max -1582.1 median -1587.0  2.51 s/it
+[08:53:07] MCMC it  1900  acc 0.310  lp max -1579.9 median -1585.6  2.51 s/it
+[08:54:06] MCMC it  1925  acc 0.310  lp max -1581.0 median -1584.9  2.51 s/it
+[08:55:05] MCMC it  1950  acc 0.311  lp max -1582.1 median -1586.4  2.51 s/it
+[08:56:27] MCMC it  1975  acc 0.311  lp max -1581.5 median -1585.8  2.52 s/it
+[08:57:40] MCMC it  1999  acc 0.311  lp max -1581.5 median -1586.0  2.52 s/it
+[08:57:40] MCMC c1 done, acceptance 0.311
+[17:44:15] continuing c1 from mcmc_chain_c1.npz (2000 iterations) -> cont1
+[17:44:24] MCMC it     0  acc 0.167  lp max -1581.6 median -1585.7  2.08 s/it
+[17:44:26] MCMC it     1  acc 0.278  lp max -1581.4 median -1586.3  2.06 s/it
+[17:44:26] MCMC continuation done, acceptance 0.278
+[18:05:36] continuing c1 from mcmc_chain_c1_cont1.npz (2 iterations) -> cont2
+[18:05:47] MCMC it     0  acc 0.361  lp max -1581.6 median -1586.2  2.24 s/it
+[18:07:02] MCMC it    25  acc 0.329  lp max -1581.4 median -1585.3  2.96 s/it
+[18:08:44] MCMC it    50  acc 0.309  lp max -1581.0 median -1585.6  3.52 s/it
+[18:09:56] MCMC it    75  acc 0.304  lp max -1580.5 median -1585.7  3.31 s/it
+[18:10:58] MCMC it   100  acc 0.307  lp max -1582.3 median -1585.6  3.10 s/it
+[18:11:58] MCMC it   125  acc 0.311  lp max -1581.1 median -1585.9  2.96 s/it
+[18:13:02] MCMC it   150  acc 0.315  lp max -1581.6 median -1586.0  2.90 s/it
+[18:14:03] MCMC it   175  acc 0.311  lp max -1581.0 median -1586.1  2.83 s/it
+[18:15:07] MCMC it   200  acc 0.310  lp max -1581.3 median -1586.1  2.80 s/it
+[18:16:17] MCMC it   225  acc 0.309  lp max -1582.6 median -1587.3  2.80 s/it
+[18:17:20] MCMC it   250  acc 0.311  lp max -1580.9 median -1586.4  2.77 s/it
+[18:18:27] MCMC it   275  acc 0.314  lp max -1581.5 median -1586.5  2.76 s/it
+[18:19:31] MCMC it   300  acc 0.312  lp max -1580.4 median -1585.5  2.75 s/it
+[18:20:39] MCMC it   325  acc 0.312  lp max -1583.1 median -1586.1  2.74 s/it
+[18:21:45] MCMC it   350  acc 0.311  lp max -1582.0 median -1586.7  2.74 s/it
+[18:22:50] MCMC it   375  acc 0.312  lp max -1580.7 median -1586.6  2.73 s/it
+[18:23:51] MCMC it   399  acc 0.313  lp max -1580.7 median -1586.0  2.72 s/it
+[18:23:51] MCMC continuation done, acceptance 0.313
+[18:23:51] continuing c1 from mcmc_chain_c1_cont2.npz (400 iterations) -> cont3
+[18:23:56] MCMC it     0  acc 0.306  lp max -1580.7 median -1585.6  2.63 s/it
+[18:25:02] MCMC it    25  acc 0.319  lp max -1582.0 median -1586.8  2.64 s/it
+[18:26:05] MCMC it    50  acc 0.320  lp max -1581.9 median -1587.1  2.59 s/it
+[18:27:11] MCMC it    75  acc 0.318  lp max -1582.3 median -1586.9  2.61 s/it
+[18:28:17] MCMC it   100  acc 0.316  lp max -1582.8 median -1586.6  2.61 s/it
+[18:29:20] MCMC it   125  acc 0.318  lp max -1581.6 median -1587.3  2.60 s/it
+[18:30:26] MCMC it   150  acc 0.318  lp max -1581.3 median -1586.4  2.61 s/it
+[18:31:30] MCMC it   175  acc 0.316  lp max -1581.5 median -1587.1  2.60 s/it
+[18:32:30] MCMC it   200  acc 0.316  lp max -1581.0 median -1585.9  2.57 s/it
+[18:33:28] MCMC it   225  acc 0.313  lp max -1581.6 median -1586.3  2.54 s/it
+[18:34:26] MCMC it   250  acc 0.315  lp max -1579.0 median -1586.8  2.52 s/it
+[18:35:25] MCMC it   275  acc 0.316  lp max -1580.0 median -1585.6  2.51 s/it
+[18:36:23] MCMC it   300  acc 0.316  lp max -1581.0 median -1585.4  2.49 s/it
+[18:37:21] MCMC it   325  acc 0.317  lp max -1581.5 median -1587.1  2.48 s/it
+[18:38:20] MCMC it   350  acc 0.317  lp max -1581.1 median -1585.4  2.47 s/it
+[18:39:23] MCMC it   375  acc 0.318  lp max -1581.4 median -1586.5  2.47 s/it
+[18:40:31] MCMC it   399  acc 0.316  lp max -1581.1 median -1586.7  2.50 s/it
+[18:40:31] MCMC continuation done, acceptance 0.316
+[18:40:31] continuing c1 from mcmc_chain_c1_cont3.npz (400 iterations) -> cont4
+[18:40:35] MCMC it     0  acc 0.444  lp max -1582.2 median -1586.4  2.44 s/it
+[18:41:34] MCMC it    25  acc 0.327  lp max -1581.3 median -1586.0  2.33 s/it
+[18:42:31] MCMC it    50  acc 0.327  lp max -1582.1 median -1586.8  2.32 s/it
+[18:43:29] MCMC it    75  acc 0.311  lp max -1580.3 median -1587.7  2.31 s/it
+[18:44:25] MCMC it   100  acc 0.312  lp max -1583.2 median -1587.0  2.30 s/it
+[18:45:23] MCMC it   125  acc 0.313  lp max -1580.3 median -1585.2  2.30 s/it
+[18:46:21] MCMC it   150  acc 0.312  lp max -1580.5 median -1586.5  2.30 s/it
+[18:47:17] MCMC it   175  acc 0.320  lp max -1580.2 median -1586.7  2.30 s/it
+[18:48:14] MCMC it   200  acc 0.323  lp max -1581.5 median -1586.3  2.29 s/it
+[18:49:10] MCMC it   225  acc 0.321  lp max -1581.5 median -1585.6  2.29 s/it
+[18:50:07] MCMC it   250  acc 0.319  lp max -1582.6 median -1585.8  2.29 s/it
+[18:51:04] MCMC it   275  acc 0.315  lp max -1582.2 median -1587.5  2.28 s/it
+[18:52:00] MCMC it   300  acc 0.318  lp max -1580.7 median -1585.5  2.28 s/it
+[18:52:56] MCMC it   325  acc 0.320  lp max -1581.3 median -1585.4  2.28 s/it
+[18:53:52] MCMC it   350  acc 0.318  lp max -1581.1 median -1587.2  2.28 s/it
+[18:54:49] MCMC it   375  acc 0.319  lp max -1581.8 median -1585.6  2.28 s/it
+[18:55:43] MCMC it   399  acc 0.319  lp max -1582.4 median -1586.0  2.27 s/it
+[18:55:43] MCMC continuation done, acceptance 0.319
+[18:55:43] continuing c1 from mcmc_chain_c1_cont4.npz (400 iterations) -> cont5
+[18:55:46] MCMC it     0  acc 0.333  lp max -1583.0 median -1586.2  2.25 s/it
+[18:56:43] MCMC it    25  acc 0.319  lp max -1581.4 median -1586.1  2.26 s/it
+[18:57:41] MCMC it    50  acc 0.316  lp max -1582.0 median -1585.8  2.28 s/it
+[18:58:39] MCMC it    75  acc 0.318  lp max -1581.6 median -1586.3  2.30 s/it
+[18:59:35] MCMC it   100  acc 0.311  lp max -1580.9 median -1585.9  2.29 s/it
+[19:00:32] MCMC it   125  acc 0.310  lp max -1582.8 median -1586.4  2.28 s/it
+[19:01:28] MCMC it   150  acc 0.313  lp max -1581.6 median -1586.5  2.28 s/it
+[19:02:25] MCMC it   175  acc 0.310  lp max -1581.1 median -1586.5  2.28 s/it
+[19:03:21] MCMC it   200  acc 0.312  lp max -1581.5 median -1586.2  2.27 s/it
+[19:04:17] MCMC it   225  acc 0.314  lp max -1581.6 median -1586.3  2.27 s/it
+[19:05:14] MCMC it   250  acc 0.316  lp max -1580.6 median -1586.6  2.27 s/it
+[19:06:11] MCMC it   275  acc 0.315  lp max -1582.8 median -1586.6  2.27 s/it
+[19:07:07] MCMC it   300  acc 0.316  lp max -1581.2 median -1586.9  2.27 s/it
+[19:08:04] MCMC it   325  acc 0.316  lp max -1582.1 median -1586.0  2.27 s/it
+[19:09:00] MCMC it   350  acc 0.315  lp max -1582.0 median -1587.1  2.27 s/it
+[19:09:56] MCMC it   375  acc 0.315  lp max -1581.9 median -1585.8  2.27 s/it
+[19:10:50] MCMC it   399  acc 0.316  lp max -1582.0 median -1586.8  2.26 s/it
+[19:10:50] MCMC continuation done, acceptance 0.316
+[19:10:50] continuing c1 from mcmc_chain_c1_cont5.npz (400 iterations) -> cont6
+[19:10:54] MCMC it     0  acc 0.278  lp max -1581.5 median -1586.9  2.24 s/it
+[19:11:52] MCMC it    25  acc 0.301  lp max -1580.8 median -1585.9  2.31 s/it
+[19:12:45] MCMC it    50  acc 0.312  lp max -1580.3 median -1585.9  2.22 s/it
+[19:13:42] MCMC it    75  acc 0.311  lp max -1581.5 median -1586.4  2.23 s/it
+[19:14:40] MCMC it   100  acc 0.319  lp max -1581.7 median -1586.4  2.26 s/it
+[19:15:38] MCMC it   125  acc 0.315  lp max -1582.1 median -1586.7  2.28 s/it
+[19:16:37] MCMC it   150  acc 0.314  lp max -1581.3 median -1586.4  2.29 s/it
+[19:17:42] MCMC it   175  acc 0.312  lp max -1581.8 median -1586.8  2.33 s/it
+[19:18:45] MCMC it   200  acc 0.311  lp max -1579.6 median -1586.3  2.36 s/it
+[19:19:47] MCMC it   225  acc 0.309  lp max -1580.8 median -1586.0  2.37 s/it
+[19:20:50] MCMC it   250  acc 0.309  lp max -1580.6 median -1585.5  2.38 s/it
+[19:21:50] MCMC it   275  acc 0.306  lp max -1580.6 median -1587.2  2.38 s/it
+[19:22:51] MCMC it   300  acc 0.308  lp max -1582.2 median -1586.4  2.39 s/it
+[19:23:50] MCMC it   325  acc 0.307  lp max -1580.7 median -1587.0  2.39 s/it
+[19:24:50] MCMC it   350  acc 0.308  lp max -1581.2 median -1586.7  2.39 s/it
+[19:25:50] MCMC it   375  acc 0.311  lp max -1582.1 median -1586.5  2.39 s/it
+[19:26:46] MCMC it   399  acc 0.311  lp max -1581.9 median -1586.4  2.38 s/it
+[19:26:46] MCMC continuation done, acceptance 0.311
+[19:26:46] continuing c1 from mcmc_chain_c1_cont6.npz (400 iterations) -> cont7
+[19:26:50] MCMC it     0  acc 0.278  lp max -1581.9 median -1586.1  2.23 s/it
+[19:27:47] MCMC it    25  acc 0.301  lp max -1581.7 median -1585.7  2.27 s/it
+[19:28:43] MCMC it    50  acc 0.296  lp max -1580.3 median -1586.2  2.27 s/it
+[19:29:42] MCMC it    75  acc 0.297  lp max -1581.5 median -1586.3  2.30 s/it
+[19:30:43] MCMC it   100  acc 0.300  lp max -1581.2 median -1586.0  2.33 s/it
+[19:31:41] MCMC it   125  acc 0.300  lp max -1581.7 median -1587.2  2.33 s/it
+[19:32:41] MCMC it   150  acc 0.297  lp max -1580.0 median -1585.5  2.34 s/it
+[19:33:44] MCMC it   175  acc 0.298  lp max -1581.5 median -1586.6  2.36 s/it
+[19:34:46] MCMC it   200  acc 0.299  lp max -1582.4 median -1587.5  2.38 s/it
+[19:35:48] MCMC it   225  acc 0.297  lp max -1582.1 median -1587.3  2.39 s/it
+[19:36:48] MCMC it   250  acc 0.298  lp max -1581.5 median -1585.8  2.39 s/it
+[19:37:47] MCMC it   275  acc 0.301  lp max -1581.5 median -1585.8  2.39 s/it
+[19:38:43] MCMC it   300  acc 0.303  lp max -1581.9 median -1585.3  2.38 s/it
+[19:39:40] MCMC it   325  acc 0.303  lp max -1581.6 median -1585.2  2.37 s/it
+[19:40:37] MCMC it   350  acc 0.302  lp max -1580.8 median -1587.6  2.36 s/it
+[19:41:32] MCMC it   375  acc 0.302  lp max -1582.7 median -1586.4  2.35 s/it
+[19:42:27] MCMC it   399  acc 0.302  lp max -1579.9 median -1587.2  2.35 s/it
+[19:42:27] MCMC continuation done, acceptance 0.302
+[19:42:28] continuing c1 from mcmc_chain_c1_cont7.npz (400 iterations) -> cont8
+[19:42:31] MCMC it     0  acc 0.306  lp max -1579.9 median -1587.0  2.35 s/it
+[19:43:35] MCMC it    25  acc 0.312  lp max -1581.5 median -1587.6  2.53 s/it
+[19:44:35] MCMC it    50  acc 0.307  lp max -1581.6 median -1586.5  2.47 s/it
+[19:45:38] MCMC it    75  acc 0.304  lp max -1582.6 median -1587.1  2.49 s/it
+[19:46:39] MCMC it   100  acc 0.303  lp max -1581.8 median -1586.8  2.47 s/it
+[19:47:37] MCMC it   125  acc 0.305  lp max -1581.8 median -1588.5  2.44 s/it
+[19:48:34] MCMC it   150  acc 0.304  lp max -1581.3 median -1587.3  2.41 s/it
+[19:49:36] MCMC it   175  acc 0.303  lp max -1582.7 median -1586.8  2.42 s/it
+[19:50:37] MCMC it   200  acc 0.305  lp max -1581.7 median -1586.0  2.43 s/it
+[19:51:35] MCMC it   225  acc 0.306  lp max -1582.0 median -1585.7  2.42 s/it
+[19:52:33] MCMC it   250  acc 0.307  lp max -1583.2 median -1587.0  2.41 s/it
+[19:53:33] MCMC it   275  acc 0.308  lp max -1581.2 median -1585.3  2.41 s/it
+[19:54:41] MCMC it   300  acc 0.307  lp max -1581.6 median -1586.3  2.43 s/it
+[19:55:55] MCMC it   325  acc 0.306  lp max -1581.0 median -1585.3  2.47 s/it
+[19:56:59] MCMC it   350  acc 0.305  lp max -1580.1 median -1586.4  2.48 s/it
+[19:58:09] MCMC it   375  acc 0.306  lp max -1580.1 median -1586.0  2.50 s/it
+[19:59:18] MCMC it   399  acc 0.307  lp max -1580.8 median -1585.7  2.52 s/it
+[19:59:18] MCMC continuation done, acceptance 0.307
+[19:59:19] continuing c1 from mcmc_chain_c1_cont8.npz (400 iterations) -> cont9
+[19:59:23] MCMC it     0  acc 0.222  lp max -1580.8 median -1585.9  2.72 s/it
+[20:00:30] MCMC it    25  acc 0.314  lp max -1581.3 median -1585.9  2.68 s/it
+[20:01:42] MCMC it    50  acc 0.298  lp max -1581.2 median -1586.9  2.77 s/it
+[20:02:54] MCMC it    75  acc 0.302  lp max -1581.7 median -1587.1  2.81 s/it
+[20:04:06] MCMC it   100  acc 0.297  lp max -1581.8 median -1587.1  2.83 s/it
+[20:05:17] MCMC it   125  acc 0.297  lp max -1582.5 median -1586.4  2.83 s/it
+[20:06:16] MCMC it   150  acc 0.302  lp max -1581.2 median -1587.2  2.75 s/it
+[20:07:17] MCMC it   175  acc 0.303  lp max -1582.9 median -1587.3  2.71 s/it
+[20:08:19] MCMC it   200  acc 0.302  lp max -1581.8 median -1586.9  2.68 s/it
+[20:09:22] MCMC it   225  acc 0.302  lp max -1580.7 median -1585.4  2.66 s/it
+[20:10:31] MCMC it   250  acc 0.304  lp max -1581.7 median -1585.9  2.67 s/it
+[20:11:37] MCMC it   275  acc 0.302  lp max -1582.0 median -1585.8  2.67 s/it
+[20:12:47] MCMC it   300  acc 0.301  lp max -1581.8 median -1586.2  2.68 s/it
+[20:13:47] MCMC it   325  acc 0.301  lp max -1581.7 median -1587.3  2.66 s/it
+[20:14:54] MCMC it   350  acc 0.298  lp max -1582.0 median -1585.8  2.66 s/it
+[20:15:59] MCMC it   375  acc 0.296  lp max -1582.3 median -1586.9  2.66 s/it
+[20:16:59] MCMC it   399  acc 0.297  lp max -1582.4 median -1586.2  2.65 s/it
+[20:16:59] MCMC continuation done, acceptance 0.297
+[20:16:59] continuing c1 from mcmc_chain_c1_cont9.npz (400 iterations) -> cont10
+[20:17:03] MCMC it     0  acc 0.333  lp max -1582.4 median -1586.9  2.25 s/it
+[20:18:07] MCMC it    25  acc 0.302  lp max -1582.0 median -1586.7  2.54 s/it
+[20:19:08] MCMC it    50  acc 0.308  lp max -1579.9 median -1586.6  2.49 s/it
+[20:20:10] MCMC it    75  acc 0.305  lp max -1581.8 median -1586.1  2.49 s/it
+[20:21:11] MCMC it   100  acc 0.309  lp max -1581.9 median -1586.7  2.48 s/it
+[20:22:12] MCMC it   125  acc 0.305  lp max -1582.0 median -1586.3  2.47 s/it
+[20:23:11] MCMC it   150  acc 0.306  lp max -1581.5 median -1586.3  2.45 s/it
+[20:24:10] MCMC it   175  acc 0.307  lp max -1581.6 median -1586.3  2.44 s/it
+[20:25:08] MCMC it   200  acc 0.307  lp max -1581.6 median -1585.6  2.42 s/it
+[20:26:06] MCMC it   225  acc 0.309  lp max -1582.5 median -1586.5  2.41 s/it
+[20:27:02] MCMC it   250  acc 0.310  lp max -1580.5 median -1585.8  2.40 s/it
+[20:28:04] MCMC it   275  acc 0.310  lp max -1580.5 median -1586.3  2.40 s/it
+[20:29:06] MCMC it   300  acc 0.310  lp max -1580.9 median -1585.5  2.41 s/it
+[20:30:16] MCMC it   325  acc 0.311  lp max -1580.2 median -1585.6  2.44 s/it
+[20:31:23] MCMC it   350  acc 0.310  lp max -1581.8 median -1585.5  2.46 s/it
+[20:32:33] MCMC it   375  acc 0.311  lp max -1581.0 median -1586.3  2.48 s/it
+[20:33:38] MCMC it   399  acc 0.311  lp max -1581.5 median -1585.8  2.49 s/it
+[20:33:38] MCMC continuation done, acceptance 0.311
+[20:33:38] continuing c1 from mcmc_chain_c1_cont10.npz (400 iterations) -> cont11
+[20:33:43] MCMC it     0  acc 0.306  lp max -1581.5 median -1586.0  2.67 s/it
+[20:34:50] MCMC it    25  acc 0.310  lp max -1581.3 median -1586.0  2.68 s/it
+[20:35:57] MCMC it    50  acc 0.315  lp max -1581.9 median -1586.6  2.68 s/it
+[20:37:03] MCMC it    75  acc 0.313  lp max -1582.3 median -1586.7  2.68 s/it
+[20:38:10] MCMC it   100  acc 0.316  lp max -1581.9 median -1586.5  2.67 s/it
+[20:39:16] MCMC it   125  acc 0.315  lp max -1582.4 median -1586.5  2.67 s/it
+[20:40:25] MCMC it   150  acc 0.315  lp max -1580.7 median -1586.2  2.68 s/it
+[20:41:30] MCMC it   175  acc 0.315  lp max -1581.5 median -1586.2  2.67 s/it
+[20:42:35] MCMC it   200  acc 0.317  lp max -1581.6 median -1586.4  2.66 s/it
+[20:43:40] MCMC it   225  acc 0.316  lp max -1581.1 median -1585.6  2.66 s/it
+[20:44:45] MCMC it   250  acc 0.318  lp max -1580.6 median -1586.1  2.65 s/it
+[20:45:50] MCMC it   275  acc 0.315  lp max -1581.1 median -1586.3  2.64 s/it
+[20:46:54] MCMC it   300  acc 0.316  lp max -1582.8 median -1586.3  2.64 s/it
+[20:47:59] MCMC it   325  acc 0.317  lp max -1582.4 median -1586.4  2.63 s/it
+[20:49:02] MCMC it   350  acc 0.317  lp max -1581.1 median -1585.7  2.63 s/it
+[20:50:06] MCMC it   375  acc 0.316  lp max -1581.9 median -1586.3  2.62 s/it
+[20:51:09] MCMC it   399  acc 0.316  lp max -1581.6 median -1586.2  2.62 s/it
+[20:51:09] MCMC continuation done, acceptance 0.316
+[20:51:09] continuing c1 from mcmc_chain_c1_cont11.npz (400 iterations) -> cont12
+[20:51:13] MCMC it     0  acc 0.306  lp max -1582.0 median -1585.8  2.70 s/it
+[20:52:22] MCMC it    25  acc 0.294  lp max -1582.2 median -1585.5  2.74 s/it
+[20:53:31] MCMC it    50  acc 0.307  lp max -1582.0 median -1586.0  2.74 s/it
+[20:54:43] MCMC it    75  acc 0.311  lp max -1581.4 median -1587.8  2.80 s/it
+[20:55:55] MCMC it   100  acc 0.305  lp max -1581.4 median -1586.1  2.81 s/it
+[20:57:01] MCMC it   125  acc 0.304  lp max -1580.9 median -1586.1  2.78 s/it
+[20:58:06] MCMC it   150  acc 0.305  lp max -1581.4 median -1585.8  2.75 s/it
+[20:59:09] MCMC it   175  acc 0.304  lp max -1580.0 median -1586.4  2.72 s/it
+[21:00:16] MCMC it   200  acc 0.306  lp max -1581.3 median -1585.4  2.71 s/it
+[21:01:21] MCMC it   225  acc 0.306  lp max -1582.2 median -1585.6  2.70 s/it
+[21:02:26] MCMC it   250  acc 0.306  lp max -1581.4 median -1585.7  2.69 s/it
+[21:03:27] MCMC it   275  acc 0.308  lp max -1581.3 median -1586.7  2.67 s/it
+[21:04:25] MCMC it   300  acc 0.307  lp max -1581.7 median -1586.3  2.64 s/it
+[21:05:37] MCMC it   325  acc 0.307  lp max -1582.4 median -1586.8  2.66 s/it
+[21:06:34] MCMC it   350  acc 0.306  lp max -1582.3 median -1585.8  2.63 s/it
+[21:07:31] MCMC it   375  acc 0.306  lp max -1580.1 median -1586.4  2.61 s/it
+[21:08:27] MCMC it   399  acc 0.307  lp max -1581.4 median -1585.2  2.59 s/it
+[21:08:27] MCMC continuation done, acceptance 0.307
+[21:08:28] continuing c1 from mcmc_chain_c1_cont12.npz (400 iterations) -> cont13
+[21:08:31] MCMC it     0  acc 0.306  lp max -1581.4 median -1585.8  2.24 s/it
+[21:09:28] MCMC it    25  acc 0.323  lp max -1580.9 median -1586.4  2.27 s/it
+[21:10:29] MCMC it    50  acc 0.317  lp max -1579.8 median -1585.2  2.36 s/it
+[21:11:30] MCMC it    75  acc 0.314  lp max -1581.4 median -1585.8  2.39 s/it
+[21:12:32] MCMC it   100  acc 0.312  lp max -1580.2 median -1586.1  2.40 s/it
+[21:13:36] MCMC it   125  acc 0.312  lp max -1580.8 median -1585.7  2.43 s/it
+[21:14:39] MCMC it   150  acc 0.311  lp max -1579.9 median -1585.0  2.45 s/it
+[21:15:42] MCMC it   175  acc 0.317  lp max -1580.9 median -1585.2  2.46 s/it
+[21:16:42] MCMC it   200  acc 0.316  lp max -1580.7 median -1586.4  2.45 s/it
+[21:17:41] MCMC it   225  acc 0.315  lp max -1581.3 median -1585.9  2.44 s/it
+[21:18:40] MCMC it   250  acc 0.313  lp max -1582.2 median -1586.9  2.43 s/it
+[21:19:40] MCMC it   275  acc 0.310  lp max -1581.2 median -1585.8  2.43 s/it
+[21:20:40] MCMC it   300  acc 0.312  lp max -1580.3 median -1584.4  2.43 s/it
+[21:21:38] MCMC it   325  acc 0.311  lp max -1580.6 median -1586.1  2.42 s/it
+[21:22:39] MCMC it   350  acc 0.311  lp max -1580.9 median -1585.6  2.42 s/it
+[21:23:37] MCMC it   375  acc 0.310  lp max -1580.1 median -1586.5  2.41 s/it
+[21:24:33] MCMC it   399  acc 0.312  lp max -1579.9 median -1585.8  2.41 s/it
+[21:24:33] MCMC continuation done, acceptance 0.312
+[21:24:33] continuing c1 from mcmc_chain_c1_cont13.npz (400 iterations) -> cont14
+[21:24:37] MCMC it     0  acc 0.417  lp max -1580.1 median -1585.8  2.41 s/it
+[21:25:35] MCMC it    25  acc 0.337  lp max -1581.2 median -1585.6  2.33 s/it
+[21:26:33] MCMC it    50  acc 0.314  lp max -1580.1 median -1584.8  2.32 s/it
+[21:27:32] MCMC it    75  acc 0.314  lp max -1580.9 median -1586.0  2.33 s/it
+[21:28:29] MCMC it   100  acc 0.306  lp max -1581.5 median -1585.2  2.32 s/it
+[21:29:27] MCMC it   125  acc 0.310  lp max -1580.6 median -1585.5  2.32 s/it
+[21:30:24] MCMC it   150  acc 0.309  lp max -1580.7 median -1585.4  2.32 s/it
+[21:31:21] MCMC it   175  acc 0.306  lp max -1580.4 median -1585.4  2.31 s/it
+[21:32:18] MCMC it   200  acc 0.303  lp max -1582.0 median -1586.0  2.31 s/it
+[21:33:14] MCMC it   225  acc 0.304  lp max -1581.3 median -1584.9  2.30 s/it
+[21:34:10] MCMC it   250  acc 0.305  lp max -1582.3 median -1585.6  2.29 s/it
+[21:35:08] MCMC it   275  acc 0.309  lp max -1580.5 median -1586.5  2.29 s/it
+[21:36:05] MCMC it   300  acc 0.310  lp max -1582.6 median -1586.4  2.29 s/it
+[21:37:01] MCMC it   325  acc 0.308  lp max -1581.2 median -1586.1  2.29 s/it
+[21:37:58] MCMC it   350  acc 0.306  lp max -1583.2 median -1587.5  2.29 s/it
+[21:38:55] MCMC it   375  acc 0.305  lp max -1581.1 median -1585.9  2.29 s/it
+[21:39:50] MCMC it   399  acc 0.306  lp max -1582.5 median -1586.3  2.29 s/it
+[21:39:50] MCMC continuation done, acceptance 0.306
+[21:39:51] continuing c1 from mcmc_chain_c1_cont14.npz (400 iterations) -> cont15
+[21:39:54] MCMC it     0  acc 0.333  lp max -1582.5 median -1586.2  2.32 s/it
+[21:40:51] MCMC it    25  acc 0.300  lp max -1581.1 median -1586.4  2.25 s/it
+[21:41:48] MCMC it    50  acc 0.295  lp max -1581.5 median -1585.7  2.27 s/it
+[21:42:44] MCMC it    75  acc 0.306  lp max -1581.8 median -1586.2  2.26 s/it
+[21:43:41] MCMC it   100  acc 0.315  lp max -1582.0 median -1586.7  2.26 s/it
+[21:44:37] MCMC it   125  acc 0.314  lp max -1582.9 median -1586.3  2.26 s/it
+[21:45:35] MCMC it   150  acc 0.311  lp max -1579.1 median -1586.2  2.27 s/it
+[21:46:31] MCMC it   175  acc 0.308  lp max -1580.1 median -1586.6  2.27 s/it
+[21:47:27] MCMC it   200  acc 0.310  lp max -1581.9 median -1584.8  2.26 s/it
+[21:48:23] MCMC it   225  acc 0.312  lp max -1580.9 median -1585.5  2.26 s/it
+[21:49:19] MCMC it   250  acc 0.311  lp max -1580.6 median -1585.8  2.26 s/it
+[21:50:17] MCMC it   275  acc 0.312  lp max -1580.5 median -1586.2  2.26 s/it
+[21:51:13] MCMC it   300  acc 0.315  lp max -1581.1 median -1585.4  2.26 s/it
+[21:52:11] MCMC it   325  acc 0.316  lp max -1581.0 median -1586.8  2.27 s/it
+[21:53:07] MCMC it   350  acc 0.315  lp max -1581.5 median -1585.7  2.26 s/it
+[21:54:03] MCMC it   375  acc 0.314  lp max -1581.9 median -1585.0  2.26 s/it
+[21:54:58] MCMC it   399  acc 0.313  lp max -1581.4 median -1586.4  2.26 s/it
+[21:54:58] MCMC continuation done, acceptance 0.313
+[21:54:58] continuing c1 from mcmc_chain_c1_cont15.npz (400 iterations) -> cont16
+[21:55:02] MCMC it     0  acc 0.306  lp max -1581.4 median -1585.6  2.27 s/it
+[21:55:58] MCMC it    25  acc 0.294  lp max -1580.5 median -1586.0  2.25 s/it
+[21:56:54] MCMC it    50  acc 0.305  lp max -1583.0 median -1585.6  2.24 s/it
+[21:57:51] MCMC it    75  acc 0.302  lp max -1581.6 median -1586.4  2.25 s/it
+[21:58:46] MCMC it   100  acc 0.295  lp max -1581.2 median -1587.1  2.24 s/it
+[21:59:42] MCMC it   125  acc 0.301  lp max -1581.5 median -1586.1  2.24 s/it
+[22:00:38] MCMC it   150  acc 0.299  lp max -1581.9 median -1586.2  2.24 s/it
+[22:01:35] MCMC it   175  acc 0.303  lp max -1583.4 median -1586.5  2.24 s/it
+[22:02:31] MCMC it   200  acc 0.307  lp max -1581.8 median -1587.3  2.24 s/it
+[22:03:27] MCMC it   225  acc 0.307  lp max -1580.8 median -1587.2  2.24 s/it
+[22:04:23] MCMC it   250  acc 0.306  lp max -1580.7 median -1586.5  2.25 s/it
+[22:05:21] MCMC it   275  acc 0.304  lp max -1582.0 median -1586.9  2.25 s/it
+[22:06:18] MCMC it   300  acc 0.306  lp max -1581.0 median -1585.8  2.25 s/it
+[22:07:14] MCMC it   325  acc 0.308  lp max -1580.3 median -1586.5  2.25 s/it
+[22:08:11] MCMC it   350  acc 0.307  lp max -1581.5 median -1585.6  2.25 s/it
+[22:09:08] MCMC it   375  acc 0.310  lp max -1581.8 median -1585.7  2.26 s/it
+[22:10:05] MCMC it   399  acc 0.311  lp max -1581.5 median -1586.0  2.26 s/it
+[22:10:05] MCMC continuation done, acceptance 0.311
+[22:10:06] continuing c1 from mcmc_chain_c1_cont16.npz (400 iterations) -> cont17
+[22:10:10] MCMC it     0  acc 0.444  lp max -1581.5 median -1586.2  2.53 s/it
+[22:11:16] MCMC it    25  acc 0.310  lp max -1581.2 median -1586.1  2.63 s/it
+[22:12:18] MCMC it    50  acc 0.316  lp max -1581.4 median -1586.0  2.55 s/it
+[22:13:21] MCMC it    75  acc 0.325  lp max -1579.9 median -1585.4  2.54 s/it
+[22:14:36] MCMC it   100  acc 0.318  lp max -1581.5 median -1586.3  2.66 s/it
+[22:15:40] MCMC it   125  acc 0.310  lp max -1580.8 median -1584.9  2.63 s/it
+[22:16:46] MCMC it   150  acc 0.310  lp max -1581.5 median -1586.2  2.64 s/it
+[22:17:55] MCMC it   175  acc 0.312  lp max -1581.3 median -1585.0  2.65 s/it
+[22:19:08] MCMC it   200  acc 0.311  lp max -1580.8 median -1585.8  2.69 s/it
+[22:20:17] MCMC it   225  acc 0.310  lp max -1580.4 median -1586.0  2.69 s/it
+[22:21:22] MCMC it   250  acc 0.308  lp max -1581.0 median -1585.7  2.69 s/it
+[22:22:34] MCMC it   275  acc 0.309  lp max -1581.8 median -1586.0  2.70 s/it
+[22:23:44] MCMC it   300  acc 0.308  lp max -1580.3 median -1585.5  2.71 s/it
+[22:24:51] MCMC it   325  acc 0.306  lp max -1581.3 median -1586.8  2.71 s/it
+[22:26:02] MCMC it   350  acc 0.307  lp max -1582.0 median -1587.0  2.72 s/it
+[22:27:12] MCMC it   375  acc 0.306  lp max -1582.1 median -1586.3  2.73 s/it
+[22:28:23] MCMC it   399  acc 0.307  lp max -1581.5 median -1586.1  2.74 s/it
+[22:28:23] MCMC continuation done, acceptance 0.307
+[22:28:24] continuing c1 from mcmc_chain_c1_cont17.npz (400 iterations) -> cont18
+[22:28:28] MCMC it     0  acc 0.278  lp max -1581.5 median -1586.2  2.48 s/it
+[22:29:34] MCMC it    25  acc 0.326  lp max -1582.1 median -1586.3  2.62 s/it
+[22:30:38] MCMC it    50  acc 0.313  lp max -1580.1 median -1585.6  2.59 s/it
+[22:31:41] MCMC it    75  acc 0.316  lp max -1581.7 median -1585.8  2.57 s/it
+[22:32:35] MCMC it   100  acc 0.313  lp max -1580.8 median -1585.7  2.47 s/it
+[22:33:24] MCMC it   125  acc 0.315  lp max -1579.9 median -1586.0  2.36 s/it
+[22:34:21] MCMC it   150  acc 0.315  lp max -1581.5 median -1585.8  2.35 s/it
+[22:35:18] MCMC it   175  acc 0.315  lp max -1580.7 median -1585.8  2.34 s/it
+[22:36:15] MCMC it   200  acc 0.316  lp max -1580.1 median -1585.3  2.33 s/it
+[22:37:14] MCMC it   225  acc 0.316  lp max -1582.0 median -1584.4  2.34 s/it
+[22:38:08] MCMC it   250  acc 0.315  lp max -1582.0 median -1585.4  2.32 s/it
+[22:39:01] MCMC it   275  acc 0.313  lp max -1581.8 median -1585.5  2.30 s/it
+[22:39:55] MCMC it   300  acc 0.311  lp max -1579.8 median -1585.9  2.29 s/it
+[22:40:48] MCMC it   325  acc 0.310  lp max -1579.9 median -1586.9  2.28 s/it
+[22:41:42] MCMC it   350  acc 0.311  lp max -1581.4 median -1587.1  2.27 s/it
+[22:42:36] MCMC it   375  acc 0.311  lp max -1582.4 median -1585.7  2.26 s/it
+[22:43:27] MCMC it   399  acc 0.312  lp max -1580.7 median -1586.7  2.25 s/it
+[22:43:27] MCMC continuation done, acceptance 0.312
+[22:43:27] continuing c1 from mcmc_chain_c1_cont18.npz (400 iterations) -> cont19
+[22:43:31] MCMC it     0  acc 0.167  lp max -1580.7 median -1587.0  1.98 s/it
+[22:44:24] MCMC it    25  acc 0.314  lp max -1580.5 median -1586.8  2.12 s/it
+[22:45:17] MCMC it    50  acc 0.310  lp max -1580.8 median -1586.6  2.12 s/it
+[22:46:09] MCMC it    75  acc 0.312  lp max -1579.6 median -1586.0  2.11 s/it
+[22:47:03] MCMC it   100  acc 0.313  lp max -1582.6 median -1586.7  2.12 s/it
+[22:47:57] MCMC it   125  acc 0.312  lp max -1581.4 median -1585.8  2.13 s/it
+[22:48:50] MCMC it   150  acc 0.313  lp max -1582.0 median -1587.2  2.13 s/it
+[22:49:42] MCMC it   175  acc 0.317  lp max -1582.0 median -1585.6  2.12 s/it
+[22:50:35] MCMC it   200  acc 0.317  lp max -1581.7 median -1585.7  2.12 s/it
+[22:51:28] MCMC it   225  acc 0.315  lp max -1582.1 median -1587.4  2.12 s/it
+[22:52:21] MCMC it   250  acc 0.313  lp max -1581.3 median -1585.9  2.12 s/it
+[22:53:14] MCMC it   275  acc 0.314  lp max -1581.1 median -1586.4  2.12 s/it
+[22:54:07] MCMC it   300  acc 0.313  lp max -1580.2 median -1585.4  2.12 s/it
+[22:55:01] MCMC it   325  acc 0.313  lp max -1582.9 median -1586.8  2.13 s/it
+[22:55:54] MCMC it   350  acc 0.313  lp max -1580.7 median -1586.3  2.12 s/it
+[22:56:48] MCMC it   375  acc 0.313  lp max -1581.5 median -1585.7  2.13 s/it
+[22:57:39] MCMC it   399  acc 0.313  lp max -1580.4 median -1585.8  2.13 s/it
+[22:57:39] MCMC continuation done, acceptance 0.313
+[22:57:40] continuing c1 from mcmc_chain_c1_cont19.npz (400 iterations) -> cont20
+[22:57:43] MCMC it     0  acc 0.417  lp max -1580.4 median -1585.9  2.10 s/it
+[22:58:36] MCMC it    25  acc 0.295  lp max -1580.3 median -1586.4  2.10 s/it
+[22:59:28] MCMC it    50  acc 0.294  lp max -1581.5 median -1585.7  2.10 s/it
+[23:00:21] MCMC it    75  acc 0.308  lp max -1579.8 median -1586.5  2.11 s/it
+[23:01:14] MCMC it   100  acc 0.309  lp max -1581.6 median -1586.3  2.11 s/it
+[23:02:06] MCMC it   125  acc 0.311  lp max -1579.7 median -1585.6  2.10 s/it
+[23:02:59] MCMC it   150  acc 0.313  lp max -1581.8 median -1585.3  2.11 s/it
+[23:03:52] MCMC it   175  acc 0.309  lp max -1582.7 median -1585.5  2.11 s/it
+[23:04:44] MCMC it   200  acc 0.311  lp max -1581.0 median -1586.5  2.10 s/it
+[23:05:38] MCMC it   225  acc 0.312  lp max -1582.2 median -1586.9  2.11 s/it
+[23:06:31] MCMC it   250  acc 0.311  lp max -1582.1 median -1586.2  2.11 s/it
+[23:07:24] MCMC it   275  acc 0.309  lp max -1581.0 median -1585.9  2.11 s/it
+[23:08:19] MCMC it   300  acc 0.306  lp max -1581.2 median -1585.7  2.12 s/it
+[23:09:13] MCMC it   325  acc 0.306  lp max -1581.3 median -1585.9  2.12 s/it
+[23:10:05] MCMC it   350  acc 0.308  lp max -1581.3 median -1585.7  2.12 s/it
+[23:10:56] MCMC it   375  acc 0.310  lp max -1580.7 median -1584.9  2.11 s/it
+[23:11:46] MCMC it   399  acc 0.311  lp max -1581.9 median -1586.7  2.11 s/it
+[23:11:46] MCMC continuation done, acceptance 0.311
+[23:11:47] continuing c1 from mcmc_chain_c1_cont20.npz (400 iterations) -> cont21
+[23:11:50] MCMC it     0  acc 0.250  lp max -1581.7 median -1586.3  2.08 s/it
+[23:12:43] MCMC it    25  acc 0.313  lp max -1581.2 median -1584.9  2.11 s/it
+[23:13:36] MCMC it    50  acc 0.312  lp max -1580.9 median -1586.4  2.11 s/it
+[23:14:29] MCMC it    75  acc 0.314  lp max -1580.5 median -1586.1  2.11 s/it
+[23:15:21] MCMC it   100  acc 0.310  lp max -1582.6 median -1587.6  2.11 s/it
+[23:16:14] MCMC it   125  acc 0.306  lp max -1580.7 median -1585.9  2.11 s/it
+[23:17:07] MCMC it   150  acc 0.312  lp max -1581.2 median -1586.4  2.11 s/it
+[23:18:00] MCMC it   175  acc 0.313  lp max -1581.3 median -1587.3  2.11 s/it
+[23:18:53] MCMC it   200  acc 0.315  lp max -1582.4 median -1587.3  2.12 s/it
+[23:19:47] MCMC it   225  acc 0.313  lp max -1579.7 median -1585.8  2.12 s/it
+[23:20:40] MCMC it   250  acc 0.313  lp max -1582.6 median -1586.8  2.12 s/it
+[23:21:33] MCMC it   275  acc 0.311  lp max -1580.6 median -1585.0  2.12 s/it
+[23:22:26] MCMC it   300  acc 0.312  lp max -1581.8 median -1585.7  2.12 s/it
+[23:23:20] MCMC it   325  acc 0.313  lp max -1582.7 median -1586.0  2.12 s/it
+[23:24:13] MCMC it   350  acc 0.313  lp max -1581.2 median -1585.3  2.12 s/it
+[23:25:05] MCMC it   375  acc 0.312  lp max -1581.9 median -1586.2  2.12 s/it
+[23:25:56] MCMC it   399  acc 0.310  lp max -1579.9 median -1586.2  2.12 s/it
+[23:25:56] MCMC continuation done, acceptance 0.310
+[23:25:57] continuing c1 from mcmc_chain_c1_cont21.npz (400 iterations) -> cont22
+[23:26:00] MCMC it     0  acc 0.278  lp max -1581.8 median -1587.0  2.21 s/it
+[23:26:53] MCMC it    25  acc 0.321  lp max -1580.9 median -1585.3  2.12 s/it
+[23:27:46] MCMC it    50  acc 0.307  lp max -1580.8 median -1585.3  2.11 s/it
+[23:29:19] MCMC it    75  acc 0.302  lp max -1582.8 median -1586.1  2.65 s/it
+[23:30:42] MCMC it   100  acc 0.300  lp max -1583.0 median -1587.0  2.81 s/it
+[23:31:32] MCMC it   125  acc 0.300  lp max -1580.5 median -1586.6  2.65 s/it
+[23:32:24] MCMC it   150  acc 0.304  lp max -1581.2 median -1585.3  2.56 s/it
+[23:33:16] MCMC it   175  acc 0.307  lp max -1583.2 median -1585.9  2.49 s/it
+[23:34:07] MCMC it   200  acc 0.306  lp max -1581.9 median -1585.6  2.43 s/it
+[23:34:59] MCMC it   225  acc 0.304  lp max -1581.9 median -1585.9  2.39 s/it
+[23:35:50] MCMC it   250  acc 0.305  lp max -1581.9 median -1586.3  2.36 s/it
+[23:36:42] MCMC it   275  acc 0.305  lp max -1581.8 median -1586.0  2.33 s/it
+[23:37:34] MCMC it   300  acc 0.303  lp max -1581.1 median -1585.9  2.31 s/it
+[23:38:27] MCMC it   325  acc 0.300  lp max -1582.5 median -1586.2  2.30 s/it
+[23:39:20] MCMC it   350  acc 0.302  lp max -1581.4 median -1585.8  2.28 s/it
+[23:40:12] MCMC it   375  acc 0.302  lp max -1580.9 median -1585.8  2.27 s/it
+[23:41:02] MCMC it   399  acc 0.301  lp max -1580.9 median -1586.6  2.26 s/it
+[23:41:02] MCMC continuation done, acceptance 0.301
+[23:41:03] continuing c1 from mcmc_chain_c1_cont22.npz (400 iterations) -> cont23
+[23:41:06] MCMC it     0  acc 0.278  lp max -1580.9 median -1585.6  2.15 s/it
+[23:41:57] MCMC it    25  acc 0.298  lp max -1581.0 median -1585.7  2.06 s/it
+[23:42:50] MCMC it    50  acc 0.314  lp max -1582.6 median -1585.2  2.07 s/it
+[23:43:42] MCMC it    75  acc 0.308  lp max -1582.6 median -1586.1  2.08 s/it
+[23:44:34] MCMC it   100  acc 0.307  lp max -1580.2 median -1586.4  2.08 s/it
+[23:45:27] MCMC it   125  acc 0.311  lp max -1581.8 median -1585.4  2.09 s/it
+[23:46:20] MCMC it   150  acc 0.309  lp max -1581.4 median -1586.0  2.09 s/it
+[23:47:13] MCMC it   175  acc 0.312  lp max -1580.8 median -1585.7  2.10 s/it
+[23:48:05] MCMC it   200  acc 0.315  lp max -1579.6 median -1586.1  2.10 s/it
+[23:48:58] MCMC it   225  acc 0.317  lp max -1581.4 median -1586.1  2.10 s/it
+[23:49:51] MCMC it   250  acc 0.316  lp max -1581.6 median -1587.0  2.10 s/it
+[23:50:43] MCMC it   275  acc 0.315  lp max -1581.7 median -1586.0  2.10 s/it
+[23:51:36] MCMC it   300  acc 0.313  lp max -1581.5 median -1585.9  2.10 s/it
+[23:52:28] MCMC it   325  acc 0.314  lp max -1580.3 median -1585.4  2.10 s/it
+[23:53:21] MCMC it   350  acc 0.314  lp max -1580.2 median -1585.3  2.10 s/it
+[23:54:13] MCMC it   375  acc 0.313  lp max -1580.5 median -1585.6  2.10 s/it
+[23:55:02] MCMC it   399  acc 0.313  lp max -1581.6 median -1585.9  2.10 s/it
+[23:55:02] MCMC continuation done, acceptance 0.313
+[23:55:03] continuing c1 from mcmc_chain_c1_cont23.npz (400 iterations) -> cont24
+[23:55:06] MCMC it     0  acc 0.167  lp max -1583.2 median -1585.9  2.01 s/it
+[23:55:58] MCMC it    25  acc 0.321  lp max -1580.9 median -1586.4  2.08 s/it
+[23:56:50] MCMC it    50  acc 0.316  lp max -1579.7 median -1585.9  2.08 s/it
+[23:57:42] MCMC it    75  acc 0.319  lp max -1582.1 median -1585.7  2.08 s/it
+[23:58:35] MCMC it   100  acc 0.313  lp max -1583.1 median -1586.2  2.09 s/it
+[23:59:27] MCMC it   125  acc 0.313  lp max -1581.3 median -1585.9  2.09 s/it
+[00:00:19] MCMC it   150  acc 0.311  lp max -1581.8 median -1585.0  2.08 s/it
+[00:01:11] MCMC it   175  acc 0.309  lp max -1582.1 median -1585.8  2.08 s/it
+[00:02:03] MCMC it   200  acc 0.308  lp max -1580.5 median -1586.4  2.08 s/it
+[00:02:56] MCMC it   225  acc 0.309  lp max -1582.2 median -1585.4  2.09 s/it
+[00:03:49] MCMC it   250  acc 0.307  lp max -1583.0 median -1586.3  2.09 s/it
+[00:04:42] MCMC it   275  acc 0.310  lp max -1583.2 median -1586.1  2.09 s/it
+[00:05:35] MCMC it   300  acc 0.311  lp max -1581.7 median -1586.6  2.09 s/it
+[00:06:28] MCMC it   325  acc 0.310  lp max -1580.8 median -1586.4  2.10 s/it
+[00:07:20] MCMC it   350  acc 0.310  lp max -1581.5 median -1586.1  2.10 s/it
+[00:08:12] MCMC it   375  acc 0.311  lp max -1580.1 median -1586.1  2.10 s/it
+[00:09:03] MCMC it   399  acc 0.310  lp max -1581.8 median -1585.8  2.10 s/it
+[00:09:03] MCMC continuation done, acceptance 0.310
+[00:09:04] continuing c1 from mcmc_chain_c1_cont24.npz (400 iterations) -> cont25
+[00:09:07] MCMC it     0  acc 0.250  lp max -1582.3 median -1585.4  2.13 s/it
+[00:10:00] MCMC it    25  acc 0.318  lp max -1582.4 median -1586.2  2.10 s/it
+[00:10:53] MCMC it    50  acc 0.307  lp max -1582.3 median -1584.9  2.11 s/it
+[00:11:46] MCMC it    75  acc 0.310  lp max -1582.1 median -1585.6  2.12 s/it
+[00:12:38] MCMC it   100  acc 0.313  lp max -1580.6 median -1585.5  2.11 s/it
+[00:13:31] MCMC it   125  acc 0.309  lp max -1581.2 median -1586.8  2.11 s/it
+[00:14:23] MCMC it   150  acc 0.310  lp max -1582.2 median -1587.0  2.10 s/it
+[00:15:16] MCMC it   175  acc 0.308  lp max -1582.7 median -1587.4  2.11 s/it
+[00:16:09] MCMC it   200  acc 0.309  lp max -1580.3 median -1586.5  2.11 s/it
+[00:17:01] MCMC it   225  acc 0.308  lp max -1580.8 median -1585.8  2.11 s/it
+[00:17:55] MCMC it   250  acc 0.307  lp max -1581.3 median -1585.4  2.11 s/it
+[00:18:48] MCMC it   275  acc 0.306  lp max -1579.5 median -1586.7  2.11 s/it
+[00:19:40] MCMC it   300  acc 0.307  lp max -1581.8 median -1587.5  2.11 s/it
+[00:20:31] MCMC it   325  acc 0.309  lp max -1581.5 median -1586.5  2.10 s/it
+[00:21:24] MCMC it   350  acc 0.310  lp max -1580.9 median -1587.1  2.10 s/it
+[00:22:16] MCMC it   375  acc 0.311  lp max -1582.2 median -1587.0  2.10 s/it
+[00:23:05] MCMC it   399  acc 0.310  lp max -1581.4 median -1587.2  2.10 s/it
+[00:23:05] MCMC continuation done, acceptance 0.310
+[00:23:06] continuing c1 from mcmc_chain_c1_cont25.npz (400 iterations) -> cont26
+[00:23:09] MCMC it     0  acc 0.167  lp max -1581.4 median -1587.2  2.19 s/it
+[00:24:01] MCMC it    25  acc 0.285  lp max -1580.1 median -1586.1  2.09 s/it
+[00:24:53] MCMC it    50  acc 0.296  lp max -1581.5 median -1587.0  2.07 s/it
+[00:25:45] MCMC it    75  acc 0.306  lp max -1582.0 median -1586.7  2.08 s/it
+[00:26:37] MCMC it   100  acc 0.308  lp max -1579.9 median -1587.0  2.08 s/it
+[00:27:29] MCMC it   125  acc 0.309  lp max -1580.6 median -1587.1  2.08 s/it
+[00:28:21] MCMC it   150  acc 0.308  lp max -1581.9 median -1587.6  2.08 s/it
+[00:29:18] MCMC it   175  acc 0.307  lp max -1581.6 median -1586.2  2.11 s/it
+[00:30:11] MCMC it   200  acc 0.310  lp max -1581.6 median -1586.9  2.11 s/it
+[00:31:03] MCMC it   225  acc 0.313  lp max -1580.3 median -1585.9  2.10 s/it
+[00:31:54] MCMC it   250  acc 0.313  lp max -1580.3 median -1585.7  2.10 s/it
+[00:32:48] MCMC it   275  acc 0.313  lp max -1582.2 median -1585.6  2.10 s/it
+[00:33:41] MCMC it   300  acc 0.311  lp max -1580.7 median -1586.1  2.11 s/it
+[00:34:35] MCMC it   325  acc 0.310  lp max -1582.2 median -1586.8  2.11 s/it
+[00:35:28] MCMC it   350  acc 0.310  lp max -1582.1 median -1586.4  2.11 s/it
+[00:36:19] MCMC it   375  acc 0.310  lp max -1582.5 median -1587.6  2.11 s/it
+[00:37:10] MCMC it   399  acc 0.311  lp max -1581.5 median -1587.5  2.11 s/it
+[00:37:10] MCMC continuation done, acceptance 0.311
+[00:37:11] continuing c1 from mcmc_chain_c1_cont26.npz (400 iterations) -> cont27
+[00:37:14] MCMC it     0  acc 0.472  lp max -1581.5 median -1586.2  2.09 s/it
+[00:38:06] MCMC it    25  acc 0.343  lp max -1581.9 median -1586.5  2.10 s/it
+[00:38:58] MCMC it    50  acc 0.318  lp max -1581.2 median -1584.6  2.08 s/it
+[00:39:50] MCMC it    75  acc 0.314  lp max -1580.9 median -1586.1  2.09 s/it
+[00:40:42] MCMC it   100  acc 0.311  lp max -1579.9 median -1585.6  2.08 s/it
+[00:41:34] MCMC it   125  acc 0.314  lp max -1580.9 median -1585.8  2.08 s/it
+[00:42:26] MCMC it   150  acc 0.311  lp max -1582.4 median -1585.4  2.08 s/it
+[00:43:19] MCMC it   175  acc 0.307  lp max -1580.8 median -1585.3  2.08 s/it
+[00:44:10] MCMC it   200  acc 0.306  lp max -1581.2 median -1585.7  2.08 s/it
+[00:45:01] MCMC it   225  acc 0.307  lp max -1582.6 median -1586.7  2.08 s/it
+[00:45:53] MCMC it   250  acc 0.306  lp max -1582.4 median -1586.9  2.08 s/it
+[00:46:45] MCMC it   275  acc 0.305  lp max -1581.2 median -1585.3  2.08 s/it
+[00:47:37] MCMC it   300  acc 0.306  lp max -1581.5 median -1585.3  2.08 s/it
+[00:48:29] MCMC it   325  acc 0.306  lp max -1582.4 median -1585.9  2.08 s/it
+[00:49:21] MCMC it   350  acc 0.305  lp max -1581.3 median -1585.9  2.08 s/it
+[00:50:13] MCMC it   375  acc 0.306  lp max -1581.0 median -1585.2  2.08 s/it
+[00:51:02] MCMC it   399  acc 0.307  lp max -1580.7 median -1585.9  2.08 s/it
+[00:51:02] MCMC continuation done, acceptance 0.307
+[00:51:03] continuing c1 from mcmc_chain_c1_cont27.npz (400 iterations) -> cont28
+[00:51:06] MCMC it     0  acc 0.250  lp max -1580.3 median -1585.9  2.05 s/it
+[00:51:57] MCMC it    25  acc 0.287  lp max -1581.5 median -1585.1  2.05 s/it
+[00:52:49] MCMC it    50  acc 0.316  lp max -1581.4 median -1587.0  2.07 s/it
+[00:53:41] MCMC it    75  acc 0.306  lp max -1579.7 median -1586.0  2.07 s/it
+[00:54:33] MCMC it   100  acc 0.306  lp max -1582.3 median -1585.6  2.07 s/it
+[00:55:26] MCMC it   125  acc 0.310  lp max -1580.4 median -1587.0  2.08 s/it
+[00:56:17] MCMC it   150  acc 0.314  lp max -1581.7 median -1586.4  2.07 s/it
+[00:57:10] MCMC it   175  acc 0.315  lp max -1581.5 median -1584.9  2.08 s/it
+[00:58:01] MCMC it   200  acc 0.316  lp max -1580.1 median -1585.8  2.08 s/it
+[00:58:54] MCMC it   225  acc 0.316  lp max -1581.5 median -1586.5  2.08 s/it
+[00:59:45] MCMC it   250  acc 0.318  lp max -1580.6 median -1586.7  2.08 s/it
+[01:00:37] MCMC it   275  acc 0.317  lp max -1582.4 median -1587.1  2.08 s/it
+[01:01:28] MCMC it   300  acc 0.316  lp max -1581.2 median -1586.8  2.07 s/it
+[01:02:20] MCMC it   325  acc 0.315  lp max -1580.7 median -1586.7  2.07 s/it
+[01:03:12] MCMC it   350  acc 0.315  lp max -1580.8 median -1585.1  2.08 s/it
+[01:04:05] MCMC it   375  acc 0.314  lp max -1581.1 median -1585.8  2.08 s/it
+[01:04:54] MCMC it   399  acc 0.315  lp max -1581.4 median -1586.1  2.07 s/it
+[01:04:54] MCMC continuation done, acceptance 0.315
+[01:04:55] continuing c1 from mcmc_chain_c1_cont28.npz (400 iterations) -> cont29
+[01:04:58] MCMC it     0  acc 0.222  lp max -1582.4 median -1586.1  2.07 s/it
+[01:05:51] MCMC it    25  acc 0.303  lp max -1581.6 median -1585.1  2.10 s/it
+[01:06:43] MCMC it    50  acc 0.292  lp max -1581.9 median -1587.0  2.09 s/it
+[01:07:34] MCMC it    75  acc 0.306  lp max -1580.6 median -1585.9  2.08 s/it
+[01:08:26] MCMC it   100  acc 0.309  lp max -1581.1 median -1585.6  2.08 s/it
+[01:09:20] MCMC it   125  acc 0.308  lp max -1582.4 median -1585.4  2.09 s/it
+[01:10:13] MCMC it   150  acc 0.303  lp max -1581.8 median -1586.0  2.10 s/it
+[01:11:07] MCMC it   175  acc 0.303  lp max -1581.3 median -1586.6  2.11 s/it
+[01:11:58] MCMC it   200  acc 0.304  lp max -1580.6 median -1587.0  2.10 s/it
+[01:12:51] MCMC it   225  acc 0.304  lp max -1581.8 median -1586.9  2.10 s/it
+[01:13:43] MCMC it   250  acc 0.309  lp max -1582.2 median -1586.2  2.10 s/it
+[01:14:37] MCMC it   275  acc 0.310  lp max -1581.3 median -1585.1  2.10 s/it
+[01:15:30] MCMC it   300  acc 0.311  lp max -1580.2 median -1585.2  2.11 s/it
+[01:16:22] MCMC it   325  acc 0.309  lp max -1581.4 median -1586.6  2.10 s/it
+[01:17:13] MCMC it   350  acc 0.310  lp max -1580.2 median -1586.2  2.10 s/it
+[01:18:05] MCMC it   375  acc 0.311  lp max -1581.9 median -1586.1  2.10 s/it
+[01:18:55] MCMC it   399  acc 0.311  lp max -1581.7 median -1586.2  2.10 s/it
+[01:18:55] MCMC continuation done, acceptance 0.311
+[01:18:56] continuing c1 from mcmc_chain_c1_cont29.npz (400 iterations) -> cont30
+[01:18:59] MCMC it     0  acc 0.361  lp max -1581.4 median -1586.2  2.05 s/it
+[01:19:50] MCMC it    25  acc 0.313  lp max -1582.5 median -1586.9  2.05 s/it
+[01:20:42] MCMC it    50  acc 0.329  lp max -1581.6 median -1586.0  2.05 s/it
+[01:21:33] MCMC it    75  acc 0.328  lp max -1582.4 median -1585.8  2.05 s/it
+[01:22:25] MCMC it   100  acc 0.323  lp max -1582.3 median -1586.8  2.06 s/it
+[01:23:17] MCMC it   125  acc 0.315  lp max -1582.1 median -1586.1  2.07 s/it
+[01:24:09] MCMC it   150  acc 0.316  lp max -1581.5 median -1585.9  2.06 s/it
+[01:25:00] MCMC it   175  acc 0.314  lp max -1581.5 median -1585.9  2.06 s/it
+[01:25:51] MCMC it   200  acc 0.316  lp max -1579.3 median -1585.5  2.06 s/it
+[01:26:43] MCMC it   225  acc 0.318  lp max -1581.2 median -1585.4  2.06 s/it
+[01:27:35] MCMC it   250  acc 0.315  lp max -1581.3 median -1585.7  2.07 s/it
+[01:28:27] MCMC it   275  acc 0.314  lp max -1580.4 median -1585.5  2.07 s/it
+[01:29:19] MCMC it   300  acc 0.317  lp max -1581.2 median -1585.8  2.07 s/it
+[01:30:11] MCMC it   325  acc 0.314  lp max -1581.0 median -1587.6  2.07 s/it
+[01:31:03] MCMC it   350  acc 0.312  lp max -1581.7 median -1585.1  2.07 s/it
+[01:31:56] MCMC it   375  acc 0.311  lp max -1581.2 median -1586.4  2.07 s/it
+[01:32:45] MCMC it   399  acc 0.312  lp max -1582.7 median -1585.0  2.07 s/it
+[01:32:45] MCMC continuation done, acceptance 0.312
+[01:32:46] continuing c1 from mcmc_chain_c1_cont30.npz (400 iterations) -> cont31
+[01:32:49] MCMC it     0  acc 0.278  lp max -1582.7 median -1586.9  1.90 s/it
+[01:33:41] MCMC it    25  acc 0.316  lp max -1581.2 median -1586.2  2.08 s/it
+[01:34:33] MCMC it    50  acc 0.315  lp max -1581.9 median -1587.2  2.07 s/it
+[01:35:25] MCMC it    75  acc 0.323  lp max -1580.8 median -1585.3  2.08 s/it
+[01:36:17] MCMC it   100  acc 0.314  lp max -1580.6 median -1586.4  2.08 s/it
+[01:37:09] MCMC it   125  acc 0.315  lp max -1582.1 median -1586.0  2.08 s/it
+[01:38:01] MCMC it   150  acc 0.314  lp max -1581.5 median -1586.3  2.08 s/it
+[01:38:54] MCMC it   175  acc 0.313  lp max -1582.3 median -1586.5  2.08 s/it
+[01:39:46] MCMC it   200  acc 0.318  lp max -1581.9 median -1586.1  2.08 s/it
+[01:40:38] MCMC it   225  acc 0.318  lp max -1580.0 median -1586.2  2.08 s/it
+[01:41:29] MCMC it   250  acc 0.319  lp max -1581.7 median -1585.8  2.08 s/it
+[01:42:21] MCMC it   275  acc 0.319  lp max -1580.8 median -1585.8  2.08 s/it
+[01:43:13] MCMC it   300  acc 0.319  lp max -1580.3 median -1585.2  2.08 s/it
+[01:44:05] MCMC it   325  acc 0.319  lp max -1582.0 median -1585.6  2.08 s/it
+[01:44:56] MCMC it   350  acc 0.318  lp max -1580.1 median -1586.2  2.08 s/it
+[01:45:49] MCMC it   375  acc 0.317  lp max -1582.4 median -1586.1  2.08 s/it
+[01:46:39] MCMC it   399  acc 0.319  lp max -1581.7 median -1586.3  2.08 s/it
+[01:46:39] MCMC continuation done, acceptance 0.319
+[01:46:40] continuing c1 from mcmc_chain_c1_cont31.npz (400 iterations) -> cont32
+[01:46:43] MCMC it     0  acc 0.167  lp max -1581.7 median -1585.9  2.05 s/it
+[01:47:35] MCMC it    25  acc 0.293  lp max -1581.8 median -1586.1  2.06 s/it
+[01:48:26] MCMC it    50  acc 0.295  lp max -1580.6 median -1585.0  2.06 s/it
+[01:49:18] MCMC it    75  acc 0.299  lp max -1580.9 median -1587.2  2.06 s/it
+[01:50:10] MCMC it   100  acc 0.298  lp max -1582.0 median -1586.3  2.06 s/it
+[01:51:01] MCMC it   125  acc 0.303  lp max -1580.5 median -1586.0  2.06 s/it
+[01:51:53] MCMC it   150  acc 0.306  lp max -1580.7 median -1585.7  2.06 s/it
+[01:52:44] MCMC it   175  acc 0.310  lp max -1581.5 median -1586.5  2.06 s/it
+[01:53:35] MCMC it   200  acc 0.309  lp max -1582.0 median -1585.5  2.06 s/it
+[01:54:27] MCMC it   225  acc 0.309  lp max -1580.1 median -1586.4  2.06 s/it
+[01:55:19] MCMC it   250  acc 0.311  lp max -1582.4 median -1585.9  2.06 s/it
+[01:56:11] MCMC it   275  acc 0.311  lp max -1581.9 median -1585.4  2.07 s/it
+[01:57:03] MCMC it   300  acc 0.310  lp max -1579.8 median -1586.3  2.06 s/it
+[01:57:54] MCMC it   325  acc 0.310  lp max -1582.7 median -1586.0  2.06 s/it
+[01:58:46] MCMC it   350  acc 0.309  lp max -1580.8 median -1585.9  2.06 s/it
+[01:59:38] MCMC it   375  acc 0.311  lp max -1581.8 median -1587.7  2.06 s/it
+[02:00:28] MCMC it   399  acc 0.309  lp max -1580.7 median -1584.6  2.07 s/it
+[02:00:28] MCMC continuation done, acceptance 0.309
+[02:00:29] continuing c1 from mcmc_chain_c1_cont32.npz (400 iterations) -> cont33
+[02:00:32] MCMC it     0  acc 0.306  lp max -1580.7 median -1585.1  2.03 s/it
+[02:01:24] MCMC it    25  acc 0.282  lp max -1580.9 median -1585.8  2.06 s/it
+[02:02:15] MCMC it    50  acc 0.301  lp max -1580.5 median -1586.3  2.05 s/it
+[02:03:07] MCMC it    75  acc 0.300  lp max -1580.8 median -1585.4  2.06 s/it
+[02:03:58] MCMC it   100  acc 0.302  lp max -1580.9 median -1586.1  2.06 s/it
+[02:04:51] MCMC it   125  acc 0.305  lp max -1581.6 median -1586.9  2.07 s/it
+[02:05:43] MCMC it   150  acc 0.305  lp max -1580.8 median -1585.5  2.07 s/it
+[02:06:35] MCMC it   175  acc 0.307  lp max -1581.9 median -1586.4  2.07 s/it
+[02:07:29] MCMC it   200  acc 0.306  lp max -1581.5 median -1585.0  2.08 s/it
+[02:08:22] MCMC it   225  acc 0.307  lp max -1581.3 median -1585.5  2.09 s/it
+[02:09:14] MCMC it   250  acc 0.303  lp max -1581.3 median -1584.9  2.09 s/it
+[02:10:06] MCMC it   275  acc 0.306  lp max -1580.2 median -1586.1  2.09 s/it
+[02:10:58] MCMC it   300  acc 0.306  lp max -1582.3 median -1586.4  2.08 s/it
+[02:11:50] MCMC it   325  acc 0.306  lp max -1580.5 median -1586.3  2.08 s/it
+[02:12:41] MCMC it   350  acc 0.307  lp max -1580.9 median -1587.3  2.08 s/it
+[02:13:33] MCMC it   375  acc 0.306  lp max -1581.7 median -1586.4  2.08 s/it
+[02:14:23] MCMC it   399  acc 0.305  lp max -1580.5 median -1586.0  2.08 s/it
+[02:14:23] MCMC continuation done, acceptance 0.305
+[02:14:25] continuing c1 from mcmc_chain_c1_cont33.npz (400 iterations) -> cont34
+[02:14:28] MCMC it     0  acc 0.222  lp max -1580.5 median -1586.7  2.14 s/it
+[02:15:20] MCMC it    25  acc 0.316  lp max -1581.6 median -1586.2  2.10 s/it
+[02:16:12] MCMC it    50  acc 0.307  lp max -1580.9 median -1586.1  2.09 s/it
+[02:17:04] MCMC it    75  acc 0.299  lp max -1580.6 median -1586.3  2.08 s/it
+[02:17:56] MCMC it   100  acc 0.297  lp max -1581.4 median -1585.9  2.08 s/it
+[02:18:48] MCMC it   125  acc 0.301  lp max -1580.0 median -1586.4  2.08 s/it
+[02:19:40] MCMC it   150  acc 0.300  lp max -1581.8 median -1585.8  2.08 s/it
+[02:20:33] MCMC it   175  acc 0.300  lp max -1581.9 median -1585.4  2.09 s/it
+[02:21:24] MCMC it   200  acc 0.303  lp max -1582.0 median -1585.1  2.08 s/it
+[02:22:16] MCMC it   225  acc 0.306  lp max -1581.8 median -1585.0  2.08 s/it
+[02:23:08] MCMC it   250  acc 0.309  lp max -1581.3 median -1586.0  2.08 s/it
+[02:23:59] MCMC it   275  acc 0.310  lp max -1582.1 median -1586.4  2.08 s/it
+[02:24:51] MCMC it   300  acc 0.311  lp max -1581.6 median -1586.2  2.08 s/it
+[02:25:43] MCMC it   325  acc 0.310  lp max -1580.2 median -1585.5  2.08 s/it
+[02:26:34] MCMC it   350  acc 0.311  lp max -1580.1 median -1586.1  2.07 s/it
+[02:27:26] MCMC it   375  acc 0.311  lp max -1582.7 median -1586.9  2.07 s/it
+[02:28:16] MCMC it   399  acc 0.311  lp max -1582.1 median -1586.1  2.08 s/it
+[02:28:16] MCMC continuation done, acceptance 0.311
+[02:28:17] continuing c1 from mcmc_chain_c1_cont34.npz (400 iterations) -> cont35
+[02:28:20] MCMC it     0  acc 0.250  lp max -1582.5 median -1586.3  2.06 s/it
+[02:29:12] MCMC it    25  acc 0.298  lp max -1581.0 median -1586.2  2.07 s/it
+[02:30:04] MCMC it    50  acc 0.304  lp max -1580.0 median -1586.4  2.07 s/it
+[02:30:55] MCMC it    75  acc 0.303  lp max -1581.1 median -1586.1  2.07 s/it
+[02:31:47] MCMC it   100  acc 0.311  lp max -1579.4 median -1586.5  2.06 s/it
+[02:32:39] MCMC it   125  acc 0.311  lp max -1581.6 median -1586.2  2.07 s/it
+[02:33:31] MCMC it   150  acc 0.312  lp max -1581.3 median -1587.0  2.07 s/it
+[02:34:23] MCMC it   175  acc 0.314  lp max -1581.1 median -1585.6  2.07 s/it
+[02:35:14] MCMC it   200  acc 0.313  lp max -1580.4 median -1586.8  2.07 s/it
+[02:36:05] MCMC it   225  acc 0.314  lp max -1581.2 median -1586.1  2.07 s/it
+[02:36:56] MCMC it   250  acc 0.315  lp max -1581.6 median -1586.4  2.06 s/it
+[02:37:49] MCMC it   275  acc 0.314  lp max -1581.8 median -1586.2  2.07 s/it
+[02:38:40] MCMC it   300  acc 0.315  lp max -1581.8 median -1585.6  2.07 s/it
+[02:39:32] MCMC it   325  acc 0.314  lp max -1581.4 median -1586.2  2.07 s/it
+[02:40:23] MCMC it   350  acc 0.315  lp max -1581.4 median -1586.3  2.07 s/it
+[02:41:15] MCMC it   375  acc 0.315  lp max -1582.2 median -1587.6  2.07 s/it
+[02:42:05] MCMC it   399  acc 0.315  lp max -1580.6 median -1585.6  2.07 s/it
+[02:42:05] MCMC continuation done, acceptance 0.315
+[02:42:06] continuing c1 from mcmc_chain_c1_cont35.npz (400 iterations) -> cont36
+[02:42:10] MCMC it     0  acc 0.194  lp max -1581.7 median -1586.2  2.01 s/it
+[02:43:01] MCMC it    25  acc 0.312  lp max -1581.2 median -1586.2  2.06 s/it
+[02:43:53] MCMC it    50  acc 0.312  lp max -1582.0 median -1585.9  2.06 s/it
+[02:44:44] MCMC it    75  acc 0.318  lp max -1581.2 median -1585.9  2.06 s/it
+[02:45:36] MCMC it   100  acc 0.314  lp max -1582.0 median -1586.6  2.07 s/it
+[02:46:28] MCMC it   125  acc 0.313  lp max -1581.0 median -1585.7  2.07 s/it
+[02:47:21] MCMC it   150  acc 0.315  lp max -1581.7 median -1587.4  2.07 s/it
+[02:48:12] MCMC it   175  acc 0.320  lp max -1580.9 median -1585.3  2.07 s/it
+[02:49:03] MCMC it   200  acc 0.321  lp max -1581.3 median -1585.9  2.07 s/it
+[02:49:55] MCMC it   225  acc 0.319  lp max -1581.8 median -1586.3  2.07 s/it
+[02:50:47] MCMC it   250  acc 0.320  lp max -1582.3 median -1586.6  2.07 s/it
+[02:51:38] MCMC it   275  acc 0.320  lp max -1581.7 median -1586.6  2.07 s/it
+[02:52:29] MCMC it   300  acc 0.321  lp max -1582.7 median -1586.0  2.07 s/it
+[02:53:21] MCMC it   325  acc 0.319  lp max -1581.4 median -1586.4  2.06 s/it
+[02:54:12] MCMC it   350  acc 0.318  lp max -1580.5 median -1585.6  2.06 s/it
+[02:55:03] MCMC it   375  acc 0.318  lp max -1580.5 median -1586.5  2.06 s/it
+[02:55:54] MCMC it   399  acc 0.317  lp max -1580.4 median -1587.6  2.06 s/it
+[02:55:54] MCMC continuation done, acceptance 0.317
+[02:55:55] continuing c1 from mcmc_chain_c1_cont36.npz (400 iterations) -> cont37
+[02:55:58] MCMC it     0  acc 0.333  lp max -1580.4 median -1587.6  2.01 s/it
+[02:56:50] MCMC it    25  acc 0.319  lp max -1582.3 median -1587.8  2.06 s/it
+[02:57:41] MCMC it    50  acc 0.313  lp max -1581.8 median -1586.0  2.06 s/it
+[02:58:33] MCMC it    75  acc 0.311  lp max -1581.9 median -1585.7  2.07 s/it
+[02:59:25] MCMC it   100  acc 0.314  lp max -1581.2 median -1586.3  2.07 s/it
+[03:00:16] MCMC it   125  acc 0.321  lp max -1581.2 median -1587.5  2.07 s/it
+[03:01:08] MCMC it   150  acc 0.319  lp max -1580.0 median -1586.4  2.06 s/it
+[03:01:59] MCMC it   175  acc 0.319  lp max -1581.1 median -1586.4  2.06 s/it
+[03:02:51] MCMC it   200  acc 0.318  lp max -1582.5 median -1586.3  2.07 s/it
+[03:03:43] MCMC it   225  acc 0.317  lp max -1581.9 median -1586.2  2.07 s/it
+[03:04:34] MCMC it   250  acc 0.314  lp max -1579.8 median -1587.6  2.06 s/it
+[03:05:26] MCMC it   275  acc 0.313  lp max -1580.6 median -1587.1  2.06 s/it
+[03:06:17] MCMC it   300  acc 0.310  lp max -1582.2 median -1585.7  2.06 s/it
+[03:07:09] MCMC it   325  acc 0.311  lp max -1580.2 median -1586.8  2.07 s/it
+[03:08:00] MCMC it   350  acc 0.312  lp max -1581.0 median -1586.0  2.06 s/it
+[03:08:52] MCMC it   375  acc 0.312  lp max -1581.2 median -1585.7  2.06 s/it
+[03:09:41] MCMC it   399  acc 0.311  lp max -1581.0 median -1586.8  2.06 s/it
+[03:09:41] MCMC continuation done, acceptance 0.311
+[03:09:42] continuing c1 from mcmc_chain_c1_cont37.npz (400 iterations) -> cont38
+[03:09:46] MCMC it     0  acc 0.333  lp max -1581.1 median -1586.1  2.08 s/it
+[03:10:38] MCMC it    25  acc 0.330  lp max -1579.4 median -1586.4  2.08 s/it
+[03:11:29] MCMC it    50  acc 0.322  lp max -1581.3 median -1586.4  2.06 s/it
+[03:12:20] MCMC it    75  acc 0.321  lp max -1581.9 median -1585.5  2.06 s/it
+[03:13:12] MCMC it   100  acc 0.325  lp max -1582.2 median -1585.8  2.07 s/it
+[03:14:04] MCMC it   125  acc 0.323  lp max -1580.6 median -1585.6  2.06 s/it
+[03:14:56] MCMC it   150  acc 0.322  lp max -1582.1 median -1587.0  2.07 s/it
+[03:15:48] MCMC it   175  acc 0.321  lp max -1581.5 median -1585.7  2.07 s/it
+[03:16:50] MCMC it   200  acc 0.320  lp max -1581.6 median -1586.9  2.12 s/it
+[03:17:55] MCMC it   225  acc 0.315  lp max -1581.3 median -1585.9  2.17 s/it
+[03:18:54] MCMC it   250  acc 0.316  lp max -1582.1 median -1585.9  2.19 s/it
+[03:19:52] MCMC it   275  acc 0.316  lp max -1581.5 median -1586.9  2.20 s/it
+[03:20:51] MCMC it   300  acc 0.317  lp max -1580.5 median -1585.5  2.22 s/it
+[03:21:51] MCMC it   325  acc 0.318  lp max -1581.4 median -1585.6  2.23 s/it
+[03:22:46] MCMC it   350  acc 0.319  lp max -1579.3 median -1585.1  2.23 s/it
+[03:23:42] MCMC it   375  acc 0.318  lp max -1580.6 median -1585.4  2.23 s/it
+[03:24:35] MCMC it   399  acc 0.317  lp max -1581.0 median -1585.3  2.23 s/it
+[03:24:35] MCMC continuation done, acceptance 0.317
+[03:24:36] continuing c1 from mcmc_chain_c1_cont38.npz (400 iterations) -> cont39
+[03:24:40] MCMC it     0  acc 0.222  lp max -1581.0 median -1585.3  2.20 s/it
+[03:25:35] MCMC it    25  acc 0.324  lp max -1580.9 median -1585.6  2.20 s/it
+[03:26:29] MCMC it    50  acc 0.325  lp max -1579.6 median -1585.6  2.18 s/it
+[03:27:24] MCMC it    75  acc 0.321  lp max -1581.0 median -1587.4  2.19 s/it
+[03:28:19] MCMC it   100  acc 0.323  lp max -1580.2 median -1585.9  2.19 s/it
+[03:29:15] MCMC it   125  acc 0.321  lp max -1581.0 median -1587.0  2.20 s/it
+[03:30:12] MCMC it   150  acc 0.323  lp max -1579.6 median -1586.7  2.21 s/it
+[03:31:06] MCMC it   175  acc 0.318  lp max -1580.5 median -1585.7  2.21 s/it
+[03:32:00] MCMC it   200  acc 0.320  lp max -1581.6 median -1585.8  2.20 s/it
+[03:32:53] MCMC it   225  acc 0.317  lp max -1581.8 median -1586.6  2.19 s/it
+[03:33:45] MCMC it   250  acc 0.317  lp max -1581.9 median -1585.5  2.18 s/it
+[03:34:37] MCMC it   275  acc 0.318  lp max -1580.3 median -1586.2  2.17 s/it
+[03:35:30] MCMC it   300  acc 0.317  lp max -1580.0 median -1585.9  2.17 s/it
+[03:36:22] MCMC it   325  acc 0.318  lp max -1580.7 median -1585.9  2.16 s/it
+[03:37:13] MCMC it   350  acc 0.318  lp max -1581.8 median -1584.9  2.15 s/it
+[03:38:05] MCMC it   375  acc 0.317  lp max -1580.0 median -1585.7  2.15 s/it
+[03:38:55] MCMC it   399  acc 0.317  lp max -1580.6 median -1587.0  2.14 s/it
+[03:38:55] MCMC continuation done, acceptance 0.317
+[03:38:56] continuing c1 from mcmc_chain_c1_cont39.npz (400 iterations) -> cont40
+[03:38:59] MCMC it     0  acc 0.167  lp max -1580.6 median -1586.9  2.08 s/it
+[03:39:51] MCMC it    25  acc 0.326  lp max -1582.1 median -1588.1  2.07 s/it
+[03:40:42] MCMC it    50  acc 0.331  lp max -1581.5 median -1584.7  2.06 s/it
+[03:41:35] MCMC it    75  acc 0.322  lp max -1580.7 median -1586.6  2.08 s/it
+[03:42:28] MCMC it   100  acc 0.321  lp max -1581.9 median -1586.8  2.08 s/it
+[03:43:20] MCMC it   125  acc 0.320  lp max -1580.7 median -1586.2  2.08 s/it
+[03:44:11] MCMC it   150  acc 0.319  lp max -1582.7 median -1586.0  2.08 s/it
+[03:45:03] MCMC it   175  acc 0.315  lp max -1580.5 median -1585.3  2.08 s/it
+[03:45:55] MCMC it   200  acc 0.315  lp max -1581.0 median -1585.7  2.08 s/it
+[03:46:46] MCMC it   225  acc 0.316  lp max -1582.1 median -1586.4  2.07 s/it
+[03:47:38] MCMC it   250  acc 0.316  lp max -1581.7 median -1586.4  2.07 s/it
+[03:48:29] MCMC it   275  acc 0.315  lp max -1580.5 median -1586.7  2.07 s/it
+[03:49:20] MCMC it   300  acc 0.315  lp max -1581.6 median -1585.9  2.07 s/it
+[03:50:12] MCMC it   325  acc 0.316  lp max -1581.0 median -1586.5  2.07 s/it
+[03:51:05] MCMC it   350  acc 0.315  lp max -1581.8 median -1585.7  2.07 s/it
+[03:51:56] MCMC it   375  acc 0.315  lp max -1580.9 median -1587.3  2.07 s/it
+[03:52:46] MCMC it   399  acc 0.315  lp max -1582.7 median -1586.6  2.07 s/it
+[03:52:46] MCMC continuation done, acceptance 0.315
+[03:52:47] continuing c1 from mcmc_chain_c1_cont40.npz (400 iterations) -> cont41
+[03:52:50] MCMC it     0  acc 0.306  lp max -1581.9 median -1586.4  2.00 s/it
+[03:53:42] MCMC it    25  acc 0.281  lp max -1581.6 median -1586.1  2.07 s/it
+[03:54:34] MCMC it    50  acc 0.296  lp max -1581.4 median -1586.1  2.07 s/it
+[03:55:26] MCMC it    75  acc 0.305  lp max -1581.8 median -1586.0  2.07 s/it
+[03:56:17] MCMC it   100  acc 0.313  lp max -1581.2 median -1586.8  2.07 s/it
+[03:57:09] MCMC it   125  acc 0.310  lp max -1583.0 median -1587.5  2.07 s/it
+[03:58:00] MCMC it   150  acc 0.306  lp max -1581.0 median -1586.4  2.07 s/it
+[03:58:53] MCMC it   175  acc 0.307  lp max -1581.7 median -1586.1  2.07 s/it
+[03:59:45] MCMC it   200  acc 0.308  lp max -1581.0 median -1586.4  2.07 s/it
+[04:00:37] MCMC it   225  acc 0.309  lp max -1580.6 median -1586.2  2.07 s/it
+[04:01:28] MCMC it   250  acc 0.309  lp max -1580.6 median -1586.2  2.07 s/it
+[04:02:20] MCMC it   275  acc 0.307  lp max -1581.5 median -1585.9  2.07 s/it
+[04:03:11] MCMC it   300  acc 0.309  lp max -1581.6 median -1586.3  2.07 s/it
+[04:04:02] MCMC it   325  acc 0.310  lp max -1580.7 median -1585.2  2.07 s/it
+[04:04:53] MCMC it   350  acc 0.308  lp max -1580.6 median -1585.4  2.07 s/it
+[04:05:45] MCMC it   375  acc 0.310  lp max -1580.4 median -1585.8  2.07 s/it
+[04:06:36] MCMC it   399  acc 0.310  lp max -1581.4 median -1586.7  2.07 s/it
+[04:06:36] MCMC continuation done, acceptance 0.310
+[04:06:37] continuing c1 from mcmc_chain_c1_cont41.npz (400 iterations) -> cont42
+[04:06:40] MCMC it     0  acc 0.250  lp max -1581.4 median -1586.8  2.10 s/it
+[04:07:32] MCMC it    25  acc 0.307  lp max -1581.7 median -1585.5  2.06 s/it
+[04:08:23] MCMC it    50  acc 0.314  lp max -1581.5 median -1587.3  2.06 s/it
+[04:09:15] MCMC it    75  acc 0.307  lp max -1580.6 median -1586.5  2.06 s/it
+[04:10:07] MCMC it   100  acc 0.302  lp max -1579.8 median -1586.5  2.07 s/it
+[04:10:58] MCMC it   125  acc 0.301  lp max -1582.3 median -1586.5  2.06 s/it
+[04:11:49] MCMC it   150  acc 0.299  lp max -1580.4 median -1586.6  2.06 s/it
+[04:12:41] MCMC it   175  acc 0.303  lp max -1582.6 median -1586.2  2.06 s/it
+[04:13:33] MCMC it   200  acc 0.302  lp max -1581.9 median -1586.6  2.06 s/it
+[04:14:25] MCMC it   225  acc 0.303  lp max -1581.3 median -1586.5  2.06 s/it
+[04:15:17] MCMC it   250  acc 0.300  lp max -1580.8 median -1587.1  2.07 s/it
+[04:16:08] MCMC it   275  acc 0.299  lp max -1582.2 median -1586.4  2.06 s/it
+[04:16:59] MCMC it   300  acc 0.298  lp max -1580.3 median -1586.2  2.06 s/it
+[04:17:51] MCMC it   325  acc 0.300  lp max -1581.5 median -1585.4  2.06 s/it
+[04:18:42] MCMC it   350  acc 0.301  lp max -1583.3 median -1586.9  2.06 s/it
+[04:19:34] MCMC it   375  acc 0.301  lp max -1582.9 median -1587.2  2.06 s/it
+[04:20:23] MCMC it   399  acc 0.304  lp max -1579.4 median -1586.5  2.06 s/it
+[04:20:23] MCMC continuation done, acceptance 0.304
+[04:20:25] continuing c1 from mcmc_chain_c1_cont42.npz (400 iterations) -> cont43
+[04:20:28] MCMC it     0  acc 0.278  lp max -1579.4 median -1586.5  2.03 s/it
+[04:21:19] MCMC it    25  acc 0.335  lp max -1580.8 median -1585.7  2.03 s/it
+[04:22:10] MCMC it    50  acc 0.339  lp max -1580.8 median -1586.0  2.05 s/it
+[04:23:02] MCMC it    75  acc 0.321  lp max -1580.8 median -1586.0  2.05 s/it
+[04:23:53] MCMC it   100  acc 0.323  lp max -1582.1 median -1586.3  2.05 s/it
+[04:24:44] MCMC it   125  acc 0.318  lp max -1581.5 median -1585.9  2.05 s/it
+[04:25:35] MCMC it   150  acc 0.318  lp max -1582.0 median -1586.0  2.05 s/it
+[04:26:27] MCMC it   175  acc 0.314  lp max -1579.7 median -1585.5  2.05 s/it
+[04:27:17] MCMC it   200  acc 0.313  lp max -1582.5 median -1587.5  2.05 s/it
+[04:28:08] MCMC it   225  acc 0.310  lp max -1580.9 median -1585.5  2.05 s/it
+[04:29:00] MCMC it   250  acc 0.311  lp max -1581.0 median -1585.8  2.05 s/it
+[04:29:51] MCMC it   275  acc 0.311  lp max -1583.2 median -1587.0  2.05 s/it
+[04:30:43] MCMC it   300  acc 0.312  lp max -1581.3 median -1586.6  2.05 s/it
+[04:31:34] MCMC it   325  acc 0.313  lp max -1580.9 median -1586.3  2.05 s/it
+[04:32:25] MCMC it   350  acc 0.313  lp max -1581.2 median -1587.0  2.05 s/it
+[04:33:17] MCMC it   375  acc 0.312  lp max -1582.0 median -1588.0  2.05 s/it
+[04:34:06] MCMC it   399  acc 0.313  lp max -1581.5 median -1586.9  2.05 s/it
+[04:34:06] MCMC continuation done, acceptance 0.313
+[04:34:08] continuing c1 from mcmc_chain_c1_cont43.npz (400 iterations) -> cont44
+[04:34:11] MCMC it     0  acc 0.417  lp max -1579.7 median -1587.0  2.05 s/it
+[04:35:02] MCMC it    25  acc 0.299  lp max -1581.1 median -1585.9  2.05 s/it
+[04:35:54] MCMC it    50  acc 0.315  lp max -1581.4 median -1586.3  2.06 s/it
+[04:36:45] MCMC it    75  acc 0.313  lp max -1581.6 median -1585.6  2.05 s/it
+[04:37:36] MCMC it   100  acc 0.312  lp max -1581.7 median -1585.8  2.05 s/it
+[04:38:28] MCMC it   125  acc 0.315  lp max -1579.3 median -1586.6  2.06 s/it
+[04:39:20] MCMC it   150  acc 0.316  lp max -1580.0 median -1585.2  2.06 s/it
+[04:40:11] MCMC it   175  acc 0.313  lp max -1581.5 median -1585.2  2.06 s/it
+[04:41:02] MCMC it   200  acc 0.311  lp max -1581.3 median -1586.3  2.05 s/it
+[04:41:53] MCMC it   225  acc 0.309  lp max -1580.7 median -1586.5  2.05 s/it
+[04:42:45] MCMC it   250  acc 0.308  lp max -1580.1 median -1586.1  2.06 s/it
+[04:43:37] MCMC it   275  acc 0.310  lp max -1582.0 median -1586.8  2.06 s/it
+[04:44:27] MCMC it   300  acc 0.309  lp max -1581.4 median -1587.2  2.05 s/it
+[04:45:19] MCMC it   325  acc 0.309  lp max -1582.1 median -1585.5  2.06 s/it
+[04:46:10] MCMC it   350  acc 0.310  lp max -1581.5 median -1586.4  2.06 s/it
+[04:47:01] MCMC it   375  acc 0.310  lp max -1580.9 median -1586.3  2.05 s/it
+[04:47:51] MCMC it   399  acc 0.310  lp max -1581.3 median -1585.6  2.05 s/it
+[04:47:51] MCMC continuation done, acceptance 0.310
+[04:47:52] continuing c1 from mcmc_chain_c1_cont44.npz (400 iterations) -> cont45
+[04:47:55] MCMC it     0  acc 0.278  lp max -1581.3 median -1586.5  2.04 s/it
+[04:48:46] MCMC it    25  acc 0.312  lp max -1581.8 median -1586.4  2.03 s/it
+[04:49:38] MCMC it    50  acc 0.312  lp max -1580.3 median -1586.0  2.05 s/it
+[04:50:30] MCMC it    75  acc 0.306  lp max -1581.6 median -1585.9  2.06 s/it
+[04:51:21] MCMC it   100  acc 0.308  lp max -1580.1 median -1586.5  2.06 s/it
+[04:52:12] MCMC it   125  acc 0.309  lp max -1581.7 median -1586.6  2.05 s/it
+[04:53:04] MCMC it   150  acc 0.308  lp max -1582.0 median -1586.1  2.06 s/it
+[04:53:56] MCMC it   175  acc 0.307  lp max -1581.1 median -1586.4  2.06 s/it
+[04:54:47] MCMC it   200  acc 0.308  lp max -1582.7 median -1586.1  2.06 s/it
+[04:55:39] MCMC it   225  acc 0.309  lp max -1581.4 median -1586.3  2.06 s/it
+[04:56:30] MCMC it   250  acc 0.309  lp max -1581.5 median -1585.6  2.06 s/it
+[04:57:22] MCMC it   275  acc 0.311  lp max -1581.9 median -1585.5  2.06 s/it
+[04:58:13] MCMC it   300  acc 0.308  lp max -1581.5 median -1586.1  2.06 s/it
+[04:59:05] MCMC it   325  acc 0.309  lp max -1581.6 median -1586.3  2.06 s/it
+[04:59:56] MCMC it   350  acc 0.310  lp max -1579.6 median -1586.5  2.06 s/it
+[05:00:47] MCMC it   375  acc 0.310  lp max -1581.4 median -1586.0  2.06 s/it
+[05:01:37] MCMC it   399  acc 0.310  lp max -1579.5 median -1586.3  2.06 s/it
+[05:01:37] MCMC continuation done, acceptance 0.310
+[05:01:39] continuing c1 from mcmc_chain_c1_cont45.npz (400 iterations) -> cont46
+[05:01:42] MCMC it     0  acc 0.333  lp max -1579.5 median -1585.6  2.14 s/it
+[05:02:34] MCMC it    25  acc 0.323  lp max -1582.2 median -1586.0  2.10 s/it
+[05:03:26] MCMC it    50  acc 0.318  lp max -1581.0 median -1586.1  2.08 s/it
+[05:04:17] MCMC it    75  acc 0.316  lp max -1580.7 median -1585.9  2.07 s/it
+[05:05:09] MCMC it   100  acc 0.319  lp max -1581.4 median -1587.6  2.07 s/it
+[05:06:01] MCMC it   125  acc 0.314  lp max -1580.9 median -1585.3  2.07 s/it
+[05:06:52] MCMC it   150  acc 0.313  lp max -1580.1 median -1585.2  2.07 s/it
+[05:07:44] MCMC it   175  acc 0.311  lp max -1580.9 median -1586.6  2.07 s/it
+[05:08:36] MCMC it   200  acc 0.308  lp max -1580.8 median -1586.8  2.07 s/it
+[05:09:27] MCMC it   225  acc 0.306  lp max -1579.8 median -1586.3  2.07 s/it
+[05:10:19] MCMC it   250  acc 0.307  lp max -1580.6 median -1585.3  2.07 s/it
+[05:11:10] MCMC it   275  acc 0.310  lp max -1581.1 median -1585.7  2.07 s/it
+[05:12:02] MCMC it   300  acc 0.311  lp max -1581.3 median -1586.3  2.07 s/it
+[05:12:53] MCMC it   325  acc 0.313  lp max -1581.1 median -1586.6  2.06 s/it
+[05:13:45] MCMC it   350  acc 0.312  lp max -1581.2 median -1586.4  2.06 s/it
+[05:14:36] MCMC it   375  acc 0.310  lp max -1581.4 median -1585.2  2.07 s/it
+[05:15:26] MCMC it   399  acc 0.310  lp max -1581.8 median -1586.2  2.06 s/it
+[05:15:26] MCMC continuation done, acceptance 0.310
+[05:15:27] continuing c1 from mcmc_chain_c1_cont46.npz (400 iterations) -> cont47
+[05:15:31] MCMC it     0  acc 0.306  lp max -1582.0 median -1586.2  2.24 s/it
+[05:16:22] MCMC it    25  acc 0.278  lp max -1582.1 median -1585.5  2.04 s/it
+[05:17:13] MCMC it    50  acc 0.297  lp max -1580.5 median -1585.3  2.05 s/it
+[05:18:05] MCMC it    75  acc 0.302  lp max -1581.2 median -1586.3  2.05 s/it
+[05:18:56] MCMC it   100  acc 0.305  lp max -1582.4 median -1586.5  2.06 s/it
+[05:19:48] MCMC it   125  acc 0.302  lp max -1581.6 median -1584.8  2.06 s/it
+[05:20:40] MCMC it   150  acc 0.308  lp max -1581.9 median -1586.5  2.06 s/it
+[05:21:31] MCMC it   175  acc 0.310  lp max -1580.4 median -1585.6  2.06 s/it
+[05:22:23] MCMC it   200  acc 0.307  lp max -1580.0 median -1585.6  2.06 s/it
+[05:23:14] MCMC it   225  acc 0.306  lp max -1580.1 median -1585.7  2.06 s/it
+[05:24:05] MCMC it   250  acc 0.305  lp max -1579.0 median -1585.5  2.06 s/it
+[05:24:57] MCMC it   275  acc 0.304  lp max -1580.0 median -1586.4  2.06 s/it
+[05:25:49] MCMC it   300  acc 0.307  lp max -1580.9 median -1585.9  2.06 s/it
+[05:26:40] MCMC it   325  acc 0.308  lp max -1582.9 median -1585.3  2.06 s/it
+[05:27:31] MCMC it   350  acc 0.310  lp max -1578.6 median -1586.0  2.06 s/it
+[05:28:23] MCMC it   375  acc 0.312  lp max -1580.8 median -1586.1  2.06 s/it
+[05:29:11] MCMC it   399  acc 0.312  lp max -1581.9 median -1586.4  2.06 s/it
+[05:29:11] MCMC continuation done, acceptance 0.312
+[05:29:13] continuing c1 from mcmc_chain_c1_cont47.npz (400 iterations) -> cont48
+[05:29:16] MCMC it     0  acc 0.333  lp max -1581.9 median -1586.4  1.97 s/it
+[05:30:07] MCMC it    25  acc 0.301  lp max -1581.0 median -1586.4  2.05 s/it
+[05:30:58] MCMC it    50  acc 0.302  lp max -1581.4 median -1585.2  2.04 s/it
+[05:31:49] MCMC it    75  acc 0.310  lp max -1581.6 median -1586.0  2.04 s/it
+[05:32:41] MCMC it   100  acc 0.314  lp max -1581.2 median -1586.5  2.05 s/it
+[05:33:33] MCMC it   125  acc 0.313  lp max -1581.4 median -1587.7  2.06 s/it
+[05:34:25] MCMC it   150  acc 0.314  lp max -1581.8 median -1586.3  2.06 s/it
+[05:35:17] MCMC it   175  acc 0.312  lp max -1580.8 median -1586.4  2.06 s/it
+[05:36:07] MCMC it   200  acc 0.311  lp max -1580.5 median -1585.6  2.06 s/it
+[05:36:59] MCMC it   225  acc 0.312  lp max -1580.2 median -1585.6  2.06 s/it
+[05:37:51] MCMC it   250  acc 0.312  lp max -1580.8 median -1586.6  2.06 s/it
+[05:38:43] MCMC it   275  acc 0.315  lp max -1580.2 median -1586.6  2.06 s/it
+[05:39:33] MCMC it   300  acc 0.316  lp max -1580.8 median -1585.1  2.06 s/it
+[05:40:25] MCMC it   325  acc 0.317  lp max -1581.3 median -1586.0  2.06 s/it
+[05:41:16] MCMC it   350  acc 0.319  lp max -1582.3 median -1585.6  2.06 s/it
+[05:42:08] MCMC it   375  acc 0.320  lp max -1580.4 median -1585.9  2.06 s/it
+[05:42:57] MCMC it   399  acc 0.321  lp max -1582.0 median -1586.5  2.06 s/it
+[05:42:57] MCMC continuation done, acceptance 0.321
+[05:42:59] continuing c1 from mcmc_chain_c1_cont48.npz (400 iterations) -> cont49
+[05:43:02] MCMC it     0  acc 0.250  lp max -1582.0 median -1586.7  2.14 s/it
+[05:43:53] MCMC it    25  acc 0.311  lp max -1582.3 median -1586.1  2.06 s/it
+[05:44:46] MCMC it    50  acc 0.315  lp max -1579.9 median -1586.7  2.08 s/it
+[05:45:39] MCMC it    75  acc 0.315  lp max -1580.5 median -1585.5  2.10 s/it
+[05:46:31] MCMC it   100  acc 0.314  lp max -1581.4 median -1586.5  2.09 s/it
+[05:47:23] MCMC it   125  acc 0.312  lp max -1580.7 median -1587.6  2.09 s/it
+[05:48:15] MCMC it   150  acc 0.310  lp max -1580.6 median -1585.6  2.09 s/it
+[05:49:06] MCMC it   175  acc 0.312  lp max -1581.5 median -1585.7  2.08 s/it
+[05:49:57] MCMC it   200  acc 0.311  lp max -1580.6 median -1585.9  2.08 s/it
+[05:50:49] MCMC it   225  acc 0.314  lp max -1581.8 median -1585.8  2.08 s/it
+[05:51:41] MCMC it   250  acc 0.316  lp max -1579.8 median -1586.3  2.08 s/it
+[05:52:33] MCMC it   275  acc 0.315  lp max -1582.1 median -1586.0  2.08 s/it
+[05:53:24] MCMC it   300  acc 0.316  lp max -1581.0 median -1584.5  2.07 s/it
+[05:54:16] MCMC it   325  acc 0.317  lp max -1582.0 median -1585.9  2.07 s/it
+[05:55:07] MCMC it   350  acc 0.316  lp max -1581.6 median -1585.7  2.07 s/it
+[05:55:57] MCMC it   375  acc 0.315  lp max -1581.8 median -1587.5  2.07 s/it
+[05:56:46] MCMC it   399  acc 0.316  lp max -1581.6 median -1585.8  2.07 s/it
+[05:56:46] MCMC continuation done, acceptance 0.316
+[05:56:48] continuing c1 from mcmc_chain_c1_cont49.npz (400 iterations) -> cont50
+[05:56:51] MCMC it     0  acc 0.250  lp max -1581.6 median -1586.2  1.99 s/it
+[05:57:42] MCMC it    25  acc 0.302  lp max -1582.0 median -1585.6  2.04 s/it
+[05:58:34] MCMC it    50  acc 0.315  lp max -1581.0 median -1585.8  2.06 s/it
+[05:59:25] MCMC it    75  acc 0.309  lp max -1581.3 median -1587.1  2.05 s/it
+[06:00:16] MCMC it   100  acc 0.311  lp max -1580.5 median -1585.0  2.05 s/it
+[06:01:07] MCMC it   125  acc 0.308  lp max -1580.5 median -1586.2  2.05 s/it
+[06:01:59] MCMC it   150  acc 0.305  lp max -1581.8 median -1585.5  2.05 s/it
+[06:02:50] MCMC it   175  acc 0.305  lp max -1581.4 median -1586.2  2.05 s/it
+[06:03:41] MCMC it   200  acc 0.306  lp max -1581.1 median -1586.4  2.05 s/it
+[06:04:33] MCMC it   225  acc 0.304  lp max -1581.1 median -1586.0  2.05 s/it
+[06:05:25] MCMC it   250  acc 0.304  lp max -1581.1 median -1586.0  2.05 s/it
+[06:06:16] MCMC it   275  acc 0.304  lp max -1581.5 median -1586.1  2.05 s/it
+[06:07:07] MCMC it   300  acc 0.305  lp max -1582.5 median -1586.6  2.05 s/it
+[06:07:59] MCMC it   325  acc 0.305  lp max -1582.0 median -1585.6  2.05 s/it
+[06:08:51] MCMC it   350  acc 0.307  lp max -1581.7 median -1585.5  2.06 s/it
+[06:09:42] MCMC it   375  acc 0.307  lp max -1581.7 median -1585.8  2.06 s/it
+[06:10:31] MCMC it   399  acc 0.307  lp max -1581.9 median -1586.6  2.06 s/it
+[06:10:31] MCMC continuation done, acceptance 0.307
+[06:10:33] continuing c1 from mcmc_chain_c1_cont50.npz (400 iterations) -> cont51
+[06:10:36] MCMC it     0  acc 0.361  lp max -1581.9 median -1586.4  1.92 s/it
+[06:11:27] MCMC it    25  acc 0.290  lp max -1582.0 median -1585.7  2.05 s/it
+[06:12:18] MCMC it    50  acc 0.289  lp max -1580.7 median -1587.0  2.05 s/it
+[06:13:09] MCMC it    75  acc 0.304  lp max -1580.3 median -1586.2  2.04 s/it
+[06:14:01] MCMC it   100  acc 0.304  lp max -1581.7 median -1586.3  2.05 s/it
+[06:14:52] MCMC it   125  acc 0.308  lp max -1581.2 median -1586.9  2.05 s/it
+[06:15:44] MCMC it   150  acc 0.310  lp max -1582.4 median -1586.1  2.06 s/it
+[06:16:35] MCMC it   175  acc 0.311  lp max -1579.8 median -1585.3  2.05 s/it
+[06:17:27] MCMC it   200  acc 0.313  lp max -1581.0 median -1586.3  2.05 s/it
+[06:18:19] MCMC it   225  acc 0.312  lp max -1581.9 median -1586.4  2.06 s/it
+[06:19:09] MCMC it   250  acc 0.311  lp max -1581.1 median -1586.6  2.05 s/it
+[06:20:00] MCMC it   275  acc 0.311  lp max -1581.7 median -1586.9  2.05 s/it
+[06:20:51] MCMC it   300  acc 0.308  lp max -1581.7 median -1585.8  2.05 s/it
+[06:21:41] MCMC it   325  acc 0.309  lp max -1581.4 median -1585.8  2.05 s/it
+[06:22:33] MCMC it   350  acc 0.307  lp max -1580.9 median -1584.9  2.05 s/it
+[06:23:24] MCMC it   375  acc 0.309  lp max -1580.3 median -1587.1  2.05 s/it
+[06:24:13] MCMC it   399  acc 0.309  lp max -1579.6 median -1586.8  2.05 s/it
+[06:24:13] MCMC continuation done, acceptance 0.309
+[06:24:15] continuing c1 from mcmc_chain_c1_cont51.npz (400 iterations) -> cont52
+[06:24:18] MCMC it     0  acc 0.250  lp max -1581.1 median -1586.2  1.99 s/it
+[06:25:09] MCMC it    25  acc 0.311  lp max -1581.4 median -1584.9  2.04 s/it
+[06:26:00] MCMC it    50  acc 0.308  lp max -1580.3 median -1585.4  2.04 s/it
+[06:26:51] MCMC it    75  acc 0.313  lp max -1582.2 median -1585.9  2.04 s/it
+[06:27:42] MCMC it   100  acc 0.307  lp max -1581.6 median -1586.6  2.04 s/it
+[06:28:34] MCMC it   125  acc 0.310  lp max -1580.2 median -1585.7  2.04 s/it
+[06:29:26] MCMC it   150  acc 0.308  lp max -1580.2 median -1585.4  2.05 s/it
+[06:30:17] MCMC it   175  acc 0.309  lp max -1580.9 median -1586.5  2.05 s/it
+[06:31:09] MCMC it   200  acc 0.307  lp max -1581.6 median -1585.8  2.05 s/it
+[06:32:00] MCMC it   225  acc 0.307  lp max -1583.3 median -1587.0  2.05 s/it
+[06:32:53] MCMC it   250  acc 0.307  lp max -1581.3 median -1585.9  2.06 s/it
+[06:33:45] MCMC it   275  acc 0.310  lp max -1580.6 median -1586.6  2.06 s/it
+[06:34:37] MCMC it   300  acc 0.309  lp max -1580.1 median -1587.3  2.06 s/it
+[06:35:28] MCMC it   325  acc 0.308  lp max -1582.6 median -1586.3  2.06 s/it
+[06:36:19] MCMC it   350  acc 0.309  lp max -1581.3 median -1587.5  2.06 s/it
+[06:37:10] MCMC it   375  acc 0.310  lp max -1582.1 median -1585.4  2.06 s/it
+[06:37:59] MCMC it   399  acc 0.310  lp max -1581.4 median -1586.8  2.06 s/it
+[06:37:59] MCMC continuation done, acceptance 0.310
+[06:38:01] continuing c1 from mcmc_chain_c1_cont52.npz (400 iterations) -> cont53
+[06:38:04] MCMC it     0  acc 0.361  lp max -1581.4 median -1586.9  1.95 s/it
+[06:38:56] MCMC it    25  acc 0.306  lp max -1582.3 median -1586.5  2.07 s/it
+[06:39:48] MCMC it    50  acc 0.295  lp max -1581.8 median -1586.6  2.07 s/it
+[06:40:39] MCMC it    75  acc 0.310  lp max -1582.0 median -1586.9  2.07 s/it
+[06:41:30] MCMC it   100  acc 0.309  lp max -1582.1 median -1586.4  2.06 s/it
+[06:42:22] MCMC it   125  acc 0.307  lp max -1581.2 median -1586.4  2.07 s/it
+[06:43:14] MCMC it   150  acc 0.303  lp max -1580.5 median -1586.0  2.06 s/it
+[06:44:05] MCMC it   175  acc 0.303  lp max -1583.0 median -1587.3  2.06 s/it
+[06:44:57] MCMC it   200  acc 0.303  lp max -1581.9 median -1587.0  2.06 s/it
+[06:45:49] MCMC it   225  acc 0.304  lp max -1581.4 median -1585.8  2.06 s/it
+[06:46:40] MCMC it   250  acc 0.307  lp max -1581.3 median -1585.9  2.07 s/it
+[06:47:31] MCMC it   275  acc 0.309  lp max -1581.3 median -1586.0  2.06 s/it
+[06:48:22] MCMC it   300  acc 0.309  lp max -1580.5 median -1585.7  2.06 s/it
+[06:49:13] MCMC it   325  acc 0.310  lp max -1581.6 median -1586.0  2.06 s/it
+[06:50:05] MCMC it   350  acc 0.311  lp max -1581.4 median -1586.4  2.06 s/it
+[06:50:56] MCMC it   375  acc 0.310  lp max -1581.1 median -1586.4  2.06 s/it
+[06:51:46] MCMC it   399  acc 0.311  lp max -1581.5 median -1585.3  2.06 s/it
+[06:51:46] MCMC continuation done, acceptance 0.311
+[06:51:48] continuing c1 from mcmc_chain_c1_cont53.npz (400 iterations) -> cont54
+[06:51:52] MCMC it     0  acc 0.250  lp max -1581.5 median -1585.3  2.12 s/it
+[06:52:45] MCMC it    25  acc 0.330  lp max -1580.7 median -1585.7  2.11 s/it
+[06:53:36] MCMC it    50  acc 0.329  lp max -1582.1 median -1585.8  2.09 s/it
+[06:54:28] MCMC it    75  acc 0.323  lp max -1580.0 median -1586.4  2.09 s/it
+[06:55:21] MCMC it   100  acc 0.318  lp max -1580.8 median -1587.2  2.09 s/it
+[06:56:13] MCMC it   125  acc 0.313  lp max -1581.8 median -1586.7  2.09 s/it
+[06:57:06] MCMC it   150  acc 0.314  lp max -1579.9 median -1586.0  2.09 s/it
+[06:57:57] MCMC it   175  acc 0.314  lp max -1581.9 median -1585.9  2.09 s/it
+[06:58:48] MCMC it   200  acc 0.312  lp max -1580.7 median -1585.6  2.08 s/it
+[06:59:39] MCMC it   225  acc 0.313  lp max -1582.3 median -1586.8  2.08 s/it
+[07:00:32] MCMC it   250  acc 0.311  lp max -1581.3 median -1586.7  2.08 s/it
+[07:01:23] MCMC it   275  acc 0.309  lp max -1580.1 median -1586.1  2.08 s/it
+[07:02:15] MCMC it   300  acc 0.311  lp max -1580.4 median -1586.1  2.08 s/it
+[07:03:06] MCMC it   325  acc 0.309  lp max -1579.7 median -1586.2  2.07 s/it
+[07:03:57] MCMC it   350  acc 0.310  lp max -1582.6 median -1586.5  2.07 s/it
+[07:04:49] MCMC it   375  acc 0.309  lp max -1580.2 median -1585.8  2.07 s/it
+[07:05:39] MCMC it   399  acc 0.309  lp max -1581.9 median -1585.9  2.07 s/it
+[07:05:39] MCMC continuation done, acceptance 0.309
+[07:05:41] continuing c1 from mcmc_chain_c1_cont54.npz (400 iterations) -> cont55
+[07:05:44] MCMC it     0  acc 0.389  lp max -1581.1 median -1585.9  2.08 s/it
+[07:06:35] MCMC it    25  acc 0.302  lp max -1581.1 median -1586.3  2.06 s/it
+[07:07:26] MCMC it    50  acc 0.298  lp max -1581.2 median -1585.3  2.05 s/it
+[07:08:18] MCMC it    75  acc 0.300  lp max -1580.3 median -1585.7  2.05 s/it
+[07:09:09] MCMC it   100  acc 0.299  lp max -1582.0 median -1586.4  2.05 s/it
+[07:10:01] MCMC it   125  acc 0.301  lp max -1580.6 median -1585.4  2.06 s/it
+[07:10:52] MCMC it   150  acc 0.305  lp max -1580.8 median -1586.3  2.05 s/it
+[07:11:43] MCMC it   175  acc 0.306  lp max -1581.1 median -1585.7  2.05 s/it
+[07:12:34] MCMC it   200  acc 0.305  lp max -1581.4 median -1585.8  2.05 s/it
+[07:13:27] MCMC it   225  acc 0.302  lp max -1581.1 median -1586.9  2.06 s/it
+[07:14:20] MCMC it   250  acc 0.300  lp max -1582.8 median -1586.3  2.07 s/it
+[07:15:13] MCMC it   275  acc 0.302  lp max -1581.2 median -1586.0  2.07 s/it
+[07:16:04] MCMC it   300  acc 0.301  lp max -1581.7 median -1585.9  2.07 s/it
+[07:16:55] MCMC it   325  acc 0.301  lp max -1580.9 median -1585.2  2.07 s/it
+[07:17:47] MCMC it   350  acc 0.303  lp max -1582.1 median -1585.8  2.06 s/it
+[07:18:39] MCMC it   375  acc 0.303  lp max -1581.6 median -1585.1  2.07 s/it
+[07:19:29] MCMC it   399  acc 0.303  lp max -1581.1 median -1586.0  2.07 s/it
+[07:19:29] MCMC continuation done, acceptance 0.303
+[07:19:31] continuing c1 from mcmc_chain_c1_cont55.npz (400 iterations) -> cont56
+[07:19:34] MCMC it     0  acc 0.333  lp max -1580.9 median -1585.7  2.05 s/it
+[07:20:26] MCMC it    25  acc 0.330  lp max -1580.3 median -1586.1  2.07 s/it
+[07:21:17] MCMC it    50  acc 0.311  lp max -1579.9 median -1586.0  2.06 s/it
+[07:22:08] MCMC it    75  acc 0.309  lp max -1580.2 median -1585.8  2.05 s/it
+[07:22:59] MCMC it   100  acc 0.310  lp max -1582.7 median -1586.0  2.05 s/it
+[07:23:51] MCMC it   125  acc 0.312  lp max -1579.9 median -1587.1  2.05 s/it
+[07:24:42] MCMC it   150  acc 0.312  lp max -1580.9 median -1587.0  2.05 s/it
+[07:25:33] MCMC it   175  acc 0.312  lp max -1581.4 median -1585.7  2.05 s/it
+[07:26:25] MCMC it   200  acc 0.313  lp max -1582.0 median -1585.7  2.06 s/it
+[07:27:17] MCMC it   225  acc 0.316  lp max -1582.6 median -1587.3  2.06 s/it
+[07:28:10] MCMC it   250  acc 0.313  lp max -1580.5 median -1586.8  2.06 s/it
+[07:29:03] MCMC it   275  acc 0.315  lp max -1581.3 median -1586.8  2.07 s/it
+[07:29:54] MCMC it   300  acc 0.318  lp max -1580.6 median -1585.8  2.07 s/it
+[07:30:45] MCMC it   325  acc 0.315  lp max -1581.0 median -1585.7  2.07 s/it
+[07:31:36] MCMC it   350  acc 0.314  lp max -1581.6 median -1586.6  2.06 s/it
+[07:32:27] MCMC it   375  acc 0.315  lp max -1580.8 median -1586.0  2.06 s/it
+[07:33:15] MCMC it   399  acc 0.316  lp max -1580.7 median -1587.5  2.06 s/it
+[07:33:16] MCMC continuation done, acceptance 0.316
+[07:33:17] continuing c1 from mcmc_chain_c1_cont56.npz (400 iterations) -> cont57
+[07:33:21] MCMC it     0  acc 0.222  lp max -1580.7 median -1587.2  2.05 s/it
+[07:34:12] MCMC it    25  acc 0.286  lp max -1581.4 median -1586.6  2.04 s/it
+[07:35:03] MCMC it    50  acc 0.291  lp max -1580.7 median -1585.0  2.05 s/it
+[07:35:55] MCMC it    75  acc 0.295  lp max -1580.4 median -1587.0  2.06 s/it
+[07:36:46] MCMC it   100  acc 0.299  lp max -1582.2 median -1586.3  2.06 s/it
+[07:37:37] MCMC it   125  acc 0.306  lp max -1581.9 median -1586.5  2.05 s/it
+[07:38:29] MCMC it   150  acc 0.304  lp max -1580.8 median -1585.9  2.06 s/it
+[07:39:21] MCMC it   175  acc 0.304  lp max -1581.1 median -1586.8  2.06 s/it
+[07:40:15] MCMC it   200  acc 0.307  lp max -1581.0 median -1586.5  2.07 s/it
+[07:41:08] MCMC it   225  acc 0.307  lp max -1581.8 median -1586.1  2.08 s/it
+[07:42:02] MCMC it   250  acc 0.308  lp max -1581.6 median -1586.7  2.08 s/it
+[07:42:55] MCMC it   275  acc 0.307  lp max -1581.3 median -1586.7  2.09 s/it
+[07:43:48] MCMC it   300  acc 0.305  lp max -1581.7 median -1585.9  2.09 s/it
+[07:44:40] MCMC it   325  acc 0.306  lp max -1580.3 median -1585.6  2.09 s/it
+[07:45:31] MCMC it   350  acc 0.309  lp max -1580.6 median -1586.2  2.09 s/it
+[07:46:22] MCMC it   375  acc 0.309  lp max -1580.4 median -1586.1  2.08 s/it
+[07:47:11] MCMC it   399  acc 0.309  lp max -1581.5 median -1586.3  2.08 s/it
+[07:47:11] MCMC continuation done, acceptance 0.309
+[07:47:13] continuing c1 from mcmc_chain_c1_cont57.npz (400 iterations) -> cont58
+[07:47:16] MCMC it     0  acc 0.278  lp max -1581.5 median -1586.1  2.00 s/it
+[07:48:08] MCMC it    25  acc 0.319  lp max -1581.0 median -1587.0  2.09 s/it
+[07:49:01] MCMC it    50  acc 0.319  lp max -1581.8 median -1586.8  2.09 s/it
+[07:49:54] MCMC it    75  acc 0.315  lp max -1582.8 median -1585.7  2.11 s/it
+[07:50:49] MCMC it   100  acc 0.315  lp max -1581.5 median -1585.6  2.13 s/it
+[07:51:43] MCMC it   125  acc 0.307  lp max -1582.4 median -1586.5  2.13 s/it
+[07:52:35] MCMC it   150  acc 0.310  lp max -1581.7 median -1586.1  2.13 s/it
+[07:53:27] MCMC it   175  acc 0.311  lp max -1581.3 median -1586.2  2.12 s/it
+[07:54:19] MCMC it   200  acc 0.309  lp max -1583.0 median -1586.6  2.11 s/it
+[07:55:11] MCMC it   225  acc 0.309  lp max -1581.7 median -1586.0  2.11 s/it
+[07:56:02] MCMC it   250  acc 0.310  lp max -1581.5 median -1586.1  2.10 s/it
+[07:56:53] MCMC it   275  acc 0.310  lp max -1581.7 median -1586.4  2.10 s/it
+[07:57:44] MCMC it   300  acc 0.311  lp max -1582.5 median -1586.2  2.09 s/it
+[07:58:36] MCMC it   325  acc 0.314  lp max -1580.9 median -1586.8  2.09 s/it
+[07:59:27] MCMC it   350  acc 0.313  lp max -1581.4 median -1585.6  2.09 s/it
+[08:00:19] MCMC it   375  acc 0.313  lp max -1581.3 median -1586.3  2.09 s/it
+[08:01:09] MCMC it   399  acc 0.313  lp max -1581.4 median -1586.7  2.09 s/it
+[08:01:09] MCMC continuation done, acceptance 0.313
+[08:01:11] continuing c1 from mcmc_chain_c1_cont58.npz (400 iterations) -> cont59
+[08:01:14] MCMC it     0  acc 0.333  lp max -1581.4 median -1586.1  1.98 s/it
+[08:02:06] MCMC it    25  acc 0.303  lp max -1581.0 median -1585.0  2.05 s/it
+[08:02:57] MCMC it    50  acc 0.308  lp max -1580.2 median -1586.1  2.06 s/it
+[08:03:48] MCMC it    75  acc 0.310  lp max -1579.7 median -1586.0  2.05 s/it
+[08:04:39] MCMC it   100  acc 0.311  lp max -1580.4 median -1585.9  2.05 s/it
+[08:05:31] MCMC it   125  acc 0.308  lp max -1580.7 median -1585.5  2.06 s/it
+[08:06:23] MCMC it   150  acc 0.308  lp max -1580.7 median -1585.7  2.06 s/it
+[08:07:14] MCMC it   175  acc 0.309  lp max -1580.3 median -1585.5  2.06 s/it
+[08:08:05] MCMC it   200  acc 0.309  lp max -1581.6 median -1585.5  2.05 s/it
+[08:08:57] MCMC it   225  acc 0.310  lp max -1580.7 median -1586.0  2.06 s/it
+[08:09:49] MCMC it   250  acc 0.310  lp max -1582.7 median -1585.3  2.06 s/it
+[08:10:41] MCMC it   275  acc 0.310  lp max -1580.8 median -1585.5  2.06 s/it
+[08:11:34] MCMC it   300  acc 0.308  lp max -1582.0 median -1585.2  2.07 s/it
+[08:12:30] MCMC it   325  acc 0.307  lp max -1582.9 median -1585.9  2.08 s/it
+[08:13:27] MCMC it   350  acc 0.307  lp max -1582.0 median -1585.4  2.09 s/it
+[08:14:28] MCMC it   375  acc 0.307  lp max -1581.1 median -1585.7  2.12 s/it
+[08:15:23] MCMC it   399  acc 0.306  lp max -1581.0 median -1586.3  2.13 s/it
+[08:15:23] MCMC continuation done, acceptance 0.306
+[08:15:25] continuing c1 from mcmc_chain_c1_cont59.npz (400 iterations) -> cont60
+[08:15:29] MCMC it     0  acc 0.361  lp max -1582.0 median -1585.7  2.27 s/it
+[08:16:26] MCMC it    25  acc 0.314  lp max -1582.5 median -1585.7  2.30 s/it
+[08:17:22] MCMC it    50  acc 0.299  lp max -1580.3 median -1585.5  2.26 s/it
+[08:18:21] MCMC it    75  acc 0.306  lp max -1581.7 median -1586.9  2.30 s/it
+[08:19:18] MCMC it   100  acc 0.306  lp max -1580.7 median -1586.0  2.29 s/it
+[08:20:14] MCMC it   125  acc 0.303  lp max -1581.6 median -1585.8  2.28 s/it
+[08:21:09] MCMC it   150  acc 0.303  lp max -1581.7 median -1585.7  2.27 s/it
+[08:22:05] MCMC it   175  acc 0.307  lp max -1581.1 median -1586.0  2.27 s/it
+[08:23:01] MCMC it   200  acc 0.310  lp max -1580.8 median -1586.2  2.26 s/it
+[08:23:57] MCMC it   225  acc 0.309  lp max -1582.0 median -1586.1  2.26 s/it
+[08:24:54] MCMC it   250  acc 0.310  lp max -1579.7 median -1587.2  2.26 s/it
+[08:25:52] MCMC it   275  acc 0.312  lp max -1580.8 median -1586.3  2.27 s/it
+[08:26:51] MCMC it   300  acc 0.313  lp max -1581.4 median -1585.9  2.27 s/it
+[08:27:48] MCMC it   325  acc 0.313  lp max -1580.6 median -1586.1  2.27 s/it
+[08:28:45] MCMC it   350  acc 0.311  lp max -1581.9 median -1586.0  2.27 s/it
+[08:29:41] MCMC it   375  acc 0.311  lp max -1581.1 median -1586.1  2.27 s/it
+[08:30:39] MCMC it   399  acc 0.311  lp max -1581.3 median -1585.5  2.28 s/it
+[08:30:39] MCMC continuation done, acceptance 0.311
+[08:30:42] continuing c1 from mcmc_chain_c1_cont60.npz (400 iterations) -> cont61
+[08:30:45] MCMC it     0  acc 0.333  lp max -1581.3 median -1585.8  2.26 s/it
+[08:31:44] MCMC it    25  acc 0.310  lp max -1581.7 median -1586.3  2.35 s/it
+[08:32:41] MCMC it    50  acc 0.299  lp max -1581.8 median -1585.6  2.32 s/it
+[08:33:41] MCMC it    75  acc 0.305  lp max -1582.0 median -1586.0  2.34 s/it
+[08:34:41] MCMC it   100  acc 0.308  lp max -1580.8 median -1585.0  2.36 s/it
+[08:35:41] MCMC it   125  acc 0.312  lp max -1581.8 median -1586.0  2.36 s/it
+[08:36:41] MCMC it   150  acc 0.317  lp max -1581.9 median -1586.9  2.37 s/it
+[08:37:39] MCMC it   175  acc 0.311  lp max -1581.9 median -1585.5  2.36 s/it
+[08:38:38] MCMC it   200  acc 0.310  lp max -1581.8 median -1586.4  2.36 s/it
+[08:39:36] MCMC it   225  acc 0.311  lp max -1581.4 median -1586.0  2.36 s/it
+[08:40:36] MCMC it   250  acc 0.311  lp max -1581.0 median -1586.8  2.37 s/it
+[08:41:43] MCMC it   275  acc 0.310  lp max -1580.8 median -1586.4  2.39 s/it
+[08:42:40] MCMC it   300  acc 0.312  lp max -1581.7 median -1586.8  2.38 s/it
+[08:43:35] MCMC it   325  acc 0.310  lp max -1578.9 median -1586.5  2.37 s/it
+[08:44:29] MCMC it   350  acc 0.309  lp max -1581.3 median -1586.8  2.35 s/it
+[08:45:24] MCMC it   375  acc 0.307  lp max -1581.2 median -1586.2  2.34 s/it
+[08:46:16] MCMC it   399  acc 0.307  lp max -1581.2 median -1585.3  2.33 s/it
+[08:46:16] MCMC continuation done, acceptance 0.307
+[08:46:18] continuing c1 from mcmc_chain_c1_cont61.npz (400 iterations) -> cont62
+[08:46:21] MCMC it     0  acc 0.306  lp max -1581.2 median -1585.1  2.22 s/it
+[08:47:14] MCMC it    25  acc 0.319  lp max -1582.0 median -1586.2  2.12 s/it
+[08:48:08] MCMC it    50  acc 0.311  lp max -1581.7 median -1584.9  2.14 s/it
+[08:49:03] MCMC it    75  acc 0.314  lp max -1580.9 median -1586.8  2.16 s/it
+[08:50:00] MCMC it   100  acc 0.312  lp max -1581.5 median -1585.8  2.19 s/it
+[08:51:03] MCMC it   125  acc 0.315  lp max -1581.4 median -1586.1  2.26 s/it
+[08:52:07] MCMC it   150  acc 0.313  lp max -1580.5 median -1586.3  2.30 s/it
+[08:53:12] MCMC it   175  acc 0.315  lp max -1580.1 median -1586.7  2.34 s/it
+[08:54:55] MCMC it   200  acc 0.314  lp max -1582.2 median -1586.9  2.57 s/it
+[08:56:40] MCMC it   225  acc 0.313  lp max -1581.6 median -1586.1  2.75 s/it
+[08:58:44] MCMC it   250  acc 0.311  lp max -1581.2 median -1586.2  2.97 s/it
+[09:00:54] MCMC it   275  acc 0.310  lp max -1581.7 median -1587.0  3.17 s/it
+[09:02:42] MCMC it   300  acc 0.308  lp max -1581.2 median -1586.9  3.27 s/it
+[09:04:31] MCMC it   325  acc 0.308  lp max -1581.2 median -1587.3  3.35 s/it
+[09:06:21] MCMC it   350  acc 0.308  lp max -1581.3 median -1585.7  3.42 s/it
+[09:08:36] MCMC it   375  acc 0.308  lp max -1582.9 median -1586.8  3.55 s/it
+[09:10:30] MCMC it   399  acc 0.307  lp max -1583.0 median -1586.0  3.63 s/it
+[09:10:30] MCMC continuation done, acceptance 0.307
+[09:10:33] continuing c1 from mcmc_chain_c1_cont62.npz (400 iterations) -> cont63
+[09:10:41] MCMC it     0  acc 0.361  lp max -1582.6 median -1586.1  4.83 s/it
+[09:13:17] MCMC it    25  acc 0.312  lp max -1581.1 median -1586.5  6.21 s/it
+[09:16:02] MCMC it    50  acc 0.304  lp max -1581.2 median -1585.7  6.40 s/it
+[09:20:43] MCMC it    75  acc 0.306  lp max -1581.4 median -1585.4  7.99 s/it
+[09:24:15] MCMC it   100  acc 0.306  lp max -1581.6 median -1585.5  8.11 s/it
+[09:27:22] MCMC it   125  acc 0.311  lp max -1580.9 median -1586.0  7.99 s/it
+[09:30:00] MCMC it   150  acc 0.308  lp max -1582.2 median -1585.7  7.71 s/it
+[09:32:49] MCMC it   175  acc 0.308  lp max -1580.4 median -1585.5  7.57 s/it
+[09:35:04] MCMC it   200  acc 0.311  lp max -1580.0 median -1585.8  7.31 s/it
+[09:36:40] MCMC it   225  acc 0.314  lp max -1580.8 median -1585.3  6.92 s/it
+[09:38:16] MCMC it   250  acc 0.314  lp max -1580.9 median -1586.0  6.61 s/it
+[09:39:39] MCMC it   275  acc 0.312  lp max -1582.1 median -1586.4  6.31 s/it
+[09:40:54] MCMC it   300  acc 0.311  lp max -1582.5 median -1586.4  6.04 s/it
+[09:41:57] MCMC it   325  acc 0.311  lp max -1582.4 median -1586.3  5.77 s/it
+[09:42:52] MCMC it   350  acc 0.313  lp max -1581.6 median -1586.5  5.52 s/it
+[09:43:44] MCMC it   375  acc 0.311  lp max -1581.2 median -1585.0  5.29 s/it
+[09:44:33] MCMC it   399  acc 0.309  lp max -1581.8 median -1585.9  5.09 s/it
+[09:44:33] MCMC continuation done, acceptance 0.309
+[09:44:36] continuing c1 from mcmc_chain_c1_cont63.npz (400 iterations) -> cont64
+[09:44:39] MCMC it     0  acc 0.306  lp max -1581.1 median -1586.0  2.03 s/it
+[09:45:30] MCMC it    25  acc 0.306  lp max -1581.4 median -1585.4  2.05 s/it
+[09:46:22] MCMC it    50  acc 0.314  lp max -1580.0 median -1585.2  2.07 s/it
+[09:47:14] MCMC it    75  acc 0.311  lp max -1582.1 median -1586.2  2.07 s/it
+[09:48:06] MCMC it   100  acc 0.311  lp max -1581.6 median -1585.8  2.07 s/it
+[09:48:58] MCMC it   125  acc 0.312  lp max -1580.8 median -1585.6  2.07 s/it
+[09:49:49] MCMC it   150  acc 0.315  lp max -1582.6 median -1586.7  2.07 s/it
+[09:50:40] MCMC it   175  acc 0.315  lp max -1582.4 median -1586.7  2.07 s/it
+[09:51:32] MCMC it   200  acc 0.315  lp max -1580.4 median -1586.1  2.06 s/it
+[09:52:24] MCMC it   225  acc 0.316  lp max -1581.3 median -1586.6  2.07 s/it
+[09:53:15] MCMC it   250  acc 0.314  lp max -1581.2 median -1586.6  2.06 s/it
+[09:54:07] MCMC it   275  acc 0.314  lp max -1581.7 median -1586.3  2.06 s/it
+[09:54:59] MCMC it   300  acc 0.316  lp max -1582.5 median -1586.6  2.07 s/it
+[09:55:50] MCMC it   325  acc 0.315  lp max -1580.9 median -1586.2  2.06 s/it
+[09:56:44] MCMC it   350  acc 0.318  lp max -1580.2 median -1586.3  2.07 s/it
+[09:57:47] MCMC it   375  acc 0.316  lp max -1581.4 median -1587.4  2.10 s/it
+[09:58:47] MCMC it   399  acc 0.315  lp max -1581.8 median -1586.2  2.13 s/it
+[09:58:47] MCMC continuation done, acceptance 0.315
+[09:58:49] continuing c1 from mcmc_chain_c1_cont64.npz (400 iterations) -> cont65
+[09:58:53] MCMC it     0  acc 0.306  lp max -1580.6 median -1586.2  2.37 s/it
+[09:59:55] MCMC it    25  acc 0.308  lp max -1581.4 median -1585.9  2.49 s/it
+[10:00:57] MCMC it    50  acc 0.315  lp max -1581.2 median -1585.3  2.48 s/it
+[10:01:59] MCMC it    75  acc 0.317  lp max -1579.9 median -1586.1  2.48 s/it
+[10:03:01] MCMC it   100  acc 0.317  lp max -1582.1 median -1586.7  2.48 s/it
+[10:04:03] MCMC it   125  acc 0.318  lp max -1581.3 median -1586.3  2.48 s/it
+[10:05:06] MCMC it   150  acc 0.315  lp max -1581.8 median -1585.7  2.49 s/it
+[10:06:05] MCMC it   175  acc 0.314  lp max -1582.1 median -1586.1  2.47 s/it
+[10:07:03] MCMC it   200  acc 0.310  lp max -1581.1 median -1587.0  2.45 s/it
+[10:08:02] MCMC it   225  acc 0.312  lp max -1583.0 median -1585.7  2.44 s/it
+[10:09:00] MCMC it   250  acc 0.312  lp max -1581.1 median -1587.3  2.43 s/it
+[10:09:59] MCMC it   275  acc 0.312  lp max -1581.3 median -1586.0  2.42 s/it
+[10:10:58] MCMC it   300  acc 0.310  lp max -1580.8 median -1586.2  2.42 s/it
+[10:11:57] MCMC it   325  acc 0.311  lp max -1580.7 median -1585.9  2.41 s/it
+[10:12:55] MCMC it   350  acc 0.312  lp max -1581.9 median -1586.4  2.41 s/it
+[10:13:55] MCMC it   375  acc 0.311  lp max -1582.1 median -1586.5  2.41 s/it
+[10:14:52] MCMC it   399  acc 0.309  lp max -1581.0 median -1586.4  2.40 s/it
+[10:14:52] MCMC continuation done, acceptance 0.309
+[04:24:45] continuing c1 from mcmc_chain_c1_cont65.npz (400 iterations) -> cont66
+[04:24:55] MCMC it     0  acc 0.333  lp max -1580.0 median -1585.8  2.50 s/it
+[04:26:09] MCMC it    25  acc 0.324  lp max -1580.9 median -1585.8  2.98 s/it
+[04:27:21] MCMC it    50  acc 0.321  lp max -1581.4 median -1586.5  2.92 s/it
+[04:28:33] MCMC it    75  acc 0.304  lp max -1581.2 median -1587.6  2.91 s/it
+[04:29:45] MCMC it   100  acc 0.309  lp max -1582.2 median -1586.7  2.90 s/it
+[04:30:57] MCMC it   125  acc 0.313  lp max -1582.7 median -1586.0  2.90 s/it
+[04:32:10] MCMC it   150  acc 0.308  lp max -1581.3 median -1586.8  2.90 s/it
+[04:33:24] MCMC it   175  acc 0.308  lp max -1580.8 median -1586.7  2.91 s/it
+[04:34:40] MCMC it   200  acc 0.307  lp max -1582.9 median -1587.4  2.93 s/it
+[04:35:55] MCMC it   225  acc 0.308  lp max -1581.6 median -1587.6  2.93 s/it
+[04:37:12] MCMC it   250  acc 0.307  lp max -1581.4 median -1586.0  2.95 s/it
+[04:38:34] MCMC it   275  acc 0.306  lp max -1582.2 median -1587.0  2.98 s/it
+[04:39:58] MCMC it   300  acc 0.305  lp max -1582.1 median -1585.9  3.01 s/it
+[04:41:20] MCMC it   325  acc 0.304  lp max -1580.6 median -1586.8  3.03 s/it
+[04:42:41] MCMC it   350  acc 0.304  lp max -1582.0 median -1587.5  3.04 s/it
+[04:43:59] MCMC it   375  acc 0.304  lp max -1581.6 median -1587.5  3.05 s/it
+[04:45:14] MCMC it   399  acc 0.302  lp max -1582.0 median -1587.1  3.05 s/it
+[04:45:14] MCMC continuation done, acceptance 0.302
+[04:45:18] continuing c1 from mcmc_chain_c1_cont66.npz (400 iterations) -> cont67
+[04:45:23] MCMC it     0  acc 0.278  lp max -1582.0 median -1587.1  3.08 s/it
+[04:46:43] MCMC it    25  acc 0.297  lp max -1580.9 median -1585.5  3.18 s/it
+[04:48:02] MCMC it    50  acc 0.316  lp max -1583.4 median -1586.8  3.16 s/it
+[04:49:20] MCMC it    75  acc 0.311  lp max -1581.4 median -1585.3  3.15 s/it
+[04:50:39] MCMC it   100  acc 0.313  lp max -1581.5 median -1586.8  3.15 s/it
+[04:51:58] MCMC it   125  acc 0.308  lp max -1581.5 median -1586.5  3.16 s/it
+[04:53:17] MCMC it   150  acc 0.304  lp max -1580.0 median -1585.9  3.15 s/it
+[04:54:37] MCMC it   175  acc 0.304  lp max -1581.9 median -1586.4  3.16 s/it
+[04:55:55] MCMC it   200  acc 0.304  lp max -1581.1 median -1585.4  3.16 s/it
+[04:57:11] MCMC it   225  acc 0.304  lp max -1581.6 median -1586.2  3.14 s/it
+[04:58:32] MCMC it   250  acc 0.307  lp max -1581.8 median -1587.2  3.16 s/it
+[04:59:55] MCMC it   275  acc 0.309  lp max -1581.4 median -1586.1  3.17 s/it
+[05:01:18] MCMC it   300  acc 0.310  lp max -1580.2 median -1586.2  3.18 s/it
+[05:02:41] MCMC it   325  acc 0.309  lp max -1580.6 median -1586.1  3.19 s/it
+[05:03:58] MCMC it   350  acc 0.307  lp max -1579.9 median -1586.2  3.18 s/it
+[05:05:14] MCMC it   375  acc 0.307  lp max -1579.9 median -1586.4  3.18 s/it
+[05:06:27] MCMC it   399  acc 0.307  lp max -1581.3 median -1586.0  3.17 s/it
+[05:06:27] MCMC continuation done, acceptance 0.307
+[05:06:31] continuing c1 from mcmc_chain_c1_cont67.npz (400 iterations) -> cont68
+[05:06:36] MCMC it     0  acc 0.306  lp max -1581.3 median -1585.5  3.12 s/it
+[05:07:53] MCMC it    25  acc 0.321  lp max -1581.0 median -1586.4  3.07 s/it
+[05:09:12] MCMC it    50  acc 0.314  lp max -1580.5 median -1586.4  3.13 s/it
+[05:10:30] MCMC it    75  acc 0.312  lp max -1582.6 median -1586.2  3.12 s/it
+[05:11:47] MCMC it   100  acc 0.315  lp max -1581.5 median -1585.2  3.11 s/it
+[05:13:04] MCMC it   125  acc 0.315  lp max -1580.3 median -1586.6  3.11 s/it
+[05:14:22] MCMC it   150  acc 0.313  lp max -1580.6 median -1585.7  3.11 s/it
+[05:15:40] MCMC it   175  acc 0.314  lp max -1580.8 median -1585.8  3.11 s/it
+[05:16:57] MCMC it   200  acc 0.310  lp max -1580.9 median -1586.6  3.11 s/it
+[05:18:14] MCMC it   225  acc 0.311  lp max -1580.3 median -1586.7  3.10 s/it
+[05:19:30] MCMC it   250  acc 0.312  lp max -1581.5 median -1585.6  3.10 s/it
+[05:20:48] MCMC it   275  acc 0.315  lp max -1581.3 median -1587.1  3.10 s/it
+[05:22:06] MCMC it   300  acc 0.314  lp max -1582.2 median -1586.2  3.10 s/it
+[05:23:25] MCMC it   325  acc 0.312  lp max -1581.0 median -1585.9  3.10 s/it
+[05:24:41] MCMC it   350  acc 0.314  lp max -1582.7 median -1585.1  3.10 s/it
+[05:25:58] MCMC it   375  acc 0.314  lp max -1582.1 median -1586.4  3.10 s/it
+[05:27:12] MCMC it   399  acc 0.312  lp max -1579.6 median -1586.0  3.10 s/it
+[05:27:13] MCMC continuation done, acceptance 0.312
+[05:27:16] continuing c1 from mcmc_chain_c1_cont68.npz (400 iterations) -> cont69
+[05:27:21] MCMC it     0  acc 0.361  lp max -1579.6 median -1585.9  3.01 s/it
+[05:28:40] MCMC it    25  acc 0.311  lp max -1582.0 median -1586.0  3.13 s/it
+[05:29:57] MCMC it    50  acc 0.312  lp max -1581.0 median -1586.4  3.11 s/it
+[05:31:14] MCMC it    75  acc 0.317  lp max -1581.8 median -1586.4  3.10 s/it
+[05:32:32] MCMC it   100  acc 0.318  lp max -1581.1 median -1585.9  3.11 s/it
+[05:33:50] MCMC it   125  acc 0.320  lp max -1581.1 median -1585.2  3.11 s/it
+[05:35:08] MCMC it   150  acc 0.313  lp max -1582.3 median -1585.5  3.11 s/it
+[05:36:26] MCMC it   175  acc 0.313  lp max -1581.0 median -1586.5  3.11 s/it
+[05:37:43] MCMC it   200  acc 0.311  lp max -1581.9 median -1585.5  3.11 s/it
+[05:39:01] MCMC it   225  acc 0.314  lp max -1581.3 median -1585.3  3.11 s/it
+[05:40:18] MCMC it   250  acc 0.311  lp max -1580.9 median -1586.7  3.11 s/it
+[05:41:35] MCMC it   275  acc 0.310  lp max -1582.0 median -1586.0  3.10 s/it
+[05:42:51] MCMC it   300  acc 0.309  lp max -1581.1 median -1585.6  3.10 s/it
+[05:44:04] MCMC it   325  acc 0.309  lp max -1582.3 median -1586.5  3.08 s/it
+[05:45:17] MCMC it   350  acc 0.310  lp max -1581.5 median -1585.9  3.07 s/it
+[05:46:31] MCMC it   375  acc 0.309  lp max -1582.9 median -1586.6  3.06 s/it
+[05:47:41] MCMC it   399  acc 0.310  lp max -1581.6 median -1585.8  3.06 s/it
+[05:47:41] MCMC continuation done, acceptance 0.310
+[05:47:44] continuing c1 from mcmc_chain_c1_cont69.npz (400 iterations) -> cont70
+[05:47:49] MCMC it     0  acc 0.194  lp max -1581.6 median -1586.5  2.91 s/it
+[05:49:01] MCMC it    25  acc 0.313  lp max -1581.9 median -1586.2  2.88 s/it
+[05:50:13] MCMC it    50  acc 0.313  lp max -1581.0 median -1586.5  2.88 s/it
+[05:51:25] MCMC it    75  acc 0.305  lp max -1581.1 median -1586.7  2.89 s/it
+[05:52:38] MCMC it   100  acc 0.310  lp max -1582.7 median -1586.1  2.89 s/it
+[05:53:50] MCMC it   125  acc 0.310  lp max -1582.6 median -1586.1  2.89 s/it
+[05:55:02] MCMC it   150  acc 0.310  lp max -1579.9 median -1585.8  2.89 s/it
+[05:56:15] MCMC it   175  acc 0.310  lp max -1581.9 median -1586.1  2.89 s/it
+[05:57:28] MCMC it   200  acc 0.309  lp max -1581.9 median -1586.2  2.90 s/it
+[05:58:41] MCMC it   225  acc 0.312  lp max -1579.3 median -1586.1  2.90 s/it
+[05:59:53] MCMC it   250  acc 0.314  lp max -1580.5 median -1585.1  2.90 s/it
+[06:01:07] MCMC it   275  acc 0.316  lp max -1581.4 median -1586.2  2.90 s/it
+[06:02:20] MCMC it   300  acc 0.315  lp max -1582.1 median -1586.0  2.90 s/it
+[06:03:33] MCMC it   325  acc 0.318  lp max -1580.7 median -1586.9  2.91 s/it
+[06:04:45] MCMC it   350  acc 0.316  lp max -1580.7 median -1586.0  2.90 s/it
+[06:05:58] MCMC it   375  acc 0.316  lp max -1583.4 median -1586.9  2.90 s/it
+[06:07:06] MCMC it   399  acc 0.315  lp max -1580.9 median -1585.8  2.90 s/it
+[06:07:06] MCMC continuation done, acceptance 0.315
+[06:07:09] continuing c1 from mcmc_chain_c1_cont70.npz (400 iterations) -> cont71
+[06:07:14] MCMC it     0  acc 0.361  lp max -1582.6 median -1586.1  2.80 s/it
+[06:08:27] MCMC it    25  acc 0.318  lp max -1580.7 median -1585.5  2.92 s/it
+[06:09:40] MCMC it    50  acc 0.315  lp max -1581.7 median -1585.3  2.91 s/it
+[06:10:52] MCMC it    75  acc 0.310  lp max -1579.6 median -1586.6  2.90 s/it
+[06:12:04] MCMC it   100  acc 0.313  lp max -1581.6 median -1586.6  2.89 s/it
+[06:13:15] MCMC it   125  acc 0.313  lp max -1581.5 median -1586.4  2.89 s/it
+[06:14:28] MCMC it   150  acc 0.316  lp max -1582.1 median -1586.2  2.90 s/it
+[06:15:41] MCMC it   175  acc 0.317  lp max -1581.6 median -1586.4  2.90 s/it
+[06:16:54] MCMC it   200  acc 0.318  lp max -1581.1 median -1586.2  2.90 s/it
+[06:18:06] MCMC it   225  acc 0.321  lp max -1581.2 median -1585.6  2.90 s/it
+[06:19:19] MCMC it   250  acc 0.320  lp max -1582.1 median -1585.9  2.90 s/it
+[06:20:31] MCMC it   275  acc 0.318  lp max -1580.6 median -1586.3  2.90 s/it
+[06:21:44] MCMC it   300  acc 0.316  lp max -1581.2 median -1586.5  2.90 s/it
+[06:22:56] MCMC it   325  acc 0.317  lp max -1580.8 median -1585.8  2.90 s/it
+[06:24:09] MCMC it   350  acc 0.317  lp max -1582.9 median -1586.0  2.90 s/it
+[06:25:21] MCMC it   375  acc 0.316  lp max -1581.4 median -1585.4  2.90 s/it
+[06:26:31] MCMC it   399  acc 0.316  lp max -1581.5 median -1586.2  2.90 s/it
+[06:26:31] MCMC continuation done, acceptance 0.316
+[06:26:34] continuing c1 from mcmc_chain_c1_cont71.npz (400 iterations) -> cont72
+[06:26:39] MCMC it     0  acc 0.278  lp max -1581.5 median -1585.7  2.93 s/it
+[06:27:51] MCMC it    25  acc 0.295  lp max -1580.6 median -1586.0  2.91 s/it
+[06:29:04] MCMC it    50  acc 0.285  lp max -1582.4 median -1586.3  2.90 s/it
+[06:30:16] MCMC it    75  acc 0.297  lp max -1581.0 median -1585.8  2.90 s/it
+[06:31:29] MCMC it   100  acc 0.296  lp max -1582.5 median -1586.3  2.90 s/it
+[06:32:42] MCMC it   125  acc 0.301  lp max -1581.3 median -1585.5  2.90 s/it
+[06:33:54] MCMC it   150  acc 0.302  lp max -1580.5 median -1586.3  2.90 s/it
+[06:35:06] MCMC it   175  acc 0.305  lp max -1580.9 median -1586.7  2.90 s/it
+[06:36:18] MCMC it   200  acc 0.302  lp max -1582.4 median -1586.2  2.90 s/it
+[06:37:31] MCMC it   225  acc 0.299  lp max -1581.8 median -1585.7  2.90 s/it
+[06:38:42] MCMC it   250  acc 0.295  lp max -1582.1 median -1586.6  2.90 s/it
+[06:39:55] MCMC it   275  acc 0.297  lp max -1581.2 median -1587.2  2.89 s/it
+[06:41:07] MCMC it   300  acc 0.298  lp max -1581.8 median -1586.2  2.90 s/it
+[06:42:20] MCMC it   325  acc 0.300  lp max -1581.1 median -1585.0  2.90 s/it
+[06:43:32] MCMC it   350  acc 0.300  lp max -1581.3 median -1586.1  2.90 s/it
+[06:44:44] MCMC it   375  acc 0.301  lp max -1580.4 median -1585.6  2.90 s/it
+[06:45:54] MCMC it   399  acc 0.302  lp max -1581.2 median -1586.3  2.90 s/it
+[06:45:54] MCMC continuation done, acceptance 0.302
+[06:45:57] continuing c1 from mcmc_chain_c1_cont72.npz (400 iterations) -> cont73
+[06:46:02] MCMC it     0  acc 0.222  lp max -1581.2 median -1586.1  2.83 s/it
+[06:47:14] MCMC it    25  acc 0.309  lp max -1580.2 median -1585.7  2.88 s/it
+[06:48:26] MCMC it    50  acc 0.304  lp max -1582.8 median -1586.5  2.88 s/it
+[06:49:39] MCMC it    75  acc 0.303  lp max -1580.5 median -1586.4  2.89 s/it
+[06:50:51] MCMC it   100  acc 0.308  lp max -1581.5 median -1586.1  2.89 s/it
+[06:52:03] MCMC it   125  acc 0.312  lp max -1581.1 median -1586.5  2.89 s/it
+[06:53:15] MCMC it   150  acc 0.311  lp max -1581.6 median -1585.9  2.89 s/it
+[06:54:28] MCMC it   175  acc 0.314  lp max -1579.5 median -1586.1  2.89 s/it
+[06:55:40] MCMC it   200  acc 0.314  lp max -1580.8 median -1585.4  2.89 s/it
+[06:56:52] MCMC it   225  acc 0.316  lp max -1581.2 median -1585.4  2.89 s/it
+[06:58:05] MCMC it   250  acc 0.315  lp max -1580.8 median -1586.8  2.89 s/it
+[06:59:17] MCMC it   275  acc 0.313  lp max -1581.5 median -1586.2  2.89 s/it
+[07:00:29] MCMC it   300  acc 0.312  lp max -1580.5 median -1585.6  2.89 s/it
+[07:01:42] MCMC it   325  acc 0.316  lp max -1581.0 median -1585.3  2.89 s/it
+[07:02:54] MCMC it   350  acc 0.315  lp max -1581.6 median -1586.3  2.89 s/it
+[07:04:08] MCMC it   375  acc 0.316  lp max -1581.2 median -1586.6  2.89 s/it
+[07:05:17] MCMC it   399  acc 0.314  lp max -1582.4 median -1586.1  2.89 s/it
+[07:05:17] MCMC continuation done, acceptance 0.314
+[07:05:20] continuing c1 from mcmc_chain_c1_cont73.npz (400 iterations) -> cont74
+[07:05:24] MCMC it     0  acc 0.278  lp max -1580.9 median -1585.9  2.93 s/it
+[07:06:37] MCMC it    25  acc 0.292  lp max -1581.8 median -1586.0  2.89 s/it
+[07:07:49] MCMC it    50  acc 0.299  lp max -1582.1 median -1585.8  2.90 s/it
+[07:09:02] MCMC it    75  acc 0.302  lp max -1581.4 median -1586.9  2.90 s/it
+[07:10:14] MCMC it   100  acc 0.297  lp max -1582.8 median -1586.3  2.89 s/it
+[07:11:25] MCMC it   125  acc 0.298  lp max -1580.8 median -1586.4  2.89 s/it
+[07:12:38] MCMC it   150  acc 0.299  lp max -1582.2 median -1585.9  2.89 s/it
+[07:13:51] MCMC it   175  acc 0.304  lp max -1580.6 median -1585.0  2.89 s/it
+[07:15:03] MCMC it   200  acc 0.308  lp max -1579.9 median -1585.7  2.89 s/it
+[07:16:16] MCMC it   225  acc 0.307  lp max -1581.1 median -1585.5  2.89 s/it
+[07:17:29] MCMC it   250  acc 0.309  lp max -1581.4 median -1586.1  2.90 s/it
+[07:18:39] MCMC it   275  acc 0.311  lp max -1582.3 median -1585.4  2.89 s/it
+[07:19:52] MCMC it   300  acc 0.312  lp max -1580.1 median -1585.9  2.89 s/it
+[07:21:04] MCMC it   325  acc 0.314  lp max -1581.5 median -1585.2  2.89 s/it
+[07:22:17] MCMC it   350  acc 0.313  lp max -1581.5 median -1585.1  2.89 s/it
+[07:23:29] MCMC it   375  acc 0.313  lp max -1582.4 median -1585.3  2.89 s/it
+[07:24:40] MCMC it   399  acc 0.313  lp max -1580.8 median -1586.1  2.90 s/it
+[07:24:40] MCMC continuation done, acceptance 0.313
+[07:24:43] continuing c1 from mcmc_chain_c1_cont74.npz (400 iterations) -> cont75
+[07:24:48] MCMC it     0  acc 0.361  lp max -1581.1 median -1586.3  3.06 s/it
+[07:26:01] MCMC it    25  acc 0.338  lp max -1582.9 median -1586.5  2.94 s/it
+[07:27:14] MCMC it    50  acc 0.323  lp max -1580.8 median -1585.6  2.93 s/it
+[07:28:27] MCMC it    75  acc 0.313  lp max -1581.2 median -1586.3  2.92 s/it
+[07:29:40] MCMC it   100  acc 0.305  lp max -1582.1 median -1585.9  2.92 s/it
+[07:30:53] MCMC it   125  acc 0.307  lp max -1581.4 median -1586.3  2.92 s/it
+[07:32:10] MCMC it   150  acc 0.305  lp max -1580.6 median -1586.0  2.95 s/it
+[07:33:35] MCMC it   175  acc 0.305  lp max -1579.8 median -1586.4  3.01 s/it
+[07:34:35] MCMC it   200  acc 0.307  lp max -1581.5 median -1586.6  2.93 s/it
+[07:35:38] MCMC it   225  acc 0.310  lp max -1581.8 median -1586.6  2.89 s/it
+[07:36:42] MCMC it   250  acc 0.310  lp max -1583.0 median -1586.2  2.86 s/it
+[07:37:47] MCMC it   275  acc 0.311  lp max -1581.6 median -1586.6  2.83 s/it
+[07:38:49] MCMC it   300  acc 0.308  lp max -1582.1 median -1586.2  2.80 s/it
+[07:39:58] MCMC it   325  acc 0.309  lp max -1580.5 median -1586.2  2.80 s/it
+[07:40:59] MCMC it   350  acc 0.310  lp max -1581.2 median -1585.8  2.78 s/it
+[07:42:00] MCMC it   375  acc 0.311  lp max -1582.8 median -1586.7  2.75 s/it
+[07:42:58] MCMC it   399  acc 0.310  lp max -1581.0 median -1587.9  2.73 s/it
+[07:42:58] MCMC continuation done, acceptance 0.310
+[07:43:01] continuing c1 from mcmc_chain_c1_cont75.npz (400 iterations) -> cont76
+[07:43:04] MCMC it     0  acc 0.333  lp max -1581.0 median -1586.5  2.36 s/it
+[07:44:04] MCMC it    25  acc 0.348  lp max -1580.7 median -1585.6  2.38 s/it
+[07:45:16] MCMC it    50  acc 0.325  lp max -1581.4 median -1586.1  2.62 s/it
+[07:46:31] MCMC it    75  acc 0.315  lp max -1580.1 median -1585.5  2.75 s/it
+[07:47:51] MCMC it   100  acc 0.316  lp max -1581.8 median -1586.1  2.86 s/it
+[07:49:08] MCMC it   125  acc 0.313  lp max -1581.2 median -1587.1  2.90 s/it
+[07:50:23] MCMC it   150  acc 0.312  lp max -1580.2 median -1586.5  2.92 s/it
+[07:51:36] MCMC it   175  acc 0.312  lp max -1581.3 median -1586.7  2.92 s/it
+[07:52:51] MCMC it   200  acc 0.316  lp max -1581.1 median -1587.4  2.93 s/it
+[07:54:01] MCMC it   225  acc 0.316  lp max -1581.4 median -1587.1  2.92 s/it
+[07:55:11] MCMC it   250  acc 0.314  lp max -1582.8 median -1586.4  2.91 s/it
+[07:56:38] MCMC it   275  acc 0.314  lp max -1579.1 median -1587.2  2.96 s/it
+[07:57:48] MCMC it   300  acc 0.314  lp max -1581.6 median -1584.9  2.94 s/it
+[07:59:00] MCMC it   325  acc 0.312  lp max -1581.0 median -1586.7  2.94 s/it
+[08:00:09] MCMC it   350  acc 0.311  lp max -1581.1 median -1586.6  2.93 s/it
+[08:01:18] MCMC it   375  acc 0.311  lp max -1580.6 median -1585.7  2.92 s/it
+[08:02:31] MCMC it   399  acc 0.310  lp max -1583.1 median -1587.0  2.92 s/it
+[08:02:31] MCMC continuation done, acceptance 0.310
+[08:02:35] continuing c1 from mcmc_chain_c1_cont76.npz (400 iterations) -> cont77
+[08:02:41] MCMC it     0  acc 0.222  lp max -1582.3 median -1586.8  3.45 s/it
+[08:04:02] MCMC it    25  acc 0.277  lp max -1582.7 median -1586.7  3.26 s/it
+[08:05:19] MCMC it    50  acc 0.291  lp max -1580.8 median -1586.4  3.16 s/it
+[08:06:38] MCMC it    75  acc 0.302  lp max -1581.0 median -1586.9  3.17 s/it
+[08:09:05] MCMC it   100  acc 0.304  lp max -1582.2 median -1586.0  3.84 s/it
+[08:10:36] MCMC it   125  acc 0.304  lp max -1581.2 median -1585.4  3.80 s/it
+[08:12:18] MCMC it   150  acc 0.307  lp max -1580.5 median -1586.7  3.85 s/it
+[08:13:30] MCMC it   175  acc 0.306  lp max -1581.9 median -1587.0  3.71 s/it
+[08:14:35] MCMC it   200  acc 0.306  lp max -1582.9 median -1586.3  3.57 s/it
+[08:15:43] MCMC it   225  acc 0.302  lp max -1580.2 median -1586.2  3.48 s/it
+[08:16:48] MCMC it   250  acc 0.304  lp max -1580.7 median -1584.9  3.39 s/it
+[08:17:53] MCMC it   275  acc 0.307  lp max -1580.4 median -1586.7  3.32 s/it
+[08:18:58] MCMC it   300  acc 0.308  lp max -1580.2 median -1586.7  3.26 s/it
+[08:20:04] MCMC it   325  acc 0.309  lp max -1580.7 median -1586.3  3.21 s/it
+[08:21:09] MCMC it   350  acc 0.311  lp max -1581.3 median -1585.8  3.17 s/it
+[08:22:14] MCMC it   375  acc 0.310  lp max -1581.8 median -1587.1  3.13 s/it
+[08:23:14] MCMC it   399  acc 0.308  lp max -1582.7 median -1587.0  3.09 s/it
+[08:23:14] MCMC continuation done, acceptance 0.308
+[08:23:17] continuing c1 from mcmc_chain_c1_cont77.npz (400 iterations) -> cont78
+[08:23:20] MCMC it     0  acc 0.389  lp max -1582.6 median -1586.1  2.35 s/it
+[08:24:17] MCMC it    25  acc 0.319  lp max -1582.5 median -1585.7  2.29 s/it
+[08:25:15] MCMC it    50  acc 0.323  lp max -1582.4 median -1586.2  2.30 s/it
+[08:26:12] MCMC it    75  acc 0.317  lp max -1581.4 median -1586.5  2.29 s/it
+[08:27:10] MCMC it   100  acc 0.315  lp max -1581.5 median -1586.6  2.30 s/it
+[08:28:13] MCMC it   125  acc 0.313  lp max -1582.4 median -1586.1  2.34 s/it
+[08:29:17] MCMC it   150  acc 0.311  lp max -1580.7 median -1585.4  2.38 s/it
+[08:30:17] MCMC it   175  acc 0.311  lp max -1581.6 median -1586.0  2.38 s/it
+[08:31:14] MCMC it   200  acc 0.309  lp max -1582.2 median -1586.7  2.37 s/it
+[08:32:10] MCMC it   225  acc 0.307  lp max -1581.8 median -1585.9  2.36 s/it
+[08:33:20] MCMC it   250  acc 0.305  lp max -1582.1 median -1585.9  2.40 s/it
+[08:34:24] MCMC it   275  acc 0.304  lp max -1579.8 median -1585.3  2.41 s/it
+[08:35:21] MCMC it   300  acc 0.303  lp max -1582.6 median -1585.8  2.40 s/it
+[08:36:18] MCMC it   325  acc 0.303  lp max -1580.1 median -1586.0  2.39 s/it
+[08:37:14] MCMC it   350  acc 0.303  lp max -1581.4 median -1585.6  2.38 s/it
+[08:38:10] MCMC it   375  acc 0.304  lp max -1583.2 median -1586.0  2.37 s/it
+[08:39:03] MCMC it   399  acc 0.304  lp max -1581.8 median -1586.9  2.36 s/it
+[08:39:03] MCMC continuation done, acceptance 0.304
+[08:39:06] continuing c1 from mcmc_chain_c1_cont78.npz (400 iterations) -> cont79
+[08:39:09] MCMC it     0  acc 0.333  lp max -1581.8 median -1586.4  2.13 s/it
+[08:40:05] MCMC it    25  acc 0.304  lp max -1582.1 median -1586.1  2.23 s/it
+[08:41:02] MCMC it    50  acc 0.316  lp max -1580.5 median -1585.5  2.25 s/it
+[08:41:57] MCMC it    75  acc 0.303  lp max -1581.4 median -1586.1  2.24 s/it
+[08:42:53] MCMC it   100  acc 0.312  lp max -1581.6 median -1586.5  2.24 s/it
+[08:43:49] MCMC it   125  acc 0.313  lp max -1580.5 median -1587.1  2.23 s/it
+[08:44:44] MCMC it   150  acc 0.311  lp max -1582.1 median -1587.4  2.23 s/it
+[08:45:41] MCMC it   175  acc 0.312  lp max -1581.5 median -1586.9  2.24 s/it
+[08:46:36] MCMC it   200  acc 0.310  lp max -1581.7 median -1585.8  2.23 s/it
+[08:47:31] MCMC it   225  acc 0.309  lp max -1581.4 median -1586.7  2.23 s/it
+[08:48:27] MCMC it   250  acc 0.309  lp max -1580.5 median -1586.2  2.23 s/it
+[08:49:22] MCMC it   275  acc 0.310  lp max -1580.7 median -1587.2  2.23 s/it
+[08:50:18] MCMC it   300  acc 0.307  lp max -1580.5 median -1586.2  2.23 s/it
+[08:51:14] MCMC it   325  acc 0.305  lp max -1581.4 median -1586.2  2.23 s/it
+[08:52:09] MCMC it   350  acc 0.304  lp max -1581.2 median -1586.1  2.23 s/it
+[08:53:05] MCMC it   375  acc 0.305  lp max -1582.1 median -1586.3  2.23 s/it
+[08:53:58] MCMC it   399  acc 0.306  lp max -1581.8 median -1586.5  2.23 s/it
+[08:53:58] MCMC continuation done, acceptance 0.306
+[08:54:01] continuing c1 from mcmc_chain_c1_cont79.npz (400 iterations) -> cont80
+[08:54:04] MCMC it     0  acc 0.361  lp max -1581.8 median -1586.4  2.18 s/it
+[08:54:59] MCMC it    25  acc 0.316  lp max -1582.7 median -1586.9  2.20 s/it
+[08:55:55] MCMC it    50  acc 0.307  lp max -1581.0 median -1586.7  2.22 s/it
+[08:56:51] MCMC it    75  acc 0.318  lp max -1581.2 median -1585.9  2.22 s/it
+[08:57:46] MCMC it   100  acc 0.311  lp max -1582.9 median -1586.8  2.21 s/it
+[08:58:41] MCMC it   125  acc 0.306  lp max -1581.8 median -1585.8  2.21 s/it
+[08:59:36] MCMC it   150  acc 0.309  lp max -1580.5 median -1585.6  2.21 s/it
+[09:00:32] MCMC it   175  acc 0.309  lp max -1581.2 median -1587.1  2.22 s/it
+[09:01:30] MCMC it   200  acc 0.306  lp max -1580.2 median -1586.0  2.23 s/it
+[10:25:16] MCMC it   225  acc 0.306  lp max -1581.1 median -1586.6  24.22 s/it
+[10:26:22] MCMC it   250  acc 0.306  lp max -1581.0 median -1585.4  22.07 s/it
+[10:27:00] MCMC it   275  acc 0.310  lp max -1580.7 median -1587.5  20.21 s/it
+[10:27:39] MCMC it   300  acc 0.310  lp max -1581.5 median -1586.9  18.66 s/it
+[10:28:23] MCMC it   325  acc 0.312  lp max -1581.4 median -1585.5  17.36 s/it
+[10:29:13] MCMC it   350  acc 0.310  lp max -1580.9 median -1586.6  16.27 s/it
+[10:29:58] MCMC it   375  acc 0.310  lp max -1583.0 median -1586.1  15.31 s/it
+[10:31:01] MCMC it   399  acc 0.311  lp max -1579.7 median -1586.7  14.55 s/it
+[10:31:01] MCMC continuation done, acceptance 0.311
+[10:31:06] continuing c1 from mcmc_chain_c1_cont80.npz (400 iterations) -> cont81
+[10:31:11] MCMC it     0  acc 0.306  lp max -1581.6 median -1587.1  3.30 s/it
+[10:32:26] MCMC it    25  acc 0.299  lp max -1581.9 median -1585.7  3.01 s/it
+[10:33:43] MCMC it    50  acc 0.296  lp max -1582.1 median -1585.3  3.04 s/it
+[10:34:58] MCMC it    75  acc 0.302  lp max -1582.1 median -1586.0  3.03 s/it
+[10:35:53] MCMC it   100  acc 0.301  lp max -1580.4 median -1585.9  2.82 s/it
+[10:36:46] MCMC it   125  acc 0.300  lp max -1580.9 median -1586.7  2.68 s/it
+[10:37:33] MCMC it   150  acc 0.304  lp max -1580.5 median -1585.5  2.55 s/it
+[10:38:27] MCMC it   175  acc 0.305  lp max -1582.8 median -1586.0  2.50 s/it
+[10:39:29] MCMC it   200  acc 0.309  lp max -1580.4 median -1586.6  2.49 s/it
+[10:40:46] MCMC it   225  acc 0.308  lp max -1581.6 median -1586.6  2.56 s/it
+[10:42:06] MCMC it   250  acc 0.310  lp max -1580.8 median -1585.6  2.62 s/it
+[10:43:26] MCMC it   275  acc 0.309  lp max -1579.5 median -1586.5  2.68 s/it
+[10:44:46] MCMC it   300  acc 0.310  lp max -1582.4 median -1586.0  2.72 s/it
+[10:46:05] MCMC it   325  acc 0.313  lp max -1580.9 median -1585.1  2.75 s/it
+[10:47:24] MCMC it   350  acc 0.313  lp max -1580.6 median -1587.4  2.78 s/it
+[10:48:43] MCMC it   375  acc 0.313  lp max -1580.8 median -1586.1  2.81 s/it
+[10:50:01] MCMC it   399  acc 0.315  lp max -1581.2 median -1585.5  2.83 s/it
+[10:50:01] MCMC continuation done, acceptance 0.315
+[10:50:06] continuing c1 from mcmc_chain_c1_cont81.npz (400 iterations) -> cont82
+[10:50:11] MCMC it     0  acc 0.333  lp max -1581.7 median -1585.6  3.26 s/it
+[10:51:32] MCMC it    25  acc 0.307  lp max -1580.4 median -1586.9  3.23 s/it
+[10:52:49] MCMC it    50  acc 0.313  lp max -1580.4 median -1586.1  3.16 s/it
+[10:54:07] MCMC it    75  acc 0.311  lp max -1581.7 median -1587.5  3.14 s/it
+[10:55:25] MCMC it   100  acc 0.315  lp max -1579.8 median -1585.4  3.14 s/it
+[10:56:44] MCMC it   125  acc 0.308  lp max -1581.0 median -1586.1  3.14 s/it
+[10:58:02] MCMC it   150  acc 0.308  lp max -1580.4 median -1585.8  3.14 s/it
+[10:59:20] MCMC it   175  acc 0.310  lp max -1581.5 median -1586.2  3.14 s/it
+[11:00:38] MCMC it   200  acc 0.308  lp max -1583.6 median -1587.0  3.13 s/it
+[11:01:57] MCMC it   225  acc 0.306  lp max -1582.1 median -1586.6  3.14 s/it
+[11:03:15] MCMC it   250  acc 0.305  lp max -1581.4 median -1587.3  3.14 s/it
+[11:04:33] MCMC it   275  acc 0.307  lp max -1581.6 median -1586.1  3.13 s/it
+[11:05:50] MCMC it   300  acc 0.310  lp max -1580.6 median -1587.0  3.13 s/it
+[11:07:06] MCMC it   325  acc 0.312  lp max -1581.0 median -1586.3  3.12 s/it
+[11:08:22] MCMC it   350  acc 0.312  lp max -1581.9 median -1585.8  3.12 s/it
+[11:09:38] MCMC it   375  acc 0.312  lp max -1582.6 median -1585.7  3.11 s/it
+[11:10:52] MCMC it   399  acc 0.313  lp max -1580.5 median -1586.4  3.11 s/it
+[11:10:52] MCMC continuation done, acceptance 0.313
+[11:10:57] continuing c1 from mcmc_chain_c1_cont82.npz (400 iterations) -> cont83
+[11:11:01] MCMC it     0  acc 0.222  lp max -1580.5 median -1586.3  2.94 s/it
+[11:12:17] MCMC it    25  acc 0.291  lp max -1581.9 median -1586.3  3.02 s/it
+[11:13:32] MCMC it    50  acc 0.307  lp max -1579.3 median -1586.2  3.02 s/it
+[11:14:46] MCMC it    75  acc 0.315  lp max -1581.0 median -1585.6  3.00 s/it
+[11:16:02] MCMC it   100  acc 0.315  lp max -1581.9 median -1587.0  3.01 s/it
+[11:17:18] MCMC it   125  acc 0.323  lp max -1580.5 median -1585.2  3.01 s/it
+[11:18:33] MCMC it   150  acc 0.320  lp max -1582.6 median -1586.8  3.01 s/it
+[11:19:49] MCMC it   175  acc 0.318  lp max -1582.3 median -1587.4  3.01 s/it
+[11:21:08] MCMC it   200  acc 0.317  lp max -1580.5 median -1586.1  3.03 s/it
+[11:22:23] MCMC it   225  acc 0.315  lp max -1582.5 median -1586.8  3.03 s/it
+[11:23:39] MCMC it   250  acc 0.314  lp max -1580.5 median -1586.8  3.03 s/it
+[11:24:55] MCMC it   275  acc 0.314  lp max -1581.2 median -1586.8  3.03 s/it
+[11:26:14] MCMC it   300  acc 0.313  lp max -1582.2 median -1585.6  3.04 s/it
+[11:27:31] MCMC it   325  acc 0.315  lp max -1581.6 median -1586.5  3.05 s/it
+[11:28:47] MCMC it   350  acc 0.314  lp max -1583.3 median -1585.9  3.05 s/it
+[11:30:29] MCMC it   375  acc 0.316  lp max -1583.1 median -1586.2  3.11 s/it
+[11:32:15] MCMC it   399  acc 0.315  lp max -1580.2 median -1586.0  3.19 s/it
+[11:32:15] MCMC continuation done, acceptance 0.315
+[11:32:20] continuing c1 from mcmc_chain_c1_cont83.npz (400 iterations) -> cont84
+[11:32:27] MCMC it     0  acc 0.222  lp max -1581.4 median -1586.7  4.27 s/it
+[11:34:14] MCMC it    25  acc 0.333  lp max -1581.6 median -1585.8  4.30 s/it
+[11:36:02] MCMC it    50  acc 0.320  lp max -1582.2 median -1586.9  4.31 s/it
+[11:37:49] MCMC it    75  acc 0.314  lp max -1581.3 median -1585.5  4.30 s/it
+[11:39:33] MCMC it   100  acc 0.317  lp max -1581.3 median -1586.0  4.27 s/it
+[11:41:20] MCMC it   125  acc 0.320  lp max -1580.4 median -1587.0  4.27 s/it
+[11:43:05] MCMC it   150  acc 0.318  lp max -1581.1 median -1585.7  4.26 s/it
+[11:44:50] MCMC it   175  acc 0.316  lp max -1580.5 median -1585.8  4.25 s/it
+[11:46:38] MCMC it   200  acc 0.314  lp max -1581.7 median -1587.0  4.25 s/it
+[11:48:22] MCMC it   225  acc 0.315  lp max -1581.8 median -1586.1  4.25 s/it
+[11:50:08] MCMC it   250  acc 0.313  lp max -1580.5 median -1586.0  4.25 s/it
+[11:51:56] MCMC it   275  acc 0.312  lp max -1580.6 median -1585.7  4.25 s/it
+[11:53:40] MCMC it   300  acc 0.311  lp max -1582.3 median -1585.7  4.25 s/it
+[11:55:25] MCMC it   325  acc 0.312  lp max -1582.2 median -1585.8  4.24 s/it
+[11:57:14] MCMC it   350  acc 0.312  lp max -1580.3 median -1585.3  4.25 s/it
+[11:59:16] MCMC it   375  acc 0.312  lp max -1580.6 median -1586.3  4.29 s/it
+[12:01:42] MCMC it   399  acc 0.311  lp max -1580.7 median -1586.4  4.40 s/it
+[12:01:42] MCMC continuation done, acceptance 0.311
+[12:01:51] continuing c1 from mcmc_chain_c1_cont84.npz (400 iterations) -> cont85
+[12:02:01] MCMC it     0  acc 0.333  lp max -1580.7 median -1585.7  6.02 s/it
+[12:04:18] MCMC it    25  acc 0.321  lp max -1581.7 median -1586.5  5.48 s/it
+[12:06:57] MCMC it    50  acc 0.322  lp max -1581.2 median -1584.8  5.91 s/it
+[12:09:20] MCMC it    75  acc 0.329  lp max -1580.5 median -1587.1  5.85 s/it
+[12:11:32] MCMC it   100  acc 0.329  lp max -1583.0 median -1586.3  5.71 s/it
+[12:13:46] MCMC it   125  acc 0.324  lp max -1581.1 median -1586.8  5.64 s/it
+[12:16:04] MCMC it   150  acc 0.321  lp max -1581.1 median -1586.1  5.62 s/it
+[12:17:31] MCMC it   175  acc 0.318  lp max -1581.1 median -1587.0  5.32 s/it
+[12:18:43] MCMC it   200  acc 0.315  lp max -1581.4 median -1585.8  5.01 s/it
+[12:19:57] MCMC it   225  acc 0.312  lp max -1581.2 median -1585.9  4.79 s/it
+[12:21:13] MCMC it   250  acc 0.311  lp max -1581.6 median -1586.3  4.61 s/it
+[12:22:30] MCMC it   275  acc 0.312  lp max -1582.3 median -1587.4  4.47 s/it
+[12:23:47] MCMC it   300  acc 0.312  lp max -1582.3 median -1587.4  4.36 s/it
+[12:25:06] MCMC it   325  acc 0.312  lp max -1580.5 median -1585.7  4.26 s/it
+[12:26:25] MCMC it   350  acc 0.312  lp max -1582.6 median -1585.8  4.19 s/it
+[12:27:46] MCMC it   375  acc 0.312  lp max -1581.2 median -1586.2  4.12 s/it
+[12:29:04] MCMC it   399  acc 0.311  lp max -1581.3 median -1585.7  4.07 s/it
+[12:29:04] MCMC continuation done, acceptance 0.311
+[12:29:09] continuing c1 from mcmc_chain_c1_cont85.npz (400 iterations) -> cont86
+[12:29:15] MCMC it     0  acc 0.250  lp max -1581.6 median -1585.5  3.46 s/it
+[12:30:37] MCMC it    25  acc 0.295  lp max -1581.7 median -1585.9  3.28 s/it
+[12:31:57] MCMC it    50  acc 0.311  lp max -1581.4 median -1586.5  3.25 s/it
+[12:33:18] MCMC it    75  acc 0.325  lp max -1581.3 median -1587.3  3.25 s/it
+[12:34:41] MCMC it   100  acc 0.322  lp max -1580.7 median -1586.5  3.27 s/it
+[12:36:06] MCMC it   125  acc 0.323  lp max -1581.5 median -1586.5  3.29 s/it
+[12:37:34] MCMC it   150  acc 0.315  lp max -1580.3 median -1586.4  3.33 s/it
+[12:39:05] MCMC it   175  acc 0.314  lp max -1581.4 median -1587.4  3.37 s/it
+[12:40:48] MCMC it   200  acc 0.312  lp max -1580.9 median -1586.3  3.46 s/it
+[12:42:46] MCMC it   225  acc 0.312  lp max -1581.7 median -1585.6  3.60 s/it
+[12:44:46] MCMC it   250  acc 0.314  lp max -1582.0 median -1585.8  3.72 s/it
+[12:46:37] MCMC it   275  acc 0.315  lp max -1582.8 median -1586.7  3.79 s/it
+[12:48:12] MCMC it   300  acc 0.313  lp max -1580.4 median -1587.4  3.79 s/it
+[12:49:45] MCMC it   325  acc 0.315  lp max -1582.3 median -1586.1  3.78 s/it
+[12:51:15] MCMC it   350  acc 0.316  lp max -1581.4 median -1586.3  3.77 s/it
+[12:52:48] MCMC it   375  acc 0.316  lp max -1580.9 median -1587.4  3.77 s/it
+[12:54:17] MCMC it   399  acc 0.313  lp max -1582.3 median -1585.7  3.76 s/it
+[12:54:17] MCMC continuation done, acceptance 0.313
+[12:54:23] continuing c1 from mcmc_chain_c1_cont86.npz (400 iterations) -> cont87
+[12:54:29] MCMC it     0  acc 0.306  lp max -1581.8 median -1585.5  3.64 s/it
+[12:56:22] MCMC it    25  acc 0.334  lp max -1580.5 median -1586.7  4.51 s/it
+[12:58:12] MCMC it    50  acc 0.319  lp max -1581.1 median -1584.9  4.46 s/it
+[13:00:32] MCMC it    75  acc 0.312  lp max -1581.0 median -1586.4  4.83 s/it
+[13:02:52] MCMC it   100  acc 0.312  lp max -1580.8 median -1585.5  5.02 s/it
+[13:05:06] MCMC it   125  acc 0.314  lp max -1582.1 median -1587.5  5.08 s/it
+[13:07:25] MCMC it   150  acc 0.311  lp max -1582.3 median -1586.7  5.16 s/it
+[13:09:44] MCMC it   175  acc 0.311  lp max -1582.4 median -1585.9  5.22 s/it
+[13:12:00] MCMC it   200  acc 0.308  lp max -1581.0 median -1585.5  5.25 s/it
+[13:14:19] MCMC it   225  acc 0.312  lp max -1582.1 median -1585.4  5.29 s/it
+[13:16:58] MCMC it   250  acc 0.312  lp max -1580.9 median -1586.5  5.39 s/it
+[13:19:11] MCMC it   275  acc 0.309  lp max -1582.3 median -1586.8  5.38 s/it
+[13:21:11] MCMC it   300  acc 0.309  lp max -1582.4 median -1585.6  5.33 s/it
+[13:24:00] MCMC it   325  acc 0.311  lp max -1582.4 median -1585.7  5.45 s/it
+[13:26:42] MCMC it   350  acc 0.313  lp max -1579.3 median -1585.5  5.52 s/it
+[13:29:13] MCMC it   375  acc 0.313  lp max -1581.6 median -1587.0  5.55 s/it
+[13:31:51] MCMC it   399  acc 0.311  lp max -1581.4 median -1586.7  5.62 s/it
+[13:31:51] MCMC continuation done, acceptance 0.311
+[13:32:00] continuing c1 from mcmc_chain_c1_cont87.npz (400 iterations) -> cont88
+[13:32:10] MCMC it     0  acc 0.389  lp max -1581.4 median -1586.3  5.99 s/it
+[13:33:51] MCMC it    25  acc 0.304  lp max -1581.7 median -1585.8  4.13 s/it
+[13:35:15] MCMC it    50  acc 0.314  lp max -1581.8 median -1585.5  3.74 s/it
+[13:36:38] MCMC it    75  acc 0.301  lp max -1581.1 median -1584.6  3.60 s/it
+[13:38:02] MCMC it   100  acc 0.302  lp max -1581.0 median -1585.3  3.55 s/it
+[13:39:31] MCMC it   125  acc 0.305  lp max -1582.2 median -1585.9  3.55 s/it
+[13:41:02] MCMC it   150  acc 0.310  lp max -1580.5 median -1586.3  3.56 s/it
+[13:43:09] MCMC it   175  acc 0.307  lp max -1582.2 median -1586.9  3.78 s/it
+[13:44:32] MCMC it   200  acc 0.306  lp max -1580.7 median -1586.3  3.72 s/it
+[13:45:55] MCMC it   225  acc 0.307  lp max -1581.9 median -1586.3  3.68 s/it
+[13:47:18] MCMC it   250  acc 0.307  lp max -1579.7 median -1586.6  3.64 s/it
+[13:48:39] MCMC it   275  acc 0.307  lp max -1580.9 median -1585.9  3.61 s/it
+[13:49:59] MCMC it   300  acc 0.308  lp max -1580.9 median -1586.0  3.57 s/it
+[13:51:23] MCMC it   325  acc 0.308  lp max -1581.3 median -1585.8  3.56 s/it
+[13:53:06] MCMC it   350  acc 0.310  lp max -1581.8 median -1586.6  3.59 s/it
+[13:55:55] MCMC it   375  acc 0.308  lp max -1582.1 median -1585.8  3.81 s/it
+[13:58:30] MCMC it   399  acc 0.308  lp max -1580.9 median -1585.6  3.96 s/it
+[13:58:30] MCMC continuation done, acceptance 0.308
+[13:58:41] continuing c1 from mcmc_chain_c1_cont88.npz (400 iterations) -> cont89
+[13:58:52] MCMC it     0  acc 0.306  lp max -1581.1 median -1585.2  6.63 s/it
+[14:01:56] MCMC it    25  acc 0.323  lp max -1581.2 median -1584.9  7.32 s/it
+[14:05:21] MCMC it    50  acc 0.314  lp max -1581.5 median -1586.0  7.76 s/it
+[14:08:44] MCMC it    75  acc 0.315  lp max -1581.0 median -1586.0  7.87 s/it
+[14:12:01] MCMC it   100  acc 0.312  lp max -1580.9 median -1585.3  7.88 s/it
+[14:15:28] MCMC it   125  acc 0.315  lp max -1581.0 median -1585.8  7.95 s/it
+[14:18:49] MCMC it   150  acc 0.311  lp max -1580.5 median -1586.0  7.97 s/it
+[14:21:43] MCMC it   175  acc 0.311  lp max -1581.9 median -1585.9  7.83 s/it
+[14:23:47] MCMC it   200  acc 0.310  lp max -1581.6 median -1586.2  7.47 s/it
+[14:25:59] MCMC it   225  acc 0.310  lp max -1580.0 median -1585.4  7.23 s/it
+[14:28:09] MCMC it   250  acc 0.311  lp max -1581.9 median -1585.6  7.03 s/it
+[14:30:19] MCMC it   275  acc 0.309  lp max -1581.6 median -1585.6  6.86 s/it
+[14:32:25] MCMC it   300  acc 0.310  lp max -1580.6 median -1585.9  6.71 s/it
+[14:34:32] MCMC it   325  acc 0.310  lp max -1582.4 median -1586.3  6.58 s/it
+[14:36:43] MCMC it   350  acc 0.312  lp max -1579.7 median -1586.7  6.49 s/it
+[14:38:58] MCMC it   375  acc 0.314  lp max -1581.2 median -1584.8  6.42 s/it
+[14:41:12] MCMC it   399  acc 0.313  lp max -1580.8 median -1586.9  6.37 s/it
+[14:41:12] MCMC continuation done, acceptance 0.313
+[14:41:20] continuing c1 from mcmc_chain_c1_cont89.npz (400 iterations) -> cont90
+[14:41:30] MCMC it     0  acc 0.194  lp max -1582.3 median -1586.3  6.80 s/it
+[14:44:07] MCMC it    25  acc 0.313  lp max -1580.9 median -1585.8  6.29 s/it
+[14:46:57] MCMC it    50  acc 0.314  lp max -1581.5 median -1586.0  6.54 s/it
+[14:49:22] MCMC it    75  acc 0.304  lp max -1581.4 median -1586.2  6.30 s/it
+[14:51:41] MCMC it   100  acc 0.304  lp max -1582.4 median -1586.4  6.12 s/it
+[14:53:55] MCMC it   125  acc 0.305  lp max -1582.5 median -1586.0  5.97 s/it
+[14:56:00] MCMC it   150  acc 0.306  lp max -1582.8 median -1586.4  5.80 s/it
+[14:58:09] MCMC it   175  acc 0.308  lp max -1581.0 median -1586.7  5.72 s/it
+[15:00:24] MCMC it   200  acc 0.310  lp max -1581.8 median -1585.8  5.67 s/it
+[15:02:20] MCMC it   225  acc 0.311  lp max -1580.6 median -1587.4  5.56 s/it
+[15:04:36] MCMC it   250  acc 0.311  lp max -1582.3 median -1586.0  5.55 s/it
+[15:06:55] MCMC it   275  acc 0.312  lp max -1581.6 median -1586.9  5.55 s/it
+[15:09:38] MCMC it   300  acc 0.312  lp max -1581.5 median -1585.8  5.63 s/it
+[15:12:13] MCMC it   325  acc 0.310  lp max -1581.2 median -1585.7  5.68 s/it
+[15:14:24] MCMC it   350  acc 0.310  lp max -1581.3 median -1585.9  5.64 s/it
+[15:15:59] MCMC it   375  acc 0.311  lp max -1581.8 median -1586.6  5.52 s/it
+[15:17:28] MCMC it   399  acc 0.311  lp max -1581.7 median -1585.7  5.41 s/it
+[15:17:28] MCMC continuation done, acceptance 0.311
+[15:17:34] continuing c1 from mcmc_chain_c1_cont90.npz (400 iterations) -> cont91
+[15:17:40] MCMC it     0  acc 0.333  lp max -1581.2 median -1586.6  3.58 s/it
+[15:19:11] MCMC it    25  acc 0.326  lp max -1581.9 median -1585.9  3.65 s/it
+[15:20:41] MCMC it    50  acc 0.324  lp max -1581.4 median -1586.9  3.63 s/it
+[15:22:16] MCMC it    75  acc 0.328  lp max -1581.7 median -1586.7  3.68 s/it
+[15:23:49] MCMC it   100  acc 0.323  lp max -1580.5 median -1586.8  3.69 s/it
+[15:25:21] MCMC it   125  acc 0.319  lp max -1582.0 median -1586.9  3.69 s/it
+[15:26:53] MCMC it   150  acc 0.318  lp max -1582.1 median -1586.7  3.68 s/it

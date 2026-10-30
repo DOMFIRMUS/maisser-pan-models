@@ -1,0 +1,182 @@
+[23:31:11] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3270; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'k_w', 'd_w']
+[23:31:16] DE gen    0  best logpost -37611.19  median -42848.75
+[23:31:23] DE gen    5  best logpost -33068.90  median -35315.12
+[23:31:29] DE gen   10  best logpost -31787.94  median -32983.83
+[23:31:36] DE gen   15  best logpost -31364.08  median -32062.82
+[23:31:43] DE gen   20  best logpost -31093.44  median -31489.75
+[23:31:50] DE gen   25  best logpost -30848.10  median -31104.71
+[23:31:57] DE gen   30  best logpost -30734.03  median -30863.70
+[23:32:04] DE gen   35  best logpost -30573.14  median -30740.51
+[23:32:10] DE gen   40  best logpost -30573.14  median -30663.41
+[23:32:17] DE gen   45  best logpost -30521.97  median -30613.65
+[23:32:24] DE gen   50  best logpost -30521.97  median -30590.21
+[23:32:31] DE gen   55  best logpost -30520.60  median -30582.95
+[23:32:39] DE gen   60  best logpost -30461.70  median -30546.74
+[23:32:46] DE gen   65  best logpost -30426.12  median -30528.87
+[23:32:54] DE gen   70  best logpost -30426.12  median -30507.41
+[23:33:01] DE gen   75  best logpost -30411.78  median -30484.07
+[23:33:08] DE gen   80  best logpost -30390.56  median -30465.94
+[23:33:15] DE gen   85  best logpost -30339.85  median -30449.59
+[23:33:23] DE gen   90  best logpost -30339.85  median -30403.92
+[23:33:30] DE gen   95  best logpost -30328.76  median -30386.67
+[23:33:37] DE gen  100  best logpost -30328.76  median -30373.99
+[23:33:45] DE gen  105  best logpost -30315.22  median -30367.07
+[23:33:52] DE gen  110  best logpost -30315.22  median -30364.37
+[23:33:59] DE gen  115  best logpost -30315.22  median -30354.20
+[23:34:07] DE gen  120  best logpost -30315.22  median -30348.86
+[23:34:14] DE gen  125  best logpost -30292.66  median -30346.18
+[23:34:21] DE gen  130  best logpost -30292.66  median -30342.94
+[23:34:28] DE gen  135  best logpost -30292.66  median -30337.80
+[23:34:36] DE gen  140  best logpost -30283.87  median -30332.76
+[23:34:44] DE gen  145  best logpost -30283.87  median -30327.23
+[23:34:52] DE gen  150  best logpost -30283.87  median -30323.45
+[23:34:59] DE gen  155  best logpost -30283.87  median -30323.37
+[23:35:05] DE gen  159  best logpost -30283.87  median -30322.18
+[23:35:06] residual AR(1) at mode: {'Tw_cs': 0.995, 'Tw_04': 0.995, 'Tw_12': 0.995, 'Tw_20': 0.9943042726911437, 'level_a_qc': 0.995, 'level_b_qc': 0.9946653721903101}
+[03:05:18] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3270; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'k_w', 'd_w', 'm_1', 'm_2']
+[03:05:18] warm start from previous mode; rho {'Tw_cs': 0.95, 'Tw_04': 0.95, 'Tw_12': 0.95, 'Tw_20': 0.95, 'level_a_qc': 0.95, 'level_b_qc': 0.95}
+[03:05:24] DE gen    0  best logpost -22657.10  median -34266.19
+[03:05:33] DE gen    5  best logpost -22657.10  median -27168.83
+[03:05:41] DE gen   10  best logpost -22657.10  median -24736.20
+[03:05:50] DE gen   15  best logpost -22657.10  median -24160.65
+[03:05:59] DE gen   20  best logpost -22089.64  median -22741.45
+[03:06:08] DE gen   25  best logpost -21903.80  median -22213.72
+[03:06:16] DE gen   30  best logpost -21903.80  median -22031.54
+[03:06:26] DE gen   35  best logpost -21871.37  median -21954.21
+[03:06:35] DE gen   40  best logpost -21848.48  median -21930.93
+[03:06:44] DE gen   45  best logpost -21824.67  median -21907.52
+[03:06:53] DE gen   50  best logpost -21799.48  median -21880.22
+[03:07:02] DE gen   55  best logpost -21799.48  median -21876.96
+[03:07:11] DE gen   60  best logpost -21797.24  median -21865.69
+[03:07:20] DE gen   65  best logpost -21797.24  median -21863.35
+[03:07:29] DE gen   70  best logpost -21797.24  median -21857.40
+[03:07:39] DE gen   75  best logpost -21785.30  median -21846.61
+[03:07:49] DE gen   80  best logpost -21785.30  median -21841.96
+[03:07:58] DE gen   85  best logpost -21785.30  median -21836.47
+[03:08:07] DE gen   90  best logpost -21785.30  median -21834.84
+[03:08:16] DE gen   95  best logpost -21785.30  median -21829.31
+[03:08:26] DE gen  100  best logpost -21785.30  median -21823.78
+[03:08:35] DE gen  105  best logpost -21785.30  median -21819.76
+[03:08:44] DE gen  110  best logpost -21785.30  median -21817.59
+[03:08:54] DE gen  115  best logpost -21785.30  median -21816.66
+[03:09:03] DE gen  120  best logpost -21785.30  median -21816.07
+[03:09:12] DE gen  125  best logpost -21785.30  median -21814.19
+[03:09:21] DE gen  130  best logpost -21785.30  median -21813.68
+[03:09:30] DE gen  135  best logpost -21783.04  median -21813.68
+[03:09:38] DE gen  139  best logpost -21783.04  median -21812.09
+[03:09:39] residual AR(1) at mode: {'Tw_cs': 0.9894817212864396, 'Tw_04': 0.9892840653421076, 'Tw_12': 0.995, 'Tw_20': 0.9913888036292102, 'level_a_qc': 0.9850817262060991, 'level_b_qc': 0.9929170630436971}
+[03:12:36] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3270; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'N2_0', 'k_w', 'd_w', 'm_1', 'm_2']
+[03:12:36] warm start from previous mode; rho {'Tw_cs': 0.95, 'Tw_04': 0.95, 'Tw_12': 0.95, 'Tw_20': 0.95, 'level_a_qc': 0.95, 'level_b_qc': 0.95}
+[03:12:42] DE gen    0  best logpost -22652.07  median -28459.02
+[03:12:53] DE gen    5  best logpost -20792.76  median -24407.59
+[03:13:02] DE gen   10  best logpost -20450.56  median -22288.25
+[03:13:12] DE gen   15  best logpost -19721.29  median -20980.25
+[03:13:23] DE gen   20  best logpost -19629.39  median -20184.33
+[03:13:33] DE gen   25  best logpost -19342.03  median -19723.65
+[03:13:44] DE gen   30  best logpost -19230.03  median -19395.76
+[03:13:54] DE gen   35  best logpost -19104.41  median -19231.81
+[03:14:04] DE gen   40  best logpost -19087.03  median -19154.77
+[03:14:15] DE gen   45  best logpost -19046.81  median -19115.63
+[03:14:26] DE gen   50  best logpost -19046.81  median -19092.97
+[03:14:37] DE gen   55  best logpost -19025.03  median -19062.65
+[03:14:47] DE gen   60  best logpost -19002.07  median -19030.52
+[03:14:58] DE gen   65  best logpost -18964.44  median -18994.63
+[03:15:08] DE gen   70  best logpost -18929.18  median -18962.83
+[03:15:19] DE gen   75  best logpost -18921.42  median -18942.05
+[03:15:29] DE gen   80  best logpost -18915.23  median -18927.70
+[03:15:39] DE gen   85  best logpost -18907.20  median -18918.04
+[03:15:49] DE gen   90  best logpost -18906.13  median -18911.41
+[03:16:00] DE gen   95  best logpost -18898.60  median -18907.65
+[03:16:10] DE gen  100  best logpost -18888.29  median -18901.60
+[03:16:21] DE gen  105  best logpost -18888.29  median -18896.67
+[03:16:33] DE gen  110  best logpost -18881.66  median -18891.43
+[03:16:44] DE gen  115  best logpost -18870.72  median -18882.91
+[03:16:56] DE gen  120  best logpost -18863.06  median -18875.66
+[03:17:08] DE gen  125  best logpost -18851.70  median -18866.31
+[03:17:19] DE gen  130  best logpost -18839.21  median -18854.84
+[03:17:32] DE gen  135  best logpost -18828.00  median -18841.76
+[03:17:41] DE gen  139  best logpost -18813.79  median -18829.90
+[03:17:43] residual AR(1) at mode: {'Tw_cs': 0.9860753231795713, 'Tw_04': 0.993203147514089, 'Tw_12': 0.984093252439994, 'Tw_20': 0.992563322308955, 'level_a_qc': 0.9814417267493675, 'level_b_qc': 0.9917267759304493}
+[03:22:11] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3270; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'N2_0', 'k_w', 'd_w', 'm_1', 'm_2']
+[03:22:20] MCMC it     0  acc 0.250  lp max -17919.6 median -17964.3  3.65 s/it
+[03:24:34] MCMC it    25  acc 0.313  lp max -17885.6 median -17925.3  5.31 s/it
+[03:26:15] MCMC it    50  acc 0.286  lp max -17877.8 median -17909.8  4.67 s/it
+[03:27:44] MCMC it    75  acc 0.278  lp max -17871.4 median -17895.5  4.31 s/it
+[03:29:08] MCMC it   100  acc 0.274  lp max -17857.1 median -17881.6  4.07 s/it
+[03:30:31] MCMC it   125  acc 0.263  lp max -17854.0 median -17869.7  3.92 s/it
+[03:31:55] MCMC it   150  acc 0.253  lp max -17852.6 median -17866.0  3.83 s/it
+[03:33:20] MCMC it   175  acc 0.241  lp max -17848.8 median -17861.1  3.77 s/it
+[03:34:43] MCMC it   200  acc 0.228  lp max -17845.8 median -17860.1  3.72 s/it
+[03:36:07] MCMC it   225  acc 0.218  lp max -17845.8 median -17858.5  3.68 s/it
+[03:37:30] MCMC it   250  acc 0.209  lp max -17845.5 median -17857.6  3.64 s/it
+[03:38:52] MCMC it   275  acc 0.201  lp max -17845.5 median -17856.0  3.61 s/it
+[03:40:15] MCMC it   300  acc 0.193  lp max -17847.6 median -17855.2  3.58 s/it
+[03:41:38] MCMC it   325  acc 0.187  lp max -17845.7 median -17853.5  3.56 s/it
+[03:43:02] MCMC it   350  acc 0.181  lp max -17843.8 median -17853.8  3.55 s/it
+[03:44:25] MCMC it   375  acc 0.176  lp max -17842.2 median -17853.1  3.53 s/it
+[03:45:50] MCMC it   400  acc 0.172  lp max -17843.3 median -17852.2  3.53 s/it
+[03:47:14] MCMC it   425  acc 0.169  lp max -17841.2 median -17850.6  3.52 s/it
+[03:48:38] MCMC it   450  acc 0.167  lp max -17837.6 median -17850.5  3.51 s/it
+[03:50:04] MCMC it   475  acc 0.164  lp max -17838.6 median -17849.8  3.50 s/it
+[03:51:29] MCMC it   500  acc 0.161  lp max -17837.9 median -17848.9  3.50 s/it
+[03:52:53] MCMC it   525  acc 0.157  lp max -17838.9 median -17847.6  3.49 s/it
+[03:54:16] MCMC it   550  acc 0.154  lp max -17838.8 median -17847.9  3.48 s/it
+[03:55:40] MCMC it   575  acc 0.152  lp max -17835.9 median -17848.1  3.48 s/it
+[03:57:02] MCMC it   600  acc 0.149  lp max -17833.5 median -17847.0  3.47 s/it
+[03:58:25] MCMC it   625  acc 0.148  lp max -17835.6 median -17846.3  3.46 s/it
+[03:59:51] MCMC it   650  acc 0.146  lp max -17835.0 median -17845.4  3.46 s/it
+[04:01:15] MCMC it   675  acc 0.144  lp max -17835.0 median -17845.2  3.46 s/it
+[04:02:38] MCMC it   700  acc 0.141  lp max -17835.7 median -17843.1  3.45 s/it
+[04:04:02] MCMC it   725  acc 0.140  lp max -17832.9 median -17843.2  3.45 s/it
+[04:05:26] MCMC it   750  acc 0.138  lp max -17832.4 median -17841.5  3.45 s/it
+[04:06:52] MCMC it   775  acc 0.136  lp max -17826.7 median -17841.9  3.45 s/it
+[04:08:16] MCMC it   800  acc 0.134  lp max -17826.7 median -17841.6  3.45 s/it
+[04:09:40] MCMC it   825  acc 0.133  lp max -17829.0 median -17840.1  3.44 s/it
+[04:11:05] MCMC it   850  acc 0.132  lp max -17829.3 median -17840.1  3.44 s/it
+[04:12:28] MCMC it   875  acc 0.131  lp max -17826.2 median -17838.7  3.44 s/it
+[04:13:51] MCMC it   900  acc 0.130  lp max -17828.3 median -17839.0  3.43 s/it
+[04:15:15] MCMC it   925  acc 0.129  lp max -17823.8 median -17838.7  3.43 s/it
+[04:16:38] MCMC it   950  acc 0.128  lp max -17822.9 median -17837.7  3.43 s/it
+[04:18:03] MCMC it   975  acc 0.127  lp max -17822.9 median -17834.6  3.43 s/it
+[04:19:26] MCMC it  1000  acc 0.126  lp max -17823.4 median -17834.7  3.43 s/it
+[04:20:52] MCMC it  1025  acc 0.125  lp max -17823.8 median -17833.9  3.43 s/it
+[04:22:15] MCMC it  1050  acc 0.124  lp max -17823.8 median -17832.8  3.42 s/it
+[04:23:40] MCMC it  1075  acc 0.123  lp max -17822.0 median -17832.5  3.42 s/it
+[04:25:05] MCMC it  1100  acc 0.122  lp max -17823.8 median -17831.8  3.42 s/it
+[04:26:35] MCMC it  1125  acc 0.121  lp max -17823.8 median -17831.7  3.43 s/it
+[04:28:00] MCMC it  1150  acc 0.120  lp max -17823.5 median -17831.5  3.43 s/it
+[04:29:27] MCMC it  1175  acc 0.119  lp max -17823.5 median -17832.7  3.43 s/it
+[04:30:54] MCMC it  1200  acc 0.118  lp max -17821.7 median -17833.1  3.43 s/it
+[04:32:16] MCMC it  1225  acc 0.118  lp max -17821.7 median -17833.2  3.43 s/it
+[04:33:37] MCMC it  1250  acc 0.117  lp max -17821.7 median -17831.8  3.42 s/it
+[04:35:00] MCMC it  1275  acc 0.116  lp max -17821.4 median -17831.7  3.42 s/it
+[04:36:24] MCMC it  1300  acc 0.116  lp max -17821.4 median -17830.4  3.42 s/it
+[04:37:47] MCMC it  1325  acc 0.115  lp max -17821.4 median -17830.1  3.42 s/it
+[04:39:08] MCMC it  1350  acc 0.114  lp max -17821.4 median -17829.3  3.41 s/it
+[04:40:29] MCMC it  1375  acc 0.113  lp max -17817.9 median -17830.2  3.41 s/it
+[04:41:47] MCMC it  1400  acc 0.113  lp max -17820.8 median -17829.6  3.41 s/it
+[04:43:08] MCMC it  1425  acc 0.112  lp max -17820.9 median -17830.3  3.40 s/it
+[04:44:25] MCMC it  1450  acc 0.112  lp max -17818.3 median -17829.6  3.40 s/it
+[04:45:44] MCMC it  1475  acc 0.112  lp max -17818.5 median -17829.4  3.39 s/it
+[04:47:03] MCMC it  1500  acc 0.111  lp max -17818.8 median -17829.4  3.39 s/it
+[04:48:20] MCMC it  1525  acc 0.111  lp max -17816.1 median -17828.9  3.38 s/it
+[04:49:38] MCMC it  1550  acc 0.110  lp max -17815.4 median -17827.3  3.38 s/it
+[04:50:58] MCMC it  1575  acc 0.109  lp max -17815.3 median -17826.7  3.38 s/it
+[04:52:16] MCMC it  1600  acc 0.109  lp max -17813.0 median -17827.1  3.37 s/it
+[04:53:34] MCMC it  1625  acc 0.108  lp max -17811.8 median -17826.7  3.37 s/it
+[04:54:53] MCMC it  1650  acc 0.108  lp max -17812.1 median -17825.4  3.37 s/it
+[04:56:11] MCMC it  1675  acc 0.107  lp max -17813.1 median -17825.8  3.36 s/it
+[04:57:27] MCMC it  1700  acc 0.107  lp max -17813.9 median -17826.5  3.36 s/it
+[04:58:46] MCMC it  1725  acc 0.106  lp max -17813.7 median -17825.2  3.35 s/it
+[05:00:06] MCMC it  1750  acc 0.106  lp max -17809.4 median -17824.6  3.35 s/it
+[05:01:23] MCMC it  1775  acc 0.105  lp max -17808.5 median -17824.6  3.35 s/it
+[05:02:42] MCMC it  1800  acc 0.105  lp max -17808.3 median -17824.7  3.35 s/it
+[05:04:00] MCMC it  1825  acc 0.105  lp max -17808.3 median -17824.0  3.34 s/it
+[05:05:17] MCMC it  1850  acc 0.104  lp max -17808.9 median -17824.4  3.34 s/it
+[05:06:37] MCMC it  1875  acc 0.103  lp max -17808.9 median -17823.6  3.34 s/it
+[05:07:56] MCMC it  1900  acc 0.103  lp max -17807.5 median -17822.5  3.33 s/it
+[05:09:13] MCMC it  1925  acc 0.103  lp max -17808.3 median -17822.2  3.33 s/it
+[05:10:30] MCMC it  1950  acc 0.102  lp max -17809.3 median -17822.6  3.33 s/it
+[05:11:49] MCMC it  1975  acc 0.102  lp max -17808.2 median -17822.4  3.33 s/it
+[05:13:03] MCMC it  1999  acc 0.102  lp max -17806.4 median -17822.9  3.32 s/it
+[05:13:04] MCMC done, acceptance 0.102

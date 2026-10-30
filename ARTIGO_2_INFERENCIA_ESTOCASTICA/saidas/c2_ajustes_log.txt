@@ -1,0 +1,43 @@
+C2: 3295 10-min steps, 7 segments, ODY obs 3265, CS456 obs 3265
+   dalton_superficie: ll=7614.96  g_a=1.300 phi=0.928
+dalton_superficie: ll=7614.96 AIC=-15179.9 BIC=-15010.3 beta=[0.0796 0.0579] delta=-0.1275 mm/h c_a=-0.216 c_b=0.059 g_a=1.300 hyper=None  (198 s)
+   dalton_ar: ll=7451.46  g_a=1.303 phi=0.968
+dalton_ar: ll=7451.46 AIC=-14852.9 BIC=-14683.3 beta=[0.0761 0.0779] delta=-0.1279 mm/h c_a=-0.213 c_b=0.061 g_a=1.303 hyper=None  (200 s)
+   penman_indice: ll=7519.79  g_a=1.306 phi=0.939
+penman_indice: ll=7519.79 AIC=-14987.6 BIC=-14811.2 beta=[0.6978 0.057  0.0351] delta=-0.1284 mm/h c_a=-0.116 c_b=0.134 g_a=1.306 hyper=None  (209 s)
+   constante: ll=7297.25  g_a=1.303 phi=0.976
+constante: ll=7297.25 AIC=-14546.5 BIC=-14383.7 beta=[0.2223] delta=-0.1280 mm/h c_a=-0.359 c_b=-0.051 g_a=1.303 hyper=None  (211 s)
+   ryan_harleman: ll=7700.56  g_a=1.301 phi=0.767
+ryan_harleman: ll=7700.56 AIC=-15351.1 BIC=-15181.5 beta=[0.0058 0.0076] delta=-0.1278 mm/h c_a=-0.252 c_b=0.031 g_a=1.301 hyper=None  (172 s)
+   penman1948_fixo: ll=7614.22  g_a=1.301 phi=0.941
+penman1948_fixo: ll=7614.22 AIC=-15180.4 BIC=-15017.6 beta=[0.8752] delta=-0.1276 mm/h c_a=-0.226 c_b=0.052 g_a=1.301 hyper=None  (171 s)
+   carrier_fixo: ll=7618.87  g_a=1.303 phi=0.928
+carrier_fixo: ll=7618.87 AIC=-15189.7 BIC=-15026.9 beta=[0.536] delta=-0.1279 mm/h c_a=-0.207 c_b=0.066 g_a=1.303 hyper=None  (166 s)
+   livre_forcada_potencia {'n': np.float64(0.35)}: ll=7652.05  g_a=1.301 phi=0.836 s_eta=0.0434 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(0.5)}: ll=7688.78  g_a=1.301 phi=0.797 s_eta=0.0445 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(0.65)}: ll=7708.59  g_a=1.301 phi=0.764 s_eta=0.0462 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(0.8)}: ll=7711.47  g_a=1.300 phi=0.752 s_eta=0.0471 s_d=0.0822
+   livre_forcada_potencia {'n': np.float64(1.0)}: ll=7698.01  g_a=1.300 phi=0.767 s_eta=0.0466 s_d=0.0822
+livre_forcada_potencia: ll=7711.47 AIC=-15368.9 BIC=-15185.8 beta=[ 0.0063  0.0096 -0.0017] delta=-0.1276 mm/h c_a=-0.247 c_b=0.035 g_a=1.300 hyper={'n': np.float64(0.8)}  (959 s)
+   churchill_usagi_fundo {'n': np.float64(0.3), 'k': np.float64(2.0)}: ll=7585.41  g_a=1.295 phi=0.997 s_eta=0.0306 s_d=0.0821
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(2.0)}: ll=7615.21  g_a=1.301 phi=0.879 s_eta=0.0424 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(2.0)}: ll=7637.84  g_a=1.301 phi=0.836 s_eta=0.0448 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.3), 'k': np.float64(4.0)}: ll=7698.32  g_a=1.302 phi=0.800 s_eta=0.0439 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(4.0)}: ll=7687.91  g_a=1.302 phi=0.816 s_eta=0.0429 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(4.0)}: ll=7622.94  g_a=1.301 phi=0.897 s_eta=0.0394 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.3), 'k': np.float64(8.0)}: ll=7645.12  g_a=1.302 phi=0.868 s_eta=0.0408 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.5), 'k': np.float64(8.0)}: ll=7651.42  g_a=1.301 phi=0.884 s_eta=0.0388 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.8), 'k': np.float64(8.0)}: ll=7617.71  g_a=1.301 phi=0.918 s_eta=0.0376 s_d=0.0822
+   churchill_usagi_fundo {'n': np.float64(0.15), 'k': np.float64(4.0)}: ll=7642.07  g_a=1.302 phi=0.856 s_eta=0.0424 s_d=0.0822
+churchill_usagi_fundo: ll=7698.32 AIC=-15342.6 BIC=-15159.5 beta=[ 0.0062 -0.002 ] delta=-0.1279 mm/h c_a=-0.247 c_b=0.035 g_a=1.302 hyper={'n': np.float64(0.3), 'k': np.float64(4.0)}  (1841 s)
+   churchill_usagi {'n': np.float64(0.3), 'k': np.float64(2.0)}: ll=7517.98  g_a=1.302 phi=0.909 s_eta=0.0474 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(2.0)}: ll=7569.54  g_a=1.302 phi=0.880 s_eta=0.0463 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(2.0)}: ll=7632.31  g_a=1.302 phi=0.832 s_eta=0.0462 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.3), 'k': np.float64(4.0)}: ll=7697.07  g_a=1.303 phi=0.795 s_eta=0.0450 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(4.0)}: ll=7694.87  g_a=1.304 phi=0.821 s_eta=0.0422 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(4.0)}: ll=7600.49  g_a=1.305 phi=0.930 s_eta=0.0379 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.3), 'k': np.float64(8.0)}: ll=7612.53  g_a=1.307 phi=0.912 s_eta=0.0390 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.5), 'k': np.float64(8.0)}: ll=7604.85  g_a=1.306 phi=0.939 s_eta=0.0368 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.8), 'k': np.float64(8.0)}: ll=7555.81  g_a=1.305 phi=0.967 s_eta=0.0375 s_d=0.0822
+   churchill_usagi {'n': np.float64(0.15), 'k': np.float64(4.0)}: ll=7638.37  g_a=1.303 phi=0.854 s_eta=0.0434 s_d=0.0822
+churchill_usagi: ll=7697.07 AIC=-15342.1 BIC=-15165.8 beta=[0.0057] delta=-0.1280 mm/h c_a=-0.265 c_b=0.021 g_a=1.303 hyper={'n': np.float64(0.3), 'k': np.float64(4.0)}  (1938 s)

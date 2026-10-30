@@ -1,0 +1,125 @@
+
+===== 2026-10-29 03:12:07 resumos do posterior (C2 e C1): C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 resumo_posterior.py c2 c1
+--- c2: 41651 iterations x 40 walkers, kept 833040 draws; lp best -10681.4 (iter 30487), median kept -10689.8; max R-hat 1.141, min ESS 498, max IAT 1671
+   parameter  prior_median  prior_lo  prior_hi  post_median   post_lo   post_hi  post_mean  rhat   ess   iat  contraction  z_shift
+0        A_s           0.8    0.3002     2.132        0.803    0.5759    0.9731     0.7977 1.141 742.9  1121       0.9287 -0.02312
+1        A_m          0.48    0.1801     1.279       0.3856    0.2552    0.5761     0.3923 1.139 814.5  1023       0.8197  -0.4483
+2        l_m         0.014  0.004319   0.04538      0.01418    0.0111   0.01834     0.0143 1.117  1079 772.2       0.9548  0.02133
+3        A_d          0.43    0.1614     1.146       0.2855    0.2587    0.3425     0.2892 1.104 524.1  1589         0.98  -0.7987
+4        l_d          0.28    0.1051     0.746        1.722     1.013     3.143      1.812 1.058 873.4 953.7       0.6612    3.649
+5        a_b           0.5    0.1235    0.8765       0.8645    0.6906    0.9578     0.8537 1.117 515.1  1617       0.6543     1.88
+6        U_w             8     2.468     25.93        19.75     18.09     21.45      19.75 1.052 624.4  1334       0.9949    1.505
+7        G_w          0.05  0.007043     0.355     0.009133  0.002302   0.02745    0.01068 1.047  1562 533.2       0.5907   -1.733
+8        U_b             5     1.543     16.21       0.4876     0.246    0.8638     0.5047 1.039  2126 391.8       0.7072   -3.907
+9        c_n             1    0.4566      2.19       0.7051    0.6651    0.7448     0.7053 1.041  2131 390.9       0.9948   -0.874
+10       c_f           3.5    0.8876      13.8        6.072     5.865     6.279      6.072 1.069  1568 531.2       0.9994   0.7868
+11       n_f           0.6     0.306     0.894       0.3436    0.3175    0.3707     0.3437 1.064 840.7 990.9       0.9921   -1.708
+12       C_0           0.5    0.1042     2.399      0.07169   0.02763    0.1571    0.07731  1.04  1475   565       0.6875   -2.453
+13      K_bg         1e-05 5.287e-07 0.0001892    6.819e-06 2.225e-06 2.147e-05  8.143e-06 1.041 700.6  1189       0.8549  -0.2479
+14      N2_0         0.001 5.287e-05   0.01892    0.0003513 9.214e-05  0.001003     0.0004 1.039 676.8  1231       0.8353  -0.7267
+15       k_w        0.0001 5.287e-06  0.001892    0.0002788 8.741e-05  0.001198  0.0003701 1.044  1510 551.8       0.7978   0.7087
+16       d_w          0.03  0.007608    0.1183     0.008301  0.005422   0.01192   0.008384 1.053  1674 497.8       0.9178    -1.85
+17       m_1             1    0.4566      2.19        1.429     1.393     1.465      1.429 1.044 498.4  1671       0.9989   0.8919
+18       m_2             1    0.4566      2.19       0.8323     0.812    0.8532     0.8324 1.043  1209 688.9        0.999  -0.4589
+--- c1: 37753 iterations x 36 walkers, kept 679572 draws; lp best -1578.3 (iter 5507), median kept -1586.2; max R-hat 1.031, min ESS 948, max IAT 717
+   parameter  prior_median  prior_lo  prior_hi  post_median   post_lo   post_hi  post_mean  rhat   ess   iat  contraction  z_shift
+0        m_3             1    0.3753     2.664       0.7826    0.7061    0.8684     0.7836 1.017  1646 412.9       0.9892  -0.4905
+1        m_4             1    0.3753     2.664       0.7297    0.6939     0.766     0.7298 1.016  4131 164.5       0.9974  -0.6307
+2        m_5             1    0.3753     2.664        0.885    0.8479     0.923     0.8853 1.022  1735 391.8       0.9981  -0.2442
+3        m_6             1    0.3753     2.664        1.906     1.742     2.082      1.907 1.015  1990 341.5       0.9918     1.29
+4        s_U             1    0.5554       1.8       0.7338    0.6239     0.863      0.736 1.018  2184 311.2        0.924   -1.033
+5       h_p1           0.1   -0.0176    0.2176      0.06686    0.0504     0.076    0.06609 1.019  3266 208.1       0.9891  -0.5651
+6       h_p2          0.19    0.1312    0.2488       0.1961    0.1952     0.197     0.1961 1.022  1313 517.7       0.9998    0.203
+7       h_p3           0.1   -0.0176    0.2176       0.1344    0.1312    0.1376     0.1344 1.019  3284 206.9       0.9993   0.5734
+8        a_p          0.45    0.1457    0.7969        0.808    0.6289    0.9236     0.7997 1.027 947.9 716.9       0.6013    2.073
+9     C_u_V1        0.0005 7.043e-05   0.00355    0.0008925 0.0002544   0.00176  0.0009269 1.022  1674   406       0.7514   0.5102
+10    C_u_V2        0.0005 7.043e-05   0.00355     0.000273 0.0001452 0.0004153  0.0002744 1.025  2579 263.5       0.9276  -0.6344
+11       k_g           1.5    0.4628     4.862         1.66     1.496     1.876      1.666 1.021  2011   338       0.9908   0.1722
+12      G_pw             4    0.8338     19.19        2.996     2.429      3.92      3.043 1.021  1132 600.4       0.9767  -0.3512
+13       C_p          6000      2252 1.599e+04         4179      2247      7001       4299 1.031  1436 473.2       0.6682  -0.7475
+14    r_open          0.01  0.001409   0.07099      0.08223   0.05567    0.2248    0.09711 1.022 969.4   701       0.8657    2.194
+15  R_rec_V1         0.004 0.0006854   0.02334    0.0002195 8.011e-05 0.0004923  0.0002364  1.02  1566 433.9       0.7374   -3.255
+16  R_rec_V2         0.004 0.0006854   0.02334    0.0002329 8.665e-05 0.0004952  0.0002483 1.023 954.8 711.7       0.7525   -3.193
+
+===== 2026-10-29 03:12:17 propagação do posterior (cenários): C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 executar_simulacoes.py posterior
+posterior ...
+  posterior draw 0
+  posterior draw 10
+  posterior draw 20
+  posterior draw 30
+  posterior draw 40
+  posterior draw 50
+posterior done in 197 s
+
+===== 2026-10-29 03:15:36 figuras do Artigo 1: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 figuras_artigo1.py
+fig02_c2_ajuste
+fig03_perfis
+fig04_posteriores
+fig05_energia
+fig06_c1_janelas
+fig07_shapley
+fig08_mapas
+fig09_sobol
+fig10_projeto
+
+===== 2026-10-29 03:16:28 figuras do material suplementar: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 figuras_si_artigo1.py
+figS1_espectro
+figS2_c1_ajuste
+figS3_correlacao
+figS4_recesso
+
+===== 2026-10-29 03:16:41 coletor de resultados do Artigo 1: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 resultados_artigo1.py
+numerics: ok
+fit_c2: ok
+profiles: ok
+posterior_c2: ok
+posterior_c1: ok
+convergence_text: ok
+energy: ok
+fit_c1: ok
+scenarios: ok
+validation: ok
+749 values -> resultados_artigo1.json
+
+===== 2026-10-29 03:17:09 manuscrito do Artigo 1: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 construir_manuscrito.py
+equations 12, figures 9, tables 2, references 68, ~11337 words
+abstract: 247 words
+SI: figures 5, tables 8, references 6
+
+===== 2026-10-29 03:17:14 coletor de resultados do Artigo 2: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 resultados_artigo2.py
+recovery: ok
+c2: ok
+c1: ok
+hierarchical: ok
+design: ok
+evaporation: ok
+256 values -> resultados_artigo2.json
+
+===== 2026-10-29 03:17:15 manuscrito do Artigo 2: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 construir_manuscrito.py
+equations 9, figures 6, tables 3, references 42, ~8046 words
+abstract: 248 words
+
+===== 2026-10-29 03:17:17 PDFs (Word): powershell -NoProfile -ExecutionPolicy Bypass -File docx_para_pdf.ps1 C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\manuscrito\ARTIGO1_manuscrito_AWR.docx C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\manuscrito\ARTIGO1_material_suplementar.docx C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_2_INFERENCIA_ESTOCASTICA\manuscrito\ARTIGO2_manuscrito_JHydrol.docx
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\manuscrito\ARTIGO1_manuscrito_AWR.pdf (37 pages)
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\manuscrito\ARTIGO1_material_suplementar.pdf (13 pages)
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_2_INFERENCIA_ESTOCASTICA\manuscrito\ARTIGO2_manuscrito_JHydrol.pdf (28 pages)
+
+===== 2026-10-29 03:17:34 pacotes de submissão: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 pacote_submissao.py 1 2
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\submissao\pacote\ARTIGO1_manuscrito_AWR.pdf (37 pages)
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_1_MODELO_FISICO_ACOPLADO\submissao\pacote\ARTIGO1_material_suplementar.pdf (13 pages)
+  highlight  77 chars: Bayesian-calibrated heat–mass model of a lamp-heated pan with floating covers
+  highlight  76 chars: Lamps delivered 1.48 times the pyranometer index, half of it in the top 2 mm
+  highlight  79 chars: Plates over 74–77 % of the pan suppressed 0.63–0.72 of evaporation in lamp runs
+  highlight  85 chars: Vapour escaped through gaps, where boundary layers restart, and from under the plates
+  highlight  84 chars: Shading dominates suppression; recessed gaps and closed undersides are design levers
+package 1: ['ARTIGO1_manuscrito_AWR.docx', 'ARTIGO1_manuscrito_AWR.pdf', 'ARTIGO1_material_suplementar.docx', 'ARTIGO1_material_suplementar.pdf', 'Figure_01.pdf', 'Figure_01.png', 'Figure_02.pdf', 'Figure_02.png', 'Figure_03.pdf', 'Figure_03.png', 'Figure_04.pdf', 'Figure_04.png', 'Figure_05.pdf', 'Figure_05.png', 'Figure_06.pdf', 'Figure_06.png', 'Figure_07.pdf', 'Figure_07.png', 'Figure_08.pdf', 'Figure_08.png', 'Figure_09.pdf', 'Figure_09.png', 'Figure_S1.pdf', 'Figure_S1.png', 'Figure_S2.pdf', 'Figure_S2.png', 'Figure_S3.pdf', 'Figure_S3.png', 'Figure_S4.pdf', 'Figure_S4.png', 'Figure_S5.pdf', 'Figure_S5.png', 'carta_apresentacao.docx', 'highlights.docx']
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\ARTIGO_2_INFERENCIA_ESTOCASTICA\submissao\pacote\ARTIGO2_manuscrito_JHydrol.pdf (28 pages)
+  highlight  84 chars: Kalman filter separates pan evaporation from sensor gain, drift and thermal response
+  highlight  62 chars: Low-cost level transducer overstated evaporation by about 30 %
+  highlight  68 chars: Mixed free and forced convection best predicted held-out evaporation
+  highlight  75 chars: Plates on 3/4 of the pan cut evaporation ~60 % at equal surface temperature
+  highlight  71 chars: Bayesian design: next cover runs should include high coverage (φ ≈ 0.9)
+package 2: ['ARTIGO2_manuscrito_JHydrol.docx', 'ARTIGO2_manuscrito_JHydrol.pdf', 'Figure_01.pdf', 'Figure_01.png', 'Figure_02.pdf', 'Figure_02.png', 'Figure_03.pdf', 'Figure_03.png', 'Figure_04.pdf', 'Figure_04.png', 'Figure_05.pdf', 'Figure_05.png', 'Figure_06.pdf', 'Figure_06.png', 'carta_apresentacao.docx', 'highlights.docx']
+
+===== 2026-10-29 03:17:56 pasta do depósito GitHub/Zenodo: C:\Users\jeanf\AppData\Local\Python\pythoncore-3.14-64\python.exe -X utf8 preparar_deposito.py
+C:\Users\jeanf\Downloads\DOUTORADO\Artigos produzidos\08_MODELAGEM_TANQUE_MAISSER\DEPOSITO_GITHUB_ZENODO\maisser-pan-models: 489 files, 157 MB; DOI not yet known

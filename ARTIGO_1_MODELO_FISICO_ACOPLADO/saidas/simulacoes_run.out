@@ -1,0 +1,14 @@
+mapa ...
+  mapa I=300.0 done
+  mapa I=520.0 done
+  mapa I=820.0 done
+  mapa I=1000.0 done
+mapa done in 20 s
+shapley ...
+  shapley 20/60
+  shapley 40/60
+  shapley 60/60
+shapley done in 22 s
+sobol ...
+  sobol 9216 runs in 187 s
+sobol done in 187 s

@@ -1,0 +1,28 @@
+C1: 2437 steps, 14 segments, QDY obs 2403, micrometer obs 42; driver livre_forcada_potencia
+  s_U=0.5: ll=4239.75 ll_prof=4335.10 g_a=0.955 phi=0.186 s_eta=0.1984 s_a=0.017 s_mic=0.328
+  s_U=0.75: ll=4242.34 ll_prof=4340.16 g_a=0.957 phi=0.166 s_eta=0.2005 s_a=0.016 s_mic=0.326
+  s_U=1.0: ll=4243.42 ll_prof=4343.06 g_a=0.959 phi=0.155 s_eta=0.2015 s_a=0.016 s_mic=0.325
+  s_U=1.25: ll=4243.83 ll_prof=4344.93 g_a=0.961 phi=0.148 s_eta=0.2020 s_a=0.016 s_mic=0.324
+  s_U=1.5: ll=4243.86 ll_prof=4346.18 g_a=0.962 phi=0.145 s_eta=0.2021 s_a=0.016 s_mic=0.322
+  s_U=2.0: ll=4243.21 ll_prof=4347.50 g_a=0.965 phi=0.142 s_eta=0.2016 s_a=0.016 s_mic=0.320
+  s_U=2.5: ll=4241.97 ll_prof=4347.82 g_a=0.968 phi=0.144 s_eta=0.2007 s_a=0.016 s_mic=0.318
+  s_U=3.0: ll=4240.35 ll_prof=4347.49 g_a=0.971 phi=0.149 s_eta=0.1994 s_a=0.016 s_mic=0.317
+  s_U=4.0: ll=4236.50 ll_prof=4345.70 g_a=0.977 phi=0.161 s_eta=0.1965 s_a=0.016 s_mic=0.314
+best s_U 1.5; profile weights [0.0, 0.002, 0.045, 0.223, 0.41, 0.266, 0.05, 0.005, 0.0]
+kappa (dark-period uncovered) = 1.403 +- 0.100; QDY gain 0.962; c_a -0.148 mm/K
+         grupo  kappa  kappa_se  referencia  S_direct  S_mean   S_sd   S_lo   S_hi  S_pooled  S_pooled_lo  S_pooled_hi  S_marg  S_marg_lo  S_marg_hi
+0    uncovered  1.403     0.100                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN     NaN        NaN        NaN
+1   unc_strong  0.935     0.037                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN     NaN        NaN        NaN
+2     unc_weak  1.227     0.096                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN     NaN        NaN        NaN
+3          W02  0.351     0.183    unc_weak     0.713   0.712  0.152  0.410  1.008     0.750        0.480        1.007   0.716      0.421      1.008
+4          W05  0.484     0.056  unc_strong     0.482   0.482  0.060  0.365  0.598     0.655        0.546        0.746   0.483      0.366      0.596
+5          W07  0.412     0.032  unc_strong     0.560   0.559  0.037  0.485  0.629     0.706        0.637        0.764   0.559      0.487      0.631
+6          W08  0.247     0.032  unc_strong     0.736   0.736  0.033  0.671  0.799     0.824        0.764        0.875   0.734      0.670      0.799
+7          W09  0.362     0.042  unc_strong     0.613   0.613  0.045  0.524  0.700     0.742        0.663        0.810   0.614      0.527      0.702
+8          W10  0.326     0.052  unc_strong     0.652   0.651  0.057  0.538  0.761     0.767        0.680        0.844   0.652      0.541      0.766
+9          W11  0.346     0.036  unc_strong     0.630   0.630  0.039  0.552  0.706     0.753        0.683        0.813   0.630      0.551      0.707
+10         W12  0.491     0.062  unc_strong     0.476   0.475  0.062  0.352  0.599     0.650        0.528        0.753   0.463      0.218      0.624
+11         W13  0.508     0.100  unc_strong     0.456   0.456  0.106  0.250  0.664     0.637        0.470        0.787   0.443      0.134      0.677
+12         W14  0.391     0.072  unc_strong     0.583   0.582  0.075  0.432  0.728     0.722        0.599        0.828   0.572      0.334      0.736
+13         W15  0.366     0.139  unc_strong     0.610   0.608  0.148  0.315  0.898     0.740        0.527        0.934   0.599      0.248      0.891
+14   cov_other  0.372     0.040  unc_strong     0.602   0.601  0.048  0.504  0.693     0.735        0.668        0.793   0.595      0.465      0.705

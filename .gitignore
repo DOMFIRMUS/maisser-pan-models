@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+_comum/dados_processados/*.pkl
+_tmp_*
+*.lock
+~$*
+Thumbs.db
+desktop.ini
+.DS_Store

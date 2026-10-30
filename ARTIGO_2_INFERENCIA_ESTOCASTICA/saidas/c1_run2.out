@@ -1,0 +1,21 @@
+C1: 2437 steps, 14 segments, QDY obs 2403, micrometer obs 45; driver livre_forcada_potencia
+  s_U=0.5: ll=4233.90 g_a=0.990 phi=-0.014 s_eta=0.2323 s_a=0.008 s_mic=0.354
+  s_U=0.75: ll=4237.06 g_a=0.991 phi=0.161 s_eta=0.1946 s_a=0.016 s_mic=0.349
+  s_U=1.0: ll=4238.19 g_a=0.992 phi=0.149 s_eta=0.1959 s_a=0.016 s_mic=0.347
+kappa_C1 = 1.341 +- 0.098; QDY gain 0.992; c_a -0.140 mm/K
+         grupo  kappa  kappa_se  referencia  S_direct  S_mean   S_sd   S_lo   S_hi  S_pooled  S_pooled_lo  S_pooled_hi
+0    uncovered  1.341     0.098                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN
+1   unc_strong  1.154     0.045                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN
+2     unc_weak  1.627     0.127                   NaN     NaN    NaN    NaN    NaN       NaN          NaN          NaN
+3          W02  0.491     0.248    unc_weak     0.698   0.696  0.155  0.386  0.999     0.635        0.251        0.999
+4          W05  0.619     0.071  unc_strong     0.464   0.464  0.061  0.342  0.581     0.539        0.393        0.659
+5          W07  0.508     0.039  unc_strong     0.560   0.560  0.037  0.486  0.630     0.622        0.529        0.697
+6          W08  0.310     0.039  unc_strong     0.731   0.731  0.033  0.667  0.796     0.769        0.688        0.836
+7          W09  0.458     0.053  unc_strong     0.603   0.603  0.046  0.510  0.691     0.659        0.551        0.749
+8          W10  0.411     0.065  unc_strong     0.644   0.643  0.058  0.528  0.753     0.694        0.577        0.792
+9          W11  0.435     0.045  unc_strong     0.623   0.622  0.040  0.542  0.699     0.675        0.582        0.754
+10         W12  0.487     0.061  unc_strong     0.578   0.578  0.049  0.481  0.676     0.637        0.510        0.743
+11         W13  0.502     0.098  unc_strong     0.563   0.564  0.083  0.403  0.728     0.625        0.453        0.777
+12         W14  0.385     0.070  unc_strong     0.666   0.666  0.060  0.549  0.783     0.713        0.587        0.821
+13         W15  0.362     0.135  unc_strong     0.687   0.686  0.117  0.457  0.918     0.730        0.514        0.932
+14   cov_other  0.371     0.041  unc_strong     0.678   0.678  0.040  0.597  0.755     0.723        0.652        0.786

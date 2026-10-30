@@ -1,0 +1,32 @@
+[03:12:36] segments: ['C2-S1', 'C2-S2', 'C2-S3', 'C2-S4', 'C2-S5', 'C2-S6', 'C2-S7']; obs rows 3270; params ['A_s', 'A_m', 'l_m', 'A_d', 'l_d', 'a_b', 'U_w', 'G_w', 'U_b', 'c_n', 'c_f', 'n_f', 'C_0', 'K_bg', 'N2_0', 'k_w', 'd_w', 'm_1', 'm_2']
+[03:12:36] warm start from previous mode; rho {'Tw_cs': 0.95, 'Tw_04': 0.95, 'Tw_12': 0.95, 'Tw_20': 0.95, 'level_a_qc': 0.95, 'level_b_qc': 0.95}
+[03:12:42] DE gen    0  best logpost -22652.07  median -28459.02
+[03:12:53] DE gen    5  best logpost -20792.76  median -24407.59
+[03:13:02] DE gen   10  best logpost -20450.56  median -22288.25
+[03:13:12] DE gen   15  best logpost -19721.29  median -20980.25
+[03:13:23] DE gen   20  best logpost -19629.39  median -20184.33
+[03:13:33] DE gen   25  best logpost -19342.03  median -19723.65
+[03:13:44] DE gen   30  best logpost -19230.03  median -19395.76
+[03:13:54] DE gen   35  best logpost -19104.41  median -19231.81
+[03:14:04] DE gen   40  best logpost -19087.03  median -19154.77
+[03:14:15] DE gen   45  best logpost -19046.81  median -19115.63
+[03:14:26] DE gen   50  best logpost -19046.81  median -19092.97
+[03:14:37] DE gen   55  best logpost -19025.03  median -19062.65
+[03:14:47] DE gen   60  best logpost -19002.07  median -19030.52
+[03:14:58] DE gen   65  best logpost -18964.44  median -18994.63
+[03:15:08] DE gen   70  best logpost -18929.18  median -18962.83
+[03:15:19] DE gen   75  best logpost -18921.42  median -18942.05
+[03:15:29] DE gen   80  best logpost -18915.23  median -18927.70
+[03:15:39] DE gen   85  best logpost -18907.20  median -18918.04
+[03:15:49] DE gen   90  best logpost -18906.13  median -18911.41
+[03:16:00] DE gen   95  best logpost -18898.60  median -18907.65
+[03:16:10] DE gen  100  best logpost -18888.29  median -18901.60
+[03:16:21] DE gen  105  best logpost -18888.29  median -18896.67
+[03:16:33] DE gen  110  best logpost -18881.66  median -18891.43
+[03:16:44] DE gen  115  best logpost -18870.72  median -18882.91
+[03:16:56] DE gen  120  best logpost -18863.06  median -18875.66
+[03:17:08] DE gen  125  best logpost -18851.70  median -18866.31
+[03:17:19] DE gen  130  best logpost -18839.21  median -18854.84
+[03:17:32] DE gen  135  best logpost -18828.00  median -18841.76
+[03:17:41] DE gen  139  best logpost -18813.79  median -18829.90
+[03:17:43] residual AR(1) at mode: {'Tw_cs': 0.9860753231795713, 'Tw_04': 0.993203147514089, 'Tw_12': 0.984093252439994, 'Tw_20': 0.992563322308955, 'level_a_qc': 0.9814417267493675, 'level_b_qc': 0.9917267759304493}

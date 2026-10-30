@@ -1,0 +1,12 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Jean Firmino Cardoso and the co-authors listed in CITATION.cff — Departamento
+de Energia Nuclear, Universidade Federal de Pernambuco.
+
+Applies to the data (data/), the model outputs (*/saidas/) and the documentation of this repository.
+The raw records of campaign C1 in data/raw/C1 are copied unchanged from doi:10.5281/zenodo.22844940
+(Firmino Cardoso et al., 2026, CC BY 4.0).
+
+You are free to share and adapt this material for any purpose, provided that you give appropriate
+credit, provide a link to the licence and indicate if changes were made.
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode

@@ -1,0 +1,23 @@
+[03:22:23] C1 segments ['C1-S01', 'C1-S02', 'C1-S03', 'C1-S04', 'C1-S05', 'C1-S06', 'C1-S07', 'C1-S08', 'C1-S09', 'C1-S10', 'C1-S11', 'C1-S12', 'C1-S13', 'C1-S14']; obs 2405; base from ../saidas/calibracao/map_v3.json
+[03:22:29] DE gen    0  best logpost -8932.00  median -11521.17
+[03:22:36] DE gen    5  best logpost -8450.13  median -9375.74
+[03:22:42] DE gen   10  best logpost -8087.98  median -8536.37
+[03:22:49] DE gen   15  best logpost -7870.28  median -8150.81
+[03:22:56] DE gen   20  best logpost -7495.56  median -7677.87
+[03:23:02] DE gen   25  best logpost -7316.40  median -7442.32
+[03:23:08] DE gen   30  best logpost -7236.46  median -7290.15
+[03:23:15] DE gen   35  best logpost -7183.31  median -7219.59
+[03:23:22] DE gen   40  best logpost -7168.80  median -7181.74
+[03:23:28] DE gen   45  best logpost -7154.55  median -7163.18
+[03:23:35] DE gen   50  best logpost -7150.13  median -7153.31
+[03:23:42] DE gen   55  best logpost -7142.89  median -7145.82
+[03:23:49] DE gen   60  best logpost -7138.98  median -7140.49
+[03:23:55] DE gen   65  best logpost -7135.89  median -7137.63
+[03:24:02] DE gen   70  best logpost -7133.28  median -7134.27
+[03:24:09] DE gen   75  best logpost -7132.51  median -7133.21
+[03:24:16] DE gen   80  best logpost -7131.54  median -7132.21
+[03:24:22] DE gen   85  best logpost -7130.90  median -7131.28
+[03:24:29] DE gen   90  best logpost -7130.33  median -7130.56
+[03:24:36] DE gen   95  best logpost -7129.97  median -7130.11
+[03:24:42] DE gen   99  best logpost -7129.70  median -7129.85
+[03:24:43] rho at mode {'Tw_p1': 0.995, 'Tw_p2': 0.995, 'Tw_p3': 0.995, 'level_a_qc': 0.9884236382576476}
